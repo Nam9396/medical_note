@@ -141,3 +141,15 @@ margin-right: auto;
 .md-search__icon {
   color: #64748b !important;
 }
+
+/* ── Mobile padding ── */
+@media screen and (max-width: 768px) {
+  .md-content__inner {
+    padding: 0 1.2rem !important;
+  }
+  
+  .md-nav__title,
+  .md-nav__item {
+    padding-left: 0.8rem;
+  }
+}
