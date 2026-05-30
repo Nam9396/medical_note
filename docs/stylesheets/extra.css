@@ -1,0 +1,143 @@
+/* @import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&family=JetBrains+Mono&display=swap'); */
+
+:root {
+  --md-primary-fg-color: #0ea5e9;
+  --md-primary-fg-color--light: #38bdf8;
+  --md-primary-fg-color--dark: #0284c7;
+  --md-accent-fg-color: #0ea5e9;
+}
+
+/* ── Body ── */
+body {
+  background-color: #ffffff;
+}
+
+.md-content p, .md-content li {
+  color: oklch(37.2% 0.044 257.287);
+  line-height: 1.75;
+  font-size: 0.75rem;
+}
+
+/* ── Headings ── */
+
+h1 { color: oklch(37.3% 0.034 259.733) !important; font-weight: 700 !important; }
+h2 { color: oklch(37.3% 0.034 259.733)  !important; font-weight: 600 !important; }
+h3 { color: oklch(37.3% 0.034 259.733)  !important; font-weight: 500 !important; }
+
+
+/* ── Links ── */
+
+a:hover {
+  color: #0284c7;
+}
+
+/* ── Sidebar nav hover ── */
+
+.md-nav {
+  background-color: #ffffff;
+  color: oklch(70.7% 0.022 261.325)
+}
+
+.md-nav__link {
+  border-radius: 6px;
+  padding: 4px 8px;
+  transition: background-color 0.15s ease, color 0.15s ease;
+}
+
+.md-nav__link:hover {
+  background-color: #f1f5f9;
+  color: #0f172a;
+}
+
+.md-nav__link--active {
+  background-color: #e0f2fe;
+  color: #0284c7 !important;
+  font-weight: 600;
+}
+
+/* ── Content width ── */
+.md-content__inner {
+  max-width: 760px;
+  margin: 0 auto;
+}
+
+/* ── Admonition ── */
+.md-typeset .admonition {
+  border-radius: 8px;
+  border-left-width: 3px;
+}
+
+/* ── Header trắng ── */
+.md-header {
+  background-color: #ffffff;
+  border-bottom: 1px solid #e2e8f0;
+  box-shadow: none;
+  color: #0f172a;
+}
+
+.md-header__title {
+  color: #0f172a;
+}
+
+/* ── Tab hover ── */
+
+.md-tabs {
+  background-color: #ffffff;
+  color: #475569;
+  font-weight: 600;
+}
+
+.md-tabs__link {
+  border-radius: 6px;
+  padding: 4px 8px;
+  transition: background-color 0.15s ease, color 0.15s ease;
+}
+
+.md-tabs__link:hover {
+  background-color: #f1f5f9;
+  color: #0f172a;
+}
+
+.md-tabs__link--active {
+  background-color: #e0f2fe;
+  color: #0284c7 !important;
+  font-weight: 600;
+}
+
+/* ── Image ── */
+
+img{
+max-width:700px;
+height: auto;
+display: block;
+margin-left: auto;
+margin-right: auto;
+}
+
+/* ── Search box ── */
+
+/* ── Search box ── */
+.md-search__form {
+  background-color: #ffff !important;
+  border: 1.5px solid #cbd5e1 !important;
+  border-radius: 8px !important;
+  box-shadow: none !important;
+}
+
+.md-search__form:hover,
+.md-search__form:focus-within {
+  border-color: #0ea5e9 !important;
+}
+
+.md-search__input {
+  background-color: transparent !important;
+  color: #0f172a !important;
+}
+
+.md-search__input::placeholder {
+  color: #94a3b8 !important;
+}
+
+.md-search__icon {
+  color: #64748b !important;
+}

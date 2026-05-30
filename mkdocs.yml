@@ -1,0 +1,32 @@
+site_name: Ghi chú lâm sàng Nhi khoa
+
+theme:
+  name: material
+  language: vi
+  features:
+    - navigation.tabs
+    - navigation.tabs.sticky
+    - navigation.top
+    - toc.follow
+    - search.suggest
+  palette:
+    - scheme: default
+      primary: custom
+      accent: custom
+
+plugins:
+  - search
+  - awesome-pages
+
+markdown_extensions:
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences
+  - toc:
+      toc_depth: 3
+
+extra_css:
+  - stylesheets/extra.css
+
+
+  
