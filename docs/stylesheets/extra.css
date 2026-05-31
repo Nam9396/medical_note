@@ -153,3 +153,18 @@ margin-right: auto;
     padding-left: 0.0rem;
   }
 }
+
+/* ── Bullet bậc 1: chấm tròn đen (giữ nguyên) ── */
+.md-typeset ul > li {
+  list-style-type: disc;
+}
+
+/* ── Bullet bậc 2: gạch ngang ── */
+.md-typeset ul > li > ul > li {
+  list-style-type: "–  ";
+}
+
+/* ── Bullet bậc 3: chấm rỗng ── */
+.md-typeset ul > li > ul > li > ul > li {
+  list-style-type: circle;
+}

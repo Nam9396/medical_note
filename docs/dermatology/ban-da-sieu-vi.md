@@ -636,25 +636,19 @@ Cần lưu ý rằng khác với Sởi hay Thủy đậu, phát ban không phả
 - **Triệu chứng khác:**
     * *Hạch:* **Sưng đa hạch** (lymphadenopathy) ở cổ, nách và bẹn là triệu chứng đi kèm rất phổ biến.
     * *Mắt/Miệng:* **Không có sang thương** niêm mạc miệng và mắt (Điểm để phân biệt với Sởi và Tay Chân Miệng).
----
 - **Xem xét sang thương da trong bệnh cảnh chung**
-    * **Nguyên nhân (Etiology):** GCS không phải do một loại virus duy nhất gây ra, mà là một phản ứng miễn dịch với nhiều tác nhân:
+    * **Nguyên nhân (Etiology):** GCS không phải do một loại virus duy nhất gây ra, mà là một phản ứng miễn dịch với nhiều tác nhân
     * **Virus Viêm gan B (HBV):** Từng là nguyên nhân chính toàn cầu (đặc biệt là thể viêm gan B không vàng da).
     * **Epstein-Barr Virus (EBV):** Hiện là nguyên nhân phổ biến nhất tại các nước phát triển.
     * **Các tác nhân khác:** Cytomegalovirus (CMV), Coxsackievirus, Adenovirus, Parvovirus B19, virus Cúm (Influenza), và đôi khi là sau khi tiêm chủng.
-
-
 * **Triệu chứng ngoài da:** Thường rất nghèo nàn. Trẻ có thể sốt nhẹ hoặc có triệu chứng hô hấp trên trước đó vài ngày, nhưng khi ban mọc, trẻ thường vẫn chơi ngoan và ăn uống bình thường.
 * **Tương quan thời gian:** Ban xuất hiện sau giai đoạn nhiễm trùng cấp tính (phản ứng muộn).
----
 - **Diễn tiến bệnh**
     * **Thời gian tồn tại:** **Kéo dài rất lâu**, trung bình từ **2 đến 8 tuần** (có trường hợp lên đến 4 tháng). Đây là đặc điểm khiến phụ huynh lo lắng nhất vì ban không bay nhanh như các bệnh virus khác.
     * **Biến chứng kèm theo:**
         * Bản thân hội chứng này là lành tính và tự giới hạn, không để lại sẹo.
         * Biến chứng phụ thuộc vào tác nhân gây bệnh (ví dụ: viêm gan mãn nếu nguyên nhân là HBV).
-
-
-
+        
 > **Quy tắc 4 chữ M:** **M**ặt - **M**ông - **M**ặt duỗi chi - **M**ình (chừa mình).
 
 **Điểm lưu ý lâm sàng:** Vì GCS thường bị nhầm với ghẻ, sẩn ngứa hoặc mề đay, chìa khóa chẩn đoán nằm ở tính **đối xứng tuyệt đối**, vị trí **ngoại vi** (tay chân mặt) và thời gian tồn tại **hàng tháng trời**.
