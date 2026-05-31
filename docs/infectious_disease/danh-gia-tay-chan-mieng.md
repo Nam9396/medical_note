@@ -1,8 +1,9 @@
-## Đánh giá phân độ bệnh tay chân miệng
+# Đánh giá phân độ bệnh tay chân miệng
 
-### Các bước đánh giá 
+## Các bước đánh giá 
 
 ***Hãy luôn làm 5 bước theo thứ tự***
+
 - Nhìn tri giác
 - Hỏi về sốt và giật mình
 - Ngắm kiểu thở
@@ -10,11 +11,13 @@
 - Khám thần kinh
 
 1.	Hãy nhìn ngắm bệnh nhân trước
+    
     + Nếu bệnh nhân trông không khoẻ, kích thích, quấy khóc, khó ngủ: ít nhất là độ 2a
     + Nếu bệnh nhân ngủ gà: 2b nhóm 1
     + Nếu bệnh nhân trông rất đừ, không tỉnh táo: độ 3, 4 
 
 2.	Hỏi về sốt và giật mình
+    
     + Sốt > 39 độ C: độ 2a 
     + Sốt trên 2 ngày: độ 2a
     + Sốt cao liên tục khó hạ: độ 2b nhóm 2
@@ -22,10 +25,10 @@
     + Giật mình lúc khám: 2b nhóm 2
     + Giật mình liên tục: 2b nhóm 2 
 
-3.	Ngắm kiểu thở 
-    + Cơn ngưng thở, thở bụng, thở nông, rút lõm ngực, khò khè, thở rít hít vào hoặc đơn giản chỉ là trông bất thường: độ 3
+3.	Ngắm kiểu thở: Cơn ngưng thở, thở bụng, thở nông, rút lõm ngực, khò khè, thở rít hít vào hoặc đơn giản chỉ là trông bất thường: độ 3
 
 4.	Xem thông số monitor 
+    
     + Mạch > 130, 150, 170: độ 2b1, 2b2, 3
     + Tăng huyết áp lớn hơn 110: độ 3
 
@@ -34,12 +37,14 @@
 7.	Sốc tuần hoàn, phải đặt nội khí quản: độ 4 
 
 
-### Phân độ tay chân miệng 
+## Phân độ tay chân miệng 
+
 ***Ở mỗi độ chỉ cần 1 trong số các dấu hiệu được nêu***
 
 **Độ 1:** chỉ có loét miệng hoặc tổn thương da 
 
 **Độ 2a:**
+
 -	Sốt trên 2 ngày 
 -	Sốt trên 39 độ C
 -	Thay đổi trạng thái tinh thần: quấy khóc vô cớ, lừ đừ, khó 
@@ -48,12 +53,14 @@ ngủ (Nhìn chung trông không khoẻ)
 -	Bệnh sử giật mình dưới 2 lần trong 30 phút 
 
 **Độ 2b nhóm 1:** 
+
 -	Giật mình lúc khám 
 -	Bệnh sử có giật mình trên trên 2 lần trong 30 phút 
 -	Ngủ gà 
 -	Mạch nhanh trên 130 lần/phút 
 
 **Độ 2b nhóm 2:** 
+
 -	Sốt cao liên tục trên 39 độ C không đáp ứng với thuốc hạ sốt 
 -	Mạch nhanh trên 150 lần/phút (nằm yên, không sốt)
 -	Có triệu chứng thần kinh: 
@@ -64,6 +71,7 @@ ngủ (Nhìn chung trông không khoẻ)
     + Nuốt sặc, thay đổi giọng nói 
 
 **Độ 3:** 
+
 -	Mạch nhanh > 170 lần/phút (khi trẻ nằm yên, không sốt).
 -	Một số trường hợp có thể mch chậm (dấu hiệu rất nặng).
 -	Vã mồ hôi, lạnh toàn thân hoặc khu trú.
@@ -76,12 +84,14 @@ ngủ (Nhìn chung trông không khoẻ)
 -	Tăng trương lực cơ.
 
 **Độ 4:** 
+
 -	Sốc
 -	Phù phổi cấp.
 -	Tím tái,  SpO2 < 92%.
 -	Ngưng thở, thở nấc.
 
-### Phải làm gì 
+## Phải làm gì 
+
 - Khám là độ 2b nhóm 2 vì sốt liên tục khó hạ, nhưng khám chi thấy lạnh, khó phân biệt với co mạch do sốt. Khi đó hãy kết luận 2b nhóm 2 + theo dõi dấu hiệu chuyển độ 
 - Nếu khám có: 
     + Tri giác: kích thích, quấy khóc, khó ngủ, lừ đừ (2a), ngủ gà (2b1), lơ mơ (3, 4)
@@ -93,7 +103,8 @@ ngủ (Nhìn chung trông không khoẻ)
 - Thì hãy cho ngay phenobarbital truyền + IVIG + Đo huyết áp xâm lấn + làm XN chuyển độ + tính liều an thần, chống sốc 
 - Mắc monitor theo dõi đa thông số 
 
-### Danh mục xét nghiệm cần làm cho bệnh tay chân miệng nặng
+## Danh mục xét nghiệm cần làm cho bệnh tay chân miệng nặng
+
 - Tổng phân tích tế bào máu 
 - CRP 
 - Điện giải đồ, Calci máu 
@@ -105,7 +116,8 @@ ngủ (Nhìn chung trông không khoẻ)
 - Siêu âm tim 
 - CKMB, troponin 
 
-### Lưu ý nhỏ
+## Lưu ý nhỏ
+
 - Nhiều bệnh nhân tay chân miệng sốt cao liên tục trong 5 ngày đầu, khó phân biệt với nhiễm trùng huyết. Thực hành lâm sàng thường cho kháng sinh, procalcitonin và cấy máu
 - Việc cho IVIg chủ yếu dựa vào: tần suất giật mình, tổng trạng đừ, kiểu thở, nhịp tim và huyết áp
 
