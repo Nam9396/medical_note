@@ -1,7 +1,8 @@
 
-## Phân tích dịch não tuỷ
+# Phân tích dịch não tuỷ
 
-### Các giá trị bình thường của CSF
+## Các giá trị bình thường của CSF
+
 - Màu sắc: trong 
 - Tế bào:
     + Trong CSF có tế bào không và chức năng của chúng là gì ?
@@ -12,10 +13,11 @@
     + CSF:serum glucose ratio: 0.44 - 0.90 mg/dL
 - Protein: < 50 mg/dL
 - Lactate: 11.7 - 21.6 mg per dL (1.3 - 2.4 mmol per L). Giá trị binh thường thay đổi tuỳ theo điều chỉnh của phòng xét nghiệm
-- Nhuộm gram âm tínhq
+- Nhuộm gram âm tính
 
-### Các giá trị bình thường của CSF ở trẻ sơ sinh 
-- - Màu sắc: trong 
+## Các giá trị bình thường của CSF ở trẻ sơ sinh 
+
+- Màu sắc: trong 
 - Tế bào:
     + Trong CSF có tế bào không và chức năng của chúng là gì ?
     + Số lượng bình thường: < 20 tế bào/uL 
@@ -24,19 +26,16 @@
     + Nồng độ bình thường: ...
     + CSF:serum glucose ratio: 0.42 - 1.10 mg/dL
 - Protein: < 150 mg/dL
-- Lactate: 8.1 - 22.5 mg/dL
-(0.9 - 2.5 mmol/L). Giá trị bình thường thay đổi tuỳ theo điều chỉnh của phòng xét nghiệm
+- Lactate: 8.1 - 22.5 mg/dL (0.9 - 2.5 mmol/L). Giá trị bình thường thay đổi tuỳ theo điều chỉnh của phòng xét nghiệm
 - Nhuộm gram âm tính
 
-### Áp lực mở của dịch não tuỷ 
+## Áp lực mở của dịch não tuỷ 
 - Đo bằng cách gắn vào kim chọc dò (ngay sau chọc dò) một thiết bị đo, quan sát mức dịch não tuỷ dâng lên ở mức bao nhiêu cmH2O
 - Giá trị bình thường: 
-+ Adults and children 8 years and
-older: 60 to 250 mm H2O
-+ Children younger than 8 years:
-10 to 100 mm H2O
+    + Adults and children 8 years and older: 60 to 250 mm H2O
+    + Children younger than 8 years: 10 to 100 mm H2O
 
-### Các xét nghiệm vi sinh dịch não tuỷ 
+## Các xét nghiệm vi sinh dịch não tuỷ 
 
 **Cấy CSF**
 
@@ -44,12 +43,14 @@ older: 60 to 250 mm H2O
 - Tỉ lệ dương tính của cấy CSF sau khi đã điều trị kháng sinh là ...
 
 **Ngưng kết Latex**
+
 - Xét nghiệm có độ nhạy thay đổi tuỳ theo tác nhân 
 - Phức hợp kháng nguyên - kháng thể giúp phát hiện các tác nhân: ...
 - Hiện nay, the European Society of Clinical Microbiology and Infectious Diseases không còn khuyến cáo xét nghiện này 
 - Xét nghiệm này không hữu ích hơn nhuộm Gram CSF
 
 **Nhuộm gram CSF**
+
 - Khuyến cáo thực hiện cho tất cả bệnh nhân nghi ngờ nhiễm trùng thần kinh trung ương 
 - Tại sao trên lâm sàng không thấy làm (?)
 - Xét nghiệm này bao lâu thì có kết quả (?)
@@ -63,15 +64,16 @@ older: 60 to 250 mm H2O
 - Nhuộm Gram CSF âm tính không loại trừ nhiễm trùng thần kinh trung ương
 
 **PCR đa tác nhân CSF**
+
 - Độ bao phủ của xét nghiệm này ?
 - Nó dùng kit test khác với PCR máu hay dùng chung 
 - Độ nhạy độ đặc hiệu 
 - Những nguyên nhân nào gây âm tính giả: ...
 
-### Chỉ định xét nghiệm vi sinh đặc hiệu theo tác nhân 
+## Chỉ định xét nghiệm vi sinh đặc hiệu theo tác nhân 
 
 
-### Đặc điểm CSF của viêm màng não do vi khuẩn 
+## Đặc điểm CSF của viêm màng não do vi khuẩn 
 
 - **Màu sắc:** ban đầu có thể trong, hoặc đục mờ. Dịch não tuỷ sau ly tâm có thể có màu đục mờ, xanh hoặc mủ
 
@@ -79,8 +81,7 @@ older: 60 to 250 mm H2O
     + Thường lớn hơn 1000 tế bào/uL
     + Có 6% trường hợp CSF cấy dương vi khuẩn không ghi nhận tăng tế bào trong CSF
     + Ưu thế NEU. Tuy nhiên, CSF ưu thế lymphocyte có thể chiếm đến 10% bệnh nhân
-    + Trong trường hợp chạm mạch, công thức tính bạch cầu hiệu chỉnh là: WBCs (predicted) = CSF RBCs ×
-(blood WBCs/blood RBCs)
+    + Trong trường hợp chạm mạch, công thức tính bạch cầu hiệu chỉnh là: WBCs (predicted) = CSF RBCs × (blood WBCs/blood RBCs)
 
 - **Glucose:** 
     + < 40 mg per dL (2.22 mmol per L) in 50% to 60% of cases
@@ -106,12 +107,14 @@ following CSF measurements: glucose less than 34 mg per dL (1.89 mmol per L), pr
 per dL (2,200 mg per L), WBCs greater than 2,000 per µL, or neutrophils greater than 1,180 per µL
 
 
-### Ảnh hưởng của điều trị kháng sinh đến kết quả CSF
+## Ảnh hưởng của điều trị kháng sinh đến kết quả CSF
+
 - Điều trị kháng sinh làm giảm khả năng cấy dương đi 10 - 20% 
 - ...
 
 
-### Viêm màng não do virus 
+## Viêm màng não do virus 
+
 - **Màu sắc:** thường trong không màu
 
 - **Tế bào:**
@@ -134,14 +137,16 @@ per dL (2,200 mg per L), WBCs greater than 2,000 per µL, or neutrophils greater
 
 - **Các xét nghiệm vi sinh:** Ngoài cấy, nhuộm Gram, còn thực hiện PCR (đơn/đa tác nhân) hoặc định lượng IgM
 
-### Nhiễm trùng thần kinh trung ương ở bệnh nhân suy giảm miễn dịch 
+## Nhiễm trùng thần kinh trung ương ở bệnh nhân suy giảm miễn dịch 
+
 - Bệnh nhân có nguy cao mắc các tác nhân gây nhiễm trùng cơ hội như:...
 - Tăng WBC và protein CSF ít gặp hơn đáng kể
 - Nhuộm Gram âm tính trong 66% trường hợp 
 - Bệnh nhân trong giai đoạn sớm/cấp của nhiễm HIV có thể gặp acute retroviral syndrome, với đặc điểm CSF phù hợp với viêm màng não vô trùng (Tăng lymphocyte nhẹ, protein tăng nhẹ/bình thường, glucose giảm nhẹ/bình thường)
 
 
-### Viêm màng não do nấm 
+## Viêm màng não do nấm 
+
 - **Màu sắc:** thường trong không màu
 
 - **Tế bào:**
@@ -172,7 +177,8 @@ per dL (2,200 mg per L), WBCs greater than 2,000 per µL, or neutrophils greater
     + Đối với tác nhân cryptococcal, cần thực hiện CSF cryptococcal antigen test, India ink capsule
 stain, latex agglutination
 
-### Viêm màng não do kí sinh trùng 
+## Viêm màng não do kí sinh trùng 
+
 - **Màu sắc:** thường trong không màu
 
 - **Tế bào:**
@@ -194,7 +200,8 @@ procyonis.
 ***- Các case nhiễm giun mạch ở khoa Nhiễm thường được chẩn đoán bằng xét nghiệm nào***
 
 
-### Viêm màng não do lao
+## Viêm màng não do lao
+
 - **Màu sắc:** thường trong không màu, khi protein tăng cao có thể khiến CSF có màu vàng chanh
 
 - **Tế bào:**
@@ -218,11 +225,11 @@ procyonis.
 - **Các xét nghiệm vi sinh:** 
     + Multiple cultures with acid-fast stain; 
     + PCR test (56% sensitive and 98% specific), 
-    + CSF adenosine deaminase (> 10 U per L [166.67
-nkat per L])
+    + CSF adenosine deaminase (> 10 U per L [166.67nkat per L])
 
 
-### Viêm màng não do giang mai 
+## Viêm màng não do giang mai 
+
 - **Màu sắc:** thường trong không màu
 
 - **Tế bào:**
@@ -245,7 +252,8 @@ nkat per L])
     + CSF fluorescent treponemal antibody absorption test (100% sensitive and 50% to 70% specific)
 
 
-### Xuất huyết dưới nhện
+## Xuất huyết dưới nhện
+
 - Tỷ lệ tử vong từ 20 - 50% 
 - Triệu chứng thường gặp: đau đầu đột ngột dữ dội, nôn ói, sợ ánh sáng, cứng cổ, co giật và thay đổi tri giác 
 - Có ít nhất 50% bệnh nhân xuất huyết dưới nhện đã có các xuất huyết âm thầm, với triệu chứng không rõ ràng trong thời gian từ 2 - 3 tuần trước đó
@@ -278,7 +286,7 @@ nkat per L])
         * Có truường hợp nào: máu đông những vẫn là xuất huyết não và máu không đông nhưng là chạm mạch không 
 
 
-### Đặc điểm CSF trong hội chứng Guillain-Barré 
+## Đặc điểm CSF trong hội chứng Guillain-Barré 
 - **Màu sắc:** thường trong không màu
 
 - **Tế bào:**
@@ -298,7 +306,8 @@ nkat per L])
     + Xuất hiện oligoclonal bands là đặc điểm kinh điển của bệnh đa xơ cứng 
 
 
-### Đặc điểm CSF trong bệnh lý ác tính 
+## Đặc điểm CSF trong bệnh lý ác tính 
+
 - Triệu chứng lâm sàng giống viêm màng não: sốt, đau đầu, sợ ánh sáng, nôn ói, cổ cứng 
 - Đặc điểm CSF giống với viêm màng não do vi khuẩn: 
     + Giảm glucose
