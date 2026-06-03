@@ -14,7 +14,7 @@
 - Các biểu hiện khác: Áp xe tuyến tiền liệt, viêm khớp nhiễm khuẩn, áp xe não, viêm cân mạc hoại tử, áp xe gan/lách/da (trong thể lan tỏa).
 - Đặc điểm: Thể mãn tính (>2 tháng) dễ nhầm với lao phổi (gặp <10% số ca). Bệnh rất dễ tái phát nếu không điều trị kéo dài. Tỷ lệ tử vong dao động từ 6% đến 50%.
 
-## Dịch tễ học và đường lâu truyên f
+## Dịch tễ học và đường lây truyền
 
 **B. cepacia**
 
