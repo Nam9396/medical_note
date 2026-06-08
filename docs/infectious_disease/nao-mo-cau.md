@@ -1,6 +1,7 @@
-## Não mô cầu
+# Não mô cầu
 
-### Thông tin chung 
+## Thông tin chung 
+
 - Một trong những nguyên nhân hàng đầu gây viêm màng não ở trẻ em tại Mỹ, tử suất 13%
 - Biểu hiện đa dạng: sốt thoáng qua, nhiễm trùng huyết, não mô cầu tối cấp 
 - 3 hội chứng nhiễm trùng cấp tính do não mô cầu: 
@@ -15,14 +16,16 @@
     + Thu nhập gia đình thấp 
 
 
-### Mortality 
+## Mortality 
+
 - Tỉ lệ tử vong: 10 - 15%
 - Tử suất chung: 0.1/100,000
 - Tử suất cao nhất ở trẻ nhũ nhi: 0.95/100,000
 - Tử vong vào mùa đông cao hơn mùa hè
 
 
-### Diễn tiến lâm sàng
+## Diễn tiến lâm sàng
+
 - Bệnh trở nặng nhanh chóng trong 24 giờ
 - Thời gian từ lúc khởi bệnh đến lúc có triệu chứng nặng cần nhập viện:
     + Giảm dần theo tuổi 
@@ -31,7 +34,7 @@
 - Thời gian từ lúc khởi bệnh đến khi có triệu chứng đặc hiệu sepsis (chi lạnh, da xanh, đau chân): 8 giờ, trong khi thời gian đến lúc nhập viện là 20 giờ (!)
 
 
-### Biểu hiện lâm sàng 
+## Biểu hiện lâm sàng 
 
 - Là một bệnh cảnh trở nặng nhanh chóng mà không có triệu chứng đặc hiệu báo trước
 - Trên một bệnh nhân trước đó hoàn toàn khoẻ mạnh 
@@ -58,14 +61,14 @@
     + Da niêm xanh xao, nhợt nhạt 
 
 - **Ban da:**
-    + Xuất hiện bao lâu sau khi khởi bệnh: ... 
+    + Xuất hiện bao lâu sau khi khởi bệnh: theo kinh nghiệm, ban da có thể xuất hiện nhanh chóng trong 1 - 2 ngày đầu bệnh 
     + Ban đầu trong như thế nào: ban da không đặc hiệu
     + Hoặc ngay từ đầu đã là tử ban đặc hiệu 
     + Tiến triển từ ban da không đặc hiệu đến tử ban điển hình diễn ra trong vòng vài giờ       
 
 - **DIC and purpura fulminans:**
     + Xuất hiện ở khoảng 15 - 25% bệnh nhân nhiễm não mô cầu (meningococcemia).
-    + Cơ chế bệnh sinh: Do nội độc tố vi khuẩn gây tổn thương tế bào nội mô mạch máu, dẫn đến huyết khối lan tỏa và hoại tử mô.
+    + Cơ chế bệnh sinh: Do **nội độc tố** vi khuẩn gây tổn thương **tế bào nội mô mạch máu,** dẫn đến huyết khối lan tỏa và hoại tử mô.
     + Diễn tiến lâm sàng:
         - Đau tại da và đỏ da (erythema).
         - Xuất hiện phát ban xuất huyết (petechiae).
@@ -91,7 +94,8 @@
 > Nhiễm trùng não mô cầu thường vào mùa đông, trùng với thời điểm virus cúm bùng phát. Hơn nữa, trong vài giờ đầu, bệnh cảnh của nhiễm não mô cầu rất giống cúm nên nhiều bệnh nhân bị chẩn đoán lầm là mắc cúm 
 
 
-### Thách thức trong chẩn đoán 
+## Thách thức trong chẩn đoán 
+
 - Bệnh vẫn còn thường gặp (2 tháng gặp 4 ca)
 - Từ khởi bệnh đến bệnh nặng và tử vong chỉ diễn ra trong vòng 24 giờ 
 - Thậm chí ghi nhận trẻ đã có triệu chứng sepsis trong vòng 8 giờ sau khởi bệnh trước cả khi nhập viện
@@ -106,36 +110,47 @@
 - Biểu hiện viêm màng não, sốc, sepsis khó nhận biết ở trẻ nhũ nhi - vốn là đối tượng có nguy cơ tử vong cao nhất 
 
 
-### Làm thế nào để nhận biết sớm và cẩn thận hơn 
+## Làm thế nào để nhận biết sớm và cẩn thận hơn 
+
 - Phải nhớ rằng các biểu hiện sớm nhất của nhiễm não mô cầu là: triệu chứng giống cúm + viêm họng cấp 
 - Cần phải hỏi về đau nhức cơ 
 - Cần phải SỜ bệnh nhân để xác định để xác định dấu hiệu sớm của sepsis 
-- Phải nhớ rằng biểu hiện da ban đầu có thể không đặc hiệu - Nó chỉ đặc hiệu khi DIC 
+- Phải nhớ rằng biểu hiện da ban đầu có thể không đặc hiệu - **Nó chỉ đặc hiệu khi DIC**
 - Sốc trên một trẻ khoẻ mạnh + Không có nguyên nhân rõ ràng gây sốc + đã tìm kiếm chăm sóc y tế trước đó + DIỄN TIẾN NHANH CHÓNG TRONG VÒNG 12 GIỜ SAU KHỞI BỆNH === nghi ngờ sốc do não mô cầu
-- ĐỪNG vội kết luận một ban da trên bệnh nhân sốc là ban da do sốc / do DIC mà không đề cập đến não mô cầu
+- Khi gặp một ban da giống não mô cầu thì có thể có những khả năng sau: 
+    + Ban da do não mô cầu 
+    + Ban da do phế cầu 
+    + Ban da do sốc 
+    + Ban da do DIC (từ các nguyên nhân khác)
 
 
-### Xét nghiệm vi sinh 
+## Xét nghiệm vi sinh 
+
 **1. Tầm quan trọng:** Cần phân lập vi khuẩn để xác định nguyên nhân và làm kháng sinh đồ, do đã có báo cáo về sự gia tăng kháng penicillin, chloramphenicol và cephalosporin.
 
 **2. Các phương pháp xét nghiệm:**
+
 * **Cấy máu:** Tỷ lệ dương tính đạt **50 - 60%** (thấp hơn so với cấy dịch não tủy).
 * **Dịch não tủy (CSF):**
-    * **Soi nhuộm Gram:** Là bước đầu tiên và quan trọng, có giá trị ngay cả khi đã điều trị một phần. Số lượng vi khuẩn trung bình là **$1,3 \times 10^5$**/mL (dao động $1,5 \times 10^2$ đến $6 \times 10^7$).
+    * **Soi nhuộm Gram:** Là bước đầu tiên và quan trọng, có giá trị ngay cả khi đã điều trị một phần. Số lượng vi khuẩn trung bình là 1,3 x 10^5/mL (dao động 1,5 x 10^2 đến 6 x 10^7).
     * **Sinh hóa & Tế bào:** Gợi ý viêm màng não khi glucose < **45 mg/dL**, tỷ lệ glucose CSF/huyết thanh < **0,4**, protein > **500 mg/dL**, và bạch cầu > **1000/µL**.
-* **Sinh thiết da:** * Giúp tăng hiệu suất chẩn đoán thông qua nhuộm Gram và nuôi cấy từ tổn thương da. 
+* **Sinh thiết da:** 
+    * Giúp tăng hiệu suất chẩn đoán thông qua nhuộm Gram và nuôi cấy từ tổn thương da. 
     * Độ nhạy của nuôi cấy máu, CSF và sinh thiết da lần lượt là **56%, 50%, và 36%**. Khi kết hợp nhuộm Gram, độ nhạy tăng lên **56%, 64%, và 56%**.
     * **PCR sinh thiết da:** Có giá trị cao, dương tính ở **50/51** bệnh nhân tử ban tối cấp (purpura fulminans).
 
 **3. Lưu ý về điều trị và lấy mẫu:**
+
 * **Không trì hoãn kháng sinh:** Phải cấy máu và bắt đầu điều trị ngay khi nghi ngờ, không chờ đợi kết quả chọc dò thắt lưng.
-* **Ảnh hưởng của kháng sinh:** * Dịch não tủy sạch khuẩn rất nhanh sau khi dùng cephalosporin phổ rộng: **3/9** ca âm tính trong vòng **1 giờ** (sớm nhất là 15 phút), tất cả âm tính sau **2 giờ**. (Chậm hơn ở phế cầu: 4-10 giờ; liên cầu nhóm B: > 8 giờ).
-    * **Ngược lại:** Vi khuẩn tại da được loại bỏ chậm hơn; kết quả nhuộm Gram và nuôi cấy từ sinh thiết da ít bị ảnh hưởng bởi kháng sinh trước đó hơn so với dịch não tủy.
+* **Ảnh hưởng của kháng sinh:** 
+    * Dịch não tủy sạch khuẩn rất nhanh sau khi dùng cephalosporin phổ rộng: **3/9** ca âm tính trong vòng **1 giờ** (sớm nhất là 15 phút), tất cả âm tính sau **2 giờ**. (Chậm hơn ở phế cầu: 4-10 giờ; liên cầu nhóm B: > 8 giờ).
+    * **Ngược lại:** Vi khuẩn tại da được loại bỏ chậm hơn; **kết quả nhuộm Gram và nuôi cấy từ sinh thiết da ít bị ảnh hưởng bởi kháng sinh trước đó hơn so với dịch não tủy.**
 
 
 ### Các xét nghiệm dịch não tủy (CSF)
 
 **1. Phát hiện kháng nguyên (Latex agglutination):**
+
 - Cơ chế: Sử dụng hạt latex gắn kháng thể để phát hiện 5 nhóm huyết thanh: A, B, C, Y, W135.
 - Hạn chế: Độ nhạy với nhóm B thấp (dễ âm tính giả), đôi khi có dương tính giả.
 - Khuyến cáo: Không được khuyên dùng thường quy vì không làm thay đổi quyết định điều trị. Các test nhanh sắc ký miễn dịch đang được phát triển với độ nhạy và giá trị dự báo âm tính cao.
@@ -144,7 +159,7 @@
 - Ưu điểm: Nhanh hơn nuôi cấy (có kết quả trong ngày).
 - Không bị ảnh hưởng bởi kháng sinh (trong khi nuôi cấy có thể âm tính sau 1-2 giờ dùng thuốc).
 - Cho phép định loại chủng nhanh và xét nghiệm đa mồi (Multiplex) cùng lúc với phế cầu và H. influenzae.
-- Độ chính xác: Độ nhạy 96%, độ đặc hiệu 100% (so với nuôi cấy chỉ 63%). PCR duy trì kết quả dương tính lâu hơn nuôi cấy sau khi dùng kháng sinh **(có trường hợp lâu hơn 72 giờ)**.
+- Độ chính xác: **Độ nhạy 96%, độ đặc hiệu 100%** (so với nuôi cấy chỉ 63%). PCR duy trì kết quả dương tính lâu hơn nuôi cấy sau khi dùng kháng sinh **(có trường hợp lâu hơn 72 giờ)**.
 - Giá trị tiên lượng: Tải lượng DNA cao liên quan đến tỷ lệ tử vong, di chứng vĩnh viễn (mất chi, ghép da) và thời gian nằm viện. Nhóm C thường có tải lượng vi khuẩn cao hơn.
 - Hạn chế: Không xác định được tính nhạy cảm kháng sinh; có thể âm tính giả nếu vi khuẩn có đa hình gen.
 
