@@ -1,0 +1,7 @@
+title: Danh mục thuốc
+nav:
+  - drug_antibiotic
+  - drug_antiinflam
+  - drug_cardiovasc
+  - drug_neuromed
+  - drug_other
