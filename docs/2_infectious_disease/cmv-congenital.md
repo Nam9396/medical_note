@@ -370,3 +370,4 @@ Lựa chọn thuốc (Ganciclovir IV hay Valganciclovir uống) phụ thuộc v�
 | **Điếc tiếp nhận đơn độc (Isolated SNHL)** <br>*(Trẻ hoàn toàn không có triệu chứng khác)* | **6 tuần** (Đường uống) |
 
 * **Cân nhắc kéo dài thời gian điều trị (lên đến 12 tháng):** Cần hội chẩn chuyên khoa Nhiễm Nhi nếu trẻ có: nhiễm virus huyết kéo dài, viêm võng mạc tiến triển, tổn thương CNS nặng, tổn thương gan dai dẳng, hoặc có suy giảm miễn dịch bẩm sinh. Quyết định kéo dài dựa trên xu hướng tải lượng CMV DNA và chức năng cơ quan đích. Nếu tải lượng virus tăng liên tục dù đang điều trị đúng liều, phải nghi ngờ chủng kháng thuốc.
+

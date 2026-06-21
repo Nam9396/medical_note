@@ -1,6 +1,85 @@
 
 # Nhiễm CMV ở trẻ em 
 
+
+## Tóm tắt thực hành lâm sàng
+
+**Hiện tại bệnh nhân bao nhiêu tháng tuổi?**
+
+- Ngay sau sinh 
+- Trong vòng 3 tuần đầu sau sinh 
+- Từ 3 tuần đến 1 tuổi 
+- Trên 1 tuổi 
+
+**Bối cảnh phát hiện CMV là gì?** 
+
+- Tầm soát nhiễm cCMV ở trẻ sơ sinh có nguy cơ cao:
+    + Trẻ sinh ra từ mẹ nhiễm HIV, trẻ phơi nhiễm HIV 
+    + Có triệu chứng: đầu nhỏ, ban da, vàng da, viêm phổi, viêm gan, giảm tiểu cầu, gan lách to không rõ nguyên nhân 
+    + Trẻ bệnh nặng, đe doạ tính mạng không rõ nguyên nhân, đã âm tính với các tác nhân khác
+
+- Nhiễm CMV chu sinh: 
+    + Nhiễm trùng huyết, viêm gan, viêm phổi, bất thường huyết học không rõ nguyên nhân 
+    + Đặc biệt chú ý trẻ sinh non, nhẹ cân, suy giảm miễn dịch bẩm sinh và mắc phải
+
+- Nhiễm CMV không bẩm sinh (nhũ nhi và trẻ lớn):
+    + Trẻ có hệ miễn dịch toàn vẹn: hội chứng tăng bạch cầu đơn nhân nhiễm khuẩn 
+    + Trẻ suy giảm miễn dịch (bẩm sinh hoặc mắc phải)
+    + Trẻ sốt đột ngột, kéo dài không rõ nguyên nhân. Hội chứng tăng bạch cầu đa nhân nhiễm khuẩn, hội chứng thực bào máu, giảm tiểu cầu miễn dịch do CMV 
+
+- Những hội chứng điển hình khác:
+    + Bệnh cảnh cCMV thể thần kinh đơn độc 
+    + Bệnh cảnh cCMV thể điếc dẫn truyền (SNNL)
+
+**Phát hiện CMV bằng test gì?**
+
+- Từ lúc sinh đến 3 tuần tuổi đầu: PCR CMV trong nước tiểu và nước bọt. Huyết thanh miễn dịch không có giá trị (không nhạy và duơng tính giả do kháng thể của mẹ truyền qua). Và chỉ cần như vậy PCR sinh phẩm của trẻ
+- Sau 3 tuần tuổi đến 1 tuổi: 
+    + Để phân biệt nhiễm CMV và cCMV: cần PCR mẫu nước bọt/nước tiểu và mẫu máu khô gót chân 
+    + Hoặc định lượng CMV IgG (không phải hàng đầu)
+    + Nếu chỉ có một mẫu PCR tại thời điểm sau 3 tuần tuổi, chỉ gợi ý chứ không khẳng định nhiễm cCMV 
+- Trên 1 tuổi: 
+    + Xác định đây có phải là cCMV gần như là bất khả thi, do không có PCR sinh phẩm lúc sinh để đối chứng 
+    + Gọi là nhiễm CMV khi IgM HOẶC IgG dương 
+    + Không rõ huyết thanh miễn dịch và PCR CMV trong máu/nước bọt/nước tiểu cái nào nhạy hơn? Tại sao?
+
+**Trẻ đã được định lượng tải lượng CMV chưa - để theo dõi hiệu quả điều trị?**
+
+**Trẻ đã được làm tất cả các cận lâm sàng tìm kiếm tổn thương cơ quan đích do CMV?**
+
+- Siêu âm qua thóp, MRI sọ não 
+- Khám mắt chuyên sâu 
+- Đánh giá thính lực chuyên sâu 
+- Khám tai mũi họng 
+- Siêu âm tim Doppler 
+- Siêu âm ổ bụng, đánh giá cấu trúc hệ niệu 
+- Tổng phân tích tế bào máu 
+- Chức năng gan, chức năng thận
+- HIV và các tình trạng suy giảm miễn dịch khác
+- Đánh giá phát triển tâm vận
+
+
+**Trẻ có tổn thương cơ quan đích, bệnh cảnh nặng, suy giảm miễn dịch?**
+
+- Chỉ cần tổn thương ít nhất một cơ quan đích 
+- Trẻ suy giảm miễn dịch, bất kể mức độ tổn thương cơ quan đích 
+- Đối với thể điếc SNNL: APP khuyến cáo điều trị nếu khởi đầu trong 13 tuần tuổi đầu
+
+**Nếu trẻ đã được điều trị, trẻ có được thực hiện những việc sau không?**
+
+- Thăm khám lâm sàng, PCR tải lượng CMV để đánh giá hiệu quả điều trị
+- Công thức máu, chức năng gan/thận để theo dõi độc tính của thuốc 
+- Điều chỉnh liều thuốc theo chức năng thận và cân nặng của trẻ
+- Tầm soát các bệnh và nhiễm trùng đồng nhiễm khác
+- Tuân thủ điều trị và các khó khăn gặp phải 
+- Tình trạng các bệnh lý thứ phát do CMV như thế nào: HLH, ITP
+
+**Điều trị đã kéo dài được bao lâu?**
+
+- Thời điểm khởi đầu điều trị có phù hợp: trong vòng 3 tháng đầu, tối ưu trong vòng 30 ngày đầu, khởi đầu sau 3 tháng không mang lại lợi ích lâm sàng, trong vòng 13 tuần đầu cho thể SNNL  
+- Thời gian điều trị thông thường kéo dài từ **3 đến 6 tuần** (có thể kéo dài hơn nếu tổn thương cơ quan đích hoặc tình trạng nhiễm virus huyết chưa thuyên giảm; cần hội chẩn chuyên gia truyền nhiễm).
+
+
 ## Đại cương
 
 * **CMV:** Virus phổ biến toàn cầu, gây bệnh ở mọi lứa tuổi.
@@ -286,3 +365,21 @@ Sữa mẹ là nguồn lây nhiễm sau sinh cần kiểm soát, các biện ph�
 > **Lưu ý cốt lõi khi biện luận kết quả (Take-home notes):**
 > Kháng thể  IgG của mẹ có thể truyền thụ động qua nhau thai, do đó xét nghiệm huyết thanh IgG không có giá trị để chẩn đoán nhiễm trùng sau sinh giai đoạn sớm ở trẻ nhỏ.
 > Ở nhóm suy giảm miễn dịch, phần lớn bệnh nhân đã có sẵn kháng thể hoặc đào thải virus tự nhiên trong dịch tiết, nên kết quả huyết thanh hay PCR nước tiểu/nước bọt dương tính không đồng nghĩa với việc họ đang bị bệnh CMV cấp tính.
+
+
+## Các câu hỏi 
+
+- Trong thực hành lâm sàng, chẩn đoán CMV và cCMV bằng test gì
+- Trong trường hợp non - cCMV, tại sao lại định lượng kháng thể mà không làm PCR máu 
+- PCR đa tác nhân máu có đủ nhạy để phát hiện nhiễm CMV không 
+- Bắt buộc phải có bệnh cảnh nặng, để có nhiễm virus huyết, để có thể phát hiện CMV bằng PCR máu đúng không 
+- Liều valganciclovir uống và TTM cho cCMV và non - cCMV trên lâm sàng là gì 
+- Điều trị kéo dài bao lâu
+- Kế hoạch tái khám định kỳ như thế nào 
+- Chi phí điều trị
+
+
+
+ 
+
+
