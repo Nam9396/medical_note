@@ -34,7 +34,9 @@ Available as a 1:10,000 concentration (0.1 mg/mL) and 1:1000 (1 mg/mL) concentra
 -	**Cardiac output increase or maintenance/post resuscitation stabilization:**
 
     + Continuous IV or intraosseous infusion: 0.05 to 1 mcg/kg/minute
-    + **Doses <0.3 mcg/kg/minute generally produce beta-adrenergic effects and higher doses (>0.3 mcg/kg/minute) generally produce alpha-adrenergic vasoconstriction; titrate dosage to desired effect**
+    + **Doses < 0.3 mcg/kg/minute generally produce beta-adrenergic effects and higher doses (>0.3 mcg/kg/minute) generally produce alpha-adrenergic vasoconstriction; titrate dosage to desired effect**
+    + Nếu liều > 0.3 mcg/kg/minute nên phối hợp thêm thuốc vận mạch khác để giảm tác dụng phụ 
+    + **Liều tối đa: 1 mcg/kg/minute**
 
 -	**Hypersensitivity reaction/anaphylaxis:** Note: With parenteral administration, the preferred route of administration is **IM** administration in the **anterolateral aspect of the middle third of the thigh**
 
@@ -98,3 +100,31 @@ Dex/AA. Amikacin, amiodarone, caffeine citrate, calcium chloride, calcium glucon
 
 ## Terminal Injection Site Incompatibility
 Aminophylline, ampicillin, hyaluronidase, micafungin, and sodium bicarbonate
+
+
+
+
+| Chỉ định | Đường dùng | Chế phẩm | Liều dùng | Lưu ý |
+| :--- | :--- | :--- | :--- | :--- |
+| **Hồi sức tim phổi (Sơ sinh)** | • IV (Tĩnh mạch)<br>• IO (Trong xương)<br>*(Ưu tiên)* | Chế phẩm **0,1 mg/mL** (1:10.000) | • **0,01 - 0,03 mg/kg** (tương đương 0,1 - 0,3 mL/kg).<br>• Lặp lại mỗi 3 - 5 phút nếu cần. | • Bơm flush nước muối sinh lý (NS) ngay sau khi tiêm. |
+| | • ET (Nội khí quản)<br>*(Chỉ dùng khi chưa có đường IV/IO)* | Chế phẩm **0,1 mg/mL** (1:10.000) | • **0,05 - 0,1 mg/kg** (tương đương 0,5 - 1 mL/kg).<br>• Lặp lại mỗi 3 - 5 phút cho đến khi có đường IV/IO hoặc tim đập lại. | • Đường IV/IO vẫn được ưu tiên hơn. |
+| **Hạ huyết áp / Sốc trơ với dịch hoặc Dopamine (Sơ sinh)** | • Truyền IV liên tục<br>• Truyền IO liên tục | Dùng chế phẩm **1 mg/mL** để pha dịch truyền | • **Khởi đầu:** 0,1 mcg/kg/phút.<br>• **Khoảng liều thông thường:** 0,05 - 0,5 mcg/kg/phút.<br>• **Tối đa khuyến cáo:** 1 mcg/kg/phút (liều báo cáo thực tế có thể lên đến 2,6 mcg/kg/phút). | • Dữ liệu lâm sàng còn hạn chế.<br>• Tốc độ tăng liều phụ thuộc vào tình trạng lâm sàng cụ thể. |
+| **Vô tâm thu hoặc Ngưng tuần hoàn không mạch (Trẻ em)** | • IV (Tĩnh mạch)<br>• IO (Trong xương)<br>*(Ưu tiên)* | Chế phẩm **0,1 mg/mL** (1:10.000) | • **0,01 mg/kg** (tương đương 0,1 mL/kg).<br>• **Tối đa:** 1 mg/liều.<br>• Tiêm ngay trong vòng 5 phút từ khi CPR; lặp lại mỗi 3 - 5 phút. | • Tiêm trực tiếp không cần pha loãng.<br>• Quá liều bolus gây tăng huyết áp nghiêm trọng và xuất huyết nội sọ. |
+| | • ET (Nội khí quản) | Chế phẩm **1 mg/mL** (1:1.000) | • **0,1 mg/kg** (tương đương 0,1 mL/kg).<br>• **Tối đa:** 2,5 mg/liều.<br>• Lặp lại mỗi 3 - 5 phút cho đến khi có đường IV/IO hoặc tim đập lại. | • Cần flush với tối thiểu 5 mL NS và bóp bóng qua nội khí quản 5 lần.<br>• Nồng độ thấp đường ET có thể gây tác dụng phụ giãn mạch (hạ HA, giảm áp lực tưới máu mạch vành). |
+| **Nhịp tim chậm (Trẻ em)** | • IV, IO | Chế phẩm **0,1 mg/mL** (1:10.000) | • **0,01 mg/kg** (tương đương 0,1 mL/kg).<br>• **Tối đa:** 1 mg/liều (hoặc 10 mL/liều).<br>• Lặp lại mỗi 3 - 5 phút nếu cần. | • Sử dụng khi việc hỗ trợ hô hấp không cải thiện được nhịp tim. |
+| | • ET | Chế phẩm **1 mg/mL** (1:1.000) | • **0,1 mg/kg** (tương đương 0,1 mL/kg). Có thể hiệu quả lên đến liều 0,2 mg/kg.<br>• **Tối đa:** 2,5 mg/liều. Lặp lại mỗi 3 - 5 phút. | • Lưu ý tương tự như trường hợp ngưng tuần hoàn qua đường ET. |
+| **Tăng/Duy trì cung lượng tim, ổn định sau hồi sức (Trẻ em)** | • Truyền IV liên tục<br>• Truyền IO liên tục | Phải pha loãng trước khi dùng | • **0,05 - 1 mcg/kg/phút.**<br>• Liều dưới 0.3 mcg/kg/phút: Tác dụng Beta (giãn mạch, tăng co bóp).<br>• Liều trên 0.3 mcg/kg/phút: Tác dụng Alpha (co mạch). | • Bắt buộc dùng bơm tiêm điện/máy truyền dịch.<br>• Ưu tiên đường truyền trung tâm để tránh hoại tử do thoát mạch. |
+| **Phản ứng quá mẫn / Phản vệ (Trẻ em)** | • **IM (Tiêm bắp)**<br>*(Ưu tiên hàng đầu)* | Chế phẩm **1 mg/mL** (1:1.000) | • **0,01 mg/kg/liều** (tương đương 0,01 mL/kg/liều).<br>• **Tối đa:** Trẻ chưa dậy thì: 0,3 mg/liều; Trẻ vị thành niên: 0,5 mg/liều.<br>• Nhắc lại mỗi 5 - 15 phút. Thông thường **tối đa 3 liều**. | • **Vị trí tiêm:** Mặt trước-bên của 1/3 giữa đùi (có thể tiêm qua quần áo). Không tiêm vào mông, ngón tay/chân.<br>• Trẻ béo phì có thể cân nhắc tiêm ở nửa dưới đùi hoặc vùng bắp chân để đảm bảo vào bắp cơ. |
+| | • Truyền IV liên tục *(Trường hợp trơ/nặng)* | Pha loãng thành nồng độ **1 mcg/mL** | • **Khởi đầu:** 0,1 mcg/kg/phút.<br>• **Khoảng liều:** 0,1 - 1 mcg/kg/phút.<br>• **Tối đa:** 10 mcg/phút. | • Nồng độ khởi đầu này loãng hơn so với các chỉ định truyền dịch khác. Cần theo dõi sát tình trạng dịch truyền. |
+| **Hạ huyết áp / Sốc kháng dịch (Trẻ em)** | • Truyền IV liên tục<br>• Truyền IO liên tục | Phải pha loãng trước khi dùng | • **0,1 - 1 mcg/kg/phút**.<br>• Tốc độ > 0,3 mcg/kg/phút bắt đầu có hoạt tính co mạch mạnh. | • Theo dõi sát huyết động. |
+
+---
+
+⚠️ Các lưu ý quan trọng chung:
+
+* **Pha loãng & Dung môi:** Các dung môi tương thích bao gồm LR, NS, D5W, D10W, D5NS, D5LR. **Tuyệt đối không** pha chung hoặc truyền cùng đường với các dung dịch có tính kiềm hoặc oxy hóa như *Sodium Bicarbonate* hay *Nitrite*.
+* **Xử trí thoát mạch (Vesicant):** Adrenaline truyền tĩnh mạch có nguy cơ gây co mạch, thiếu máu cục bộ và hoại tử mô rất cao nếu thoát mạch. 
+  * *Nếu xảy ra thoát mạch:* Dừng truyền ngay, giữ nguyên kim/catheter (không flush), hút nhẹ dịch thoát ra rồi rút kim. Nâng cao chi, chườm ấm khô. 
+  * *Điều trị giải độc:* Tiêm tại chỗ bằng thuốc đối kháng **Phentolamine** (liều trẻ em: 0,1 - 0,2 mg/kg, tối đa 10 mg pha trong 10 mL NS; liều sơ sinh: dùng 1 - 5 mL dung dịch phentolamine 1 mg/mL tiêm dưới da xung quanh vùng bị tổn thương).
+* **Tác dụng phụ cần theo dõi:** So với Dopamine, truyền liên tục Adrenaline dễ gây tăng đường huyết, nhịp tim nhanh, tăng lactate máu và loạn nhịp tim (ngoại tâm thu thất, nhịp nhanh thất). Thuốc cũng có thể gây thiểu niệu do co mạch thận.
+* **Bảo quản:** Tránh ánh sáng. Không sử dụng nếu thuốc bị đổi màu hoặc có tủa.
