@@ -15,7 +15,7 @@ Bé gái, 3 tuổi, 15kg, ngưng tim ngưng thở tại thời điểm nhập vi
 **Ngoài sơ sinh**
 
 - IV, Intraosseous: **0.1 mL/kg of 0.1 mg/mL solution**, followed immediately by **5ml NS flush**
-- Endotracheal: 0.1 mL/kg of 1 mg/mL solution, maximum dose: 2.5 mg/dose; repeat every 3 to 5 minutes until return of spontaneous circulation or IV/intraosseous access established
+- Endotracheal: 0.1 mL/kg of ***1 mg/mL solution***, maximum dose: 2.5 mg/dose; repeat every 3 to 5 minutes until return of spontaneous circulation or IV/intraosseous access established
 
 ## Các viết y lệnh
 
