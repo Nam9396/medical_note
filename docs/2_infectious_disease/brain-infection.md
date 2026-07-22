@@ -399,3 +399,6 @@ Trong bối cảnh suy giảm miễn dịch (AIDS), đây là hai chẩn đoán 
 | **Xung khuếch tán (DWI)** | Tín hiệu biến thiên, **thường không hạn chế khuếch tán** (ADC cao). | **Tăng tín hiệu mạnh trên DWI + ADC thấp** do u có mật độ tế bào cực cao (hypercellularity). |
 | **Xung tưới máu (PWI)** | Giảm tưới máu, **không tăng sinh mạch**. | Tăng tưới máu rõ rệt, có biểu hiện của sự **phá hủy hàng rào máu não (BBB rupture profile)** trên biểu đồ đường cong. |
 | **Cộng hưởng từ phổ (MRS)** | Đỉnh **Choline bình thường hoặc thấp** (Chìa khóa loại trừ u). | Đỉnh **Choline tăng rất cao** (phản ánh sự tăng sinh và lật chuyển tế bào u mạch lạc). |
+
+
+
