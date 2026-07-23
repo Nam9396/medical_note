@@ -533,6 +533,24 @@ Huyết thanh miễn dịch (IgM, IgG, hay tổng hợp kháng thể nội tủy
 - Whitley (2015): **phục hồi chức năng dài hạn (ngôn ngữ, hoạt động trị liệu, vật lý trị liệu) cần thiết và cải thiện kết cục** — không chỉ dừng ở điều trị kháng virus cấp.
 
 
+## Khoảng trống kiến thức
+
+1. **Khác biệt HSV-1 vs HSV-2 trong viêm não** — đã có nguồn (Dennett et al., 1997) nhưng chưa khai thác nội dung chi tiết.
+2. **Di chứng nhận thức chuyên sâu** — rối loạn gọi tên theo phạm trù ngữ nghĩa (Barbarotto et al., 1996) chưa được trình bày nội dung.
+3. **Virus học nền tảng của HSV** (cấu trúc, cơ chế tiềm ẩn, đường lây) — có nguồn (Reichman, 1984) nhưng chưa khai thác.
+4. **Định nghĩa ca bệnh và thuật toán chẩn đoán phân biệt viêm não đầy đủ** — mới dùng một phần nhỏ của Venkatesan et al. (2013), chưa trình bày toàn bộ khung phân loại possible/probable/confirmed và thuật toán theo triệu chứng đi kèm.
+5. **Cơ địa di truyền dễ mắc HSE nặng/tái phát** (thiếu hụt TLR3/UNC93B1) — mới nhắc thoáng qua trong 2 ca lâm sàng, chưa tổng hợp thành chủ đề riêng.
+6. **Viêm não tự miễn sau HSE (post-HSE NMDAR-Ab encephalitis)** — mới có 1 ca minh họa, chưa tổng hợp cơ chế/tần suất/chiến lược điều trị phối hợp một cách hệ thống.
+7. **Vai trò hiện tại của sinh thiết não** so với PCR (chỉ định còn lại, biến chứng) — chưa có phần tổng hợp riêng.
+8. **Dịch tễ học tổng quát** (tỷ lệ mắc theo tuổi/giới/mùa, gánh nặng kinh tế) — dữ liệu còn tản mạn, chưa tổng hợp thành bức tranh hoàn chỉnh.
+9. **Độ nhạy/đặc hiệu hình ảnh học từ phân tích gộp quy mô lớn** — kho tài liệu chỉ có các nghiên cứu đơn lẻ cỡ mẫu nhỏ–trung bình (19–49 bệnh nhân), chưa có meta-analysis.
+10. **Liệu DWI có khắc phục được nhóm âm tính giả MRI kéo dài** (>1 tuần, như trong Schleede et al., 2013) hay chỉ hữu ích ở giai đoạn rất sớm — chưa có dữ liệu trả lời trong kho tài liệu.
+11. **So sánh cơ chế miễn dịch IgM giữa HSV và các virus khác** (viêm não Nhật Bản, Dengue) — nằm ngoài phạm vi kho tài liệu dự án, cần tìm nguồn bên ngoài nếu muốn trích dẫn học thuật.
+12. **Ca lâm sàng viêm não sơ sinh điển hình do HSV-2 lây từ mẹ** — kho tài liệu chỉ có 2 ca sơ sinh nằm trong loạt ca của Cameron et al. (1992), chưa có case report độc lập, chi tiết.
+13. **Xác minh độc lập bài báo gốc Whitley et al. (1982), JAMA** — mới trích dẫn gián tiếp qua Whitley (2006), chưa đối chiếu số trang/nội dung trực tiếp từ file gốc trong dự án.
+14. **Barkovich (2005) và McCrossin & Gilbert (1986)** — hai nguồn thầy đã thêm/nhắc đến nhưng không có trong 33 file gốc của dự án; đã tra cứu web nhưng chưa đối chiếu nội dung đầy đủ.
+
+
 ## TÀI LIỆU THAM KHẢO
 
 Barkovich, A. J. (2005). Pediatric neuroimaging (4th ed.). Lippincott Williams & Wilkins.
