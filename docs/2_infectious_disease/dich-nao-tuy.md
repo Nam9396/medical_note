@@ -1,322 +1,421 @@
 
-# Phân tích dịch não tuỷ
-
-## Các giá trị bình thường của CSF
-
-- Màu sắc: trong 
-- Tế bào:
-    + Trong CSF có tế bào không và chức năng của chúng là gì ?
-    + Số lượng bình thường: < 5 tế bào/uL 
-    + Thành phần: 70% lymphocytes, 30% monocytes, rare PMNs or eosinophils
-- Glucose: 
-    + Nồng độ bình thường: ...
-    + CSF:serum glucose ratio: 0.44 - 0.90 mg/dL
-- Protein: < 50 mg/dL
-- Lactate: 11.7 - 21.6 mg per dL (1.3 - 2.4 mmol per L). Giá trị binh thường thay đổi tuỳ theo điều chỉnh của phòng xét nghiệm
-- Nhuộm gram âm tính
+# Chọc dò dịch não tuỷ 
 
-## Các giá trị bình thường của CSF ở trẻ sơ sinh 
+## Những vấn đề 
 
-- Màu sắc: trong 
-- Tế bào:
-    + Trong CSF có tế bào không và chức năng của chúng là gì ?
-    + Số lượng bình thường: < 20 tế bào/uL 
-    + Thành phần: ...
-- Glucose: 
-    + Nồng độ bình thường: ...
-    + CSF:serum glucose ratio: 0.42 - 1.10 mg/dL
-- Protein: < 150 mg/dL
-- Lactate: 8.1 - 22.5 mg/dL (0.9 - 2.5 mmol/L). Giá trị bình thường thay đổi tuỳ theo điều chỉnh của phòng xét nghiệm
-- Nhuộm gram âm tính
+Trong chọc dò dịch não tuỷ (DNT), có những vấn đề cần quan tâm dưới đây: 
 
-## Áp lực mở của dịch não tuỷ 
-- Đo bằng cách gắn vào kim chọc dò (ngay sau chọc dò) một thiết bị đo, quan sát mức dịch não tuỷ dâng lên ở mức bao nhiêu cmH2O
-- Giá trị bình thường: 
-    + Adults and children 8 years and older: 60 to 250 mm H2O
-    + Children younger than 8 years: 10 to 100 mm H2O
+**Trước khi chọc dò**
 
-## Các xét nghiệm vi sinh dịch não tuỷ 
+- Khi nào cần chỉ định chọc dò DNT? Những bệnh cảnh lâm sàng nào bắt buộc phải làm?
+- Những trường hợp nào chống chỉ định tuyệt đối/tương đối? Khi nào cần trì hoãn để chụp CT sọ trước?
+- Làm sao nhận biết dấu hiệu tăng áp lực nội sọ/tổn thương choán chỗ để tránh nguy cơ tụt kẹt não?
+- Cần đánh giá và xử trí gì với rối loạn đông máu trước thủ thuật?
+- Cần chuẩn bị gì cho bệnh nhân (tư thế, vô khuẩn, giảm đau, tư vấn, đồng thuận)?
+- Vì sao cần lấy mẫu glucose máu trước khi chọc dò?
 
-**Cấy CSF**
+**Trong khi chọc dò**
 
-- Cấy CSF là tiêu chuẩn vàng để chẩn đoán xác định nhiễm trùng thần kinh trung ương, đồng thời xác định kháng sinh đồ. Tuy nhiên, xét nghiệm lâu có kết quả và có độ nhạy thấp. Độ nhạy của cấy CSF dao động từ ..., độ đặc hiệu là ...
-- Tỉ lệ dương tính của cấy CSF sau khi đã điều trị kháng sinh là ...
+- Xác định vị trí chọc dò đúng cách như thế nào (khe liên đốt nào, mốc giải phẫu nào)?
+- Kỹ thuật đưa kim đúng chuẩn gồm những bước nào? Góc, hướng, độ sâu ra sao?
+- Làm sao nhận biết đã vào đúng khoang dưới nhện?
+- Đo áp lực mở như thế nào, giá trị bình thường là bao nhiêu, khi nào cần ngừng lấy dịch?
+- Xử trí ra sao khi không thấy dịch chảy ra hoặc chọc thất bại?
+- Cần lấy bao nhiêu ống, thứ tự ống nghiệm có ý nghĩa gì (phân biệt chọc chạm mạch với xuất huyết thật)?
+- Những sai sót kỹ thuật thường gặp là gì và hậu quả ra sao?
 
-**Ngưng kết Latex**
+**Sau khi chọc dò**
 
-- Xét nghiệm có độ nhạy thay đổi tuỳ theo tác nhân 
-- Phức hợp kháng nguyên - kháng thể giúp phát hiện các tác nhân: ...
-- Hiện nay, the European Society of Clinical Microbiology and Infectious Diseases không còn khuyến cáo xét nghiện này 
-- Xét nghiệm này không hữu ích hơn nhuộm Gram CSF
+- Bệnh nhân cần được theo dõi và chăm sóc như thế nào sau thủ thuật (tư thế nằm, thời gian theo dõi)?
+- Biến chứng thường gặp là gì (đau đầu sau chọc dò, cơ chế, cách phòng ngừa/xử trí)?
+- Biến chứng nặng có thể gặp là gì (tụt kẹt não, chảy máu, tổn thương thần kinh, nhiễm trùng thứ phát)?
+- Làm sao phiên giải kết quả DNT (màu sắc, độ trong, xanthochromia, tế bào, protein, glucose)?
+- Cách hiệu chỉnh kết quả khi có chọc dò chạm mạch (traumatic tap)?
+- Khi nào cần chọc dò lại, và những lưu ý gì khi lặp lại thủ thuật?
 
-**Nhuộm gram CSF**
+Bây giờ chúng ta sẽ đi vào chi tiết. 
 
-- Khuyến cáo thực hiện cho tất cả bệnh nhân nghi ngờ nhiễm trùng thần kinh trung ương 
-- Tại sao trên lâm sàng không thấy làm (?)
-- Xét nghiệm này bao lâu thì có kết quả (?)
-- Độ nhạy dao động từ 33 - 90%, chịu ảnh hưởng bởi các yếu tố: 
-    + Loại tác nhân 
-    + Kĩ thuật ly tâm 
-    + Độ năng của nhiễm trùng 
-    + Số lượng phết lam 
-    + Kinh nghiệm của kĩ thuật viên 
-- Sau điều trị kháng sinh, tỷ lệ dương tính của nhuộm gram CSF giảm đi 10 - 20% 
-- Nhuộm Gram CSF âm tính không loại trừ nhiễm trùng thần kinh trung ương
 
-**PCR đa tác nhân CSF**
+## Chỉ định chọc dò dịch não tuỷ
 
-- Độ bao phủ của xét nghiệm này ?
-- Nó dùng kit test khác với PCR máu hay dùng chung 
-- Độ nhạy độ đặc hiệu 
-- Những nguyên nhân nào gây âm tính giả: ...
+**1. Chỉ định cấp cứu (khẩn cấp)**
 
-## Chỉ định xét nghiệm vi sinh đặc hiệu theo tác nhân 
+**Nghi ngờ nhiễm trùng thần kinh trung ương** — chỉ định phổ biến và khẩn cấp nhất
 
+- Viêm màng não (vi khuẩn, virus, lao, nấm), viêm não
+- Sốt không rõ nguyên nhân kèm rối loạn ý thức hoặc suy giảm miễn dịch, ngay cả khi không có dấu màng não rõ (đặc biệt ở người già, trẻ nhũ nhi, bệnh nhân đã dùng kháng sinh một phần) (Shahan et al., 2021; Birnbaumer, 2025)
 
-## Đặc điểm CSF của viêm màng não do vi khuẩn 
+**Nghi ngờ xuất huyết dưới nhện (SAH)**
 
-- **Màu sắc:** ban đầu có thể trong, hoặc đục mờ. Dịch não tuỷ sau ly tâm có thể có màu đục mờ, xanh hoặc mủ
+- Khi CT sọ âm tính hoặc không sẵn có, đặc biệt nếu khởi phát >6 giờ (độ nhạy CT giảm dần theo thời gian) hoặc bệnh nhân đến trễ (>24h–1 tuần)
+- Xác định qua tìm hồng cầu/xanthochromia trong DNT (Sternbach, 1985; Shahan et al., 2021; Birnbaumer, 2025)
 
-- **Tế bào:**
-    + Thường lớn hơn 1000 tế bào/uL
-    + Có 6% trường hợp CSF cấy dương vi khuẩn không ghi nhận tăng tế bào trong CSF
-    + Ưu thế NEU. Tuy nhiên, CSF ưu thế lymphocyte có thể chiếm đến 10% bệnh nhân
-    + Trong trường hợp chạm mạch, công thức tính bạch cầu hiệu chỉnh là: WBCs (predicted) = CSF RBCs × (blood WBCs/blood RBCs)
+**2. Chỉ định chẩn đoán khác (không khẩn cấp)**
 
-- **Glucose:** 
-    + < 40 mg per dL (2.22 mmol per L) in 50% to 60% of cases
-    + CSF:serum glucose ratio < 0.4 is 80% sensitive and 98% specific
-    + CSF:serum glucose ratio có thể bình thường hoặc giảm thấp tuỳ thuộc vào: 
-        * Loại tác nhân (tác nhân nào thì tỉ lệ này giảm sâu)
-        * Thời gian từ lúc nhiễm trùng khởi phát 
-        * Dường dextrose trong dịch truyền
+- Bệnh lý viêm/hủy myelin thần kinh trung ương: hội chứng Guillain-Barré, xơ cứng rải rác (multiple sclerosis)
+- Giang mai thần kinh trung ương (neurosyphilis)
+- Co giật không rõ nguyên nhân
+- Nghi ngờ carcinomatous meningitis / xâm lấn màng não do ung thư (tế bào học DNT thể tích lớn có giá trị chẩn đoán)
 
-- **Protein:** 
-    + Gần như luôn luôn tăng
-    + Gía trị thường gặp là ...
+**3. Chỉ định điều trị (therapeutic)**
 
-- **Lactate:** 
-    + /> 35.1 mg/dL [3.9 mmol/L]
-    + CSF lactate > 3.9 mmol/L độ nhạy (93 - 95%) và độ đặc hiệu (94 - 99%) trong chấn đoán viêm màng não do vi khuẩn nếu dịch CSF được lấy trước khi điều trị kháng sinh
-    + CSF lactate còn đặc biệt hữu ích ở những bệnh nhân sau phẫu thuật thần kinh, do tình trạng viêm sau phẫu thuật làm thay đổi các chỉ số khác
+- Tăng áp lực nội sọ vô căn / lành tính (pseudotumor cerebri, idiopathic intracranial hypertension – IIH): chọc dò để hạ áp lực DNT xuống ~200 mmH₂O bằng cách rút từng đợt 5–10 mL, có thể phải lặp lại
+- Đưa thuốc vào khoang dưới nhện: kháng sinh, hóa trị liệu, thuốc cản quang, gây tê tủy sống (Birnbaumer, 2025)
 
-- **Các xét nghiệm vi sinh**: Gram stain, CSF culture, PCR testing; latex agglutination if Gram stain is negative and antibiotics were given before lumbar puncture
 
-> Bacterial meningitis can be diagnosed with more than 99% certainty in patients with any of the
-following CSF measurements: glucose less than 34 mg per dL (1.89 mmol per L), protein greater than 220 mg
-per dL (2,200 mg per L), WBCs greater than 2,000 per µL, or neutrophils greater than 1,180 per µL
+## Chống chỉ định 
 
+**1. Chống chỉ định**
 
-## Ảnh hưởng của điều trị kháng sinh đến kết quả CSF
+| Chống chỉ định | Mức độ | Lý do / cơ chế |
+|---|---|---|
+| Nhiễm trùng da, mô mềm tại hoặc gần vị trí chọc dò | **Tuyệt đối** | Nguy cơ đưa vi khuẩn từ ổ nhiễm trùng ngoài da vào khoang dưới nhện qua đường kim chọc, gây viêm màng não do thầy thuốc (iatrogenic meningitis) (Sternbach, 1985; Birnbaumer, 2025) |
+| Áp xe não đã biết hoặc nghi ngờ nhiều | **Tuyệt đối** (hầu hết trường hợp) | Áp xe là tổn thương choán chỗ đang giãn nở; rút DNT làm giảm áp lực đột ngột ở khoang dưới nhện trong khi áp lực trên lều vẫn cao → chênh áp lực xuyên lều/xuyên hố sau thúc đẩy thoát vị não, giảm đáng kể khả năng sống (Birnbaumer, 2025) |
+| Tổn thương choán chỗ nội sọ có dấu hiệu tăng áp lực nội sọ (khối u, máu tụ) kèm dấu thần kinh khu trú hoặc phù gai thị | **Tương đối** (nguy cơ cao, cần CT trước) | Chênh lệch áp lực đột ngột giữa khoang trên và dưới lều tiểu não khi rút DNT có thể gây thoát vị hạnh nhân tiểu não hoặc thoát vị thùy thái dương (uncal herniation), dẫn đến suy sụp tim mạch–hô hấp, hôn mê, tử vong (Sternbach, 1985; Birnbaumer, 2025) |
+| Dấu hiệu thoát vị não đang tiến triển (liệt dây thần kinh III một bên, rối loạn ý thức tiến triển, dấu thần kinh khu trú kiểu liệt nửa người) | **Tương đối nhưng gần như chống chỉ định tuyệt đối** | Đây là bằng chứng lâm sàng cho thấy đã có chênh áp lực nội sọ; chọc dò lúc này có thể là yếu tố khởi phát/thúc đẩy thoát vị hoàn toàn (Birnbaumer, 2025) |
+| Rối loạn đông máu nặng: giảm tiểu cầu nặng (thường <50.000/µL), đang dùng thuốc kháng đông, hoặc bệnh lý đông máu khác | **Tương đối** | Kim chọc có thể gây tổn thương mạch máu ngoài/dưới màng cứng cột sống → hình thành khối máu tụ ngoài màng cứng hoặc dưới màng cứng tủy sống, chèn ép tủy/rễ thần kinh, có thể gây yếu vận động, mất cảm giác, rối loạn cơ vòng (Sternbach, 1985; Birnbaumer, 2025) |
 
-- Điều trị kháng sinh làm giảm khả năng cấy dương đi 10 - 20% 
-- ...
 
+**2. Lưu ý làm rõ (tránh hiểu lầm thường gặp)**
 
-## Viêm màng não do virus 
+- **Viêm màng não cấp đơn thuần, không kèm bằng chứng tăng áp lực nội sọ nặng, KHÔNG phải là chống chỉ định** — ngược lại đây chính là chỉ định khẩn cấp hàng đầu của thủ thuật (Birnbaumer, 2025).
+- Với các chống chỉ định tương đối (rối loạn đông máu, tổn thương choán chỗ chưa rõ), nếu nghi ngờ lâm sàng về viêm màng não hoặc xuất huyết dưới nhện đủ mạnh, cần cân nhắc **lợi ích chẩn đoán vượt trội nguy cơ**, đồng thời:
+  - Chụp CT sọ trước nếu nghi tổn thương choán chỗ hoặc có dấu thần kinh khu trú/phù gai.
+  - Điều chỉnh rối loạn đông máu trước thủ thuật nếu điều kiện lâm sàng cho phép (truyền tiểu cầu, huyết tương tươi đông lạnh, vitamin K, bổ sung yếu tố đông máu ở bệnh nhân hemophilia) trước khi chọc dò (Birnbaumer, 2025).
+- Ở bệnh nhân bạch cầu cấp dòng lympho có giảm tiểu cầu, các nghiên cứu lớn cho thấy chọc dò vẫn tương đối an toàn nếu tiểu cầu >10 × 10⁹/L, không cần truyền tiểu cầu dự phòng thường quy (Birnbaumer, 2025).
 
-- **Màu sắc:** thường trong không màu
 
-- **Tế bào:**
-    + Dao động trong khoảng từ 100 - 1000 tế bào/uL
-    + Thường thấp hơn 250 tế bào/uL
-    + Lymphocyte ưu thế, có thể ưu thế PMN trong giai đoạn nhiễm trùng sớm
-    + Nhiễm trùng enterovirus có thể làm tăng cao số lượng tế bào trong CSF
-    + Nhiễm trùng herpes virus có thể làm tăng số lượng hồng cầu trong CSF
+## Nhận biết dấu hiệu tăng áp nội sọ  - khối choáng chỗ
 
-- **Glucose:** 
-    + Bình thường hoặc giảm nhẹ
-    + Viêm màng não do virus quai bị có thể làm giảm đường đáng kể
+**1. Vì sao phải sàng lọc trước khi chọc dò?**
 
-- **Protein:** 
-    + Bình thường hoặc tăng nhẹ
-    + Thường thấp hơn 150 mg/dL
+Rút DNT làm giảm áp lực đột ngột ở khoang dưới nhện thắt lưng, trong khi áp lực trên lều (nếu có khối choán chỗ) vẫn cao → tạo chênh áp lực xuyên lều/xuyên hố sau → thúc đẩy thoát vị não (thoát vị hạnh nhân tiểu não, thoát vị thùy thái dương/uncal herniation).
 
-- **Lactate:** 
-    + Bình thường hoặc tăng nhẹ 
+**2. Bảng dấu hiệu lâm sàng cần tầm soát**
 
-- **Các xét nghiệm vi sinh:** Ngoài cấy, nhuộm Gram, còn thực hiện PCR (đơn/đa tác nhân) hoặc định lượng IgM
+| Dấu hiệu | Ý nghĩa |
+|---|---|
+| Rối loạn ý thức tiến triển (đặc biệt Glasgow ≤ 11) | Gợi ý tổn thương nội sọ lan tỏa hoặc chèn ép thân não; là yếu tố dự báo mạnh nhất của thoát vị sắp xảy ra |
+| Phù gai thị (papilledema) | Dấu hiệu kinh điển của tăng áp lực nội sọ kéo dài |
+| Dấu thần kinh khu trú (yếu/liệt nửa người, liệt vận nhãn, liệt mặt, rối loạn thị trường, rối loạn ngôn ngữ) | Gợi ý tổn thương choán chỗ khu trú (u, áp xe, máu tụ, nhồi máu) |
+| Liệt dây thần kinh sọ III một bên kèm rối loạn ý thức | Dấu hiệu **thoát vị thùy thái dương (uncal herniation) đang xảy ra** — chống chỉ định chọc dò ngay lập tức |
+| Bất thường thân não: thay đổi đồng tử, tư thế mất vỏ/mất não, thở bất thường (rối loạn nhịp thở) | Dấu hiệu chèn ép thân não tiến triển — nguy cơ tử vong cao, cần xử trí cấp cứu trước |
+| Co giật mới xảy ra gần đây | Có thể là biểu hiện của tổn thương choán chỗ hoặc tăng ICP cấp |
+| Tuổi ≥ 60, suy giảm miễn dịch, tiền sử bệnh lý thần kinh trung ương (u, đột quỵ, ổ nhiễm khu trú) | Yếu tố nguy cơ làm tăng khả năng có bất thường trên CT sọ |
+| Không trả lời đúng 2 câu hỏi đơn giản hoặc không thực hiện đúng 2 mệnh lệnh | Dấu hiệu suy giảm nhận thức gợi ý bất thường CT (tiêu chuẩn Hasbun et al.) |
 
-## Nhiễm trùng thần kinh trung ương ở bệnh nhân suy giảm miễn dịch 
+*Nguồn: tiêu chuẩn dự báo bất thường CT sọ ở người lớn nghi viêm màng não của Hasbun et al. (2001, trích dẫn trong Birnbaumer, 2025).*
 
-- Bệnh nhân có nguy cao mắc các tác nhân gây nhiễm trùng cơ hội như:...
-- Tăng WBC và protein CSF ít gặp hơn đáng kể
-- Nhuộm Gram âm tính trong 66% trường hợp 
-- Bệnh nhân trong giai đoạn sớm/cấp của nhiễm HIV có thể gặp acute retroviral syndrome, với đặc điểm CSF phù hợp với viêm màng não vô trùng (Tăng lymphocyte nhẹ, protein tăng nhẹ/bình thường, glucose giảm nhẹ/bình thường)
+**3. Khi nào cần chụp CT sọ trước khi chọc dò?**
 
+Chỉ định CT sọ trước LP khi có **bất kỳ** dấu hiệu nào ở bảng trên, đặc biệt:
 
-## Viêm màng não do nấm 
+- Suy giảm ý thức rõ
+- Dấu thần kinh khu trú mới
+- Phù gai thị
+- Co giật mới xảy ra
+- Suy giảm miễn dịch hoặc tiền sử bệnh lý thần kinh trung ương
 
-- **Màu sắc:** thường trong không màu
+Nếu **không** có các dấu hiệu này, bệnh nhân được xem là an toàn để chọc dò ngay mà không cần chờ CT (Birnbaumer, 2025).
 
-- **Tế bào:**
-    + Dao động trong khoảng từ ...
-    + Thường tăng, có thể tăng đến vài trăm tế bào/uL
-    + PMN ưu thế trong giai đoạn đầu, sau đó chuyển sang Lymphocyte ưu thế, có thể ưu thế eosinophils
+**4. Dấu hiệu gợi ý chênh áp lực nội sọ trên hình ảnh CT** 
 
-- **Glucose:** 
-    + Có thể giảm đáng kể 
+- Lệch đường giữa
+- Mất bể trên yên và bể quanh cuống não
+- Đè đẩy hoặc xóa não thất IV
+- Không thấy được bể tiểu não trên và bể tứ giác (còn bể quanh vẫn thấy)
+- Khối choán chỗ ở hố sau — chống chỉ định mạnh với chọc dò (dù CT hố sau đôi khi khó đánh giá do xảo ảnh xương)
 
-- **Protein:** 
-    + Dao động từ 50 - 250 mg/dL
+**5. Hướng xử trí khi nghi ngờ tăng ICP/choán chỗ nhưng vẫn nghi viêm màng não**
 
-- **Lactate:** 
-    + ...
+1. Không trì hoãn kháng sinh — cấy máu trước, sau đó dùng kháng sinh kinh nghiệm ngay trong lúc chờ CT.
+2. Chụp CT sọ (hoặc MRI) trước khi chọc dò.
+3. Có thể áp dụng các biện pháp hạ áp lực nội sọ trước khi chọc dò nếu cần.
+4. Nếu CT loại trừ tổn thương choán chỗ/chênh áp lực rõ, có thể tiến hành chọc dò sau đó.
 
-- **Với tác nhân Cryptococcal:** 
-    + Lymphocyte ưu thế 
-    + Glucose thường > 40 mg/dL
-    + Protein thường < 40 mg/dL
-    + WBC tăng nheh hoặc bình thường, đặc biệt ở bệnh nhân nhiễm HIV 
 
-- **Các xét nghiệm vi sinh:**
-    + CSF (1-3)-beta-D-glucan (elevated level is 95% to 100% sensitive and 83% to 99% specific)
-    + CSF fungal culture
-    + Gram stain (hyphae)
-    + PCR chỉ có độ nhạy 29%
-    + Đối với tác nhân cryptococcal, cần thực hiện CSF cryptococcal antigen test, India ink capsule
-stain, latex agglutination
+## Đánh giá và xử trí rối loạn đông máu trước chọc dò
 
-## Viêm màng não do kí sinh trùng 
+**1. Đánh giá trước thủ thuật**
 
-- **Màu sắc:** thường trong không màu
+| Cần đánh giá | Chi tiết |
+|---|---|
+| Tiền sử | Đang dùng thuốc kháng đông (warfarin, heparin) hoặc thuốc kháng kết tập tiểu cầu; bệnh lý đông máu bẩm sinh (hemophilia A/B); bệnh gan, suy thận, bệnh lý huyết học (bạch cầu cấp) |
+| Xét nghiệm | Công thức máu (số lượng tiểu cầu), các chỉ số đông máu (PT/INR) khi có tiền sử hoặc lâm sàng nghi ngờ rối loạn đông máu |
+| Ngưỡng tiểu cầu cân nhắc | Giảm tiểu cầu nặng — thường lấy mốc **<50.000/µL** là ngưỡng cần thận trọng/cân nhắc điều chỉnh trước thủ thuật (Sternbach, 1985) |
+| Dữ liệu tham khảo ở bệnh nhân ung thư máu | Ở trẻ bạch cầu cấp dòng lympho, chọc dò tương đối an toàn nếu tiểu cầu **>10 × 10⁹/L**, không cần truyền tiểu cầu dự phòng thường quy ở nhóm này (dựa trên nghiên cứu 5223 lần chọc dò/958 trẻ) (Birnbaumer, 2025) |
 
-- **Tế bào:**
-    + Dao động trong khoảng từ 150 - 2000 tế bào/uL
-    + Tăng eosinophil CSF có thể gặp
-    + Tăng eosinophil máu (> 10 eosinophils/µL or > 10% of total cells)
+**2. Nguyên tắc xử trí**
 
-- **Glucose:** 
-    + Bình thường hoặc giảm nhẹ
+1. **Cân nhắc lợi ích – nguy cơ**: nếu nghi ngờ lâm sàng mạnh về viêm màng não hoặc xuất huyết dưới nhện — bệnh lý có thể điều trị được và cần chẩn đoán xác định — vẫn có thể tiến hành chọc dò dù có rối loạn đông máu, sau khi đã cố gắng điều chỉnh trong giới hạn thời gian cho phép (Sternbach, 1985; Birnbaumer, 2025).
+2. **Điều chỉnh rối loạn đông máu trước thủ thuật nếu điều kiện lâm sàng cho phép**, cụ thể:
 
-- **Protein:** 
-    + Thường tăng
+| Tình trạng | Xử trí trước thủ thuật |
+|---|---|
+| Giảm tiểu cầu nặng | Truyền khối tiểu cầu |
+| Rối loạn đông máu do warfarin | Huyết tương tươi đông lạnh (FFP) + vitamin K |
+| Hemophilia A/B | Bổ sung yếu tố đông máu thiếu hụt trước thủ thuật (chọc dò có thể thực hiện an toàn sau khi đã bù đủ yếu tố) |
+| Kháng đông khác/bệnh gan | Điều chỉnh theo nguyên nhân, huyết tương tươi đông lạnh nếu cần |
 
-- **Lactate:** 
-    + ...
+3. **Kỹ thuật thực hiện**: nên do người có kinh nghiệm thực hiện để giảm nguy cơ tổn thương màng cứng; sử dụng kim cỡ nhỏ khi có thể.
+4. **Theo dõi sau thủ thuật**: ở bệnh nhân có rối loạn đông máu, cần theo dõi sát các dấu hiệu chèn ép tủy/rễ thần kinh do khối máu tụ đang hình thành trong vài giờ đầu sau thủ thuật — đau lưng tiến triển, yếu/mất cảm giác hai chi dưới, rối loạn cơ vòng. Đây là dấu hiệu cần được đánh giá khẩn ngay (Birnbaumer, 2025).
+5. Vai trò truyền bổ sung yếu tố đông máu **sau** thủ thuật (ở bệnh nhân hemophilia) hiện chưa rõ giá trị (Birnbaumer, 2025).
 
-- **Các xét nghiệm vi sinh:** PCR test; enzyme-linked immunosorbent assay for Angiostrongylus cantonensis, Gnathostoma spinigerum, and Baylisascaris
-procyonis. 
-***- Các case nhiễm giun mạch ở khoa Nhiễm thường được chẩn đoán bằng xét nghiệm nào***
+***Lưu ý***
 
+- Traumatic tap (chạm mạch khi chọc dò) ở bệnh nhân đông máu bình thường thường không nguy hiểm và không cần biện pháp đặc biệt.
+- Ở bệnh nhân có rối loạn đông máu, cần cảnh giác cao hơn dù chỉ là traumatic tap thông thường, vì nguy cơ tiến triển thành máu tụ chèn ép.
 
-## Viêm màng não do lao
 
-- **Màu sắc:** thường trong không màu, khi protein tăng cao có thể khiến CSF có màu vàng chanh
+## Quy trình chọc dò dịch não tuỷ
 
-- **Tế bào:**
-    + Dao động trong khoảng từ 5 - 300 tế bào/uL
-    + Có thể từ 500 - 1000 tế bào trong 20% số ca
-    + PMN ưu thế trong giai đoạn đầu, sau đó chuyển sang lymphocyte ưu thế
+**1. Tư vấn & đồng thuận**
 
-- **Glucose:** 
-    + Giá trị trung vị là 40mg/dL
-    + Glucose giảm thấp hơn nữa khi bệnh ngày càng tiến triển
+| Nội dung | Chi tiết |
+|---|---|
+| Giải thích trước thủ thuật | Giải thích quy trình từng bước trước và trong khi thực hiện giúp giảm lo âu; nhiều bệnh nhân lo lắng do các câu chuyện truyền miệng về biến chứng nặng (Birnbaumer, 2025) |
+| Hỏi tiền sử dị ứng | Hỏi tiền sử dị ứng thuốc tê tại chỗ và dung dịch sát khuẩn trước khi tiến hành |
+| Đồng thuận | Nên có văn bản đồng thuận (informed consent) bất cứ khi nào có thể; hồ sơ cần ghi rõ đã tư vấn về chỉ định, kỹ thuật, lợi ích/nguy cơ, các lựa chọn thay thế, và sự đồng ý của bệnh nhân/người giám hộ |
+| Trường hợp đặc biệt | Bước tư vấn/đồng thuận có thể rút gọn nếu bệnh nhân đang nguy kịch, hoặc bỏ qua nếu bệnh nhân mất năng lực nhận thức và không có người giám hộ hiện diện (Birnbaumer, 2025) |
 
-- **Protein:** 
-    + Thường tăng, dao động từ 100 - 200 mg/dL
-    + Protein có thể tăng cao đến ... gây tắc cống naõ
-    + Trong một số trường hợp, phản ứng viêm mạnh gây tăng protein và fibrin trong CSF, tạo nên lớp cặn mỏng nổi trên bề mặt (“pellicle” appearance) sau khi để yên mẫu CSF trong một thời gian
+**2. Giảm đau / an thần**
 
+| Đối tượng | Biện pháp |
+|---|---|
+| Người lớn, trẻ lớn lo âu | An thần đường tĩnh mạch bằng benzodiazepine (VD: midazolam 0,05–0,075 mg/kg IV) nếu cần |
+| Vị trí chọc dò | Gây tê thấm da và mô dưới da bằng lidocaine 1%, nên dùng dung dịch đã đệm hoặc làm ấm để giảm khó chịu; chỉ tạo nốt sẩn da là **chưa đủ** — cần gây tê cả mô dưới da sâu hơn để giảm đau hiệu quả |
+| Trẻ sơ sinh/nhũ nhi | Trẻ sơ sinh vẫn cảm nhận đau; có thể dùng kem gây tê tại chỗ EMLA để giảm đau khi đâm kim mà không gây bất ổn sinh lý hay khó thực hiện thủ thuật hơn |
+| An thần ở trẻ | Cân nhắc an thần nếu trẻ quá lo âu, nhưng **thận trọng/tương đối chống chỉ định** ở trẻ lơ mơ, đường thở chưa được bảo vệ, hoặc huyết động không ổn định |
+| Theo dõi | Ở trẻ nhũ nhi có bệnh tim phổi nặng, cần theo dõi trong suốt thủ thuật; có thể tiền oxy hóa (preoxygenation) kèm/không kèm đo SpO2 |
 
-- **Lactate:** 
-    + ...
+*(Birnbaumer, 2025)*
 
-- **Các xét nghiệm vi sinh:** 
-    + Multiple cultures with acid-fast stain; 
-    + PCR test (56% sensitive and 98% specific), 
-    + CSF adenosine deaminase (> 10 U per L [166.67nkat per L])
+**3. Tư thế bệnh nhân**
 
+| Tư thế | Đặc điểm |
+|---|---|
+| **Nằm nghiêng (lateral decubitus)** — tư thế chuẩn cho trẻ lớn và người lớn | Đầu gối, hông, cổ gập; lưng vuông góc với mặt giường; vai và hông thẳng hàng vuông góc với bàn; dùng gối kê đầu để giữ đầu ngang trục cột sống; mặt phẳng cứng giúp tránh lệch trục |
+| **Ngồi (sitting position)** | Dễ xác định đường giữa hơn, dùng được cho cả người lớn và trẻ nhũ nhi; **không đo chính xác áp lực mở CSF được** ở tư thế này |
+| Về việc gập cổ | Trái với quan niệm thường gặp, gập cổ **không** giúp ích nhiều cho thủ thuật; gập cổ quá mức có thể gây khó chịu và ở trẻ nhũ nhi có thể **gây cản trở đường thở** — nên hạn chế gập cổ quá mức |
+| Kỹ thuật hỗ trợ | Người phụ giữ bệnh nhân ở tư thế cong lưng (gối gập sát ngực) để mở rộng khoang liên đốt |
 
-## Viêm màng não do giang mai 
+*(Sternbach, 1985; Birnbaumer, 2025)*
 
-- **Màu sắc:** thường trong không màu
+**4. Vô khuẩn**
 
-- **Tế bào:**
-    + Giai đoạn sớm: 10 - 400 tế bào/uL
-    + Giai đoạn muộn; 5 - 100 tế bào/uL
-    + Sau đó giảm dần trong nhiều năm
+| Bước | Nội dung |
+|---|---|
+| Vệ sinh tay & trang bị | Mang găng vô khuẩn |
+| Sát khuẩn da | Sát trùng vùng lưng bằng povidone-iodine và cồn |
+| Trải khăn | Trải khăn vô khuẩn quanh vị trí chọc; bộ dụng cụ thương mại thường có khăn thứ hai với lỗ khoét ở giữa để định vị đúng vị trí chọc |
+| Dụng cụ | Kim chọc tủy sống có thông nòng (stylet) cỡ phù hợp: 20–22G cho người lớn, 22G (2,5 inch) cho trẻ em, 22G (1,5 inch) cho trẻ nhũ nhi — kim đủ độ cứng để thao tác dễ nhưng gây rách màng cứng ít hơn kim lớn |
 
-- **Glucose:** 
-    + Có thể giảm
+*(Sternbach, 1985; Birnbaumer, 2025)*
 
-- **Protein:** 
-    + Thường > 45 mg/dL
 
-- **Lactate:** 
-    + ...
+## Glucose máu cùng lúc chọc dò
 
-- **Các xét nghiệm vi sinh:** 
-    + HIV test, 
-    + CSF Venereal Disease Research Laboratory test (30% to 75% sensitive and 100% specific), 
-    + CSF fluorescent treponemal antibody absorption test (100% sensitive and 50% to 70% specific)
+Glucose trong DNT **có nguồn gốc từ huyết tương** (khuếch tán qua hàng rào máu–não), bình thường bằng khoảng 60–80% nồng độ glucose máu. Vì giá trị glucose DNT đơn độc **không có ý nghĩa chẩn đoán** nếu không biết glucose máu tại cùng thời điểm, nên bắt buộc phải lấy mẫu máu ngay trước (hoặc gần thời điểm) chọc dò để tính **tỷ lệ glucose DNT/glucose máu** — đây mới là thông số có giá trị chẩn đoán (Sternbach, 1985; Shahan et al., 2021).
 
+**1. Giá trị chẩn đoán của tỷ lệ glucose DNT/máu**
 
-## Xuất huyết dưới nhện
+| Thông số | Ngưỡng / ý nghĩa |
+|---|---|
+| Tỷ lệ glucose DNT/máu bình thường | ~0,6 (khoảng 60–80%) |
+| Viêm màng não do vi khuẩn | Glucose DNT thường **giảm** (< 40 mg/dL trong 50–60% trường hợp); tỷ lệ DNT/máu **< 0,4** có độ nhạy 80%, độ đặc hiệu 98% cho viêm màng não vi khuẩn (Shahan et al., 2021) |
+| Viêm màng não do virus | Glucose DNT thường **bình thường** (ngoại lệ: quai bị có thể giảm ~25% trường hợp, herpes simplex/zoster đôi khi giảm nhẹ) (Sternbach, 1985) |
+| Viêm màng não do lao, nấm, ký sinh trùng, ung thư (carcinomatous), xuất huyết dưới nhện, sarcoidosis TKTW | Glucose DNT giảm |
+| Áp xe não, nhiễm trùng cạnh màng não (subdural abscess) | Thường **không** làm giảm glucose DNT — giúp phân biệt với viêm màng não lan tỏa |
+| Glucose DNT tăng | Không có giá trị chẩn đoán |
 
-- Tỷ lệ tử vong từ 20 - 50% 
-- Triệu chứng thường gặp: đau đầu đột ngột dữ dội, nôn ói, sợ ánh sáng, cứng cổ, co giật và thay đổi tri giác 
-- Có ít nhất 50% bệnh nhân xuất huyết dưới nhện đã có các xuất huyết âm thầm, với triệu chứng không rõ ràng trong thời gian từ 2 - 3 tuần trước đó
+*(Sternbach, 1985; Shahan et al., 2021)*
 
-- **Lưu ý về vai trò của CTscan**
-    + Độ nhạy gần đạt 100% trong 6 giờ đầu khởi phát triệu chứng 
-    + Trong 6 - 12 giờ tiếp theo, độ nhạy giảm dần và cần đánh giá CSF để đưa ra chẩn đoán 
-    + Cụ thể là giảm ở mức bao nhiêu ....?
-    + Tại sao càng về sau độ nhạy càng giảm ...?
+**2. Vì sao thời điểm lấy máu quan trọng?**
 
-- **Vai trò của phân tích CSF**
-    + Trong xuất huyết dưới màng nhện, máu đi vào CSF, hồng cầu ly giải giải phóng ra bilirubin khiến CSF có màu vàng (xanthochromia) 
-    + Tuy nhiên không phải lúc nào cũng dễ nhìn thấy bằng mắt thường 
-    + Do đó, cần phân tích quang phổ CSF, ta sẽ phát hiện được đỉnh quang phổ của bilirubin 
-    + Lưu ý: xanthochromia xuất hiện trong 20% số ca trong 6 giờ đầu và 90% số ca sau 12 giờ (vì cần có thời gian để hồng cầu ly giải và giải phóng bilirubin vào CSF). Do đó, khuyến cáo đợi 8 - 12h sau khi khởi phát triệu chứng để phân tích quang phổ CSF 
-    + Xanthochromia có thể tồn tại đến 2 tuần sau sự kiện xuất huyết 
-    + Máu trong chọc dò chạm mạch không đủ thời gian để giải phóng bilirubin tạo nên đỉnh quang phổ 
-    + Các nguyên nhân ngoài xuất huyết gây Xanthochromia
-        * Bilirubin máu > 10 - 15 mg/dL
-        * CSF protein > 150 mg/dL
-        * Chọc dò chạm mạch > 100.000 tế bào/uL
-    + Nghiệm pháp 4 ống 
-        * Đếm số tế bào CSF trong 4 ống nghiệm liên tiếp nhau, nếu số tế bào giảm dần thì gợi ý máu trong CSF có nguồn gốc từ chạm mạch 
-        * Tuy nhiên nghiệm pháp này không đáng tin vì: 
-            - Xuất huyết não vẫn có thể gây nên hiện tượng trên 
-            - Xuất huyết não đi kèm với chọc dò chạm mạch gây khó khăn trong phân tích
-    + Máu đông hay không đông trong phân tích CSF
-        * Không đọc thấy đề cập đến tình trạng máu đông/không đông gợi ý xuất huyết não 
-        * Quy trình chuẩn trong phân tích máu đông/không đông là gì 
-        * Có truường hợp nào: máu đông những vẫn là xuất huyết não và máu không đông nhưng là chạm mạch không 
+- Glucose DNT phản ánh glucose máu với độ trễ do cần thời gian cân bằng qua hàng rào máu–não → glucose máu dao động nhanh hơn (VD: sau ăn, sau truyền dịch có dextrose) có thể khiến tỷ lệ bị sai lệch nếu mẫu máu lấy không cùng thời điểm với chọc dò.
+- Dịch truyền tĩnh mạch có chứa dextrose trước thủ thuật có thể làm glucose máu tăng giả tạo, khiến tỷ lệ DNT/máu bị đánh giá thấp hơn thực tế mức độ nghiêm trọng của bệnh (Shahan et al., 2021).
+- Vì vậy, mẫu máu cần được lấy **ngay trước (hoặc rất gần) thời điểm chọc dò**, tốt nhất là trước khi truyền dịch có đường, để đảm bảo tỷ lệ phản ánh đúng tình trạng bệnh lý tại thời điểm lấy DNT.
 
+**3. Ứng dụng lâm sàng**
 
-## Đặc điểm CSF trong hội chứng Guillain-Barré 
-- **Màu sắc:** thường trong không màu
+Bộ ba glucose DNT thấp + protein DNT tăng cao + tăng bạch cầu DNT (đặc biệt bạch cầu đa nhân trung tính chiếm ưu thế) là bằng chứng gợi ý mạnh viêm màng não vi khuẩn, với ngưỡng có độ chắc chắn >99% khi có bất kỳ tiêu chuẩn nào sau: glucose <34 mg/dL, protein >220 mg/dL, bạch cầu >2.000/µL, hoặc bạch cầu trung tính >1.180/µL (Shahan et al., 2021).
 
-- **Tế bào:**
-    + Bình thường
 
-- **Glucose:** 
-    + ...
+## Xác định các mốc giải phẫu 
 
-- **Protein:** 
-    + Thường tăng cao không tương xứng với mức tăng tế bào (phân ly đạm/tế bào)
-    + Hiện tượng phân ly đạm/tế bào xuất hiện ở 50% số ca trong tuần đầu tiên biểu hiện triệu chứng và 75% số ca vào thời điểm trước 3 tuần biểu hiện triệu chứng 
+**1. Nguyên tắc cốt lõi**
 
-- **Lactate:** 
-    + ...
+Vị trí chọc dò phải nằm **dưới** điểm tận cùng của tủy sống (conus medullaris) để tránh tổn thương tủy sống trực tiếp — kim chỉ được đi vào khoang chứa đuôi ngựa (cauda equina), nơi các rễ thần kinh trôi tự do trong DNT và dễ dàng bị đẩy sang bên bởi kim thay vì bị đâm trúng (Sternbach, 1985; Birnbaumer, 2025).
 
-- **Các xét nghiệm chẩn đoán khác:**
-    + Xuất hiện oligoclonal bands là đặc điểm kinh điển của bệnh đa xơ cứng 
+**2. Mốc giải phẫu chính: đường nối hai mào chậu sau trên**
 
+| Mốc | Ý nghĩa |
+|---|---|
+| Đường thẳng nối hai gai chậu sau trên (posterior-superior iliac crests) | Cắt qua đường giữa cột sống tại khoảng **mỏm gai L4** — đây là mốc kinh điển để xác định khe liên đốt L4-L5 |
+| Cách xác định | Sờ (palpation) hai bên mào chậu, **không dựa vào quan sát bằng mắt** vì dễ sai lệch, đặc biệt ở bệnh nhân béo phì hoặc tư thế không chuẩn |
 
-## Đặc điểm CSF trong bệnh lý ác tính 
+*(Sternbach, 1985; Birnbaumer, 2025)*
 
-- Triệu chứng lâm sàng giống viêm màng não: sốt, đau đầu, sợ ánh sáng, nôn ói, cổ cứng 
-- Đặc điểm CSF giống với viêm màng não do vi khuẩn: 
-    + Giảm glucose
-    + Tăng áp lực mở (opening pressure)
-    + Tăng bạch cầu (WBC)
-    + Tăng protein
-- Chẩn đoán hình ảnh và tế bào học
-    + MRI: độ đặc hiệu chẩn đoán còn hạn chế.
-    + Xét nghiệm tế bào học CSF 1 lần: độ nhạy thấp.
-- Cách cải thiện chẩn đoán
-    + Làm 3 lần chọc dò, mỗi lần lấy lượng lớn (~10 mL) → Tăng độ nhạy lên khoảng 90%.
-    + Flow cytometry giúp tăng độ đặc hiệu.
+**3. Khe liên đốt nên chọn theo từng nhóm tuổi**
+
+| Đối tượng | Điểm tận cùng tủy sống (conus medullaris) | Khe liên đốt khuyến cáo |
+|---|---|---|
+| Người lớn | L1 hoặc thân L2 ở 94% người; L2-L3 ở 6% còn lại | L2-L3 đến L5-S1 (thường dùng nhất: **L3-L4 hoặc L4-L5**) |
+| Trẻ sơ sinh | Tủy sống tận cùng ở mức **L3** khi sinh (thấp hơn người lớn do tủy tăng trưởng chậm hơn ống sống) | **L4-L5 hoặc L5-S1** — nên chọn khe thấp hơn so với người lớn |
+| Trẻ lớn | Tương tự người lớn | L2-L3 đến L5-S1 |
+
+*(Sternbach, 1985; Birnbaumer, 2025)*
+
+> **Nguyên tắc an toàn:** không bao giờ chọc ở khe cao hơn L2-L3 vì nguy cơ chạm vào đầu dưới tủy sống thật sự; luôn ưu tiên khe thấp nhất có thể sờ được rõ ràng, đặc biệt ở trẻ nhũ nhi.
+
+**4. Cách xác định đường giữa và khe liên đốt cụ thể**
+
+1. Sờ hai mào chậu sau trên, xác định đường nối hai điểm này (tương ứng L4).
+2. Sờ dọc theo cột sống để tìm khe liên đốt rõ ràng nhất ngay tại hoặc lân cận đường này (L3-L4 hoặc L4-L5).
+3. Nếu khe được chọn ban đầu khó sờ hoặc bị cản trở (dây chằng vôi hóa ở người lớn tuổi), có thể chuyển sang khe liền kề phía trên hoặc dưới — chọn nơi dễ sờ và "mở" nhất khi thăm khám bằng tay.
+4. Kim luôn đi vào **đường giữa**, giữa hai mỏm gai sống liền kề — xác định bằng sờ, không dựa vào quan sát.
+
+**5. Vì sao đi sai vị trí lại nguy hiểm?**
+
+- Chọc quá cao (trên L1-L2 ở người lớn, trên L3 ở trẻ sơ sinh) → nguy cơ tổn thương trực tiếp tủy sống.
+- Không xác định đúng đường giữa → tăng nguy cơ đâm lệch bên, chạm đám rối tĩnh mạch ngoài màng cứng (traumatic tap), đặc biệt nguy hiểm ở bệnh nhân rối loạn đông máu.
+
+
+## Quy trình thực hiện 
+
+**1. Các lớp mô kim đi qua (theo thứ tự)**
+
+Da → mô dưới da → cân thắt lưng-ngực (thoracolumbar fascia) → cơ dựng sống → **dây chằng trên gai (supraspinous ligament)** → **dây chằng liên gai (interspinous ligament)** → **dây chằng vàng (ligamentum flavum)** → khoang ngoài màng cứng → **màng cứng (dura)** → màng nhện (arachnoid) → **khoang dưới nhện** (Birnbaumer, 2025).
+
+**2. Kỹ thuật đưa kim đúng**
+
+| Bước | Kỹ thuật |
+|---|---|
+| Hướng vào | Đâm kim tại đường giữa, giữa hai mỏm gai sống, song song với mặt giường (ở tư thế nằm nghiêng) |
+| Cầm kim | Giữ kim giữa hai ngón cái và ngón trỏ của hai tay để kiểm soát tốt |
+| Góc chếch | Sau khi qua mô dưới da, chỉnh hướng kim chếch đầu 20–30°, **hướng về phía rốn** (umbilicus) — giúp kim đi thuận theo hướng tự nhiên của khe liên đốt |
+| Hướng vát kim (bevel) | Vát kim hướng thẳng lên trần nhà, **song song với trục dọc cột sống** — giúp kim tách sợi màng cứng thay vì cắt ngang, giảm rò rỉ DNT sau khi rút kim |
+| Độ sâu | Màng cứng thường bị xuyên qua khi kim đã vào khoảng 1/2 đến 3/4 chiều dài; ở người béo phì có thể cần đưa gần hết chiều dài kim |
+| Kiểm tra định kỳ | **Rút thông nòng (stylet) thường xuyên** trong quá trình đưa kim để kiểm tra xem đã vào khoang dưới nhện chưa |
+
+*(Sternbach, 1985; Birnbaumer, 2025)*
+
+**3. Dấu hiệu nhận biết đã vào khoang dưới nhện**
+
+- **Cảm giác "sựt/pop"** khi kim xuyên qua dây chằng vàng và màng cứng — do đây là các cấu trúc có sức cản cao hơn mô xung quanh. Lưu ý: cảm giác này **có thể không rõ** nếu dùng kim rất sắc (loại dùng một lần).
+-  **DNT chảy ra khi rút thông nòng** — dấu hiệu xác nhận chắc chắn nhất. DNT bình thường trong suốt, không màu.
+- **Dao động dịch theo nhịp thở và mạch đập** khi gắn manometer — xác nhận kim thực sự nằm trong khoang dưới nhện (không chỉ chạm mà đã thông thương với khoang dịch).
+
+**4. Xử trí các tình huống khi đưa kim**
+
+| Tình huống | Xử trí |
+|---|---|
+| Chạm xương | Rút kim về lớp dưới da, sờ lại đường giữa, xác nhận kim đúng vị trí; hướng kim về phía rốn thường giúp đi đúng khe liên đốt hơn |
+| Chạm xương lần nữa | Rút nhẹ và chỉnh lại góc kim chếch đầu nhiều hơn để tránh mỏm gai dưới |
+| Không thấy dịch chảy ra dù đã đủ độ sâu | Xoay kim 90° (có thể do vát kim áp sát rễ thần kinh gây tắc); nếu vẫn không có dịch, rút gần ra da và chỉnh lại hướng |
+
+*(Birnbaumer, 2025)*
+
+
+## Sai sót kĩ thuật 
+
+| Sai sót kỹ thuật | Hậu quả |
+|---|---|
+| Không đánh giá dấu hiệu tăng ICP/tổn thương choán chỗ trước thủ thuật, bỏ qua CT khi có chỉ định | Nguy cơ thúc đẩy thoát vị não khi rút DNT — biến chứng nặng nhất, có thể tử vong (Sternbach, 1985; Birnbaumer, 2025) |
+| Xác định đường giữa bằng quan sát thay vì sờ nắn | Lệch hướng kim, tăng nguy cơ chạm xương, chạm mạch máu (traumatic tap), thất bại thủ thuật |
+| Chọc ở khe liên đốt quá cao (trên L2-L3 ở người lớn, trên L3 ở trẻ sơ sinh) | Nguy cơ tổn thương trực tiếp tủy sống/nón tủy |
+| Gây tê không đủ sâu (chỉ tạo nốt sẩn da) | Bệnh nhân đau nhiều trong lúc thao tác, dễ cử động gây sai hướng kim |
+| Vát kim hướng sai (không song song trục dọc cột sống) | Kim cắt ngang sợi màng cứng thay vì tách sợi → tăng rò rỉ DNT sau rút kim → tăng nguy cơ đau đầu sau chọc dò |
+| Dùng kim cỡ lớn không cần thiết | Lỗ thủng màng cứng lớn hơn → tăng nguy cơ và mức độ đau đầu sau chọc dò |
+| Không rút thông nòng thường xuyên trong lúc đưa kim | Bỏ lỡ thời điểm vào khoang dưới nhện, dễ đưa kim quá sâu gây tổn thương thêm |
+| Đâm kim quá nhanh, không kiểm soát khi chạm xương | Có thể đâm lệch hướng nhiều, tăng số lần thử, tăng khó chịu và nguy cơ traumatic tap |
+| Đo áp lực mở khi bệnh nhân đang gắng sức/căng thẳng/tư thế ngồi | Kết quả áp lực không chính xác — sai lệch chẩn đoán (đặc biệt quan trọng trong IIH) |
+| Không lấy đủ lượng dịch cần thiết cho các xét nghiệm chỉ định (dừng lấy dịch quá sớm) | Thiếu dữ liệu chẩn đoán, có thể phải chọc dò lại — tăng nguy cơ tích lũy cho bệnh nhân |
+| **Quên đặt lại thông nòng (stylet) trước khi rút kim** | Có thể kéo theo/kẹt rễ thần kinh khi rút kim; nguy cơ đưa mảnh biểu bì vào khoang dưới nhện gây **u biểu bì nội tủy sống (intraspinal epidermoid tumor)** về sau |
+| Gập cổ quá mức ở trẻ nhũ nhi khi đặt tư thế | Có thể gây tắc nghẽn đường thở ở trẻ có đường thở vốn đã yếu |
+| Không lấy mẫu máu glucose cùng thời điểm chọc dò | Không tính được tỷ lệ glucose DNT/máu chính xác → sai lệch trong chẩn đoán viêm màng não vi khuẩn |
+| Không đếm tế bào ở cả ống đầu và ống cuối khi DNT có máu | Không phân biệt được chọc chạm mạch với xuất huyết dưới nhện thật — có thể dẫn đến chẩn đoán nhầm |
+| Thực hiện thủ thuật ở bệnh nhân rối loạn đông máu chưa được điều chỉnh mà không cần thiết cấp bách | Tăng nguy cơ máu tụ ngoài/dưới màng cứng cột sống, chèn ép tủy/rễ thần kinh |
+| Không theo dõi bệnh nhân đủ thời gian sau thủ thuật | Bỏ sót các dấu hiệu biến chứng sớm (đau lưng tiến triển, yếu chi, rối loạn cơ vòng do máu tụ; dấu hiệu thoát vị muộn) |
+
+*(Sternbach, 1985; Birnbaumer, 2025)*
+
+**Sai sót có thể gây hậu quả nghiêm trọng/đe dọa tính mạng**
+
+- Bỏ qua đánh giá tăng ICP/CT trước thủ thuật khi có chỉ định → thoát vị não
+- Thực hiện thủ thuật khi có rối loạn đông máu chưa điều chỉnh (khi không cấp bách) → máu tụ chèn ép tủy
+- Quên đặt lại thông nòng trước khi rút kim → tổn thương rễ thần kinh, u biểu bì
+
+**Sai sót ảnh hưởng đến chất lượng chẩn đoán**
+
+- Không lấy máu glucose cùng thời điểm
+- Không đếm tế bào ống đầu/ống cuối khi có máu
+- Lấy không đủ lượng dịch cho các xét nghiệm cần thiết
+- Đo áp lực sai tư thế/khi bệnh nhân gắng sức
+
+**Sai sót làm tăng khó chịu/biến chứng nhẹ nhưng thường gặp**
+
+- Gây tê không đủ sâu
+- Vát kim sai hướng, dùng kim cỡ lớn không cần thiết → tăng nguy cơ đau đầu sau chọc dò
+
+
+## Phân biệt xuất huyết não và chọc dò chạm mạch
+
+**1. Bối cảnh**
+
+DNT có máu khi chọc dò có thể do hai nguyên nhân hoàn toàn khác nhau: (1) máu đã có sẵn trong khoang dưới nhện trước khi chọc do **xuất huyết dưới nhện (XHDN)** thật sự, hoặc (2) kim chọc **vô tình chạm vào mạch máu** (thường là đám rối tĩnh mạch ngoài màng cứng) trong lúc thao tác — **chọc chạm mạch (traumatic tap)**, hoàn toàn không liên quan đến bệnh lý nội sọ. Phân biệt hai tình huống này có ý nghĩa quyết định hướng chẩn đoán và điều trị tiếp theo.
+
+**2. Phân biệt xuất huyết dưới nhện và chọc dò chạm mạch**
+
+| Đặc điểm | Xuất huyết dưới nhện thật | Chọc dò chạm mạch |
+|---|---|---|
+| Hồng cầu qua các ống nghiệm (ống 1 → ống cuối) | Số lượng **tương đương nhau** ở mọi ống | Số lượng **giảm dần**, dịch trong dần |
+| Ly tâm dịch nổi (supernatant) | **Xanthochromia** — màu vàng/hồng | Trong, không màu |
+| Cơ chế xanthochromia | Hemoglobin đã ly giải từ hồng cầu — cần tối thiểu **2–4 giờ** kể từ lúc xuất huyết mới xuất hiện | Không có (trừ ngoại lệ dưới đây) |
+| Bạch cầu trong DNT | Tăng thật do phản ứng viêm màng não hóa học, không tỷ lệ thuận đơn thuần với hồng cầu | Tăng "giả" do lẫn máu ngoại vi — có thể hiệu chỉnh bằng công thức |
+| Chọc dò lại ở khe cao hơn | Máu vẫn hiện diện tương tự | Dịch thường trong hơn hoặc hết máu |
+| Diễn tiến lâm sàng đi kèm | Đau đầu sét đánh, dấu màng não, có thể rối loạn ý thức | Không nhất thiết có triệu chứng thần kinh tương ứng |
+
+*(Sternbach, 1985; Birnbaumer, 2025)*
+
+**3. Ước tính/hiệu chỉnh bạch cầu "nhiễu" do máu lẫn** 
+
+Khi chọc chạm mạch, một số bạch cầu từ máu ngoại vi sẽ lẫn vào DNT theo tỷ lệ hồng cầu lẫn vào. Có 3 hệ số hiệu chỉnh thường dùng trong lâm sàng:
+
+| Hệ số hiệu chỉnh | Công thức | Đặc điểm |
+|---|---|---|
+| 1 WBC : 500 RBC | Trừ 1 bạch cầu cho mỗi 500 hồng cầu | **Độ đặc hiệu cao nhất** cho việc xác định có tăng bạch cầu thật (nhưng độ nhạy thấp hơn) |
+| 1 WBC : 1000 RBC | Trừ 1 bạch cầu cho mỗi 1000 hồng cầu | Mức trung gian |
+| 1 WBC : 1500 RBC | Trừ 1 bạch cầu cho mỗi 1500 hồng cầu | **Độ nhạy cao nhất** (nhưng độ đặc hiệu thấp hơn) |
+
+*Nguồn: Zhou et al. (2024) — nghiên cứu trên 195 người lớn có chọc dò chạm mạch, độ đặc hiệu dao động 29,2–71,7%, độ nhạy 84,3–97,8% tùy hệ số sử dụng.*
+
+**Lưu ý quan trọng khi áp dụng:**
+
+- Công thức kinh điển hay được dạy: khoảng **1 bạch cầu/mm³ cho mỗi 500–700 hồng cầu/mm³**, chỉ áp dụng khi công thức máu ngoại vi bình thường; nếu có thiếu máu hoặc tăng bạch cầu, cần tính lại theo tỷ lệ bạch cầu/hồng cầu máu ngoại vi thực tế của bệnh nhân (Sternbach, 1985).
+- Trong nghiên cứu của Zhou et al. (2024), khi số lượng bạch cầu ước tính sau hiệu chỉnh chỉ ở mức **tăng nhẹ (≤20/µL)**, kết quả dương tính giả và âm tính giả xảy ra thường xuyên nhất — nên **diễn giải thận trọng**, không nên chỉ dựa vào một mình con số đã hiệu chỉnh để loại trừ hoàn toàn bệnh lý viêm màng não.
+- Yếu tố gợi ý tăng bạch cầu "giả" (do máu lẫn) nhiều khả năng xảy ra khi: DNT có nhiều máu hơn (RBC cao) và mức tăng bạch cầu ở mức nhẹ — đây là nhóm bệnh nhân mà công thức hiệu chỉnh phát huy giá trị nhất (Zhou et al., 2024).
+
+**4. Xét nghiệm bổ trợ khi vẫn còn nghi ngờ**
+
+| Xét nghiệm | Vai trò |
+|---|---|
+| Đếm tế bào ống 1 và ống cuối (thường ống 3 hoặc 4) | So sánh xu hướng giảm hồng cầu — nền tảng phân biệt cơ bản nhất |
+| Xanthochromia (quan sát mắt thường hoặc quang phổ kế) | Bằng chứng gián tiếp cho máu đã hiện diện ≥2–4 giờ trong khoang dưới nhện |
+| Thời điểm chọc dò so với khởi phát triệu chứng | Nếu chọc quá sớm (<2–4 giờ sau khởi phát nghi XHDN), xanthochromia có thể **chưa kịp xuất hiện** dù có XHDN thật — cân nhắc chọc dò lại muộn hơn nếu lâm sàng vẫn nghi ngờ mạnh |
+| CT sọ không tiêm thuốc | Độ nhạy cao (gần 100%) trong 6 giờ đầu sau khởi phát, giảm dần theo thời gian — nên làm trước hoặc song song để hỗ trợ nhận định |
+
+*(Sternbach, 1985; Birnbaumer, 2025; Shahan et al., 2021)*
+
+
+## TÀI LIỆU THAM KHẢO 
+
+Birnbaumer, D. M. (Ed.). (2025). *Roberts and Hedges' clinical procedures in emergency medicine and acute care* (8th ed.). Elsevier.
+
+Hasbun, R., Abrahams, J., Jekel, J., & Quagliarello, V. J. (2001). Computed tomography of the head before lumbar puncture in adults with suspected meningitis. *The New England Journal of Medicine*, *345*(24), 1727–1733. https://doi.org/10.1056/NEJMoa010399
+
+Shahan, B., Choi, E. Y., & Nieves, G. (2021). Cerebrospinal fluid analysis. *American Family Physician*, *103*(7), 422–428.
+
+Sternbach, G. (1985). Lumbar puncture. *The Journal of Emergency Medicine*, *2*(3), 199–203. https://doi.org/10.1016/0736-4679(85)90118-6
+
+Zhou, R. W., Sangam, K., & Budhram, A. (2024). Clinical utility of CSF correction factors for traumatic lumbar puncture in adults. *Neurology: Clinical Practice*, *14*(1), e200350. https://doi.org/10.1212/CPJ.0000000000200350
