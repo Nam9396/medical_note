@@ -107,7 +107,7 @@
 
 ## Chẩn đoán phân biệt 
 
-### Erythema multiforme (EM) major 
+**Erythema multiforme (EM) major**
 
 - Caused by herpes simplex virus (HSV) infection in most cases and rarely by other viral or bacterial infections or drugs.
 - Onset of acrally distributed, classic, target lesions, which can become bullous centrally
@@ -117,7 +117,7 @@
 - Corticosteroid therapy is not indicated
 - Erythema multiforme resolves spontaneously, leaving only occasional postinflammatory hyperpigmentation
 
-### Stevens-Johnson syndrome/toxic epidermal necrolysis (SJS/TEN)
+**Stevens-Johnson syndrome/toxic epidermal necrolysis (SJS/TEN)**
 
 **1. Bản chất & Phân biệt**
 
@@ -153,7 +153,7 @@
 *   **Mắt tổn thương:** Hội chẩn NHÃN KHOA KHẨN (ngừa mù lòa, xét ghép màng ối).
 *   **Da bong tróc diện rộng:** Chuyển ICU/Bỏng.
 
-### Herpetic gingivostomatitis
+**Herpetic gingivostomatitis**
     
 - Primary herpetic gingivostomatitis is the most common manifestation of primary HSV infection during childhood
 - It is characterized by ulcerative lesions of the gingiva and oral mucosa
@@ -164,12 +164,30 @@
 - **Aphthous ulcers**
 
 
-| Đặc điểm            | MIRM            | EM               | SJS/TEN                 |
-| ------------------- | --------------- | ---------------- | ----------------------- |
-| Tiền triệu hô hấp   | Rất thường gặp  | Ít hơn           | Có thể có               |
-| Tiền sử thuốc       | Không điển hình | Không điển hình  | Rất quan trọng          |
-| Tổn thương niêm mạc | Rất nổi bật     | Ít (EM minor)    | Nặng                    |
-| Ban da              | Ít, rải rác     | Target điển hình | Lan rộng, bong da nhiều |
-| Bong da >30%        | Không           | Không            | Có (TEN)                |
+## So sánh RIME, MIRM, EM major, SJS/TEN
+
+| Tiêu chí | RIME | MIRM | EM major | SJS |
+|---|---|---|---|---|
+| Tác nhân | Nhiễm trùng nói chung (Mycoplasma, Chlamydia pneumoniae, virus hô hấp...) | *Mycoplasma pneumoniae* (phân nhóm của RIME) | Chủ yếu HSV, ít khi Mycoplasma | Chủ yếu do thuốc (sulfonamide, allopurinol, chống động kinh, NSAID) |
+| Niêm mạc | Tổn thương nặng, ≥2 vị trí | Tổn thương nặng, ≥2 vị trí | Có tổn thương, thường 1 vị trí | Tổn thương nặng, ≥2 vị trí |
+| Da | Tối thiểu hoặc không có | Tối thiểu hoặc không có | Target lesion điển hình, đối xứng, ưu thế chi | Dát đỏ, bia bắn không điển hình, ưu thế thân mình |
+| Bong biểu bì (%BSA) | Không đáng kể | Không đáng kể | Không có | <10% |
+| Dấu Nikolsky | Âm tính | Âm tính | Âm tính | Dương tính |
+| Đối tượng | Trẻ em, thanh thiếu niên | Trẻ em, thanh thiếu niên | Mọi lứa tuổi, hay tái phát | Mọi lứa tuổi, sau dùng thuốc mới 1-4 tuần |
+| Tiên lượng | Tốt | Tốt | Lành tính, tự giới hạn | Nặng hơn, cần theo dõi sát |
+
+## So sánh SJS và TEN
+
+| Tiêu chí | SJS | SJS/TEN overlap | TEN |
+|---|---|---|---|
+| %BSA bong biểu bì | <10% | 10-30% | >30% |
+| Tỷ lệ tử vong | ~1-5% | ~10% | ~25-35% |
+| Đặc điểm da | Dát đỏ, bia bắn không điển hình, rải rác | Trung gian | Hoại tử thượng bì lan tỏa, bong mảng lớn giống bỏng nặng |
+| Nikolsky | Dương tính | Dương tính | Dương tính, rất rõ |
+| Biến chứng | Mắt, niêm mạc, sẹo | Trung gian | Mất dịch/điện giải, nhiễm trùng huyết, suy đa cơ quan |
+| Nơi điều trị | Nội trú, theo dõi sát | Nội trú, theo dõi sát | Đơn vị bỏng/ICU |
+| Công cụ tiên lượng | SCORTEN | SCORTEN | SCORTEN |
+
+*Ghi chú: SJS và TEN cùng một phổ bệnh, phân định bằng %BSA bong biểu bì (mốc 10% và 30%).*
 
 
