@@ -68,3 +68,20 @@
 ## Liều TMP - SMX
 
 - General dosing: Infants ≥2 months, Children, and Adolescents: Oral, IV: 8 to 12 mg TMP/kg/day in divided doses every 12 hours; maximum dose: 320 mg TMP/dose 
+
+## So sánh Burkholderia cepacia complex (Bcc) và Burkholderia pseudomallei
+
+| Tiêu chí | Burkholderia cepacia complex (Bcc) | Burkholderia pseudomallei |
+|---|---|---|
+| Phân loại | Phức hợp >20 loài (B. cepacia, B. cenocepacia, B. multivorans, B. vietnamiensis...) | Một loài đơn lẻ |
+| Bệnh gây ra | Nhiễm trùng cơ hội (hô hấp, bệnh viện) | Melioidosis (bệnh Whitmore) |
+| Môi trường sống | Đất, nước, thực vật toàn cầu; đặc biệt môi trường bệnh viện (dung dịch sát khuẩn, thiết bị y tế) | Đất, nước bề mặt vùng nhiệt đới ẩm (Đông Nam Á, Bắc Úc, có Việt Nam) |
+| Dịch tễ | Toàn cầu | Đặc hiệu vùng địa lý nhiệt đới |
+| Đối tượng chính | Bệnh nhân xơ nang (cystic fibrosis), COPD; hiếm gặp ở người khỏe mạnh | Người có yếu tố nguy cơ (ĐTĐ, bệnh thận mạn, nghiện rượu, corticoid) và cả người khỏe mạnh nếu phơi nhiễm lớn |
+| Đường lây | Tiếp xúc nguồn bệnh viện, người-người (đặc biệt giữa bệnh nhân xơ nang), hít phải | Qua da (vết trầy xước), hít bụi/nước, nuốt phải; không lây người-người |
+| Biểu hiện lâm sàng | Nhiễm trùng hô hấp, "Cepacia syndrome" (viêm phổi hoại tử, nhiễm khuẩn huyết), nhiễm trùng bệnh viện (catheter, thở máy) | Đa dạng ("great mimicker"): viêm phổi, áp xe đa cơ quan (gan, lách, thận, tuyến tiền liệt), nhiễm khuẩn huyết, viêm khớp/xương, nhiễm trùng da/mô mềm, viêm não |
+| Mức độ nặng/tử vong | Cao ở bệnh nhân xơ nang có Cepacia syndrome (>60%) | Cao nếu không điều trị đúng, đặc biệt nhiễm khuẩn huyết (40-50% ở vùng thiếu nguồn lực) |
+| Đề kháng kháng sinh | Đa kháng thuốc tự nhiên (polymyxin, aminoglycoside); cần phối hợp (TMP-SMX, meropenem, ceftazidime tùy loài) | Đề kháng tự nhiên (polymyxin, aminoglycoside); phác đồ đặc trưng 2 giai đoạn |
+| Điều trị | Kháng sinh phối hợp, kéo dài tùy tình trạng bệnh nhân | Giai đoạn tấn công TM (Ceftazidime/Meropenem, 2-4 tuần) → duy trì uống (TMP-SMX ± Doxycycline, 3-6 tháng) |
+| Nguy cơ vũ khí sinh học | Không thuộc nhóm này | CDC xếp Tier 1 select agent (tiềm năng vũ khí sinh học) |
+
