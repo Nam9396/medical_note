@@ -1,19 +1,6 @@
 
 # Điều trị viêm màng não do vi khuẩn 
 
-## Giới thiệu 
-
-Viêm màng não do vi khuẩn là một cấp cứu nội khoa với tỷ lệ tử vong và di chứng thần kinh đáng kể nếu không được chẩn đoán và điều trị kịp thời. Tác nhân gây bệnh thay đổi theo nhóm tuổi, đòi hỏi lựa chọn kháng sinh kinh nghiệm phù hợp trước khi có kết quả vi sinh, trong khi thời điểm khởi động kháng sinh là yếu tố quyết định tiên lượng, không được phép trì hoãn vì chờ chọc dò dịch não tủy hay chẩn đoán hình ảnh. Bài giảng này trình bày một cách tiếp cận toàn diện trong điều trị viêm màng não do vi khuẩn ở trẻ em, bao gồm: 
-
-- Chỉ định chọc dò dịch não tủy.
-- Lựa chọn và liều lượng kháng sinh theo tuổi và tác nhân.
-- Vai trò của vancomycin và corticoid hỗ trợ. 
-- Quản lý dịch truyền. 
-- Theo dõi độc tính và đáp ứng điều trị trên lâm sàng và dịch não tủy. 
-- Xử trí thất bại điều trị và biến chứng cấp. 
-- Tiên lượng và di chứng lâu dài. 
-
-
 ## Tác nhân gây bệnh theo nhóm tuổi 
 
 Tác nhân gây bệnh viêm màng não vi khuẩn ở trẻ em thay đổi theo nhóm tuổi, tuỳ thuộc vào hệ miễn dịch, tình trạng chủng ngừa và nguy cơ phơi nhiễm. Vì kháng sinh kinh nghiệm được chọn dựa trên xác suất tác nhân khả dĩ theo tuổi (chứ không chờ kết quả vi sinh), việc nắm vững sự phân bố này là nền tảng bắt buộc trước khi bàn đến bất kỳ phác đồ kháng sinh cụ thể nào.
@@ -772,127 +759,39 @@ Tổng quan hệ thống của de Jonge và cộng sự (2010) xác định các
 Một điểm quan trọng khi tư vấn gia đình đó là nhiều khiếm khuyết thần kinh có xu hướng cải thiện theo thời gian một cách khó dự đoán trước. Ví dụ, trong một đoàn hệ của Kaplan & Kim (2025), liệt được ghi nhận ở 30/235 bệnh nhân (12.4%) ngay sau xuất viện nhưng chỉ còn 5 bệnh nhân ở thời điểm 1 năm; tỷ lệ bất thường thần kinh phát hiện được giảm từ 32.8% lúc xuất viện xuống 11.1% sau 5 năm. Tuy nhiên, cần cân bằng với thực tế là một số di chứng (đặc biệt nhận thức/hành vi) chỉ trở nên rõ ràng muộn hơn khi trẻ lớn lên và đối mặt với yêu cầu học tập cao hơn — không nên diễn giải cải thiện sớm là "khỏi hoàn toàn".
 
 
-## References
-
-- World Health Organization. (2026). *WHO practical manual on meningitis diagnosis, treatment and care*. World Health Organization.
-- Kaplan, S. L., & Kim, K. S. (2025). Bacterial meningitis beyond the neonatal period. In *Feigin and Cherry's textbook of pediatric infectious diseases* (9th ed., pp. 314-338.e7). Elsevier. https://doi.org/10.1016/B978-0-323-82763-8.00031-5
-- de Jonge, R. C., van Furth, A. M., Wassenaar, M., Gemke, R. J., & Terwee, C. B. (2010). Predicting sequelae and death after bacterial meningitis in childhood: A systematic review of prognostic studies. *BMC Infectious Diseases, 10*, 232. https://doi.org/10.1186/1471-2334-10-232
-- Alviz, L. F., Kim, C. Y., Monette, L. E., Harrer, C. E., Benevides-Tadinac, A. C., Roberts, J. A., Varela, F. J., Hwang, S. A., Gebresilassie, B. M., Balcarce, P., Prasad, M., Usseglio, J., Kothari, K. U., Venuti, F., Schiess, N., Binello, N., Brohan, E., Dua, T., & Thakur, K. T. (2026). Detection of sequelae from acute meningitis during clinical review by a healthcare provider: A systematic review and meta-analysis. *BMC Medicine, 24*(1), 142. https://doi.org/10.1186/s12916-026-04627-z
-
 
 ## References
 
-- Wall, E. C., Ajdukiewicz, K. M., Bergman, H., Heyderman, R. S., & Garner, P. (2018). Osmotic therapies added to antibiotics for acute bacterial meningitis. *Cochrane Database of Systematic Reviews, 2*(2), CD008806. https://doi.org/10.1002/14651858.CD008806.pub3
+American Academy of Pediatrics, Committee on Infectious Diseases. (2003). *[CẦN BỔ SUNG — tìm nguồn chính xác cho trích dẫn "Ủy ban Bệnh Nhiễm trùng của Viện Hàn lâm Nhi khoa Hoa Kỳ (2003)" ở mục IDSA/corticoid]*.
 
-## References
-
-- World Health Organization. (2026). *WHO practical manual on meningitis diagnosis, treatment and care*. World Health Organization.
-- Visintin, C., Mugglestone, M. A., Fields, E. J., Jacklin, P., Murphy, M. S., & Pollard, A. J. (2010). Management of bacterial meningitis and meningococcal septicaemia in children and young people: Summary of NICE guidance. *BMJ, 340*, c3209. https://doi.org/10.1136/bmj.c3209
-- Hoen, B., Varon, E., de Debroucker, T., Fantin, B., Grimprel, E., Wolff, M., & Duval, X. (2019). Management of acute community-acquired bacterial meningitis (excluding newborns). Long version with arguments. *Médecine et Maladies Infectieuses, 49*(6), 405–441. https://doi.org/10.1016/j.medmal.2019.03.009
-- Kaplan, S. L., & Kim, K. S. (2025). Bacterial meningitis beyond the neonatal period. In *Feigin and Cherry's textbook of pediatric infectious diseases* (9th ed., pp. 314-338.e7). Elsevier. https://doi.org/10.1016/B978-0-323-82763-8.00031-5
-- Maconochie, I. K., & Bhaumik, S. (2016). Fluid therapy for acute bacterial meningitis. *Cochrane Database of Systematic Reviews, 2016*(11), CD004786. https://doi.org/10.1002/14651858.CD004786.pub5
-
-## References
-
-- World Health Organization. (2026). *WHO practical manual on meningitis diagnosis, treatment and care*. https://www.who.int/publications/i/item/9789240121027
-- Tunkel, A. R., Hartman, B. J., Kaplan, S. L., Kaufman, B. A., Roos, K. L., Scheld, W. M., & Whitley, R. J. (2004). Practice guidelines for the management of bacterial meningitis. *Clinical Infectious Diseases, 39*(9), 1267–1284. https://doi.org/10.1086/425368
-- Hoen, B., Varon, E., de Debroucker, T., Fantin, B., Grimprel, E., Wolff, M., & Duval, X. (2019). Management of acute community-acquired bacterial meningitis (excluding newborns). Long version with arguments. *Médecine et Maladies Infectieuses, 49*(6), 405–441. https://doi.org/10.1016/j.medmal.2019.03.009
-- Visintin, C., Mugglestone, M. A., Fields, E. J., Jacklin, P., Murphy, M. S., & Pollard, A. J. (2010). Management of bacterial meningitis and meningococcal septicaemia in children and young people: Summary of NICE guidance. *BMJ, 340*, c3209. https://doi.org/10.1136/bmj.c3209
-- Kaplan, S. L., & Kim, K. S. (2025). Bacterial meningitis beyond the neonatal period. In *Feigin and Cherry's textbook of pediatric infectious diseases* (9th ed., pp. 314-338.e7). Elsevier. https://doi.org/10.1016/B978-0-323-82763-8.00031-5
-- Brouwer, M. C., McIntyre, P., Prasad, K., & van de Beek, D. (2015). Corticosteroids for acute bacterial meningitis. *Cochrane Database of Systematic Reviews, 2015*(9), CD004405. https://doi.org/10.1002/14651858.CD004405.pub5
-- Molyneux, E. M., Walsh, A. L., Forsyth, H., Tembo, M., Mwenechanya, J., Kayira, K., Bwanaisa, L., Njobvu, A., Rogerson, S., & Malenga, G. (2002). Dexamethasone treatment in childhood bacterial meningitis in Malawi: A randomised controlled trial. *The Lancet, 360*(9328), 211–218. https://doi.org/10.1016/S0140-6736(02)09458-8
-- Tian, C., Jin, S., Zhao, Z., Liu, X., Cheng, H., Wang, X., & Zhao, L. (2022). Association of corticosteroid treatment with outcomes in pediatric patients with bacterial meningitis: A systematic review and meta-analysis of randomized controlled trials. *Clinical Therapeutics, 44*(4), 551–564. https://doi.org/10.1016/j.clinthera.2022.02.008
-- Ogunlesi, T. A., Odigwe, C. C., & Oladapo, O. T. (2015). Adjuvant corticosteroids for reducing death in neonatal bacterial meningitis. *Cochrane Database of Systematic Reviews, 2015*(11), CD010435. https://doi.org/10.1002/14651858.CD010435.pub2
-
-## References
-
-Hoen, B., Varon, E., de Debroucker, T., Fantin, B., Grimprel, E., Wolff, M., & Duval, X. (2019). Management of acute community-acquired bacterial meningitis (excluding newborns). Long version with arguments. *Médecine et Maladies Infectieuses, 49*(6), 405–441. https://doi.org/10.1016/j.medmal.2019.03.009
-
-Tunkel, A. R., Hartman, B. J., Kaplan, S. L., Kaufman, B. A., Roos, K. L., Scheld, W. M., & Whitley, R. J. (2004). Practice guidelines for the management of bacterial meningitis. *Clinical Infectious Diseases, 39*(9), 1267–1284. https://doi.org/10.1086/425368
-
-Visintin, C., Mugglestone, M. A., Fields, E. J., Jacklin, P., Murphy, M. S., & Pollard, A. J. (2010). Management of bacterial meningitis and meningococcal septicaemia in children and young people: Summary of NICE guidance. *BMJ, 340*, c3209. https://doi.org/10.1136/bmj.c3209
-
-World Health Organization. (2026). *WHO practical manual on meningitis diagnosis, treatment and care*. World Health Organization.
-
-## References
-
-Hoen, B., Varon, E., de Debroucker, T., Fantin, B., Grimprel, E., Wolff, M., & Duval, X. (2019). Management of acute community-acquired bacterial meningitis (excluding newborns). Long version with arguments. *Médecine et Maladies Infectieuses, 49*(6), 405–441. https://doi.org/10.1016/j.medmal.2019.03.009
-
-Kaplan, S. L., & Kim, K. S. (2025). Bacterial meningitis beyond the neonatal period. In *Feigin and Cherry's textbook of pediatric infectious diseases* (9th ed., pp. 314-338.e7). Elsevier. https://doi.org/10.1016/B978-0-323-82763-8.00031-5
-
-## References
-
-Tunkel, A. R., Hartman, B. J., Kaplan, S. L., Kaufman, B. A., Roos, K. L., Scheld, W. M., & Whitley, R. J. (2004). Practice guidelines for the management of bacterial meningitis. *Clinical Infectious Diseases, 39*(9), 1267–1284. https://doi.org/10.1086/425368
-
-World Health Organization. (2026). *WHO practical manual on meningitis diagnosis, treatment and care*. World Health Organization.
-
-## References
-
-Hoen, B., Varon, E., de Debroucker, T., Fantin, B., Grimprel, E., Wolff, M., & Duval, X. (2019). Management of acute community-acquired bacterial meningitis (excluding newborns). Long version with arguments. *Médecine et Maladies Infectieuses, 49*(6), 405–441. https://doi.org/10.1016/j.medmal.2019.03.009
-
-Tunkel, A. R., Hartman, B. J., Kaplan, S. L., Kaufman, B. A., Roos, K. L., Scheld, W. M., & Whitley, R. J. (2004). Practice guidelines for the management of bacterial meningitis. *Clinical Infectious Diseases, 39*(9), 1267–1284. https://doi.org/10.1086/425368
-
-Visintin, C., Mugglestone, M. A., Fields, E. J., Jacklin, P., Murphy, M. S., & Pollard, A. J. (2010). Management of bacterial meningitis and meningococcal septicaemia in children and young people: Summary of NICE guidance. *BMJ, 340*, c3209. https://doi.org/10.1136/bmj.c3209
-
-World Health Organization. (2026). *WHO practical manual on meningitis diagnosis, treatment and care*. World Health Organization.
-
-## References
-
-Hoen, B., Varon, E., de Debroucker, T., Fantin, B., Grimprel, E., Wolff, M., & Duval, X. (2019). Management of acute community-acquired bacterial meningitis (excluding newborns). Long version with arguments. *Médecine et Maladies Infectieuses, 49*(6), 405–441. https://doi.org/10.1016/j.medmal.2019.03.009
-
-Visintin, C., Mugglestone, M. A., Fields, E. J., Jacklin, P., Murphy, M. S., & Pollard, A. J. (2010). Management of bacterial meningitis and meningococcal septicaemia in children and young people: Summary of NICE guidance. *BMJ, 340*, c3209. https://doi.org/10.1136/bmj.c3209
-
-World Health Organization. (2026). *WHO practical manual on meningitis diagnosis, treatment and care*. World Health Organization.
-
-## References
+Brouwer, M. C., McIntyre, P., Prasad, K., & van de Beek, D. (2015). Corticosteroids for acute bacterial meningitis. *Cochrane Database of Systematic Reviews, 2015*(9), CD004405. https://doi.org/10.1002/14651858.CD004405.pub5
 
 Ciofi degli Atti, M., Esposito, S., Parola, L., Ravà, L., Gargantini, G., & Longhi, R. (2014). In-hospital management of children with bacterial meningitis in Italy. *Italian Journal of Pediatrics, 40*, 87. https://doi.org/10.1186/s13052-014-0087-1
 
-Haydar, S. M., Hallit, S. R., Hallit, R. R., Salameh, P. R., Faddoul, L. J., Chahine, B. A., & Malaeb, D. N. (2019). Adherence to international guidelines for the treatment of meningitis infections in Lebanon. *Saudi Medical Journal, 40*(3), 260–265. https://doi.org/10.15537/smj.2019.3.23965
-
-Hoen, B., Varon, E., de Debroucker, T., Fantin, B., Grimprel, E., Wolff, M., & Duval, X. (2019). Management of acute community-acquired bacterial meningitis (excluding newborns). Long version with arguments. *Médecine et Maladies Infectieuses, 49*(6), 405–441. https://doi.org/10.1016/j.medmal.2019.03.009
-
-Tadesse, B. T., Foster, B. A., Shibeshi, M. S., & Dangiso, H. T. (2017). Empiric treatment of acute meningitis syndrome in a resource-limited setting: Clinical outcomes and predictors of survival or death. *Ethiopian Journal of Health Sciences, 27*(6), 581–588. https://doi.org/10.4314/ejhs.v27i6.3
-
-Tunkel, A. R., Hartman, B. J., Kaplan, S. L., Kaufman, B. A., Roos, K. L., Scheld, W. M., & Whitley, R. J. (2004). Practice guidelines for the management of bacterial meningitis. *Clinical Infectious Diseases, 39*(9), 1267–1284. https://doi.org/10.1086/425368
-
-Visintin, C., Mugglestone, M. A., Fields, E. J., Jacklin, P., Murphy, M. S., & Pollard, A. J. (2010). Management of bacterial meningitis and meningococcal septicaemia in children and young people: Summary of NICE guidance. *BMJ, 340*, c3209. https://doi.org/10.1136/bmj.c3209
-
-World Health Organization. (2026). *WHO practical manual on meningitis diagnosis, treatment and care*. World Health Organization.
-
-## References
-
-Hoen, B., Varon, E., de Debroucker, T., Fantin, B., Grimprel, E., Wolff, M., & Duval, X. (2019). Management of acute community-acquired bacterial meningitis (excluding newborns). Long version with arguments. *Médecine et Maladies Infectieuses, 49*(6), 405–441. https://doi.org/10.1016/j.medmal.2019.03.009
-
-Tunkel, A. R., Hartman, B. J., Kaplan, S. L., Kaufman, B. A., Roos, K. L., Scheld, W. M., & Whitley, R. J. (2004). Practice guidelines for the management of bacterial meningitis. *Clinical Infectious Diseases, 39*(9), 1267–1284. https://doi.org/10.1086/425368
-
-Visintin, C., Mugglestone, M. A., Fields, E. J., Jacklin, P., Murphy, M. S., & Pollard, A. J. (2010). Management of bacterial meningitis and meningococcal septicaemia in children and young people: Summary of NICE guidance. *BMJ, 340*, c3209. https://doi.org/10.1136/bmj.c3209
-
-World Health Organization. (2026). *WHO practical manual on meningitis diagnosis, treatment and care*. World Health Organization.
-
-## References
-
-Visintin, C., Mugglestone, M. A., Fields, E. J., Jacklin, P., Murphy, M. S., & Pollard, A. J. (2010). Management of bacterial meningitis and meningococcal septicaemia in children and young people: Summary of NICE guidance. *BMJ, 340*, c3209. https://doi.org/10.1136/bmj.c3209
-
-World Health Organization. (2026). *WHO practical manual on meningitis diagnosis, treatment and care*. World Health Organization.
-
-## References
-
-Ansari, I., & Pokhrel, Y. (2011). Culture proven bacterial meningitis in children: agents, clinical profile and outcome. *Kathmandu University Medical Journal (KUMJ), 9*(33), 36–40. https://doi.org/10.3126/kumj.v9i1.6260
-
-Biondi, E. A., Lee, B., Ralston, S. L., Winikor, J. M., Lynn, J. F., Dixon, A., & McCulloh, R. (2019). Prevalence of bacteremia and bacterial meningitis in febrile neonates and infants in the second month of life: A systematic review and meta-analysis. *JAMA Network Open, 2*(3), e190874. https://doi.org/10.1001/jamanetworkopen.2019.0874
+de Jonge, R. C., van Furth, A. M., Wassenaar, M., Gemke, R. J., & Terwee, C. B. (2010). Predicting sequelae and death after bacterial meningitis in childhood: A systematic review of prognostic studies. *BMC Infectious Diseases, 10*, 232. https://doi.org/10.1186/1471-2334-10-232
 
 Di Meglio, L., De Luca, M., Cursi, L., Romani, L., Pisani, M., Musolino, A. M., Mercadante, S., Cortazzo, V., Vrenna, G., Bernaschi, P., Bianchi, R., & Lancella, L. (2025). Unraveling pediatric Group A Streptococcus meningitis: Lessons from two case reports and a systematic review. *Microorganisms, 13*(5), 1100. https://doi.org/10.3390/microorganisms13051100
 
 Ghia, C. J., & Rambhad, G. S. (2021). A systematic literature review on the prevalence and etiology of meningitis among critically ill and hospitalized patients in India. *Therapeutic Advances in Infectious Disease, 8*. https://doi.org/10.1177/20499361211046453
 
+Haydar, S. M., Hallit, S. R., Hallit, R. R., Salameh, P. R., Faddoul, L. J., Chahine, B. A., & Malaeb, D. N. (2019). Adherence to international guidelines for the treatment of meningitis infections in Lebanon. *Saudi Medical Journal, 40*(3), 260–265. https://doi.org/10.15537/smj.2019.3.23965
+
+Hoen, B., Varon, E., de Debroucker, T., Fantin, B., Grimprel, E., Wolff, M., & Duval, X. (2019). Management of acute community-acquired bacterial meningitis (excluding newborns). Long version with arguments. *Médecine et Maladies Infectieuses, 49*(6), 405–441. https://doi.org/10.1016/j.medmal.2019.03.009
+
 Kaplan, S. L., & Kim, K. S. (2025). Bacterial meningitis beyond the neonatal period. In *Feigin and Cherry's textbook of pediatric infectious diseases* (9th ed., pp. 314–338.e7). Elsevier. https://doi.org/10.1016/B978-0-323-82763-8.00031-5
 
+Maconochie, I. K., & Bhaumik, S. (2016). Fluid therapy for acute bacterial meningitis. *Cochrane Database of Systematic Reviews, 2016*(11), CD004786. https://doi.org/10.1002/14651858.CD004786.pub5
+
+Molyneux, E. M., Walsh, A. L., Forsyth, H., Tembo, M., Mwenechanya, J., Kayira, K., Bwanaisa, L., Njobvu, A., Rogerson, S., & Malenga, G. (2002). Dexamethasone treatment in childhood bacterial meningitis in Malawi: A randomised controlled trial. *The Lancet, 360*(9328), 211–218. https://doi.org/10.1016/S0140-6736(02)09458-8
+
 Oordt-Speets, A. M., Bolijn, R., van Hoorn, R. C., Bhavsar, A., & Kyaw, M. H. (2018). Global etiology of bacterial meningitis: A systematic review and meta-analysis. *PLoS One, 13*(6), e0198772. https://doi.org/10.1371/journal.pone.0198772
+
+Tadesse, B. T., Foster, B. A., Shibeshi, M. S., & Dangiso, H. T. (2017). Empiric treatment of acute meningitis syndrome in a resource-limited setting: Clinical outcomes and predictors of survival or death. *Ethiopian Journal of Health Sciences, 27*(6), 581–588. https://doi.org/10.4314/ejhs.v27i6.3
 
 Tunkel, A. R., Hartman, B. J., Kaplan, S. L., Kaufman, B. A., Roos, K. L., Scheld, W. M., & Whitley, R. J. (2004). Practice guidelines for the management of bacterial meningitis. *Clinical Infectious Diseases, 39*(9), 1267–1284. https://doi.org/10.1086/425368
 
 Vallejo, J. G., Cain, A. N., Mason, E. O., Kaplan, S. L., & Hultén, K. G. (2017). Staphylococcus aureus central nervous system infections in children. *Pediatric Infectious Disease Journal, 36*(10), 947–951. https://doi.org/10.1097/INF.0000000000001603
 
-World Health Organization. (2026). *WHO practical manual on meningitis diagnosis, treatment and care*. World Health Organization.
+Visintin, C., Mugglestone, M. A., Fields, E. J., Jacklin, P., Murphy, M. S., & Pollard, A. J. (2010). Management of bacterial meningitis and meningococcal septicaemia in children and young people: Summary of NICE guidance. *BMJ, 340*, c3209. https://doi.org/10.1136/bmj.c3209
 
+World Health Organization. (2026). *WHO practical manual on meningitis diagnosis, treatment and care*. World Health Organization.

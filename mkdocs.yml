@@ -5,7 +5,7 @@ theme:
   language: vi
   features:
     - navigation.tabs
-    - navigation.tabs.sticky
+    # - navigation.tabs.sticky
     - navigation.top
     - toc.follow
     - search.suggest
