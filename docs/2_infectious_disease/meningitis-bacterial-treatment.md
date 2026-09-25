@@ -18,7 +18,7 @@ Viêm màng não do vi khuẩn là một cấp cứu nội khoa với tỷ lệ 
 
 Tác nhân gây bệnh viêm màng não vi khuẩn ở trẻ em thay đổi theo nhóm tuổi, tuỳ thuộc vào hệ miễn dịch, tình trạng chủng ngừa và nguy cơ phơi nhiễm. Vì kháng sinh kinh nghiệm được chọn dựa trên xác suất tác nhân khả dĩ theo tuổi (chứ không chờ kết quả vi sinh), việc nắm vững sự phân bố này là nền tảng bắt buộc trước khi bàn đến bất kỳ phác đồ kháng sinh cụ thể nào.
 
-**Bảng 1. Tác nhân gây viêm màng não theo nhóm tuổi**
+**Bảng 1.** Tác nhân gây viêm màng não theo nhóm tuổi
 
 | Nhóm tuổi | Tác nhân thường gặp |
 |---|---|
@@ -59,7 +59,7 @@ Theo WHO (2026), viêm màng não cấp thường khởi phát nhanh với sốt
 
 NICE (Visintin et al., 2010) trình bày một bảng triệu chứng/dấu hiệu chia theo 3 mức độ đặc hiệu tăng dần, áp dụng cho trẻ em và thanh thiếu niên:
 
-**Bảng 2. Triệu chứng/Dấu hiệu gợi ý viêm màng não**
+**Bảng 2.** Triệu chứng/Dấu hiệu gợi ý viêm màng não
 
 | Mức độ | Ví dụ |
 |---|---|
@@ -99,7 +99,7 @@ Theo WHO (2026), chọc dò dịch não tuỷ nên được thực hiện càng 
 
 IDSA (Tunkel et al., 2004) đưa ra một danh sách tiêu chí tương tự nhưng áp dụng cho người lớn, dùng để xác định bệnh nhân cần chụp CT trước chọc dò dịch não tuỷ:
 
-**Bảng 3. Chống chỉ định chọc dò dịch não tuỷ theo IDSA**
+**Bảng 3.** Chống chỉ định chọc dò dịch não tuỷ theo IDSA
 
 | Tiêu chí | Ghi chú |
 |---|---|
@@ -204,7 +204,7 @@ Khi nghi ngờ viêm màng não do vi khuẩn hoặc bệnh não mô cầu xâm 
 
 Kháng sinh kinh nghiệm phải bao phủ được các tác nhân thường gặp nhất theo nhóm tuổi, vì kết quả vi sinh (nhuộm Gram, cấy, PCR) thường chưa có tại thời điểm cho liều đầu tiên. Bộ ba nguồn WHO, IDSA và NICE thống nhất về khung chọn lựa: cephalosporin thế hệ ba (cefotaxime hoặc ceftriaxone) làm nền tảng, cân nhắc thêm ampicillin/amoxicillin khi có nguy cơ *Listeria*, và cân nhắc thêm vancomycin khi có nguy cơ phế cầu kháng thuốc. 
 
-**Bảng 4. Kháng sinh theo kinh nghiệm WHO (2026)**
+**Bảng 4.** Kháng sinh theo kinh nghiệm WHO (2026)
 
 | Nhóm tuổi | Lựa chọn đầu tay | Lựa chọn thứ hai |
 |---|---|---|
@@ -217,7 +217,7 @@ WHO cũng lưu ý: ở khu vực có tỷ lệ tiêm chủng *Haemophilus influe
 
 IDSA (Tunkel et al., 2004) trình bày khuyến cáo tương tự nhưng đưa vancomycin vào phác đồ nền cho mọi nhóm tuổi từ 1 tháng trở lên, phản ánh bối cảnh phế cầu kháng thuốc tại thời điểm ban hành:
 
-**Bảng 5. Kháng sinh theo kinh nghiệm IDSA**
+**Bảng 5.** Kháng sinh theo kinh nghiệm IDSA
 
 | Yếu tố tiên đoán | Tác nhân thường gặp | Kháng sinh kinh nghiệm |
 |---|---|---|
@@ -235,7 +235,7 @@ NICE (Visintin et al., 2010) đưa ra khuyến cáo cụ thể, dễ áp dụng 
 - **Không** phối hợp ceftriaxone cùng lúc với dịch truyền chứa calci (nguy cơ kết tủa); thay vào đó dùng cefotaxime (Visintin et al., 2010).
 
 
-**Bảng 6. So sánh phối hợp kháng sinh giữa các khuyến cáo**
+**Bảng 6.** So sánh phối hợp kháng sinh giữa các khuyến cáo
 
 | Khía cạnh | WHO | IDSA | NICE |
 |---|---|---|---|
@@ -250,7 +250,7 @@ Các nguồn đồng thuận về nguyên tắc chung (cephalosporin thế hệ 
 
 Khi đã xác định được tác nhân gây bệnh và độ nhạy kháng sinh (MIC), điều trị cần được thu hẹp phổ (de-escalation) theo nguyên tắc chung, ngoại trừ một số tình huống đặc biệt (ví dụ não mô cầu không cần thu hẹp do thời gian điều trị vốn đã ngắn). WHO và IDSA đưa ra bảng khuyến cáo theo từng tác nhân cùng thời gian điều trị chuẩn; SPILF bổ sung cách tiếp cận định lượng theo MIC cụ thể (đặc biệt với phế cầu) và lịch trình đánh giá lại điều trị.
 
-**Bảng 7. Khuyến cáo kháng sinh đặc hiệu theo tác nhân WHO (2026)**
+**Bảng 7.** Khuyến cáo kháng sinh đặc hiệu theo tác nhân WHO (2026)
 
 | Tác nhân | Kháng sinh đặc hiệu | Thời gian điều trị |
 |---|---|---|
@@ -270,7 +270,7 @@ Khi đã xác định được tác nhân gây bệnh và độ nhạy kháng si
 
 *Với điều kiện bệnh nhân đã hồi phục lâm sàng (World Health Organization, 2026).
 
-**Bảng 8. IDSA (2004) — kháng sinh theo tác nhân và độ nhạy (MIC)**
+**Bảng 8.** IDSA (2004) — kháng sinh theo tác nhân và độ nhạy (MIC)
 
 | Vi sinh vật, độ nhạy | Điều trị chuẩn | Điều trị thay thế |
 |---|---|---|
@@ -296,7 +296,7 @@ Khi đã xác định được tác nhân gây bệnh và độ nhạy kháng si
 
 WHO và IDSA đều cung cấp bảng liều chi tiết theo nhóm tuổi (sơ sinh phân theo tuần tuổi, trẻ em, người lớn), nhưng WHO trình bày theo hướng thực hành đơn giản hơn (gắn nhãn màu AWaRe) trong khi IDSA chi tiết hơn cho các kháng sinh phổ hẹp/rộng dùng trong các bệnh cảnh đặc biệt. Cả hai nguồn đều lưu ý cần điều chỉnh liều theo chức năng thận/gan và theo dõi nồng độ đáy đối với vancomycin.
 
-**Bảng 9. Liều kháng sinh theo nhóm tuổi WHO (2026)**
+**Bảng 9.** Liều kháng sinh theo nhóm tuổi WHO (2026)
 
 | Kháng sinh | Sơ sinh <1 tuần | Sơ sinh 1–4 tuần | Trẻ em >1 tháng | Người lớn | Liều tối đa | Nhóm AWaRe |
 |---|---|---|---|---|---|---|
@@ -378,7 +378,7 @@ Theo WHO (2026), hồi phục lâm sàng — làm cơ sở để quyết định
 
 IDSA (Tunkel et al., 2004) và SPILF (Hoen et al., 2019) đều dùng mốc 48 giờ (IDSA) hoặc 48–72 giờ (SPILF) sau khi bắt đầu kháng sinh phù hợp làm thời điểm quyết định phân loại đáp ứng:
 
-**Bảng 10. Thời điểm đánh giá đáp ứng lâm sàng**
+**Bảng 10.** Thời điểm đánh giá đáp ứng lâm sàng
 
 | Nguồn | Định nghĩa đáp ứng không thuận lợi | Hành động khi không thuận lợi |
 |---|---|---|
@@ -426,7 +426,7 @@ Theo SPILF (Hoen et al., 2019), mục tiêu chính của xét nghiệm dịch n�
 
 SPILF (Hoen et al., 2019) phân định rõ theo kết cục lâm sàng và tác nhân:
 
-**Bảng 11. Chỉ định chọc dò dịch não tuỷ đánh giá hiệu quả điều trị**
+**Bảng 11.** Chỉ định chọc dò dịch não tuỷ đánh giá hiệu quả điều trị
 
 | Kết cục lâm sàng | Tác nhân | Chỉ định | Thời điểm |
 |---|---|---|---|
@@ -447,7 +447,7 @@ SPILF (Hoen et al., 2019) ghi nhận: thay đổi có ý nghĩa về mặt tế 
 
 Kaplan và Kim (2025) dẫn dữ liệu từ các nghiên cứu thực hiện vào thập niên 1970, khi chọc dò tủy sống thường được thực hiện vào thời điểm kết thúc điều trị. Kết quả cho thấy số lượng bạch cầu và nồng độ protein trong dịch não tủy **nhìn chung chưa trở về hoàn toàn bình thường**, dù bệnh nhân đã hoàn tất phác đồ kháng sinh. Số liệu cụ thể (trung bình ± độ lệch chuẩn, khoảng giá trị) theo tác nhân gây bệnh như sau:
 
-**Bảng 12. Thành phần dịch não tuỷ vào cuối quá trình điều trị**
+**Bảng 12.** Thành phần dịch não tuỷ vào cuối quá trình điều trị
 
 | Tác nhân | Tổng số bạch cầu (tế bào/mm³) | Bạch cầu đa nhân trung tính (%) | Tỷ lệ protein dịch não tủy/máu (mg/dL) | Glucose dịch não tủy (mg/dL) | Tỷ lệ glucose dịch não tủy/máu (%) |
 |---|---|---|---|---|---|
@@ -468,7 +468,7 @@ Như vậy, một số lượng bạch cầu hoặc nồng độ protein dịch 
 
 SPILF (Hoen et al., 2019) phân loại chỉ định chụp hình ảnh học sọ não trong quá trình quản lý bệnh nhân viêm màng não do vi khuẩn thành các nhóm:
 
-**Bảng 12. Chỉ định chụp hình ảnh học sọ não đánh giá đáp ứng điều trị SPILF**
+**Bảng 13.** Chỉ định chụp hình ảnh học sọ não đánh giá đáp ứng điều trị SPILF
 
 | Tình huống | Chỉ định cụ thể | 
 |---|---|

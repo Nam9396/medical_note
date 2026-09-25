@@ -1,0 +1,102 @@
+{
+  // Mẫu gõ tắt cho bài giảng. Gõ tên mẫu rồi Tab (bàn phím ABC),
+  // hoặc Cmd+Shift+P → "Insert Snippet". Tab để nhảy sang ô tiếp theo.
+
+  "Thông tin tác giả (đặt ngay dưới tiêu đề #)": {
+    "scope": "markdown",
+    "prefix": "tacgia",
+    "body": [
+      "<div class=\"article-meta\" markdown>",
+      "<span class=\"article-meta__author\">**ThS. BS. Nguyễn Thanh Nam**</span>",
+      "<span class=\"article-meta__affil\">Bộ môn Nhi, Trường Đại học Khoa học Sức khỏe, ĐHQG-HCM</span>",
+      "<span class=\"article-meta__date\">Cập nhật: ${1:$CURRENT_DATE/$CURRENT_MONTH/$CURRENT_YEAR}</span>",
+      "</div>",
+      "$0"
+    ],
+    "description": "Khối tác giả, đơn vị, ngày cập nhật dưới tên bài giảng"
+  },
+
+  "Hình từ tài liệu (trích nguyên / phỏng theo)": {
+    "scope": "markdown",
+    "prefix": "hinh",
+    "body": [
+      "<figure markdown=\"span\">",
+      "  ![${1:Mô tả nội dung ảnh}](${2:../assets/images/thu-muc/ten-anh.webp}){ ${3|.img-md,.img-sm,.img-lg,.img-full|} }",
+      "  <figcaption markdown=\"span\">**Hình ${4:x}.** ${5:Tên hình}.<br>",
+      "  <span class=\"fig-note\">*Ghi chú.* ${6:Giải thích mũi tên, chữ viết tắt, kỹ thuật chụp/nhuộm}.</span><br>",
+      "  <span class=\"fig-source\">${7|Trích từ,Phỏng theo|} *${8:Tên Sách Viết Hoa Chữ Đầu}* (${9:4th ed.}, tr. ${10:xx}, Hình ${11:xx}), bởi ${12:E. C. Tác giả}, ${13:năm}, ${14:Elsevier}. ${15|Bản quyền năm xxxx thuộc Nhà xuất bản,Giấy phép CC BY 4.0|}.</span></figcaption>",
+      "</figure>",
+      "$0"
+    ],
+    "description": "Hình lấy từ sách/bài báo: tên hình + ghi chú + nguồn & bản quyền"
+  },
+
+  "Hình của tác giả (tự vẽ / tự chụp)": {
+    "scope": "markdown",
+    "prefix": "hinh-tu",
+    "body": [
+      "<figure markdown=\"span\">",
+      "  ![${1:Mô tả nội dung ảnh}](${2:../assets/images/so-do/ten-anh.svg}){ ${3|.img-md,.img-sm,.img-lg,.img-full|} }",
+      "  <figcaption markdown=\"span\">**Hình ${4:x}.** ${5:Tên hình}.<br>",
+      "  <span class=\"fig-source\">Nguồn: tác giả${6: tổng hợp từ Tác giả (năm)}.</span></figcaption>",
+      "</figure>",
+      "$0"
+    ],
+    "description": "Sơ đồ/ảnh tự làm, có thể ghi tài liệu đã dựa vào"
+  },
+
+  "Hình nhiều phần A, B": {
+    "scope": "markdown",
+    "prefix": "hinh-ab",
+    "body": [
+      "<figure class=\"fig-multi\" markdown>",
+      "![A. ${1:Mô tả ảnh A}](${2:../assets/images/thu-muc/anh-a.webp})",
+      "![B. ${3:Mô tả ảnh B}](${4:../assets/images/thu-muc/anh-b.webp})",
+      "",
+      "<figcaption markdown=\"span\">**Hình ${5:x}.** ${6:Tên hình}. **(A)** ${7:mô tả A}. **(B)** ${8:mô tả B}.<br>",
+      "<span class=\"fig-note\">*Ghi chú.* ${9:Kỹ thuật, độ phóng đại, chữ viết tắt}.</span><br>",
+      "<span class=\"fig-source\">${10|Trích từ,Phỏng theo|} *${11:Tên Sách Viết Hoa Chữ Đầu}* (${12:4th ed.}, tr. ${13:xx}, Hình ${14:xx}), bởi ${15:E. C. Tác giả}, ${16:năm}, ${17:Elsevier}. ${18|Bản quyền năm xxxx thuộc Nhà xuất bản,Giấy phép CC BY 4.0|}.</span></figcaption>",
+      "</figure>",
+      "$0"
+    ],
+    "description": "2 ảnh cạnh nhau (màn hình rộng), xếp chồng trên điện thoại"
+  },
+
+  "Hai hình ngang hàng (mỗi hình số riêng)": {
+    "scope": "markdown",
+    "prefix": "hinh-hang",
+    "body": [
+      "<div class=\"fig-row\" markdown>",
+      "",
+      "<figure markdown=\"span\">",
+      "  ![${1:Mô tả ảnh 1}](${2:../assets/images/thu-muc/anh-1.webp})",
+      "  <figcaption markdown=\"span\">**Hình ${3:x}.** ${4:Tên hình 1}.<br>",
+      "  <span class=\"fig-source\">${5|Trích từ,Phỏng theo|} *${6:Tên Sách}* (${7:ed., tr. xx, Hình xx}), bởi ${8:Tác giả}, ${9:năm}, ${10:Nhà xuất bản}. Bản quyền năm ${9} thuộc ${10}.</span></figcaption>",
+      "</figure>",
+      "",
+      "<figure markdown=\"span\">",
+      "  ![${11:Mô tả ảnh 2}](${12:../assets/images/thu-muc/anh-2.webp})",
+      "  <figcaption markdown=\"span\">**Hình ${13:x}.** ${14:Tên hình 2}.<br>",
+      "  <span class=\"fig-source\">${15|Trích từ,Phỏng theo|} *${16:Tên Sách}* (${17:ed., tr. xx, Hình xx}), bởi ${18:Tác giả}, ${19:năm}, ${20:Nhà xuất bản}. Bản quyền năm ${19} thuộc ${20}.</span></figcaption>",
+      "</figure>",
+      "",
+      "</div>",
+      "$0"
+    ],
+    "description": "2 hình riêng biệt nằm cạnh nhau trên máy tính, xếp chồng trên điện thoại"
+  },
+
+  "Ảnh bệnh nhân": {
+    "scope": "markdown",
+    "prefix": "hinh-bn",
+    "body": [
+      "<figure markdown=\"span\">",
+      "  ![${1:Mô tả dấu hiệu lâm sàng}](${2:../assets/images/lam-sang/ten-anh.webp}){ ${3|.img-md,.img-sm,.img-lg,.img-full|} }",
+      "  <figcaption markdown=\"span\">**Hình ${4:x}.** ${5:Tên hình}.<br>",
+      "  <span class=\"fig-source\">Ảnh của tác giả, đã có đồng ý bằng văn bản của ${6|người giám hộ,bệnh nhân|} và đã ẩn danh.</span></figcaption>",
+      "</figure>",
+      "$0"
+    ],
+    "description": "Ảnh bệnh nhân: ghi rõ đồng ý và ẩn danh"
+  }
+}

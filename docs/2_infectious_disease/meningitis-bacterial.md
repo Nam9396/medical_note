@@ -1,6 +1,12 @@
 
 # Viêm màng não do vi khuẩn
 
+<div class="article-meta" markdown>
+<span class="article-meta__author">**ThS. BS. Nguyễn Thành Nam**</span>
+<span class="article-meta__affil">Bộ môn Nhi, Trường Đại học Khoa học Sức khỏe, ĐHQG-HCM</span>
+<span class="article-meta__date">Cập nhật: 25/09/2026</span>
+</div>
+
 ## Giới thiệu
 
 Viêm màng não do vi khuẩn là một cấp cứu nhi khoa cần được nhận biết và điều trị sớm. Triệu chứng của bệnh có thể thay đổi nhanh chóng từ sốt, lừ đừ, nôn ói sang tổn thương thần kinh không hồi phục hoặc tử vong. Trên phạm vi toàn cầu, viêm màng não vẫn là một trong những nguyên nhân gây tử vong hàng đầu ở trẻ em và để lại di chứng thần kinh ở khoảng một nửa số trẻ sống sót — bao gồm khiếm khuyết trí tuệ, rối loạn hành vi và điếc (Fitzwater et al., 2013). Tại các quốc gia thuộc vành đai viêm màng não châu Phi, tỷ lệ tử vong có thể lên đến 6,6–10,0%, và 20% người sống sót gánh chịu di chứng thần kinh vĩnh viễn (Weyori et al., 2023). Ngay cả ở những khu vực đã triển khai vắc-xin cộng hợp rộng rãi, viêm màng não vẫn được xem là "chẩn đoán không được phép bỏ sót" trong thực hành nhi khoa hiện đại (Skar et al., 2024).
@@ -18,7 +24,7 @@ Trong bài giảng này, chúng ta sẽ lần lượt trả lời những câu h
 
 Các tác nhân vi khuẩn thường gặp nhất gây viêm màng não mắc phải trong cộng đồng, ở mọi lứa tuổi, là  *Streptococcus pneumoniae, Neisseria meningitidis, và Haemophilus influenzae type b*, lây truyền chủ yếu qua đường không khí (giọt bắn hô hấp trực tiếp). Ngoài ra, Tổ chức Y tế Thế giới (WHO) cũng liệt kê thêm *Mycobacterium tuberculosis complex* như một nguyên nhân cần cân nhắc trong bối cảnh dịch tễ phù hợp (WHO, 2026).
 
-**Bảng 1. Tác nhân vi khuẩn gây bệnh theo nhóm tuổi (Skar et al., 2024)**
+**Bảng 1.** Tác nhân vi khuẩn gây bệnh theo nhóm tuổi (Skar et al., 2024)
 
 | Nhóm tuổi | Tác nhân thường gặp |
 |---|---|
@@ -34,7 +40,7 @@ Trẻ dưới 3 tháng tuổi có hệ miễn dịch chưa trưởng thành, ch�
 
 ### Đường lây truyền giữa người với người
 
-**Bảng 2. Đặc điểm lây truyền của các tác nhân gây bệnh (WHO, 2026)**
+**Bảng 2.** Đặc điểm lây truyền của các tác nhân gây bệnh (WHO, 2026)
 
 | Tác nhân | Đường lây truyền chính | Nhóm tuổi bị ảnh hưởng |
 |---|---|---|
@@ -72,6 +78,16 @@ Phần lớn các trường hợp viêm màng não do vi khuẩn phát triển q
 3. **Vượt qua hàng rào máu não**: Vi khuẩn trong dòng máu sau đó vượt qua hàng rào máu não tại các mao mạch não (*S. pneumoniae*, *N. meningitidis*, *E. coli* K1, và liên cầu nhóm B), hoặc qua đám rối màng mạch (choroid plexus) đối với *H. influenzae* type b, *N. meningitidis*. Vi khuẩn vượt hàng rào máu não theo cơ chế xuyên tế bào, qua khe giữa các tế bào, hoặc thông qua các thực bào bị nhiễm khuẩn (cơ chế "ngựa thành Troy" ).
 4. **Viêm màng não và não**.
 
+
+
+<figure markdown="span">
+  ![Vi thể màng não: dịch tiết giàu bạch cầu đa nhân trung tính và các mạch máu dãn](../assets/images/_inbox/meningitis-bacterial-image-2.png)
+  <figcaption markdown="span">**Hình 1.** Viêm màng não cấp: dịch tiết giàu bạch cầu đa nhân trung tính lan tràn màng não, kèm các mạch máu dãn.<br>
+  <span class="fig-note">*Ghi chú.* Ảnh vi thể. ▶: dịch tiết bạch cầu đa nhân trung tính ở màng não; ▲: mạch máu dãn. Nhu mô não vỏ bên phải có phù và viêm khu trú.</span><br>
+  <span class="fig-source">Trích từ *Robbins and Cotran Atlas of Pathology* (4th ed., tr. 524, Hình 19.84), bởi E. C. Klatt, 2021, Elsevier. Bản quyền năm 2021 thuộc Elsevier, Inc.</span></figcaption>
+</figure>
+
+
 Mức độ nhiễm khuẩn huyết cao là yếu tố cần thiết nhưng chưa đủ để gây viêm màng não, sự bám dính và xâm nhập đặc hiệu của vi khuẩn qua hàng rào máu não vẫn là điều kiện tiên quyết cho quá trình xâm nhập vào não.
 
 ### Yếu tố nguy cơ
@@ -95,7 +111,7 @@ tuổi tiêm chủng.
 
 Một báo cáo dựa trên dữ liệu giám sát dân số (mã hóa ICD-9) từ 1997–2010 cho thấy tỷ lệ mắc viêm màng não do phế cầu giảm từ 0,8 ca/100.000 dân (1997) xuống 0,3 ca/100.000 dân (cuối 2010); viêm màng não do não mô cầu giảm từ 0,72 xuống 0,12 ca/100.000 dân (2010); còn viêm màng não do *H. influenzae* gần như không đổi ở mức 0,058 ca/100.000 dân (Kaplan & Kim, 2025).
 
-**Bảng 3. Sự thay đổi trong tỷ lệ mắc của các tác nhân gây bệnh (Kaplan & Kim, 2025)**
+**Bảng 3.** Sự thay đổi trong tỷ lệ mắc của các tác nhân gây bệnh (Kaplan & Kim, 2025)
 
 | Tác nhân | Thay đổi tỷ lệ mắc (Mỹ, 1998–1999 so với 2006–2007) | Ghi chú |
 |---|---|---|
@@ -106,7 +122,7 @@ Một báo cáo dựa trên dữ liệu giám sát dân số (mã hóa ICD-9) t�
 | *L. monocytogenes* | Giảm 46% (từ 0,10 xuống 0,05/100.000) | |
 
 
-??? note "Gánh nặng bệnh vẫn cao ở khu vực thu nhập thấp/trung bình và vành đai viêm màng não châu Phi"
+??? info "Gánh nặng bệnh vẫn cao ở khu vực thu nhập thấp/trung bình và vành đai viêm màng não châu Phi"
 
     Trái ngược với xu hướng giảm tại Mỹ, dữ liệu từ các nước đang phát triển cho thấy bệnh vẫn phổ biến và nặng nề:
 
@@ -125,7 +141,7 @@ Tỉ lệ tử vong ca bệnh ở nhóm CBM là 8,2% (13/158 ca) trong giai đo�
 
 #### Đặc điểm vi sinh
 
-**Bảng ... Phân bố tác nhân gây bệnh viêm màng não ở trẻ em Việt Nam**
+**Bảng 4.** Phân bố tác nhân gây bệnh viêm màng não ở trẻ em Việt Nam
 
 | Giai đoạn / Nghiên cứu | *S. pneumoniae* | *H. influenzae* | *N. meningitidis* | Ghi chú |
 |---|---|---|---|---|
@@ -145,7 +161,7 @@ Song song đó, tỉ lệ ca viêm màng não do phế cầu tăng từ 43% (201
 Theo dõi qua các "kỷ nguyên PCV" (trước PCV10 / PCV10 / PCV13), tỉ lệ ca viêm màng não phế cầu do serotype thuộc PCV10 giảm dần từ 96,2% xuống 76,0% rồi 57,1% (p xu hướng = 0,0032), đồng thời tỉ lệ serotype không thuộc vắc-xin tăng từ 0% lên 8,3–14,3%. Tỉ lệ di chứng ở nhóm ca do serotype PCV10 cũng giảm từ 100% xuống 66,7% rồi 0% qua các kỷ nguyên (Truong et al., 2023).
 
 
-??? note "Bệnh có phổ biến không?"
+??? info "Bệnh có phổ biến không?"
 
     Xét chung, câu trả lời phụ thuộc vào bối cảnh:
 
@@ -196,7 +212,14 @@ Tăng áp lực nội sọ có thể xảy ra ở một số bệnh nhân viêm 
 
 Ngoài ra, ban xuất huyết không mất khi ấn là một dấu chứng điển hình gợi ý tác nhân não mô cầu. Ban có thể là dạng chấm xuất huyết (petechiae) hoặc mảng xuất huyết (purpura); xuất hiện ở thân mình, hai chi dưới, niêm mạc, và ít gặp hơn là ở lòng bàn tay, lòng bàn chân; ban có thể xuất hiện đột ngột hoặc tiến triển dần dần (WHO, 2026).
 
-**Bảng 4. Tần suất các dấu hiệu/triệu chứng theo nhóm tuổi (Kaplan & Kim, 2025)**
+<figure markdown="span">
+  ![Đùi và cẳng chân trẻ nhũ nhi nhiễm não mô cầu: nhiều chấm và mảng xuất huyết tím sẫm](../assets/images/_inbox/meningitis-bacterial-image-4.png)
+  <figcaption markdown="span">**Hình 2.** Ban xuất huyết dạng chấm và mảng ở chi dưới trẻ nhũ nhi nhiễm *N. meningitidis*.<br>
+  <span class="fig-source">Ảnh của tác giả, đã có sự đồng ý của gia đình và đã ẩn danh.</span></figcaption>
+</figure>
+
+
+**Bảng 5.** Tần suất các dấu hiệu/triệu chứng theo nhóm tuổi (Kaplan & Kim, 2025)
 
 | Dấu hiệu | Trẻ nhũ nhi | Trẻ em | Người lớn |
 |---|---|---|---|
@@ -213,7 +236,7 @@ Ngoài ra, ban xuất huyết không mất khi ấn là một dấu chứng đi�
 | Điếc | Không có số liệu | 23–34% | 9% |
 
 
-**Bảng 5. Triệu chứng và phiên giải lâm sàng**
+**Bảng 6.** Triệu chứng và phiên giải lâm sàng
 
 | Dấu hiệu | Ý nghĩa / cơ chế sinh lý bệnh | Tần suất / giá trị chẩn đoán | Lưu ý lâm sàng |
 |---|---|---|---|
@@ -229,7 +252,7 @@ Ngoài ra, ban xuất huyết không mất khi ấn là một dấu chứng đi�
 | **Ban xuất huyết/tử ban (petechiae/purpura)** | Phản ánh viêm mạch máu và đông máu nội mạch lan tỏa, đặc trưng cho não mô cầu huyết | Gặp ở khoảng 50% bệnh nhân viêm màng não do não mô cầu (Kaplan & Kim, 2025), là ban không mất khi ấn (non-blanching) | **Không đặc hiệu tuyệt đối cho não mô cầu** — có thể gặp trong bất kỳ bệnh lý viêm mạch máu nào. Khi xuất hiện cùng sốc và hạ thân nhiệt là **dấu hiệu tiên lượng xấu**, cần xử trí khẩn cấp (Kaplan & Kim, 2025). |
 | **Sốc tuần hoàn** | Diễn ra khi nhiễm khuẩn huyết nặng, phổ biến nhất ở trẻ nhiễm não mô cầu huyết tối cấp | Gặp ở 3,8% trẻ viêm màng não do não mô cầu và 5,5% trẻ viêm màng não do *H. influenzae* trong một nghiên cứu (Kaplan & Kim, 2025) | Là dấu hiệu **báo động đỏ** cần can thiệp cấp cứu ngay. |
 
-!!! note "Chúng ta có thể rút ra những nhận xét gì?"
+??? note "Chúng ta có thể rút ra những nhận xét gì?"
 
     1. **Không có "bằng chứng vắng mặt" trong lâm sàng viêm màng não.** Vắng cứng gáy, vắng thóp phồng, vắng sốt, hay thậm chí vắng toàn bộ dấu hiệu kích thích màng não đều **không loại trừ được chẩn đoán** — đặc biệt ở trẻ nhũ nhi.
     2. **Tuổi càng nhỏ, dấu hiệu kinh điển càng kém tin cậy.** Khoảng cách giữa trẻ nhũ nhi và trẻ em/người lớn là rất lớn đối với hầu hết các dấu hiệu (đặc biệt cứng gáy, nhức đầu) — do đó cần giữ ngưỡng nghi ngờ thấp ở nhóm tuổi này.
@@ -259,7 +282,7 @@ AVPU là một công cụ đánh giá đơn giản hóa mức độ ý thức th
 WHO (2026) nhấn mạnh: **thang AVPU đặc biệt hữu ích ở trẻ em và trẻ nhũ nhi**, và với bất kỳ bệnh nhân nào ở mức P hoặc U, cần can thiệp khẩn cấp để bảo vệ đường thở và đảm bảo hô hấp.
 
 
-??? note "Thang điểm tiên đoán viêm màng não do vi khuẩn"
+??? info "Thang điểm tiên đoán viêm màng não do vi khuẩn"
 
     Khi đối mặt với một ca bệnh nghi ngờ viêm màng não do vi khuẩn, bài toán đặt ra cho bác sĩ là phải cân bằng hai rủi ro đối lập:
 
@@ -291,7 +314,6 @@ WHO (2026) nhấn mạnh: **thang AVPU đặc biệt hữu ích ở trẻ em và
     **Lưu ý quan trọng:** BMS = 0 không loại trừ hoàn toàn VMNVK và không nên dùng đơn độc để quyết định xuất viện khi chưa có kết quả cấy DNT (Tuerlinckx et al., 2012). Đến nay, chưa có thang điểm tiên đoán lâm sàng nào (kể cả BMS) đạt đủ chất lượng phương pháp luận và thẩm định tiến cứu để khuyến cáo áp dụng thường quy; BMS hiện là ứng viên có hiệu năng tốt nhất nhưng cần thận trọng khi dùng trên lâm sàng (Kulik et al., 2013).
 
 
-
 ## Cận lâm sàng
 
 Không có xét nghiệm đơn lẻ nào đủ để chẩn đoán xác định viêm màng não do vi khuẩn — quy trình luôn kết hợp: (1) xét nghiệm dịch não tủy qua chọc dò thắt lưng, (2) xét nghiệm máu hỗ trợ, (3) chẩn đoán hình ảnh sọ não khi có chỉ định, và (4) các dấu ấn sinh học hỗ trợ khi bệnh cảnh dịch não tủy không điển hình. Cấy dịch não tủy vẫn là tiêu chuẩn vàng kinh điển, nhưng PCR ngày càng được công nhận ngang hàng, đặc biệt khi trẻ đã dùng kháng sinh trước chọc dò.
@@ -315,7 +337,7 @@ Xét nghiệm dịch não tủy tối thiểu bao gồm: đếm bạch cầu (k�
 
 Ở trẻ ≥ 3 tháng tuổi, số lượng bạch cầu bình thường dưới 5 bạch cầu/mm³ (Hoen et al., 2019); 95% trẻ trên 3 tháng tuổi không có bạch cầu đa nhân trung tính trong dịch não tủy — sự hiện diện của dù chỉ 1 bạch cầu đa nhân trung tính cũng được xem là bất thường và cần theo dõi sát (Kaplan & Kim, 2025). Cần lưu ý rằng, viêm màng não do vi khuẩn đã được cấy xác định vẫn có thể xảy ra dù dịch não tủy KHÔNG có tăng bạch cầu (pleocytosis). Đây là tình trạng hiếm nhưng đã được ghi nhận nên **không được loại trừ chẩn đoán chỉ vì tế bào dịch não tủy bình thường**.
 
-**Bảng 8. Đặc điểm dịch não tuỷ theo tác nhân gây bệnh (WHO, 2026)**
+**Bảng 7.** Đặc điểm dịch não tuỷ theo tác nhân gây bệnh (WHO, 2026)
 
 | Thông số | Bình thường | Viêm màng não vi khuẩn | Viêm màng não virus | Viêm màng não do lao | Viêm màng não do nấm |
 |---|---|---|---|---|---|
@@ -378,7 +400,7 @@ PCR khuếch đại DNA của vi khuẩn trong dịch não tủy, với các m�
 
 Số liệu độ nhạy và độ đặc hiệu của PCR dao động khá rộng tùy thiết kế nghiên cứu, tiêu chuẩn tham chiếu được chọn, và quần thể nghiên cứu, được tổng hợp trong bảng dưới đây.
 
-**Bảng 9. Tổng hợp kết quả nghiên cứu về giá trị của PCR dịch não tủy**
+**Bảng 8.** Tổng hợp kết quả nghiên cứu về giá trị của PCR dịch não tủy
 
 | Tác giả (năm) | Bối cảnh | Độ nhạy | Độ đặc hiệu | PPV | NPV |
 |---|---|---|---|---|---|
@@ -400,7 +422,7 @@ Theo Hiệp hội Bệnh Nhiễm trùng Hoa Kỳ, độ nhạy của LAT dao đ�
 
 Trong đánh giá ban đầu người bệnh nghi viêm màng não do vi khuẩn, các xét nghiệm máu được chia thành nhóm cốt lõi và nhóm bổ sung tuỳ tình huống lâm sàng. 
 
-**Bảng .. Nhóm xét nghiệm cốt lõi (WHO, 2026)**
+**Bảng 9.** Nhóm xét nghiệm cốt lõi (WHO, 2026)
 
 | Xét nghiệm | Mục đích chính |
 |---|---|
@@ -411,7 +433,7 @@ Trong đánh giá ban đầu người bệnh nghi viêm màng não do vi khuẩn
 | CRP và/hoặc PCT | Hỗ trợ phân biệt viêm màng não do vi khuẩn với nguyên nhân không do vi khuẩn |
 | Xét nghiệm sốt rét (soi hoặc test nhanh) | Ở người sống/đi từ vùng dịch tễ sốt rét |
 
-**Bảng ... Nhóm xét nghiệm máu bổ sung (WHO, 2026)**
+**Bảng 10.** Nhóm xét nghiệm máu bổ sung (WHO, 2026)
 
 | Xét nghiệm | Chỉ định cụ thể |
 |---|---|
@@ -426,7 +448,7 @@ Trong đánh giá ban đầu người bệnh nghi viêm màng não do vi khuẩn
 
 Tổng phân tích tế bào máu (TPTTBM) (bao gồm số lượng bạch cầu ngoại vi, tổng số và công thức bạch cầu) được WHO (2026) vào nhóm xét nghiệm máu cốt lõi cần thực hiện khi nghi ngờ viêm màng não, nhưng giá trị chẩn đoán phân biệt của riêng bạch cầu máu ngoại vi là **thấp và kém tin cậy nhất** trong số xét nghiệm máu thường quy được khảo sát. TPTTBM chủ yếu phục vụ mục đích theo dõi toàn trạng và tiên lượng (một số lượng bạch cầu thấp có thể gợi ý tiên lượng xấu) hơn là để xác định chẩn đoán (Kaplan & Kim, 2025).
 
-**Bảng ... Giá trị chẩn đoán phân biệt của bạch cầu máu ngoại vi**
+**Bảng 11.** Giá trị chẩn đoán phân biệt của bạch cầu máu ngoại vi
 
 | Nghiên cứu | Xét nghiệm | Độ nhạy | Độ đặc hiệu | Ghi chú khác |
 |---|---|---|---|---|
@@ -445,7 +467,7 @@ Procalcitonin (PCT) huyết thanh là dấu ấn sinh học hỗ trợ có độ
 
 Trong nghiên cứu của Kim et al. (2021) ghi nhận PCT huyết thanh có độ chính xác chẩn đoán cao hơn các dấu ấn thông thường khác được đưa vào so sánh, bao gồm CRP huyết thanh (độ nhạy gộp 0,797, độ đặc hiệu gộp 0,725, Diagnostic Odds Ratio - DOR 10,334), bạch cầu máu, cũng như các thông số dịch não tuỷ (bạch cầu, neutrophil, protein, glucose) — không thông số nào trong nhóm so sánh có độ nhạy, độ đặc hiệu hay DOR vượt PCT huyết thanh (Kim et al., 2021). Khi phân tích theo phân nhóm ngưỡng cắt: nhóm dùng các ngưỡng cắt ≤ 0,5 ng/mL (9 nghiên cứu) có độ nhạy gộp cao hơn (0,899 so với 0,831), DOR cao hơn đáng kể (48,157 so với 28,084) và AUC cao hơn (0,935 so với 0,908) so với nhóm dùng các ngưỡng cắt > 0,5 ng/mL, trong khi độ đặc hiệu gộp giữa hai nhóm tương đương.
 
-**Bảng ... Dữ liệu hiệu quả PCT từ các nghiên cứu đơn lẻ**
+**Bảng 12.** Dữ liệu hiệu quả PCT từ các nghiên cứu đơn lẻ
 
 | Nghiên cứu | Ngưỡng cắt PCT | Độ nhạy | Độ đặc hiệu | Ghi chú khác |
 |---|---|---|---|---|
@@ -479,7 +501,27 @@ Chọc dò thắt lưng nhìn chung là thủ thuật an toàn, nhưng trong tr�
 
 Khi có một trong các dấu hiệu này, cần thực hiện chẩn đoán hình ảnh sọ não trước khi chọc dò thắt lưng nhằm loại trừ tổn thương choán chỗ có đẩy lệch đường giữa, não úng thủy tắc nghẽn hoặc phù não nặng. Đồng thời, việc thực hiện chẩn đoán hình ảnh sọ não không được làm trì hoãn khởi động kháng sinh, vốn cần được thực hiện trong vòng một giờ kể từ khi nhập viện (WHO, 2026). 
 
-??? note "Chọc dò thắt lưng và thoát vị não trong viêm màng não do vi khuẩn"
+<div class="fig-row" markdown>
+
+<figure markdown="span">
+  ![Bề mặt vỏ não phù: hồi não rộng và dẹt, rãnh não hẹp](../assets/images/_inbox/meningitis-bacterial-image-3.png)
+  <figcaption markdown="span">**Hình 3.** Phù não: hồi não rộng, dẹt và rãnh não hẹp.<br>
+  <span class="fig-note">*Ghi chú.* Ảnh đại thể. \*: hồi não rộng, dẹt; ◆: rãnh não hẹp.</span><br>
+  <span class="fig-source">Trích từ *Robbins and Cotran Atlas of Pathology* (4th ed., tr. 499, Hình 19.12), bởi E. C. Klatt, 2021, Elsevier. Bản quyền năm 2021 thuộc Elsevier, Inc.</span></figcaption>
+</figure>
+
+
+<figure markdown="span">
+  ![Mặt dưới não: thùy thái dương trong bên trái thoát vị qua bờ lều tiểu não, chèn ép trung não](../assets/images/_inbox/meningitis-bacterial-image-5.png)
+  <figcaption markdown="span">**Hình 4.** Thoát vị thùy thái dương trong (thoát vị hồi móc) bên trái qua lều tiểu não.<br>
+  <span class="fig-note">*Ghi chú.* Ảnh đại thể, mặt dưới não. ▼: bờ lều tiểu não. Thoát vị chèn ép nửa trái trung não, có thể gây liệt dây thần kinh sọ III.</span><br>
+  <span class="fig-source">Trích từ *Robbins and Cotran Atlas of Pathology* (4th ed., tr. 500, Hình 19.14), bởi E. C. Klatt, 2021, Elsevier. Bản quyền năm 2021 thuộc Elsevier, Inc.</span></figcaption>
+</figure>
+
+</div>
+
+
+??? info "Chọc dò thắt lưng và thoát vị não trong viêm màng não do vi khuẩn"
 
     Một bài tổng quan trả lời 8 câu hỏi về mối liên quan giữa chọc dò thắt lưng và thoát vị não trong viêm màng não do vi khuẩn đã đưa ra một số kết luận sau (Joffe, 2007):
     
@@ -504,9 +546,28 @@ Các biến chứng có thể ghi nhận được qua khảo sát hình ảnh h�
 
 Chụp cắt lớp vi tính (Computed Tomography - CT) có tính sẵn có cao cho đánh giá nhanh tình trạng não úng thủy, tổn thương choán chỗ, xuất huyết hoặc phù não cấp trước khi chọc dò thắt lưng (Kaplan & Kim, 2025). Ngược lại, chụp cộng hưởng (Magnetic Resonance Imaging - MRI) từ cần thiết để phát hiện các tổn thương tinh vi hơn, có độ nhạy cao hơn trong đánh giá mức độ lan tràn viêm nhiễm trong khoang dưới nhện, viêm màng não mềm, mủ khoang dưới màng cứng, viêm não thất và nhồi máu não, nhưng khó thực hiện hơn về mặt hậu cần ở bệnh nhân đang trong tình trạng cấp tính nặng (Kaplan & Kim, 2025). 
 
+<div class="fig-row" markdown>
+
+<figure markdown="span">
+  ![Não nhìn nghiêng: lớp dịch tiết mủ trắng đục phủ thân não và tiểu não, màng mềm dày](../assets/images/_inbox/meningitis-bacterial-image.png)
+  <figcaption markdown="span">**Hình 5.** Viêm màng não mủ: lớp dịch tiết mủ dày phủ thân não, tiểu não và làm dày màng mềm.<br>
+  <span class="fig-note">*Ghi chú.* Ảnh đại thể.</span><br>
+  <span class="fig-source">Trích từ *Robbins & Kumar Basic Pathology* (11th ed., tr. 741, Hình 21.16), bởi V. Kumar, A. K. Abbas, J. C. Aster, A. T. Deyrup và A. Das (Eds.), 2023, Elsevier. Bản quyền năm 2023 thuộc Elsevier Inc.</span></figcaption>
+</figure>
+
+<figure markdown="span">
+  ![Lát cắt đứng ngang đại não: các ổ áp xe trong chất trắng thùy trán](../assets/images/_inbox/meningitis-bacterial-image-1.png)
+  <figcaption markdown="span">**Hình 6.** Áp xe não trong chất trắng thùy trán.<br>
+  <span class="fig-note">*Ghi chú.* Ảnh đại thể, lát cắt đứng ngang (coronal). Mũi tên: các ổ áp xe.</span><br>
+  <span class="fig-source">Trích từ *Robbins & Kumar Basic Pathology* (11th ed., tr. 742, Hình 21.17), bởi V. Kumar, A. K. Abbas, J. C. Aster, A. T. Deyrup và A. Das (Eds.), 2023, Elsevier. Bản quyền năm 2023 thuộc Elsevier Inc.</span></figcaption>
+</figure>
+
+</div>
+
+
 Cả chụp CT không cản quang và MRI đều có thể cho kết quả bình thường ở giai đoạn sớm của viêm màng não do vi khuẩn. Sử dụng thuốc cản quang có thể giúp phát hiện tình trạng bắt thuốc ở màng não, tuy nhiên hiện tượng bắt thuốc ở màng não không đặc hiệu cho viêm màng não do vi khuẩn và có thể gặp trong các bệnh lý khác như thâm nhiễm màng não mềm do ung thư. Chuỗi xung MRI xóa tín hiệu dịch (FLAIR) có thể cho thấy tín hiệu cao trong khoang dưới nhện, phản ánh nồng độ protein cao trong dịch não tủy, nhưng dấu hiệu này cũng không đặc hiệu, có thể gặp trong thâm nhiễm màng não mềm do ung thư hoặc xuất huyết dưới nhện (Kaplan & Kim, 2025). 
 
-**Bảng 10. So sánh vai trò của ba phương tiện chẩn đoán hình ảnh**
+**Bảng 13.** So sánh vai trò của ba phương tiện chẩn đoán hình ảnh
 
 | Đặc điểm | Siêu âm qua thóp | Chụp cắt lớp vi tính | Chụp cộng hưởng từ |
 |---|---|---|---|
@@ -523,7 +584,7 @@ Cả chụp CT không cản quang và MRI đều có thể cho kết quả bình
 
 Chẩn đoán viêm màng não do vi khuẩn được xây dựng theo ba mức độ chắc chắn tăng dần, tùy thuộc vào loại bằng chứng đã thu thập được.
 
-**Bảng 11. Định nghĩa ca bệnh viêm màng não do vi khuẩn cấp (Outbreak investigation and response) (WHO, 2025)**
+**Bảng 14.** Định nghĩa ca bệnh viêm màng não do vi khuẩn cấp (Outbreak investigation and response) (WHO, 2025)
 
 | Mức độ | Tiêu chí (Outbreak investigation and response) |
 |---|---|
@@ -564,7 +625,7 @@ Các chẩn đoán phân biệt có thể được chia thành 4 nhóm theo cơ 
 
 Đây là nhóm chẩn đoán phân biệt gần nhất, vì cùng biểu hiện hội chứng màng não (sốt, cứng gáy, đau đầu, thay đổi tri giác) nhưng có căn nguyên, diễn tiến và hướng xử trí khác nhau. Sự phân biệt chủ yếu dựa vào đặc điểm sinh hóa-tế bào của dịch não tủy, trình bày trong bảng dưới đây.
 
-**Bảng 12. Đặc điểm dịch não tuỷ do các tác nhân khác (Kaplan & Kim, 2025)**
+**Bảng 15.** Đặc điểm dịch não tuỷ do các tác nhân khác (Kaplan & Kim, 2025)
 
 | Bệnh lý | Áp lực mở | Bạch cầu dịch não tủy | Tế bào ưu thế | Protein | Glucose | Đặc điểm riêng | Vì sao là chẩn đoán phân biệt |
 |---|---|---|---|---|---|---|---|
@@ -578,7 +639,7 @@ Các chẩn đoán phân biệt có thể được chia thành 4 nhóm theo cơ 
 
 Nhóm này gồm các ổ nhiễm trùng khu trú có thể gây kích thích màng não thứ phát mà không có nhiễm khuẩn lan tỏa trong dịch não tủy, dẫn đến bệnh cảnh lâm sàng chồng lấp với viêm màng não nhưng đặc điểm dịch não tủy khác biệt rõ rệt.
 
-**Bảng 13. Nhiễm trùng khu trú lân cận hệ thần kinh trung ương (Kaplan & Kim, 2025)**
+**Bảng 16.** Nhiễm trùng khu trú lân cận hệ thần kinh trung ương (Kaplan & Kim, 2025)
 
 | Bệnh lý | Bạch cầu dịch não tủy | Tế bào ưu thế | Protein | Glucose | Ghi chú |
 |---|---|---|---|---|---|
@@ -639,7 +700,11 @@ Kaplan, S. L., & Kim, K. S. (2025). Bacterial meningitis beyond the neonatal per
 
 Kim, H., Roh, Y.-H., & Yoon, S.-H. (2021). Blood procalcitonin level as a diagnostic marker of pediatric bacterial meningitis: A systematic review and meta-analysis. *Diagnostics, 11*(5), 846. https://doi.org/10.3390/diagnostics11050846
 
+Klatt, E. C. (2021). *Robbins and Cotran atlas of pathology* (4th ed.). Elsevier.
+
 Kulik, D. M., Uleryk, E. M., & Maguire, J. L. (2013). Does this child have bacterial meningitis? A systematic review of clinical prediction rules for children with suspected bacterial meningitis. *The Journal of Emergency Medicine, 45*(4), 508–519. https://doi.org/10.1016/j.jemermed.2013.03.042
+
+Kumar, V., Abbas, A. K., Aster, J. C., Deyrup, A. T., & Das, A. (Eds.). (2023). *Robbins & Kumar basic pathology* (11th ed.). Elsevier.
 
 Liu, L., Johnson, H. L., Cousens, S., Perin, J., Scott, S., Lawn, J. E., Rudan, I., Campbell, H., Cibulskis, R., Li, M., Mathers, C., Black, R. E., & Child Health Epidemiology Reference Group of WHO and UNICEF. (2012). Global, regional, and national causes of child mortality: An updated systematic analysis for 2010 with time trends since 2000. *The Lancet, 379*(9832), 2151–2161. https://doi.org/10.1016/S0140-6736(12)60560-1
 

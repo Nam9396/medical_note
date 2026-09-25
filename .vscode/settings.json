@@ -1,0 +1,34 @@
+{
+  // ── Ảnh trong bài giảng Markdown ──
+  // Cmd+V (dán) hoặc kéo-thả ảnh vào file .md trong docs/ → ảnh được lưu vào _inbox,
+  // tên file có tiền tố là tên bài đang soạn để dễ nhận ra (vd. meningitis-bacterial-image.png)
+  "markdown.copyFiles.destination": {
+    "docs/**/*.md": "/docs/assets/images/_inbox/${documentBaseName}-${fileName}"
+  },
+  // Trùng tên thì tự đánh số (image-1.png, image-2.png...) thay vì ghi đè
+  "markdown.copyFiles.overwriteBehavior": "nameIncrementally",
+  // Luôn chép ảnh vào dự án khi dán hoặc kéo-thả
+  "markdown.editor.filePaste.enabled": "always",
+  "markdown.editor.filePaste.copyIntoWorkspace": "mediaFiles",
+  "markdown.editor.drop.enabled": "always",
+  "markdown.editor.drop.copyIntoWorkspace": "mediaFiles",
+  // Di chuyển / đổi tên ảnh → hỏi có cập nhật link trong các bài không
+  "markdown.updateLinksOnFileMove.enabled": "prompt",
+  // Gợi ý đường dẫn khi gõ ![](../assets/images/...
+  "markdown.suggest.paths.enabled": true,
+  // Cảnh báo link ảnh / link bài bị hỏng ngay trong VS Code
+  "markdown.validate.enabled": true,
+
+  // ── Mẫu gõ tắt (snippet) trong file .md ──
+  // VS Code mặc định TẮT gợi ý và phím Tab-mở-rộng trong Markdown → bật lại cho dự án này
+  "[markdown]": {
+    "editor.tabCompletion": "on",            // gõ "hinh" rồi Tab → bung mẫu
+    "editor.quickSuggestions": {             // hiện danh sách gợi ý khi đang gõ
+      "other": "on",
+      "comments": "off",
+      "strings": "off"
+    },
+    "editor.snippetSuggestions": "top",      // mẫu của dự án xếp đầu danh sách
+    "editor.wordBasedSuggestions": "off"     // không gợi ý các chữ thường có trong bài (đỡ rối)
+  }
+}
