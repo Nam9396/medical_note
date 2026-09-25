@@ -1,0 +1,546 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=Lora:wght@500;600;700&display=swap');
+
+:root {
+  --md-primary-fg-color: #0ea5e9;
+  --md-primary-fg-color--light: #38bdf8;
+  --md-primary-fg-color--dark: #0284c7;
+  --md-accent-fg-color: #0ea5e9;
+  --md-text-font: "Inter";
+}
+
+/* ── Body ── */
+
+body {
+  background-color: #ffffff;
+}
+
+.md-content p, .md-content li {
+  color: oklch(37.2% 0.044 257.287);
+  line-height: 1.75;
+  font-size: 0.75rem;
+}
+
+/* ── Headings ── */
+
+.md-typeset h1,
+.md-typeset h2,
+.md-typeset h3 {
+  font-family: "Lora", Georgia, "Times New Roman", serif;
+  letter-spacing: -0.01em;
+}
+
+h1 { color: #0f172a !important; font-weight: 700 !important; }
+
+.md-typeset h2 {                       /* Chương: to, đậm nhất, có kẻ */
+  font-size: 1.5em;
+  font-weight: 700 !important;
+  color: #0f172a !important;
+  margin: 2.4em 0 0.8em;
+  padding-bottom: 0.3em;
+  border-bottom: 1px solid #e2e8f0;
+}
+
+.md-typeset h3 {                       /* Mục: vừa, bán đậm */
+  font-size: 1.2em;
+  font-weight: 600 !important;
+  color: #0f172a !important;
+  margin: 1.8em 0 0.5em;
+}
+
+.md-typeset h4 {                       /* Tiểu mục: chữ HOA, đậm, tối, giãn chữ */
+  font-size: 0.85em;
+  font-weight: 700 !important;
+  text-transform: uppercase;
+  letter-spacing: 0.03em;
+  line-height: 1.5;                    /* đủ chỗ cho dấu tiếng Việt khi viết hoa */
+  color: #334155 !important;           /* xám đậm: nhạt hơn H3 một bậc */
+  margin: 1.6em 0 0.5em;
+}
+
+
+
+/* ── Tên bảng (đoạn văn ngay trước bảng): chú thích, không phải tiêu đề ── */
+
+.md-typeset p:has(+ .md-typeset__scrollwrap),
+.md-typeset p:has(+ table) {
+  font-size: 0.68rem;
+  line-height: 1.5;
+  color: #475569;                          /* xám trung tính */
+  margin: 1.6em 0 0.5em;
+}
+
+.md-typeset p:has(+ .md-typeset__scrollwrap) strong,
+.md-typeset p:has(+ table) strong {
+  font-weight: 700;
+  color: #0f172a;                          /* chỉ nhãn "Bảng x." đậm và tối */
+}
+
+/* ── Links ── */
+
+a:hover {
+  color: #0284c7;
+}
+
+/* ── Sidebar nav hover ── */
+
+.md-nav {
+  background-color: #ffffff;
+  color: oklch(70.7% 0.022 261.325)
+}
+
+.md-nav__link {
+  border-radius: 6px;
+  padding: 4px 8px;
+  transition: background-color 0.15s ease, color 0.15s ease;
+}
+
+.md-nav__link:hover {
+  background-color: #f1f5f9;
+  color: #0284c7 !important;
+}
+
+.md-nav__link--active {
+  background-color: #e0f2fe;
+  color: #0284c7 !important;
+  font-weight: 600;
+}
+
+/* ── Content width ── */
+
+.md-content__inner {
+  max-width: 760px;
+  margin: 0 auto;
+}
+
+/* ── Admonition ── */
+
+.md-typeset .admonition {
+  border-radius: 8px;
+  border-left-width: 3px;
+}
+
+/* ── Header trắng ── */
+
+.md-header {
+  background-color: #ffffff;
+  border-bottom: 1px solid #e2e8f0;
+  box-shadow: none;
+  color: #0f172a;
+}
+
+.md-header__title {
+  color: #0f172a;
+}
+
+/* ── Tab hover ── */
+
+.md-tabs {
+  background-color: #ffffff;
+  color: #475569;
+  font-weight: 600;
+}
+
+.md-tabs__link {
+  border-radius: 6px;
+  padding: 4px 8px;
+  transition: background-color 0.15s ease, color 0.15s ease;
+}
+
+.md-tabs__link:hover {
+  background-color: #f1f5f9;
+  color: #0f172a;
+}
+
+.md-tabs__link--active {
+  background-color: #e0f2fe;
+  color: #0284c7 !important;
+  font-weight: 600;
+}
+
+/* ── Search box ── */
+
+.md-search__form {
+  background-color: #ffff !important;
+  border: 1.5px solid #cbd5e1 !important;
+  border-radius: 8px !important;
+  box-shadow: none !important;
+}
+
+.md-search__form:hover,
+.md-search__form:focus-within {
+  border-color: #0ea5e9 !important;
+}
+
+.md-search__input {
+  background-color: transparent !important;
+  color: #0f172a !important;
+}
+
+.md-search__input::placeholder {
+  color: #94a3b8 !important;
+}
+
+.md-search__icon {
+  color: #64748b !important;
+}
+
+/* ── Mobile padding ── */
+
+@media screen and (max-width: 768px) {
+  .md-content__inner {
+    padding: 0 1.2rem !important;
+  }
+  
+  .md-nav__title,
+  .md-nav__item {
+    padding-left: 0.0rem;
+  }
+}
+
+/* ── Bullet bậc 1: chấm tròn đen (giữ nguyên) ── */
+.md-typeset ul > li {
+  list-style-type: disc;
+}
+
+/* ── Bullet bậc 2: gạch ngang ── */
+.md-typeset ul > li > ul > li {
+  list-style-type: "–  ";
+}
+
+/* ── Bullet bậc 3: chấm rỗng ── */
+.md-typeset ul > li > ul > li > ul > li {
+  list-style-type: circle;
+}
+
+
+/* ── Header kính mờ ── */
+.md-header {
+  background-color: rgb(255 255 255 / 0.4);
+  -webkit-backdrop-filter: saturate(180%) blur(14px);
+  backdrop-filter: saturate(180%) blur(14px);
+  border-bottom: 1px solid rgb(226 232 240 / 0.7);
+  box-shadow: none;
+  color: #0f172a;
+}
+
+/* Bóng rất nhẹ khi đã cuộn xuống */
+.md-header--shadow {
+  box-shadow: 0 4px 16px rgb(15 23 42 / 0.06);
+}
+
+.md-header__title {
+  color: #0f172a;
+}
+
+/* ── Tabs: trong suốt để lộ lớp kính của header ── */
+
+.md-tabs {
+  background-color: transparent;
+  color: #475569;
+  font-weight: 600;
+}
+
+/* Ô tìm kiếm hơi trong để đồng bộ hiệu ứng */
+
+.md-search__form {
+  background-color: rgb(255 255 255 / 0.6) !important;
+}
+
+/* ── Menu trái: ẩn, hiện khi rê chuột vào mép trái (chỉ màn hình lớn) ── */
+
+@media screen and (min-width: 76.25em) {
+  .md-sidebar--primary {
+    position: fixed;
+    top: 0;
+    left: 0;
+    z-index: 3;                              /* nằm dưới header, trên nội dung */
+    height: 100vh;
+    width: 12.5rem;
+    padding-top: 5rem;                       /* chừa chỗ cho header + tabs */
+    background-color: rgb(255 255 255 / 0.85);
+    -webkit-backdrop-filter: blur(14px);
+    backdrop-filter: blur(14px);
+    border-right: 1px solid #e2e8f0;
+    transform: translateX(calc(-100% + 14px));   /* chỉ lộ dải 14px */
+    transition: transform 0.25s ease, box-shadow 0.25s ease;
+  }
+
+  /* Hiện ra khi rê chuột hoặc khi dùng phím Tab */
+
+  .md-sidebar--primary:hover,
+  .md-sidebar--primary:focus-within {
+    transform: translateX(0);
+    box-shadow: 6px 0 24px rgb(15 23 42 / 0.08);
+  }
+
+  /* Tay nắm "›" nhô ra ở mép trái: báo cho người đọc biết có menu để rê chuột vào */
+  .md-sidebar--primary::after {
+    content: "›";
+    position: absolute;
+    top: 50%;
+    right: -22px;                            /* nhô ra ngoài mép menu → luôn nhìn thấy */
+    width: 22px;
+    height: 72px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 22px;
+    font-weight: 700;
+    line-height: 1;
+    color: #0284c7;
+    background: #ffffff;
+    border: 1px solid #bae6fd;
+    border-left: none;
+    border-radius: 0 10px 10px 0;
+    box-shadow: 3px 0 10px rgb(2 132 199 / 0.15);
+    transform: translateY(-50%);
+    transition: opacity 0.2s ease, background-color 0.2s ease;
+    animation: menu-hint 1.6s ease-in-out 0.8s 2;   /* nhún nhẹ 2 lần khi mở trang */
+  }
+
+  .md-sidebar--primary:hover::after,
+  .md-sidebar--primary:focus-within::after {
+    opacity: 0;
+  }
+
+  /* Dải mép trái (phần menu còn lộ ra) có màu nhạt để thấy được vùng rê chuột */
+  .md-sidebar--primary {
+    border-right: 2px solid #bae6fd;
+  }
+
+  @keyframes menu-hint {
+    0%, 100% { transform: translateY(-50%) translateX(0); }
+    50%      { transform: translateY(-50%) translateX(5px); }
+  }
+
+  /* Cho menu tự cuộn khi dài */
+  .md-sidebar--primary .md-sidebar__scrollwrap {
+    height: auto !important;
+    max-height: calc(100vh - 6rem);
+    overflow-y: auto;
+  }
+}
+
+/* ── Căn nội dung vào giữa khi menu trái đã ẩn (màn hình lớn) ── */
+
+@media screen and (min-width: 76.25em) {
+  .md-content {
+    padding-left: 3rem;                    /* chỉnh số này để dời nội dung vào nhiều/ít hơn */
+  }
+  .md-content__inner {
+    margin-left: auto !important;          /* ghi đè lề trái mặc định của Material */
+    margin-right: auto !important;
+  }
+}
+
+/* ── Trích dẫn APA (xử lý bởi javascripts/citations.js) ── */
+.md-typeset .cite {
+  font-size: 0.82em;
+  color: #a3adbb;                          /* xám nhạt: mờ hẳn so với nội dung chính */
+  white-space: normal;
+  transition: color 0.15s ease;
+}
+
+/* Rê chuột vào cả cụm trích dẫn → đậm lại để dễ đọc */
+.md-typeset .cite:hover {
+  color: #475569;
+}
+
+.md-typeset .cite a.cite-link,
+.md-typeset a.cite-narrative {
+  color: inherit;
+  text-decoration: none;
+  border-bottom: 1px dotted transparent;   /* ẩn gạch chân để bớt rối; hiện khi rê chuột */
+  transition: color 0.15s ease, border-color 0.15s ease;
+}
+
+.md-typeset .cite a.cite-link:hover,
+.md-typeset a.cite-narrative:hover {
+  color: #0284c7;
+  border-bottom-color: currentColor;
+}
+
+/* Ô bảng chỉ chứa trích dẫn (vd. cột "Tác giả, năm"): giữ cỡ chữ của bảng */
+.md-typeset .cite.cite-cell {
+  font-size: inherit;
+  color: inherit;
+}
+
+/* Mục tài liệu tham khảo: không bị header che khi nhảy tới, tô sáng mục đang xem */
+.md-typeset .ref-entry {
+  scroll-margin-top: 6rem;
+  border-radius: 6px;
+  transition: background-color 0.4s ease;
+}
+
+.md-typeset .ref-entry:target {
+  background-color: #fef9c3;
+  box-shadow: 0 0 0 6px #fef9c3;
+}
+
+/* Chỉ khi chạy mkdocs serve (localhost): đánh dấu trích dẫn không khớp danh mục */
+.cite-debug .md-typeset .cite-unresolved {
+  border-bottom: 2px dashed #f59e0b;
+  cursor: help;
+}
+
+/* ── Tooltip trích dẫn ── */
+.cite-tooltip {
+  position: fixed;
+  z-index: 10;
+  max-width: min(28rem, calc(100vw - 24px));
+  padding: 0.7rem 0.9rem;
+  font-size: 0.68rem;
+  line-height: 1.55;
+  color: #334155;
+  background-color: rgb(255 255 255 / 0.96);
+  -webkit-backdrop-filter: blur(8px);
+  backdrop-filter: blur(8px);
+  border: 1px solid #e2e8f0;
+  border-radius: 8px;
+  box-shadow: 0 10px 30px rgb(15 23 42 / 0.12);
+  opacity: 0;
+  transform: translateY(4px);
+  transition: opacity 0.15s ease, transform 0.15s ease;
+  overflow-wrap: anywhere;                 /* DOI dài không tràn khung */
+}
+
+.cite-tooltip.is-below {
+  transform: translateY(-4px);
+}
+
+.cite-tooltip.is-visible {
+  opacity: 1;
+  transform: translateY(0);
+}
+
+.cite-tooltip a {
+  color: #0284c7;
+}
+
+/* ── Hình ảnh có chú thích: <figure markdown="span"> ... <figcaption> ── */
+
+.md-typeset figure {
+  margin: 1.8em auto;
+}
+
+.md-typeset figure img {
+  border-radius: 6px;
+  border: 1px solid #e2e8f0;               /* viền mảnh để ảnh nền trắng không "tan" vào trang */
+  /* Kích thước mặc định: vừa (≈ 360px), không cao quá 40% màn hình, giữ đúng tỉ lệ */
+  width: auto;
+  height: auto;
+  max-width: min(100%, 18rem);
+  max-height: 40vh;
+}
+
+/* Cỡ tuỳ chọn: thêm { .img-sm } / { .img-lg } / { .img-full } sau link ảnh */
+.md-typeset figure img.img-sm   { max-width: min(100%, 12rem); max-height: 28vh; }
+.md-typeset figure img.img-md   { max-width: min(100%, 18rem); max-height: 40vh; }
+.md-typeset figure img.img-lg   { max-width: min(100%, 28rem); max-height: 60vh; }
+.md-typeset figure img.img-full { max-width: 100%;             max-height: none; }
+
+/* Chú thích hình: cùng kiểu với tên bảng — nhỏ, xám; chỉ nhãn "Hình x." đậm và tối */
+.md-typeset figcaption {
+  max-width: 100%;
+  margin: 0.6em auto 0;
+  font-size: 0.68rem;
+  font-style: normal;                      /* Material mặc định in nghiêng → bỏ */
+  line-height: 1.5;
+  color: #475569;
+  text-align: center;
+}
+
+.md-typeset figcaption strong {
+  font-weight: 700;
+  color: #0f172a;
+}
+
+/* Dòng ghi chú và dòng nguồn trong chú thích hình */
+.md-typeset figcaption .fig-note {
+  font-size: 0.95em;
+  color: #64748b;
+}
+
+.md-typeset figcaption .fig-source {
+  font-size: 0.9em;
+  color: #94a3b8;
+}
+
+/* Bỏ dòng trống thừa giữa ảnh và chú thích (do md_in_html sinh ra) */
+.md-typeset figure > br {
+  display: none;
+}
+
+/* Hình nhiều phần A, B: cạnh nhau trên màn hình rộng, xếp chồng trên điện thoại */
+.md-typeset figure.fig-multi {
+  max-width: 100%;
+}
+
+.md-typeset figure.fig-multi > p {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(14rem, 1fr));
+  gap: 0.8rem;
+  align-items: start;
+  margin: 0;
+}
+
+.md-typeset figure.fig-multi img {
+  width: 100%;
+  max-width: 100%;
+  height: auto;
+  max-height: 50vh;
+  object-fit: contain;
+}
+
+/* Nhiều hình (mỗi hình có số và chú thích riêng) nằm ngang hàng:
+   <div class="fig-row" markdown> <figure>…</figure> <figure>…</figure> </div>
+   Màn hình rộng: cạnh nhau · Điện thoại: tự xếp chồng */
+.md-typeset .fig-row {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(15rem, 1fr));
+  gap: 1.2rem;
+  align-items: start;                      /* các hình canh theo mép trên */
+  margin: 1.8em 0;
+}
+
+.md-typeset .fig-row > figure {
+  margin: 0;
+  width: 100%;
+}
+
+.md-typeset .fig-row > figure img {
+  max-width: 100%;
+  max-height: 40vh;
+}
+
+/* ── Thông tin tác giả dưới tiêu đề bài (khối .article-meta) ── */
+.md-typeset .article-meta {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: baseline;
+  gap: 0.2rem 0.9rem;
+  margin: -0.8em 0 2em;                    /* sát tiêu đề H1 */
+  padding-bottom: 1em;
+  border-bottom: 1px solid #e2e8f0;
+  font-size: 0.7rem;
+  line-height: 1.5;
+  color: #64748b;
+}
+
+.md-typeset .article-meta > p { display: contents; margin: 0; }
+
+.md-typeset .article-meta__author {
+  font-size: 1.05em;
+  color: #1e293b;
+}
+
+.md-typeset .article-meta__author strong { font-weight: 600; }
+
+/* dấu chấm ngăn cách giữa các mục */
+.md-typeset .article-meta__affil::before,
+.md-typeset .article-meta__date::before {
+  content: "·";
+  margin-right: 0.9rem;
+  color: #cbd5e1;
+}
