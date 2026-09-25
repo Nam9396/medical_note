@@ -273,21 +273,45 @@ a:hover {
     box-shadow: 6px 0 24px rgb(15 23 42 / 0.08);
   }
 
-  /* Dấu hiệu nhỏ ở mép trái cho người đọc biết có menu */
-
+  /* Tay nắm "›" nhô ra ở mép trái: báo cho người đọc biết có menu để rê chuột vào */
   .md-sidebar--primary::after {
-    content: "";
+    content: "›";
     position: absolute;
     top: 50%;
-    right: 5px;
-    width: 4px;
-    height: 48px;
-    border-radius: 2px;
-    background: #cbd5e1;
+    right: -22px;                            /* nhô ra ngoài mép menu → luôn nhìn thấy */
+    width: 22px;
+    height: 72px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 22px;
+    font-weight: 700;
+    line-height: 1;
+    color: #0284c7;
+    background: #ffffff;
+    border: 1px solid #bae6fd;
+    border-left: none;
+    border-radius: 0 10px 10px 0;
+    box-shadow: 3px 0 10px rgb(2 132 199 / 0.15);
     transform: translateY(-50%);
-    transition: opacity 0.2s;
+    transition: opacity 0.2s ease, background-color 0.2s ease;
+    animation: menu-hint 1.6s ease-in-out 0.8s 2;   /* nhún nhẹ 2 lần khi mở trang */
   }
-  .md-sidebar--primary:hover::after { opacity: 0; }
+
+  .md-sidebar--primary:hover::after,
+  .md-sidebar--primary:focus-within::after {
+    opacity: 0;
+  }
+
+  /* Dải mép trái (phần menu còn lộ ra) có màu nhạt để thấy được vùng rê chuột */
+  .md-sidebar--primary {
+    border-right: 2px solid #bae6fd;
+  }
+
+  @keyframes menu-hint {
+    0%, 100% { transform: translateY(-50%) translateX(0); }
+    50%      { transform: translateY(-50%) translateX(5px); }
+  }
 
   /* Cho menu tự cuộn khi dài */
   .md-sidebar--primary .md-sidebar__scrollwrap {
