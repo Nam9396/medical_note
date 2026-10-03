@@ -154,7 +154,7 @@ Tỉ lệ tử vong ca bệnh ở nhóm CBM là 8,2% (13/158 ca) trong giai đo�
 
 Vắc-xin phối hợp 5 trong 1 (bạch hầu – ho gà – uốn ván – viêm gan B – Hib) được đưa vào chương trình tiêm chủng mở rộng từ tháng 6/2010. Độ bao phủ vắc-xin Hib duy trì trên 85% trong giai đoạn 2012–2021. Tương ứng, tỉ lệ ca viêm màng não do *H. influenzae* trong số ca CBM giảm mạnh từ 57% (2013) xuống 5% (2017), không còn ca nào được ghi nhận trong các năm 2018, 2019 và 2021 (Truong et al., 2023).
 
-Song song đó, tỉ lệ ca viêm màng não do phế cầu tăng từ 43% (2013) lên trên 94% trong 5 năm liên tiếp (2015–2019).     Vắc-xin phế cầu (PCV10, PCV13) mới chỉ lưu hành ở khu vực dịch vụ tư nhân từ năm 2013 (PCV10, hãng GSK) và 2018 (PCV13, hãng Pfizer), **chưa được đưa vào chương trình tiêm chủng quốc gia**. Trong số ca CBM, chỉ 1,9% có tiền sử tiêm PCV, cho thấy độ bao phủ PCV thực tế còn rất thấp (Truong et al., 2023; Nguyen et al., 2024).
+Song song đó, tỉ lệ ca viêm màng não do phế cầu tăng từ 43% (2013) lên trên 94% trong 5 năm liên tiếp (2015–2019).     Vắc-xin phế cầu (PCV10, PCV13) mới chỉ lưu hành ở khu vực dịch vụ tư nhân từ năm 2013 (PCV10, hãng GSK) và 2018 (PCV13, hãng Pfizer), chưa được đưa vào chương trình tiêm chủng quốc gia. Trong số ca CBM, chỉ 1,9% có tiền sử tiêm PCV, cho thấy độ bao phủ PCV thực tế còn rất thấp (Truong et al., 2023; Nguyen et al., 2024).
 
 Theo dõi qua các "kỷ nguyên PCV" (trước PCV10 / PCV10 / PCV13), tỉ lệ ca viêm màng não phế cầu do serotype thuộc PCV10 giảm dần từ 96,2% xuống 76,0% rồi 57,1%; đồng thời tỉ lệ serotype không thuộc vắc-xin tăng từ 0% lên 8,3–14,3%. Tỉ lệ di chứng ở nhóm ca do serotype PCV10 cũng giảm từ 100% xuống 66,7% rồi 0% qua các kỷ nguyên (Truong et al., 2023).
 
