@@ -1,10 +1,9 @@
 
-# Viêm màng não do vi khuẩn
+# Chẩn đoán viêm màng não do vi khuẩn
 
 <div class="article-meta" markdown>
 <span class="article-meta__author">**ThS. BS. Nguyễn Thành Nam**</span>
 <span class="article-meta__affil">Bộ môn Nhi, Trường Đại học Khoa học Sức khỏe, ĐHQG-HCM</span>
-<span class="article-meta__date">Cập nhật: 25/09/2026</span>
 </div>
 
 ## Giới thiệu
@@ -187,7 +186,8 @@ Chúng ta sẽ tiếp cận các triệu chứng và dấu hiệu của viêm m�
 
 Không có một tổ hợp dấu hiệu và triệu chứng nào có thể xác định chắc chắn bệnh nhân mắc viêm màng não trên lâm sàng. Triệu chứng bệnh thay đổi đáng kể theo tuổi và tác nhân. Ở trẻ nhũ nhi, biểu hiện có thể *kín đáo, không đặc hiệu, hoặc thậm chí vắng mặt hoàn toàn*; trong khi ở trẻ lớn và người lớn, các triệu chứng kinh điển (sốt, đau đầu, cổ gượng, thay đổi tri giác) rõ ràng hơn nhưng *vẫn không hằng định*. 
 
-Nếu bệnh nhân có các triệu chứng sau, đặc biệt khi xuất hiện thành tổ hợp, cần nghĩ đến viêm màng não (WHO, 2026): 
+Nếu bệnh nhân có các triệu chứng sau, đặc biệt khi xuất hiện thành tổ hợp, cần nghĩ đến viêm màng não (WHO, 2026):
+{ #nghi-ngo-vmn-vi-khuan }
 
 - Sốt khởi phát cấp tính (≥ 38,0°C)
 - Đau đầu
@@ -248,7 +248,7 @@ Ngoài ra, ban xuất huyết không mất khi ấn là một dấu hiệu đi�
 | **Phù gai thị** | Biểu hiện muộn của tăng áp lực nội sọ |  - Hiếm gặp trong viêm màng não cấp, do thời gian tăng áp lực còn ngắn tại thời điểm chẩn đoán (Kaplan & Kim, 2025) <br> - Không nên trông chờ dấu hiệu này để nghĩ đến tăng áp lực nội sọ ở giai đoạn cấp; nếu có dấu hiệu này cần nghĩ đến huyết khối xoang tĩnh mạch, mủ dưới màng cứng hoặc áp xe não (Kaplan & Kim, 2025) |
 | **Thay đổi tri giác** | Phản ánh viêm nhu mô não/tăng áp lực nội sọ lan tỏa |  - Tần suất 34–79% ở trẻ nhũ nhi, 53–83% ở trẻ em; tăng nguy cơ viêm màng não do vi khuẩn có ý nghĩa thống kê (Weyori et al., 2023; Kaplan & Kim, 2025) <br> - *Là một trong các dấu hiệu dự đoán có ý nghĩa viêm màng não do vi khuẩn so với nhóm nghi ngờ lâm sàng* (Fitzwater et al., 2013) |
 | **Dấu thần kinh khu trú** | Có thể do huyết khối tĩnh mạch màng não, viêm mạch tắc nghẽn, hoại tử vỏ não |  - Tần suất 4–16% ở trẻ nhũ nhi, 8–34% ở trẻ em (Kaplan & Kim, 2025) <br> - *Có giá trị tiên lượng nặng* liên quan đến khám thần kinh bất thường kéo dài tại các mốc 1, 3, 6 tháng và tại 1 năm, cũng như chậm phát triển sau xuất viện (Kaplan & Kim, 2025) |
-| **Co giật** | Phản ánh rối loạn điện giải/màng tế bào thần kinh do viêm | - Xảy ra ở *~20% trước nhập viện, thêm ~26% trong 1–2 ngày đầu nằm viện* (Kaplan & Kim, 2025); tần suất co giật với phế cầu/*H. influenzae* gấp đôi so với não mô cầu. Trong nghiên cứu Ấn Độ, co giật lại phổ biến hơn ở nhóm chỉ nghi ngờ lâm sàng (91%) so với nhóm viêm màng não do vi khuẩn xác định (80%, p<0,05) (Fitzwater et al., 2013) <br> - *Không đặc hiệu — dễ gây "báo động giả".* Co giật xuất hiện sớm (trước/trong vài ngày đầu nằm viện) thường không có ý nghĩa tiên lượng riêng biệt. Ngược lại, co giật khó kiểm soát hoặc kéo dài quá ngày nằm viện thứ 4, cũng như co giật khởi phát lần đầu muộn trong đợt bệnh, mới là dấu hiệu đáng lo ngại, liên quan di chứng vĩnh viễn. Trẻ co giật khu trú có nguy cơ mắc di chứng cao hơn so với trẻ co giật toàn thể (Kaplan & Kim, 2025) |
+| **Co giật** | Phản ánh rối loạn điện giải/màng tế bào thần kinh do viêm | - Xảy ra ở *~20% trước nhập viện, thêm ~26% trong 1–2 ngày đầu nằm viện* (Kaplan & Kim, 2025); tần suất co giật với phế cầu/*H. influenzae* gấp đôi so với não mô cầu. Trong nghiên cứu Ấn Độ, co giật lại phổ biến hơn ở nhóm chỉ nghi ngờ lâm sàng (91%) so với nhóm viêm màng não do vi khuẩn xác định (80%, p<0,05) (Fitzwater et al., 2013) <br> - *Không đặc hiệu — dễ gây "báo động giả".* Co giật xuất hiện sớm (trước/trong vài ngày đầu nằm viện) thường không có ý nghĩa tiên lượng riêng biệt. Ngược lại, co giật khó kiểm soát hoặc kéo dài quá ngày nằm viện thứ 4, cũng như co giật khởi phát lần đầu muộn trong đợt bệnh, mới là dấu hiệu đáng lo ngại, liên quan di chứng vĩnh viễn. Trẻ co giật khu trú có nguy cơ mắc di chứng cao hơn so với trẻ co giật toàn thể (Kaplan & Kim, 2025) { #co-giat-vmnvk } | 
 | **Ban xuất huyết dạng chấm/mảng (petechiae/purpura)** | Phản ánh viêm mạch máu và đông máu nội mạch lan tỏa, đặc trưng cho nhiễm não mô cầu huyết |  - Gặp ở khoảng 50% bệnh nhân viêm màng não do não mô cầu (Kaplan & Kim, 2025), là ban không mất khi ấn (non-blanching) <br> - *Không đặc hiệu tuyệt đối cho não mô cầu* — có thể gặp trong bất kỳ bệnh lý viêm mạch máu nào. Khi xuất hiện cùng sốc và hạ thân nhiệt là *dấu hiệu tiên lượng xấu*, cần xử trí khẩn cấp (Kaplan & Kim, 2025). |
 | **Sốc tuần hoàn** | Xảy ra khi nhiễm khuẩn huyết nặng, phổ biến nhất ở trẻ nhiễm não mô cầu huyết tối cấp |  - Gặp ở 3,8% trẻ viêm màng não do não mô cầu và 5,5% trẻ viêm màng não do *H. influenzae* trong một nghiên cứu (Kaplan & Kim, 2025) <br> - Là dấu hiệu **báo động đỏ** cần can thiệp cấp cứu ngay. |
 
@@ -421,6 +421,8 @@ Theo Hiệp hội Bệnh Truyền nhiễm Hoa Kỳ (Infectious Diseases Society 
 
 Trong đánh giá ban đầu bệnh nhân nghi viêm màng não do vi khuẩn, các xét nghiệm máu được chia thành nhóm cốt lõi và nhóm bổ sung tùy tình huống lâm sàng. 
 
+{ #xet-nghiem-mau-vmnvk }
+
 **Bảng 11.** Nhóm xét nghiệm máu cốt lõi khi nghi viêm màng não do vi khuẩn (WHO, 2026)
 
 | Xét nghiệm | Mục đích chính |
@@ -487,7 +489,7 @@ Trong một nghiên cứu tiến cứu lấy máu cấy ở mọi bệnh nhân, 
 
 ### Chẩn đoán hình ảnh
 
-#### Chỉ định chụp hình ảnh sọ não trước khi chọc dò thắt lưng
+#### Chỉ định chụp hình ảnh sọ não trước khi chọc dò thắt lưng { #vai-tro-hinh-anh-hoc }
 
 Chọc dò thắt lưng nhìn chung là thủ thuật an toàn, nhưng trong trường hợp hiếm gặp có tổn thương choán chỗ nội sọ hoặc phù não nặng, thủ thuật có thể làm tăng nguy cơ thoát vị não. Để giảm nguy cơ này, hướng dẫn thực hành của WHO khuyến cáo trong các trường hợp sau cần chụp hình ảnh sọ não trước khi chọc dò thắt lưng (WHO, 2026):
 
@@ -694,7 +696,7 @@ Huy, N. T., Thao, N. T. H., Tuan, N. A., Khiem, N. T., Moore, C. C., Diep, D. T.
 
 Joffe, A. R. (2007). Lumbar puncture and brain herniation in acute bacterial meningitis: A review. *Journal of Intensive Care Medicine, 22*(4), 194–207. https://doi.org/10.1177/0885066607299516
 
-Kaplan, S. L., & Kim, K. S. (2025). Bacterial meningitis beyond the neonatal period. In *Feigin and Cherry's textbook of pediatric infectious diseases* (9th ed., pp. 314–338.e7). Elsevier. https://doi.org/10.1016/B978-0-323-82763-8.00031-5
+Kaplan, S. L., & Kim, K. S. (2025). Bacterial meningitis beyond the neonatal period. In J. Cherry, S. L. Kaplan, G. J. Demmler-Harrison, W. J. Steinbach, P. J. Hotez, & J. V. Williams (Eds.), *Feigin and Cherry's textbook of pediatric infectious diseases* (9th ed., pp. 314–338.e7). Elsevier. https://doi.org/10.1016/B978-0-323-82763-8.00031-5
 
 Kim, H., Roh, Y.-H., & Yoon, S.-H. (2021). Blood procalcitonin level as a diagnostic marker of pediatric bacterial meningitis: A systematic review and meta-analysis. *Diagnostics, 11*(5), 846. https://doi.org/10.3390/diagnostics11050846
 

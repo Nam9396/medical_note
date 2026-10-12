@@ -544,3 +544,10 @@ a:hover {
   margin-right: 0.9rem;
   color: #cbd5e1;
 }
+
+/* ── Hàng tên cột của bảng: nền xanh dương nhạt, chữ xanh dương đậm, không kẻ viền riêng ── */
+.md-typeset table:not([class]) th {
+  background-color: #e0f2fe;               /* cùng tông xanh với tab/menu đang chọn */
+  color: #075985;
+  font-weight: 700;
+}

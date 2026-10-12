@@ -59,7 +59,7 @@ Nếu:
 Điều chỉnh theo thứ tự:
 
 -	Đổi thể tích dung môi (lần lượt 20, 25, 30, 50 ml)
--	Đổi tốc độ truyền: 2 ml/giờ để đạt liều midazolam 0.05 mg/kg/giờ
+-	Đổi tốc độ truyền: **2 ml/giờ** (pha loãng gấp đôi, mỗi ml chứa 0.05 mg/kg midazolam) để **vẫn đạt liều 0.1 mg/kg/giờ**
 
 ## Quy định 
 
@@ -89,20 +89,35 @@ Mg midazolam = 15 x 0.1 x 20ml dung môi (chọn từ thấp lên cao) = 30 mg
 
 Bệnh nhân 27kg, cần dùng midazolam và fentanyl để thở máy 
 
+**Bước 1: Thử với tốc độ 1 ml/giờ**
+
 Số mg midazolam = 0.1 x 27 x 20 = 54mg (làm tròn là 55mg)
 
 -	Tương đương với 11 ống midazolam = 11ml 
 -	Số mg fentanyl = 0.55mg, thể tích fentanyl là 11ml 
 -	Tổng thể tích thuốc là 22ml, vượt quá 20ml dung môi, do đó không pha thuốc được
--	Vậy ta phải tính toán với thông số mới 
-    + Liều thuốc 0.05 mg/kg/giờ 
-    + Tốc độ là 2ml/giờ 
+-	Tăng thể tích dung môi lên 25ml, 30ml thì số mg midazolam càng lớn, tổng thể tích thuốc vẫn vượt thể tích pha
 
-Với thông số mới 
+**Bước 2: Đổi tốc độ truyền sang 2 ml/giờ, giữ nguyên liều 0.1 mg/kg/giờ**
 
--	Số mg midazolam = 0.05 x 27kg / 2ml/giờ x 30ml = 20.25 ~ 20mg
--	Con số 30ml là con số dò dần từ 20, 25, 30 sao cho số mg midazolam chia hết cho 5 
--	Vậy cần 20mg midazolam (4ml), 0.2mg fentanyl (4ml) pha với 30ml NaCl 0,9% vừa đủ 30ml, truyền tĩnh mạch 4ml giờ để đạt liều midazolam và fentanyl lần lượt là 0.1 và 0.001 mg/kg/giờ
+Số mg midazolam = [liều x cân nặng x thể tích dung môi] / tốc độ truyền
+
+-	Dò thể tích dung môi 20 → 25 → 30ml:
+    + 20ml: 0.1 x 27 x 20 / 2 = 27mg → làm tròn 25mg (lệch 2mg, vượt ±1mg)
+    + 25ml: 0.1 x 27 x 25 / 2 = 33.75mg → làm tròn 35mg (lệch 1.25mg, vượt ±1mg)
+    + **30ml: 0.1 x 27 x 30 / 2 = 40.5mg → làm tròn 40mg (lệch 0.5mg, đạt)**
+-	Midazolam 40mg = 8 ống = 8ml 
+-	Fentanyl = 40 / 100 = 0.4mg = 4 ống = 8ml 
+-	Tổng thể tích thuốc 16ml ≤ 30ml, pha thêm 14ml NaCl 0.9%
+-	Kiểm tra liều đạt được: 40mg x 2ml/giờ / 30ml / 27kg = **0.099 mg/kg/giờ** midazolam và **0.99 mcg/kg/giờ** fentanyl
+
+**Y lệnh**
+
+-	Midazolam 5 mg/ml, 40 mg
+-	Fentanyl 0.4 mg
+-	Pha với NaCl 0.9% vừa đủ 30 ml
+-	Truyền tĩnh mạch 2 ml/giờ
+-	(Tương đương midazolam 0.1 mg/kg/giờ và fentanyl 1 mcg/kg/giờ)
 
 
 

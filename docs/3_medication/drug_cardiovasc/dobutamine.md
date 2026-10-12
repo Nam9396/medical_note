@@ -3,6 +3,8 @@
 
 ## Preparation 
 
+- **Tại khoa: Dobutamine 250 mg/5ml (50 mg/ml)**
+
 Supplied as 250 mg per 20-mL vial (12.5 mg/mL) and premixed bags in concentrations of 1, 2, and 4 mg/mL. Diluted solutions for infusion should be used within 24 hours. Solutions containing dobutamine and dextrose may exhibit a pink color which will increase with time due to oxidation of the drug. There is no significant loss of potency. There are no specific data regarding the compatibility of dobutamine and fat emulsions.
 
 ## General dosing
@@ -45,6 +47,24 @@ with atrial fibrillation and a rapid ventricular response. Patients with hyperte
     + The Joint Commission recommends the use of standardized concentrations of vasoactive medications
     + The ISMP and Vermont Oxford Network recommend a standard concentration of 2 mg/mL for neonates
 - Suitable diluents: D5W, D5NS, NS, D5½NS, D10W, LR,(6,24) D5LR, ½NS, Isolyte M with dextrose5%, Normosol-M in D5W, 20% Osmitrol in Water for Injection, or sodium lactate injection. Not compatible with strongly alkaline solutions such as sodium bicarbonate or diluents containing both sodium bisulfite and ethanol
+
+## Cách pha thường dùng
+
+- **Số mg dobutamine = 3 × cân nặng (kg)**, pha với NaCl 0.9% hoặc G5% vừa đủ **50 ml**
+- Khi đó **1 ml/giờ = 1 mcg/kg/phút**
+- Nồng độ = 0.06 × cân nặng (mg/ml), luôn dưới mức tối đa 5 mg/ml (trừ trẻ > 83 kg)
+- Thể tích thuốc (ml) = số mg / 50
+
+## Example medical order
+
+Bé 15 kg, sốc tim, chức năng co bóp giảm
+
+Dobutamine 250 mg/5ml
+
+- 45 mg (0.9 ml)
+- Pha với NaCl 0.9% vừa đủ 50 ml
+- TTM 5 ml/giờ
+- (5 mcg/kg/phút)
 
 ## Mechanism of Action
 

@@ -18,16 +18,22 @@
   var SKIP_TAGS = /^(A|CODE|PRE|SCRIPT|STYLE|H1|H2|H3|H4|H5|H6|BUTTON|SVG)$/;
 
   // Tên tác giả: một hoặc nhiều từ viết hoa, cho phép gạch nối và dấu nháy
-  var NAME = "\\p{Lu}[\\p{L}'’\\-]+(?:\\s\\p{Lu}[\\p{L}'’\\-]+)*";
+  // Cho phép tiền tố viết thường: "de Jonge", "van de Beek", "Ciofi degli Atti"
+  var PARTICLE = "(?:(?:de|van|von|der|den|di|da|del|della|degli|dos|du|la|le|ten|ter)\\s+)*";
+  var NAME = PARTICLE + "\\p{Lu}[\\p{L}'’\\-]+(?:\\s" + PARTICLE + "\\p{Lu}[\\p{L}'’\\-]+)*";
+  // "et al." | "và cộng sự" | "và cs."
+  var ETAL = "(?:et al\\.?|và cộng sự|và cs\\.?)";
   var YEAR = "(\\d{4}[a-z]?)";
-  // Trong ngoặc: "Kaplan & Kim, 2025" | "Tunkel et al., 2004" | "WHO, 2026"
+  // Tên viết tắt của tổ chức trong ngoặc vuông: "World Health Organization [WHO], 2026"
+  var ABBR = "(?:\\s*\\[[^\\]]+\\])?";
+  // Trong ngoặc: "Kaplan & Kim, 2025" | "Tunkel et al., 2004" | "WHO, 2026" | "World Health Organization [WHO], 2026"
   var RE_PAREN_ITEM = new RegExp(
-    "(" + NAME + ")(?:\\s+et al\\.?|\\s*(?:&|và)\\s*" + NAME + ")?,\\s*" + YEAR,
+    "(" + NAME + ")(?:\\s+" + ETAL + "|\\s*(?:&|và)\\s*" + NAME + ")?" + ABBR + ",\\s*" + YEAR,
     "gu"
   );
   // Trong câu: "Kim et al. (2021)" | "Kaplan và Kim (2025)" | "WHO (2026)"
   var RE_NARRATIVE = new RegExp(
-    "(" + NAME + ")(?:\\s+et al\\.?|\\s+(?:&|và)\\s+" + NAME + ")?\\s+\\(" + YEAR + "\\)",
+    "(" + NAME + ")(?:\\s+" + ETAL + "|\\s+(?:&|và)\\s+" + NAME + ")?" + ABBR + "\\s+\\(" + YEAR + "\\)",
     "gu"
   );
   var RE_PAREN_GROUP = /\(([^()]*\d{4}[a-z]?)\)/g;
@@ -48,23 +54,27 @@
 
   /* ---------- 1. Đọc danh mục tài liệu tham khảo ---------- */
   function buildIndex(root) {
-    var heading = Array.prototype.find.call(
+    // Đọc TẤT CẢ các mục "References"/"Tài liệu tham khảo" trong trang (không chỉ mục đầu)
+    var headings = Array.prototype.filter.call(
       root.querySelectorAll("h2, h3"),
       function (h) { return REF_HEADING.test(h.textContent); }
     );
-    if (!heading) return null;
+    if (!headings.length) return null;
+    var heading = headings[0];
 
     var index = {};
     var entries = [];
-    var el = heading.nextElementSibling;
-    var level = heading.tagName;
-    while (el && !(/^H[1-6]$/.test(el.tagName) && el.tagName <= level)) {
-      var items = el.tagName === "UL" || el.tagName === "OL"
-        ? el.querySelectorAll("li")
-        : el.tagName === "P" ? [el] : [];
-      Array.prototype.forEach.call(items, function (item) { entries.push(item); });
-      el = el.nextElementSibling;
-    }
+    headings.forEach(function (hd) {
+      var el = hd.nextElementSibling;
+      var level = hd.tagName;
+      while (el && !(/^H[1-6]$/.test(el.tagName) && el.tagName <= level)) {
+        var items = el.tagName === "UL" || el.tagName === "OL"
+          ? el.querySelectorAll("li")
+          : el.tagName === "P" ? [el] : [];
+        Array.prototype.forEach.call(items, function (item) { entries.push(item); });
+        el = el.nextElementSibling;
+      }
+    });
 
     entries.forEach(function (item) {
       var text = item.textContent.trim();
@@ -79,6 +89,8 @@
       item.classList.add("ref-entry");
 
       var keys = [norm(author) + year];
+      var lastWord = author.split(/\s+/).pop();          // "de Jonge" → "Jonge"
+      if (lastWord && lastWord !== author) keys.push(norm(lastWord) + year);
       var ac = acronym(author);
       if (ac) keys.push(norm(ac) + year);
       keys.forEach(function (k) { if (!index[k]) index[k] = id; });
@@ -179,8 +191,19 @@
     nodes.forEach(function (node) {
       if (!node.parentNode) return;
       replaceMatches(node, RE_NARRATIVE, function (m) {
-        var id = lookup(index, m[1], m[2]);
-        return id ? link(m[0], id, "cite-narrative") : null;
+        // Thử bỏ dần các từ viết hoa đứng trước tên tác giả: "Theo WHO (2026)" → "WHO (2026)"
+        var words = m[1].split(/\s+/);
+        for (var i = 0; i < words.length; i++) {
+          var author = words.slice(i).join(" ");
+          var id = lookup(index, author, m[2]);
+          if (!id) continue;
+          var cut = m[0].indexOf(author);
+          var frag = document.createDocumentFragment();
+          if (cut > 0) frag.appendChild(document.createTextNode(m[0].slice(0, cut)));
+          frag.appendChild(link(m[0].slice(cut), id, "cite-narrative"));
+          return frag;
+        }
+        return null;
       });
     });
   }

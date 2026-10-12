@@ -1,5 +1,6 @@
 title: Danh mục thuốc
 nav:
+  - Cân nặng tính liều: can-nang-tinh-lieu.md
   - drug_antibiotic
   - drug_antiinflam
   - drug_cardiovasc
