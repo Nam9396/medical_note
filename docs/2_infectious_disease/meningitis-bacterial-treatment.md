@@ -743,7 +743,7 @@ Hoen, B., Varon, E., de Debroucker, T., Fantin, B., Grimprel, E., Wolff, M., & D
 
 de Jonge, R. C., van Furth, A. M., Wassenaar, M., Gemke, R. J., & Terwee, C. B. (2010). Predicting sequelae and death after bacterial meningitis in childhood: A systematic review of prognostic studies. *BMC Infectious Diseases, 10*, Article 232. https://doi.org/10.1186/1471-2334-10-232
 
-Kaplan, S. L., & Kim, K. S. (2025). Bacterial meningitis beyond the neonatal period. In J. D. Cherry, S. L. Kaplan, G. J. Demmler-Harrison, W. J. Steinbach, P. J. Hotez, & J. V. Williams (Eds.), *Feigin and Cherry's textbook of pediatric infectious diseases* (9th ed., pp. 314–338.e7). Elsevier. https://doi.org/10.1016/B978-0-323-82763-8.00031-5
+Kaplan, S. L., & Kim, K. S. (2025). Bacterial meningitis beyond the neonatal period. In J. D. Cherry, S. L. Kaplan, G. J. Demmler-Harrison, W. J. Steinbach, P. J. Hotez, & J. V. Williams (Eds.), *Feigin and Cherry's textbook of pediatric infectious diseases* (9th ed., Vol. 1, pp. 314–338.e7). Elsevier. https://doi.org/10.1016/B978-0-323-82763-8.00031-5
 
 Maconochie, I. K., & Bhaumik, S. (2016). Fluid therapy for acute bacterial meningitis. *Cochrane Database of Systematic Reviews, 2016*(11), Article CD004786. https://doi.org/10.1002/14651858.CD004786.pub5
 

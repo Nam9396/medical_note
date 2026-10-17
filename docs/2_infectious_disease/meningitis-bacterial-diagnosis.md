@@ -696,7 +696,7 @@ Huy, N. T., Thao, N. T. H., Tuan, N. A., Khiem, N. T., Moore, C. C., Diep, D. T.
 
 Joffe, A. R. (2007). Lumbar puncture and brain herniation in acute bacterial meningitis: A review. *Journal of Intensive Care Medicine, 22*(4), 194–207. https://doi.org/10.1177/0885066607299516
 
-Kaplan, S. L., & Kim, K. S. (2025). Bacterial meningitis beyond the neonatal period. In J. Cherry, S. L. Kaplan, G. J. Demmler-Harrison, W. J. Steinbach, P. J. Hotez, & J. V. Williams (Eds.), *Feigin and Cherry's textbook of pediatric infectious diseases* (9th ed., pp. 314–338.e7). Elsevier. https://doi.org/10.1016/B978-0-323-82763-8.00031-5
+Kaplan, S. L., & Kim, K. S. (2025). Bacterial meningitis beyond the neonatal period. In J. D. Cherry, S. L. Kaplan, G. J. Demmler-Harrison, W. J. Steinbach, P. J. Hotez, & J. V. Williams (Eds.), *Feigin and Cherry's textbook of pediatric infectious diseases* (9th ed., Vol. 1, pp. 314–338.e7). Elsevier. https://doi.org/10.1016/B978-0-323-82763-8.00031-5
 
 Kim, H., Roh, Y.-H., & Yoon, S.-H. (2021). Blood procalcitonin level as a diagnostic marker of pediatric bacterial meningitis: A systematic review and meta-analysis. *Diagnostics, 11*(5), 846. https://doi.org/10.3390/diagnostics11050846
 
