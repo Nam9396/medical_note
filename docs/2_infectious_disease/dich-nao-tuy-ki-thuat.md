@@ -398,7 +398,8 @@ Khi đúng vị trí, kim lần lượt đi qua da, mô dưới da, dây chằng
 
 <figure markdown="span">
   ![alt text](../assets/images/_inbox/dich-nao-tuy-ki-thuat-image-4.png)
-  <figcaption markdown="span">**Hình 3.** Cấu trúc trong ống sống ngang mức L4–L5 và vị trí kim chọc dò thắt lưng so với các mạch máu lớn. Tĩnh mạch rễ – tủy lớn đi kèm rễ thần kinh L5 nằm xa về phía ngoài so với kim đặt đúng đường giữa túi màng cứng. Khoang dưới màng cứng không có mạch máu.<br>
+  <figcaption markdown="span">**Hình 3.** Các cấu trúc trong ống sống liên quan đến CDTL<br>
+  <span class="fig-note">*Ghi chú.* Cấu trúc trong ống sống ngang mức L4–L5 và vị trí kim chọc dò thắt lưng so với các mạch máu lớn. Tĩnh mạch rễ – tủy lớn đi kèm rễ thần kinh L5 nằm xa về phía ngoài so với kim đặt đúng đường giữa túi màng cứng. Khoang dưới màng cứng không có mạch máu.</span><br>
   <span class="fig-source">Trích từ "Spinal Puncture and Cerebrospinal Fluid Examination," bởi B. D. Euerle, trong J. R. Roberts & J. R. Hedges (Chủ biên), *Clinical Procedures in Emergency Medicine* (5th ed., tr. 1114, Hình 61–10), 2010, Saunders/Elsevier. Hình gốc từ "Spinal Subdural Hematomas Complicating Lumbar Puncture," bởi R. N. Edelson, N. L. Chernik và J. B. Posner, 1974, *Archives of Neurology, 31*(2), tr. 134; minh họa: Lynn McDowell. Bản quyền năm 1974 thuộc American Medical Association.</span></figcaption>
 </figure>
 
