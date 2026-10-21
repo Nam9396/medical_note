@@ -1,39 +1,33 @@
 
-# Chọc dò dịch não tuỷ 
+# Chọc dò thắt lưng 
 
-## Những vấn đề 
+## Những vấn đề cần biết trong chọc dò thắt lưng
 
-Trong chọc dò dịch não tuỷ (DNT), có những vấn đề cần quan tâm dưới đây: 
+Trong chọc dò thắt lưng (CDTL) hay còn gọi là chọc dò dịch não tuỷ (DNT), có những vấn đề cần quan tâm dưới đây: 
 
 **Trước khi chọc dò**
 
-- Khi nào cần chỉ định chọc dò DNT? Những bệnh cảnh lâm sàng nào bắt buộc phải làm?
-- Những trường hợp nào chống chỉ định tuyệt đối/tương đối? Khi nào cần trì hoãn để chụp CT sọ trước?
-- Làm sao nhận biết dấu hiệu tăng áp lực nội sọ/tổn thương choán chỗ để tránh nguy cơ tụt kẹt não?
-- Cần đánh giá và xử trí gì với rối loạn đông máu trước thủ thuật?
-- Cần chuẩn bị gì cho bệnh nhân (tư thế, vô khuẩn, giảm đau, tư vấn, đồng thuận)?
-- Vì sao cần lấy mẫu glucose máu trước khi chọc dò?
+- Chỉ định CDTL 
+- Chống chỉ định tuyệt đối/tương đối CDTL 
+- Khi nào cần đánh giá hình ảnh học sọ não trước chọc dò
+- Đánh giá và xử trí rối loạn đông máu trước chọc dò
+- Chuẩn bị bệnh nhân (tư thế, vô khuẩn, giảm đau, tư vấn, đồng thuận).
 
 **Trong khi chọc dò**
 
-- Xác định vị trí chọc dò đúng cách như thế nào (khe liên đốt nào, mốc giải phẫu nào)?
-- Kỹ thuật đưa kim đúng chuẩn gồm những bước nào? Góc, hướng, độ sâu ra sao?
-- Làm sao nhận biết đã vào đúng khoang dưới nhện?
-- Đo áp lực mở như thế nào, giá trị bình thường là bao nhiêu, khi nào cần ngừng lấy dịch?
-- Xử trí ra sao khi không thấy dịch chảy ra hoặc chọc thất bại?
-- Cần lấy bao nhiêu ống, thứ tự ống nghiệm có ý nghĩa gì (phân biệt chọc chạm mạch với xuất huyết thật)?
-- Những sai sót kỹ thuật thường gặp là gì và hậu quả ra sao?
+- Xác định vị trí chọc dò (khe liên đốt, mốc giải phẫu)
+- Kỹ thuật đưa kim đúng chuẩn (góc, hướng, độ sâu)
+- Đo áp lực mở như thế nào, giá trị bình thường là bao nhiêu, khi nào cần ngừng lấy dịch
+- Cách xử trí khi không thấy dịch chảy ra hoặc chọc dò thất bại
+- Số ống xét nghiệm và số ml DNT cần lấy
 
 **Sau khi chọc dò**
 
-- Bệnh nhân cần được theo dõi và chăm sóc như thế nào sau thủ thuật (tư thế nằm, thời gian theo dõi)?
-- Biến chứng thường gặp là gì (đau đầu sau chọc dò, cơ chế, cách phòng ngừa/xử trí)?
-- Biến chứng nặng có thể gặp là gì (tụt kẹt não, chảy máu, tổn thương thần kinh, nhiễm trùng thứ phát)?
-- Làm sao phiên giải kết quả DNT (màu sắc, độ trong, xanthochromia, tế bào, protein, glucose)?
-- Cách hiệu chỉnh kết quả khi có chọc dò chạm mạch (traumatic tap)?
-- Khi nào cần chọc dò lại, và những lưu ý gì khi lặp lại thủ thuật?
-
-Bây giờ chúng ta sẽ đi vào chi tiết. 
+- Theo dõi và chăm sóc bệnh nhân sau thủ thuật 
+- Những biến chứng thường gặp và cách xử trí
+- Phiên giải kết quả DNT 
+- Hiệu chỉnh kết quả khi có chọc dò chạm mạch (traumatic tap)
+- Khi nào cần chọc dò lại, và những lưu ý gì khi lặp lại thủ thuật.
 
 
 ## Chỉ định chọc dò dịch não tuỷ

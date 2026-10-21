@@ -5,17 +5,17 @@
 
 Viêm màng não do vi khuẩn là một cấp cứu nội khoa với tỷ lệ tử vong và di chứng thần kinh đáng kể nếu không được chẩn đoán và điều trị kịp thời. Tác nhân gây bệnh thay đổi theo nhóm tuổi, đòi hỏi lựa chọn kháng sinh kinh nghiệm phù hợp trước khi có kết quả vi sinh, trong khi việc chậm khởi động kháng sinh làm tăng nguy cơ tử vong và di chứng (World Health Organization [WHO], 2026; Tunkel et al., 2004). Bài giảng này trình bày cách tiếp cận toàn diện trong điều trị viêm màng não do vi khuẩn ở trẻ em, bao gồm: 
 
-- Tác nhân gây bệnh theo nhóm tuổi
-- Chỉ định và chống chỉ định chọc dò thắt lưng
-- Chỉ định và thời điểm khởi động kháng sinh
-- Lựa chọn và liều lượng kháng sinh theo tuổi và tác nhân
-- Theo dõi độc tính của kháng sinh
-- Đánh giá đáp ứng điều trị trên lâm sàng, dịch não tủy và hình ảnh học sọ não
-- Xử trí thất bại điều trị
-- Vai trò của vancomycin và corticoid hỗ trợ
-- Quản lý dịch truyền
-- Xử trí biến chứng cấp
-- Tiên lượng và di chứng lâu dài
+- Tác nhân gây bệnh theo nhóm tuổi.
+- Chỉ định và chống chỉ định chọc dò thắt lưng.
+- Chỉ định và thời điểm khởi động kháng sinh.
+- Lựa chọn và liều lượng kháng sinh theo tuổi và tác nhân.
+- Theo dõi độc tính của kháng sinh.
+- Đánh giá đáp ứng điều trị trên lâm sàng, dịch não tủy và hình ảnh học sọ não.
+- Xử trí thất bại điều trị.
+- Vai trò của vancomycin và corticoid hỗ trợ.
+- Quản lý dịch truyền.
+- Xử trí biến chứng cấp.
+- Tiên lượng và di chứng lâu dài.
 
 
 ## Tác nhân gây bệnh theo nhóm tuổi 
@@ -50,59 +50,6 @@ Trẻ sơ sinh và nhũ nhi có hệ miễn dịch chưa trưởng thành, chưa
     **Nhiễm trùng thần kinh trung ương liên quan thiết bị/phẫu thuật:** Vallejo và cộng sự (2017), qua nghiên cứu 70 ca nhiễm trùng thần kinh trung ương do *Staphylococcus aureus* ở trẻ em tại một bệnh viện nhi Hoa Kỳ (2001–2013), ghi nhận 70% các ca liên quan đến thiết bị thần kinh trung ương (ví dụ dẫn lưu não thất – ổ bụng), 67,2% do chủng nhạy methicillin (MSSA) và 32,8% do chủng kháng methicillin (MRSA). Đây là minh chứng cho việc *S. aureus* — không nằm trong bốn tác nhân kinh điển theo tuổi — cần được cân nhắc riêng ở nhóm bệnh nhân có yếu tố nguy cơ đặc thù (thiết bị thần kinh trung ương, sau phẫu thuật thần kinh).
 
     **Tác nhân hiếm nhưng nặng:** Di Meglio và cộng sự (2025), qua tổng quan hệ thống 57 ca viêm màng não do *Streptococcus pyogenes* (liên cầu nhóm A) ở trẻ em, ghi nhận tuổi trung vị chẩn đoán là 4 tuổi, tỷ lệ tử vong 17% và tỷ lệ di chứng 28,07% — cao hơn đáng kể so với các tác nhân kinh điển. Nhóm tác giả nhấn mạnh đây là tác nhân hiếm gặp, hiện chưa có hướng dẫn điều trị riêng, nên đòi hỏi mức độ cảnh giác cao ở bệnh nhân có ổ nhiễm nguyên phát ngoài não hoặc dấu hiệu nhiễm khuẩn huyết nặng.
-
-
-## Chỉ định và chống chỉ định chọc dò thắt lưng
-
-Theo WHO (2026), chọc dò thắt lưng nên được thực hiện càng sớm càng tốt, tốt nhất là trước khi bắt đầu kháng sinh, vì tỷ lệ cấy dịch não tủy dương tính giảm đáng kể sau khi đã dùng kháng sinh. Tuy nhiên, khi có chống chỉ định (tuyệt đối hoặc tương đối) khiến chọc dò thắt lưng phải trì hoãn, kháng sinh kinh nghiệm vẫn phải được bắt đầu ngay. 
-
-**Chống chỉ định tuyệt đối** (không thực hiện chọc dò thắt lưng trong mọi trường hợp, cho đến khi tình trạng được giải quyết):
-
-- Huyết động không ổn định (cho đến khi ổn định)
-- Suy hô hấp đang diễn tiến (cho đến khi ổn định)
-- Rối loạn đông máu nặng
-- Nhiễm trùng da/mô mềm tại vị trí chọc dò hoặc gần đó, hoặc tật nứt đốt sống (spina bifida) ở trẻ sơ sinh
-- Áp xe ngoài màng cứng gần vị trí chọc dò.
-
-**Chống chỉ định tương đối** (là các tiêu chí chỉ định chụp hình ảnh học sọ não trước chọc dò thắt lưng, nhằm loại trừ tổn thương choán chỗ có lệch đường giữa, não úng thủy tắc nghẽn hoặc phù não nặng):
-
-- Điểm hôn mê Glasgow (Glasgow Coma Scale – GCS) < 10
-- Dấu thần kinh khu trú
-- Tổn thương dây thần kinh sọ
-- Phù gai thị
-- Co giật mới khởi phát (ở người lớn)
-- Suy giảm miễn dịch nặng.
-
-??? info "Quan điểm phản biện về vai trò của chụp hình ảnh học sọ não trước chọc dò thắt lưng" 
-
-    Hiệp hội Bệnh Truyền nhiễm Hoa Kỳ (Infectious Diseases Society of America – IDSA) (Tunkel et al., 2004) đề xuất các tiêu chí áp dụng cho người lớn để xác định bệnh nhân cần chụp cắt lớp vi tính (Computed Tomography – CT) sọ não trước chọc dò thắt lưng:
-
-    **Bảng 2.** Tiêu chí chụp CT sọ não trước chọc dò thắt lưng ở người lớn theo IDSA
-
-    | Tiêu chí | Ghi chú |
-    |---|---|
-    | Tình trạng suy giảm miễn dịch | Nhiễm HIV/AIDS, đang dùng thuốc ức chế miễn dịch, hoặc sau ghép tạng |
-    | Tiền sử bệnh lý thần kinh trung ương | Tổn thương choán chỗ, đột quỵ, hoặc ổ nhiễm khu trú |
-    | Co giật mới khởi phát | Trong vòng 1 tuần trước khi đến khám; một số chuyên gia không thực hiện chọc dò thắt lưng ở bệnh nhân co giật kéo dài, hoặc trì hoãn chọc dò thắt lưng 30 phút ở bệnh nhân co giật ngắn dạng co cứng – co giật (tonic-clonic) |
-    | Phù gai thị | Có mạch đập tĩnh mạch gợi ý không có tăng áp lực nội sọ |
-    | Rối loạn tri giác | — |
-    | Dấu thần kinh khu trú | Bao gồm đồng tử giãn không phản xạ, bất thường vận nhãn, bất thường thị trường, liệt vận nhãn phối hợp, yếu tay/chân |
-
-    <small>*Phỏng theo Tunkel et al. (2004).*</small>
-
-    **Quan điểm phản biện của Hội Bệnh lý Nhiễm trùng Pháp ngữ (Société de Pathologie Infectieuse de Langue Française – SPILF).** Nhiều tiêu chí trên có thể làm trễ kháng sinh mà không mang lại lợi ích tương xứng (Hoen et al., 2019):
-
-    - Một nghiên cứu tại Houston (Texas, Hoa Kỳ, 2005–2010) trên 614 ca nghi viêm màng não cho thấy chụp hình ảnh học sọ não được thực hiện ở 89% các trường hợp, nhưng *2/3 trong số đó không có chỉ định* theo đúng tiêu chí IDSA, và chỉ phát hiện được 2 bất thường nhỏ không ảnh hưởng xử trí. Thời gian trung vị đến khi thực hiện chọc dò thắt lưng là 5,5 giờ (không chụp hình trước) so với 8,25 giờ (có chụp hình trước) — chênh lệch gần 3 giờ, rất đáng kể khi đối chiếu với mục tiêu dùng kháng sinh trong vòng 1 giờ.
-    - Hướng dẫn Thụy Điển năm 2009 đã loại bỏ 3 tiêu chí "rối loạn tri giác đơn thuần (khi không có dấu hiệu tụt kẹt não)", "co giật gần đây" và "suy giảm miễn dịch" khỏi danh sách chỉ định CT. So sánh hồi cứu giữa giai đoạn áp dụng hướng dẫn cũ (2005–2009) và hướng dẫn mới (2010–2012), mỗi giai đoạn hơn 300 bệnh nhân, cho thấy thời gian đến kháng sinh giảm trung bình 1,12 giờ (giảm 1,6 giờ ở nhóm chọc dò thắt lưng ngay), đồng thời *tỷ lệ tử vong giảm từ 11,7% xuống 6,9%, và tỷ lệ di chứng giảm từ 49% xuống 38%*. <!-- Cần đối chiếu Hoen et al. (2019): thời gian đến kháng sinh giảm 1,12 giờ (ở đây) hay 1,18 giờ (mục Chỉ định khởi động kháng sinh)? -->
-    - Một nghiên cứu trên 94 ca áp xe não ghi nhận 55 ca (59%) đã được chọc dò thắt lưng, trong đó 65% có hiệu ứng choán chỗ trên CT; chỉ 1 ca tử vong do tụt kẹt não trong vòng 6 giờ sau chọc dò, và các tác giả không khẳng định được vai trò nhân quả của chọc dò thắt lưng trong ca tử vong này — cho thấy nguy cơ tụt kẹt não sau chọc dò thắt lưng trên thực tế *thấp hơn nhiều* so với lo ngại lý thuyết.
-
-    **Khuyến cáo cụ thể của SPILF.** Chỉ chụp hình ảnh học sọ não trước chọc dò thắt lưng khi có:
-
-    - Dấu hiệu gợi ý tổn thương choán chỗ nội sọ: dấu thần kinh khu trú hoặc co giật khu trú và mới xảy ra (<4 ngày)
-    - Dấu hiệu tụt kẹt não: rối loạn tri giác kèm theo ít nhất một trong các dấu hiệu sau: bất thường đồng tử (giãn cố định một hoặc hai bên), rối loạn thần kinh thực vật (tăng huyết áp, nhịp tim chậm, bất thường nhịp thở), cơn co cứng tiểu não (cerebellar tonic seizures), không đáp ứng kích thích, tư thế mất vỏ hoặc mất não
-    - Co giật toàn thể kéo dài không cho phép thực hiện chọc dò thắt lưng.
-
-    SPILF nhấn mạnh: *Rối loạn tri giác đơn thuần KHÔNG được xem là chống chỉ định* thực hiện chọc dò thắt lưng ngay. Ở trẻ dưới 5 tuổi, co giật toàn thể do sốt không được xem là chống chỉ định chọc dò thắt lưng; chỉ co giật một bên (gợi ý dấu khu trú) mới cần cân nhắc (Hoen et al., 2019).
 
 
 ## Chỉ định khởi động kháng sinh và thời điểm khởi động
