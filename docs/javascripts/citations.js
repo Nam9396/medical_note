@@ -37,6 +37,8 @@
     "gu"
   );
   var RE_PAREN_GROUP = /\(([^()]*\d{4}[a-z]?)\)/g;
+  // Bản không cờ "g" để lấy tên tác giả đầu tiên
+  var RE_PAREN_ITEM_ONE = new RegExp(RE_PAREN_ITEM.source, "u");
 
   function norm(s) {
     return s
@@ -94,6 +96,18 @@
       var ac = acronym(author);
       if (ac) keys.push(norm(ac) + year);
       keys.forEach(function (k) { if (!index[k]) index[k] = id; });
+
+      // Phân biệt các tài liệu cùng tác giả đầu + cùng năm nhưng khác đồng tác giả
+      // (vd. "Bonadio & Smith, 1990" và "Bonadio et al., 1990")
+      var surnames = authorSurnames(head);
+      var firstKeys = [norm(author)];
+      if (lastWord && lastWord !== author) firstKeys.push(norm(lastWord));
+      firstKeys.forEach(function (f) {
+        var k = null;
+        if (surnames.length === 2) k = f + "+" + norm(surnames[1].split(/\s+/).pop()) + year;
+        else if (surnames.length >= 3) k = f + "+etal" + year;
+        if (k && !index[k]) index[k] = id;
+      });
     });
     return { index: index, heading: heading, entries: entries };
   }
@@ -132,8 +146,32 @@
     return s;
   }
 
-  function lookup(index, author, year) {
-    return index[norm(author) + year];
+  // Họ của các tác giả trong phần đầu mục tham khảo: "Bonadio, W. A., & Smith, D. " → ["Bonadio", "Smith"]
+  function authorSurnames(head) {
+    var out = [];
+    var re = /([\p{L}'’\-]+(?:\s[\p{L}'’\-]+)*),\s+\p{Lu}\./gu;
+    var m;
+    while ((m = re.exec(head))) out.push(m[1].replace(/^&\s*/, ""));
+    if (/\.\s\.\s\./.test(head)) out.push("…");   // danh sách rút gọn kiểu APA (≥ 21 tác giả)
+    return out;
+  }
+
+  // full: nguyên văn trích dẫn, dùng để biết dạng "X & Y" hay "X et al." khi có
+  // nhiều tài liệu cùng tác giả đầu và cùng năm
+  function lookup(index, author, year, full) {
+    var a = norm(author);
+    if (full) {
+      if (/et al|và cộng sự|và cs/.test(full)) {
+        if (index[a + "+etal" + year]) return index[a + "+etal" + year];
+      } else {
+        var m2 = full.match(/(?:&|\svà\s)\s*([^,(\[]+)/);
+        if (m2) {
+          var k2 = a + "+" + norm(m2[1].trim().split(/\s+/).pop()) + year;
+          if (index[k2]) return index[k2];
+        }
+      }
+    }
+    return index[a + year];
   }
 
   // Thay một text node bằng danh sách node mới dựa trên các đoạn khớp regex
@@ -166,7 +204,7 @@
         RE_PAREN_ITEM.lastIndex = 0;
         var it;
         while ((it = RE_PAREN_ITEM.exec(inner))) {
-          var id = lookup(index, it[1], it[2]);
+          var id = lookup(index, it[1], it[2], it[0]);
           if (id) resolvedAny = true;
           items.push({ start: it.index, end: it.index + it[0].length, text: it[0], id: id });
         }
@@ -174,6 +212,12 @@
 
         var span = document.createElement("span");
         span.className = "cite";
+        // Dùng cho chế độ gọn: chip "Kaplan +1", tooltip gộp tất cả nguồn
+        var ids = items.filter(function (x) { return x.id; }).map(function (x) { return x.id; });
+        var firstAuthor = (items[0].text.match(RE_PAREN_ITEM_ONE) || [])[1] || items[0].text;
+        span.setAttribute("data-short", items.length > 1 ? firstAuthor + " +" + (items.length - 1) : firstAuthor);
+        span.setAttribute("data-refs", ids.join(" "));
+        span.tabIndex = 0;
         span.appendChild(document.createTextNode("("));
         var pos = 0;
         items.forEach(function (x) {
@@ -195,7 +239,7 @@
         var words = m[1].split(/\s+/);
         for (var i = 0; i < words.length; i++) {
           var author = words.slice(i).join(" ");
-          var id = lookup(index, author, m[2]);
+          var id = lookup(index, author, m[2], m[0].slice(m[0].indexOf(author)));
           if (!id) continue;
           var cut = m[0].indexOf(author);
           var frag = document.createDocumentFragment();
@@ -215,7 +259,7 @@
       if (!node.parentNode || !/^(TD|TH)$/.test(node.parentNode.nodeName.toUpperCase())) return;
       var m = node.nodeValue.match(whole);
       if (!m) return;
-      var id = lookup(index, m[1], m[2]);
+      var id = lookup(index, m[1], m[2], m[0]);
       if (!id) return;
       var span = document.createElement("span");
       span.className = "cite cite-cell";
@@ -242,8 +286,17 @@
     return tip;
   }
 
+  function isCompact() {
+    return document.documentElement.getAttribute("data-cite") === "compact";
+  }
+
   function citeFrom(target) {
-    return target && target.closest ? target.closest("a.cite-link, a.cite-narrative") : null;
+    if (!target || !target.closest) return null;
+    if (isCompact()) {
+      var chip = target.closest("span.cite[data-refs]:not(.cite-cell)");
+      if (chip && chip.getAttribute("data-refs")) return chip;
+    }
+    return target.closest("a.cite-link, a.cite-narrative");
   }
 
   function position(anchor) {
@@ -263,11 +316,16 @@
   }
 
   function show(anchor) {
-    var entry = document.getElementById(anchor.getAttribute("href").slice(1));
-    if (!entry) return;
+    var ids = anchor.hasAttribute("data-refs")
+      ? anchor.getAttribute("data-refs").split(" ")
+      : [anchor.getAttribute("href").slice(1)];
+    var html = ids
+      .map(function (id) { var e = document.getElementById(id); return e ? e.innerHTML : ""; })
+      .filter(Boolean);
+    if (!html.length) return;
     ensureTip();
     clearTimeout(hideTimer);
-    tip.innerHTML = entry.innerHTML;
+    tip.innerHTML = html.join('<hr class="cite-tooltip-sep">');
     tip.hidden = false;
     position(anchor);
     tip.classList.add("is-visible");
@@ -315,7 +373,42 @@
     document.addEventListener("keydown", function (e) { if (e.key === "Escape") hide(); });
   }
 
-  /* ---------- 4. Chạy ---------- */
+  /* ---------- 4. Chế độ gọn / đầy đủ ---------- */
+  var MODE_KEY = "cite-mode";
+
+  function getMode() {
+    try { return localStorage.getItem(MODE_KEY) || "compact"; } catch (e) { return "compact"; }
+  }
+
+  function setMode(mode) {
+    document.documentElement.setAttribute("data-cite", mode);
+    try { localStorage.setItem(MODE_KEY, mode); } catch (e) {}
+    var b = document.getElementById("cite-toggle");
+    if (b) {
+      b.textContent = mode === "compact" ? "Hiện trích dẫn" : "Thu gọn trích dẫn";
+      b.setAttribute("aria-pressed", mode === "full" ? "true" : "false");
+    }
+    hide();
+  }
+
+  function setupToggle(root) {
+    var has = root.querySelector("span.cite[data-refs]");
+    var b = document.getElementById("cite-toggle");
+    if (!has) { if (b) b.hidden = true; return; }
+    if (!b) {
+      b = document.createElement("button");
+      b.id = "cite-toggle";
+      b.type = "button";
+      b.addEventListener("click", function () {
+        setMode(isCompact() ? "full" : "compact");
+      });
+      document.body.appendChild(b);
+    }
+    b.hidden = false;
+    setMode(getMode());
+  }
+
+  /* ---------- 5. Chạy ---------- */
   function run() {
     var root = document.querySelector(".md-content article") ||
                document.querySelector(".md-typeset");
@@ -334,6 +427,7 @@
     processTableCells(textNodes(root), refs.index);
     hide();
     bindTooltip();
+    setupToggle(root);
   }
 
   if (window.document$ && typeof window.document$.subscribe === "function") {

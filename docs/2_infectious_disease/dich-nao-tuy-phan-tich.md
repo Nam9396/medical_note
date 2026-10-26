@@ -1,757 +1,979 @@
 
-# Phân tích dịch não tuỷ 
+# Phân tích dịch não tủy 
+
+Phân tích dịch não tủy (DNT) là công cụ chẩn đoán nền tảng cho các bệnh lý ảnh hưởng đến hệ thần kinh trung ương. Phân tích một cách khoa học, có hệ thống và dựa trên bằng chứng giúp bác sĩ lâm sàng nhanh chóng xác định được nguyên nhân gây bệnh và đề xuất điều trị phù hợp. Về cơ bản, trong phân tích DNT có những khía cạnh sau cần quan tâm:
+
+- Các tính chất của DNT (áp lực mở, màu sắc, đặc điểm tế bào học và sinh hóa).
+- Tổng quan đặc điểm DNT trong các bệnh cảnh khác nhau.
+- Phân tích DNT trong viêm màng não do vi khuẩn, xuất huyết dưới nhện (XHDN), lao thần kinh trung ương và viêm não do virus herpes simplex (HSV). 
+- Hiệu chỉnh số lượng bạch cầu khi DNT có lẫn hồng cầu. 
+- Tác động của kháng sinh lên đặc điểm DNT.
 
 
-## Áp lực dịch não tủy (CSF Opening Pressure)
 
-**1. Sinh lý & nguyên tắc đo**
+## Áp lực mở dịch não tủy
 
-CSF được tiết chủ động, một chiều tại đám rối màng mạch (choroid plexus), tạo nên áp lực nền của hệ thống (Bonadio, 2013). Áp lực đo tại vị trí thắt lưng phản ánh ICP toàn thể **chỉ khi** khoang dưới nhện thắt lưng và nội sọ thông thương tự do — đây là lý do áp lực có thể sai lệch (giả thấp) khi có tắc nghẽn foramen magnum do thoát vị hạnh nhân tiểu não (Euerle, 2025).
+### Cơ sở sinh lý và kỹ thuật đo
 
-**Kỹ thuật chuẩn:** gắn manometer (cột nước) qua khóa ba chiều vào đốc kim sau khi thấy dịch chảy ra hub kim, đợi ổn định rồi đọc trị số đỉnh dao động (Euerle, 2025; Gaieski et al., 2012). Bắt buộc đo ở **tư thế nằm nghiêng (lateral decubitus)**, cổ trung tính; tư thế ngồi cho trị số giả cao và không dùng để đánh giá áp lực (Sternbach, 1985; Euerle, 2025).
+Dịch não tủy được tiết liên tục chủ yếu tại đám rối mạch mạc ở não thất và được hấp thu vào hệ tĩnh mạch qua các hạt màng nhện. Ở người lớn, DNT chiếm khoảng 140 mL, tốc độ sản xuất khoảng 0,35 mL/phút, nên 15–20 mL thường lấy khi chọc dò được tái tạo trong khoảng một giờ (Euerle, 2010). Dòng chảy DNT là một chiều, được duy trì bởi áp lực tiết tại đám rối mạch mạc (Bonadio, 2014).
 
-**2. Giá trị bình thường — có khác biệt giữa các nguồn**
+Áp lực đo ở thắt lưng chỉ phản ánh áp lực nội sọ khi khoang dưới nhện tủy sống còn thông với khoang dưới nhện nội sọ. Khi hạnh nhân tiểu não thoát vị và bít lỗ chẩm, trị số đo ở thắt lưng có thể không phản ánh tình trạng tăng áp lực nội sọ (Euerle, 2010).
 
-| Nguồn | Đối tượng | Giá trị bình thường |
+Áp kế (manometer) được gắn vào đốc kim qua khóa ba chạc ngay khi dịch xuất hiện, trước khi lấy bất kỳ mẫu nào (Bonadio, 2014; Gaieski et al., 2012; Shahan et al., 2021; Sternbach, 1985). Vạch 0 của áp kế đặt ngang mức kim, để dịch dâng tới khi cân bằng và ghi lại giá trị đỉnh (Bonadio, 2014; Euerle, 2010; World Health Organization [WHO], 2026). Cột dịch dao động theo nhịp thở và mạch đập xác nhận kim nằm trong khoang dưới nhện. Nếu không thấy dao động, kim có thể đang tì vào rễ thần kinh hoặc mũi kim mới qua được một phần màng cứng, khi đó trị số giả thấp và xoay nhẹ kim có thể khắc phục (Euerle, 2010).
+
+Để đo chính xác, bệnh nhân cần nằm nghiêng bên, cổ ở tư thế trung gian và duỗi thẳng chân (Bonadio, 2014; Euerle, 2010; Gaieski et al., 2012). Đo áp lực mở DNT thường bị bỏ qua ở trẻ sơ sinh vì trẻ khóc làm tăng áp lực giả tạo (Euerle, 2010). Tuy nhiên, Kaplan và Kim (2025) nhấn mạnh đây vẫn là thành phần quan trọng của xét nghiệm DNT ở nhũ nhi và trẻ nhỏ.
+
+Các yếu tố làm sai lệch trị số:
+
+- Tăng giả tạo: bệnh nhân căng cơ, gồng hoặc giãy giụa, trẻ khóc, rặn làm tăng áp lực ổ bụng, đầu đặt cao hơn mặt phẳng kim, tư thế ngồi và có thể do béo phì nhiều (Euerle, 2010; Sternbach, 1985).
+- Giảm giả tạo: tăng thông khí làm giảm CO₂ máu và gây co mạch não, đo chậm để dịch rò qua hoặc quanh kim, kim tì vào rễ thần kinh hoặc bị màng não bít, tắc nghẽn khoang dưới nhện tủy sống, thoát vị hạnh nhân tiểu não bít lỗ chẩm (Euerle, 2010; Sternbach, 1985).
+
+### Giá trị bình thường
+
+Các nguồn thống nhất rằng áp lực tăng là bất thường, nhưng khoảng tham chiếu khác nhau đáng kể, đặc biệt ở trẻ em.
+
+**Bảng 1.** Khoảng tham chiếu áp lực mở dịch não tủy theo các nguồn
+
+| Nguồn | Đối tượng | Khoảng bình thường |
 |---|---|---|
-| Sternbach (1985) | Người lớn | 80–180 mm H₂O |
-| Euerle (2025) — Roberts & Hedges | Người lớn (chuẩn kinh điển) | 70–180 mm H₂O |
-| Meyfroidt et al. (2020) | Người lớn | 6–20 cmH₂O (= 60–200 mmH₂O) |
-| Shahan et al. (2021) | Người lớn & trẻ ≥ 8 tuổi | 60–250 mm H₂O |
-| Shahan et al. (2021) | Trẻ < 8 tuổi & sơ sinh | 10–100 mm H₂O |
-| Bonadio (2013), trích Avery et al. (2010, NEJM) | Trẻ em (n ≈ 500, đo bằng manometer) | Bách phân vị 90 = 280 mm H₂O (cao hơn đáng kể so với ngưỡng kinh điển 70–180) |
+| Euerle (2010) | Không nêu nhóm tuổi | 70–180 mmH₂O |
+| Meyfroidt et al. (2020) | Không nêu nhóm tuổi | 60–200 mmH₂O |
+| WHO (2026) | Trẻ em và người lớn | 80–200 mmH₂O |
+| Shahan et al. (2021) | Người lớn và trẻ từ 8 tuổi | 60–250 mmH₂O |
+| Shahan et al. (2021) | Trẻ dưới 8 tuổi | 10–100 mmH₂O |
 
-Ngưỡng "70–180 mmH₂O" là số liệu kinh điển, nhưng nghiên cứu quần thể lớn ở trẻ em (Avery et al., dẫn trong Bonadio, 2013) cho thấy phạm vi bình thường rộng hơn, tới 280 mmH₂O ở bách phân vị 90 — cần thận trọng khi phiên giải áp lực nhẹ tăng ở trẻ.
+Avery et al. (2010) đo áp lực mở ở 197 trẻ 1–18 tuổi và xác định giới hạn trên (bách phân vị 90) là 280 mmH₂O, cao hơn nhiều so với giới hạn kinh điển 70–180 mmH₂O; do đó cần thận trọng khi kết luận tăng áp lực ở trẻ chỉ dựa vào một trị số tăng nhẹ. WHO (2026) xem áp lực nội sọ là tăng khi từ 200 mmH₂O trở lên ở người lớn và lưu ý ngưỡng này có thể thấp hơn ở trẻ em và nhũ nhi, nhưng không nêu con số cụ thể.
 
-**3. Yếu tố ảnh hưởng đến độ chính xác**
+### Áp lực mở trong nhiễm trùng thần kinh trung ương
 
-- Bệnh nhân **gồng/quấy khóc**: giả tăng áp lực → ở trẻ nhũ nhi/trẻ nhỏ đo áp lực thường không đáng tin và ít khi thực hiện (Ward & Gushurst, 1992; Euerle, 2025).
-- **Duỗi chân sau khi đặt kim** không làm giảm đáng kể áp lực mở (Euerle, 2025).
-- **Tăng thông khí** → giảm CO₂ → co mạch não → giảm giả tạo trị số đo (Euerle, 2025).
-- Tư thế **ngồi**, đầu cao hơn mặt phẳng kim, béo phì/gồng cơ → có thể giả tăng (Euerle, 2025).
-- Đo trễ (để dịch rò qua/quanh kim trước khi gắn manometer) → giả thấp (Euerle, 2025).
+Các cơ chế làm tăng áp lực mở DNT trong nhiễm trùng thần kinh trung ương bao gồm (Kaplan & Kim, 2025): 
 
-**4. Áp lực theo nguyên nhân nhiễm trùng thần kinh**
+- Phù vận mạch: tăng tính thấm hàng rào máu–não.
+- Phù kẽ: giảm hấp thu DNT tại hạt màng nhện, có thể kèm não úng thủy tắc nghẽn.
+- Phù độc tế bào: các yếu tố độc phóng thích từ bạch cầu trung tính, tế bào thần kinh đệm và vi khuẩn.
 
-| Loại viêm màng não | Meyfroidt et al. (2020) | Shahan et al. (2021), người lớn & trẻ ≥8t |
-|---|---|---|
-| Vi khuẩn | 20–50 cmH₂O | 200–500 mmH₂O (39% BN có OP > 300 mmH₂O) |
-| Virus | 6–30 cmH₂O | Thường bình thường |
-| Lao | 20–40 cmH₂O | Thay đổi theo giai đoạn |
-| Nấm (nói chung) | 20–100 cmH₂O | Thay đổi |
-| Cryptococcus | — | > 250 mmH₂O trong ca nặng; cần chọc dò lặp lại hoặc đặt shunt não thất–phúc mạc nếu áp lực dai dẳng > 250 mmH₂O |
+**Bảng 2.** Áp lực mở dịch não tủy trong các bệnh cảnh nhiễm trùng thần kinh trung ương
 
-Euerle (2025) bổ sung: nghi ngờ vi khuẩn khi áp lực mở tăng **kèm** bạch cầu 500–20.000/µL.
-
-**5. Tăng áp lực nội sọ vô căn (IIH / Pseudotumor cerebri)**
-
-Tiêu chuẩn Dandy cải biên (Shahan et al., 2021): **áp lực mở > 250 mmH₂O** ở người lớn + thành phần CSF bình thường + hình ảnh học bình thường (loại trừ khối choán chỗ/não úng thủy).
-
-Ward & Gushurst (1992) trích tiêu chuẩn cổ điển: (1) triệu chứng tăng ICP, (2) CSF bình thường, (3) áp lực dưới nhện **> 200 mmH₂O**, (4) loại trừ tổn thương choán chỗ, (5) loại trừ não úng thủy, (6) tri giác bình thường.
-
-Euerle (2025): IIH thường ở mức 250–450 mmH₂O; xử trí có thể cần chọc dò điều trị, rút từng 5–10 mL và kiểm tra lại áp lực sau mỗi lần rút, hạ về ~200 mmH₂O; thoát vị không xảy ra dù áp lực cao vì đây là tăng áp **đồng đều toàn thể**, không có gradient áp lực.
-
-
-## Màu sắc của dịch não tuỷ 
-
-**1. Nguyên tắc quan sát**
-
-- DNT bình thường **trong suốt như nước, không màu**. Bất kỳ sự đục hoặc đổi màu nào cũng nên nghĩ đến bệnh lý.
-- Cách đánh giá chuẩn: so sánh DNT với nước, quan sát dọc theo trục dài của ống nghiệm hoặc đặt ống lên nền trắng; nên dùng ống **thủy tinh** vì ống nhựa thường không thật sự trong.
-- DNT có thể **vẫn trông trong** dù đã có tới 400 hồng cầu/µL hoặc 200 bạch cầu/µL — mắt thường không đủ nhạy để phát hiện bất thường nhẹ.
-
-*(Birnbaumer, 2025)*
-
-**2. Bảng tổng hợp các màu sắc DNT và ý nghĩa**
-
-| Màu sắc | Nguyên nhân thường gặp | Ghi chú |
-|---|---|---|
-| **Trong, không màu** | Bình thường | Vẫn có thể ẩn chứa tăng nhẹ tế bào (xem trên) |
-| **Đục/mờ (turbid/cloudy)** | Viêm màng não vi khuẩn (số lượng bạch cầu rất cao, thường >1.000/µL) | Độ đục xuất hiện khi tế bào đạt ngưỡng đủ cao (ước tính khoảng ≥400 tế bào/mm³) |
-| **Mủ/xanh lục (purulent, green)** | Viêm màng não vi khuẩn nặng | Dịch DNT có thể mô tả là đục, xanh lục, hoặc dạng mủ tùy mức độ nặng |
-| **Đỏ (red)** | Máu mới lẫn vào — do chọc chạm mạch **hoặc** xuất huyết dưới nhện (XHDN) rất mới (<2 giờ, oxyhemoglobin chưa kịp lắng) | Cần ly tâm và đánh giá dịch nổi để phân biệt hai nguyên nhân |
-| **Vàng/cam (xanthochromia)** | XHDN đã xảy ra được vài giờ; ly giải hồng cầu tạo bilirubin | Xem chi tiết bảng bên dưới |
-| **Nâu (brown)** | Methemoglobin — đặc trưng của máu tụ dưới màng cứng đã đóng bao hoặc máu tụ trong não cũ | Sản phẩm khử của oxyhemoglobin |
-| **Đục nhẹ dạng "màng/pellicle" khi để lắng** | Viêm màng não lao | Đặc trưng kinh điển của lao màng não khi để DNT đứng yên một thời gian, tạo lớp màng mỏng trên bề mặt |
-
-*(Sternbach, 1985; Shahan et al., 2021; Birnbaumer, 2025)*
-
-**3. Xanthochromia**
-
-***Định nghĩa***
-
-Xanthochromia là hiện tượng dịch nổi (supernatant) sau ly tâm có màu **vàng–cam**, do các sắc tố từ ly giải hồng cầu tạo ra:
-
-| Sắc tố | Màu tạo ra | Thời điểm xuất hiện |
-|---|---|---|
-| Oxyhemoglobin | Đỏ | Trong vòng 2 giờ sau xuất huyết (có thể ngay lập tức nếu chảy máu nhiều); đỉnh ở 24–48 giờ, biến mất sau 3–30 ngày |
-| Bilirubin | Vàng | Bắt đầu xuất hiện sau khoảng **12 giờ** (cần enzym heme oxygenase ở đám rối mạch mạc, màng nhện, màng não chuyển hóa); có thể tồn tại 2–4 tuần |
-| Methemoglobin | Nâu | Đặc trưng của máu tụ cũ, đã đóng bao |
-
-***Diễn tiến theo thời gian sau XHDN (Shahan et al., 2021)***
-
-- Sau **6 giờ**: xanthochromia xuất hiện ở khoảng 20% trường hợp XHDN
-- Sau **12 giờ**: xuất hiện ở khoảng 90% trường hợp XHDN
-
-
-***Các nguyên nhân xanthochromia KHÔNG do XHDN***
-
-- Protein DNT >150 mg/dL
-- Tăng caroten máu (hypercarotenemia)
-- Vàng da nặng (bilirubin máu rất cao — cần đạt ngưỡng huyết thanh 10–15 mg/dL mới xuất hiện trong DNT, trừ khi có bệnh lý nền làm tăng protein DNT)
-- **Chọc dò chạm mạch với lượng máu lớn**: nếu RBC lẫn vào đạt khoảng 20.000–30.000/µL, xanthochromia có thể xuất hiện chỉ sau 1 giờ hoặc ngay lập tức — do đó **xanthochromia không phải lúc nào cũng đồng nghĩa với XHDN thật** (Birnbaumer, 2025)
-
-***Phương pháp đánh giá xanthochromia***
-
-| Phương pháp | Đặc điểm |
-|---|---|
-| Quan sát trực quan (visual inspection) sau ly tâm | Phương pháp phổ biến nhất tại đa số bệnh viện; vẫn được xem là đáng tin cậy |
-| Quang phổ kế (spectrophotometry) | Phát hiện cả oxyhemoglobin và bilirubin chính xác hơn về mặt định lượng, nhưng nếu không phân biệt được hai sắc tố sẽ cho **tỷ lệ dương tính giả cao** — chỉ nên coi bilirubin dương tính là bằng chứng thật sự của XHDN; oxyhemoglobin đơn độc (không kèm bilirubin) thường là do **giả tạo (artifactual/traumatic)** |
-
-***Ứng dụng lâm sàng khi DNT có màu đỏ/hồng***
-
-1. Quan sát xu hướng trong dần qua các ống nghiệm liên tiếp (traumatic tap thường trong dần, XHDN thì không).
-2. Ly tâm và đánh giá màu dịch nổi — nếu vàng/cam, nghĩ đến XHDN thật; nếu trong, nghĩ nhiều đến chọc chạm mạch (trừ khi máu vừa mới xảy ra <2 giờ và RBC rất cao).
-3. Nếu nghi ngờ vẫn còn (đặc biệt khi chọc quá sớm sau khởi phát nghi XHDN, hoặc lượng máu lẫn nhiều), cân nhắc gửi xét nghiệm quang phổ kế hoặc chọc dò lại muộn hơn.
-
-
-## Số lượng tế bào trong dịch não tuỷ 
-
-**1. Giá trị bình thường theo nhóm tuổi**
-
-| Đối tượng | Bạch cầu (WBC) | Hồng cầu (RBC) | Ghi chú |
+| Bệnh cảnh | Shahan et al. (2021) | Kaplan & Kim (2025) | WHO (2026) |
 |---|---|---|---|
-| Người lớn | **< 5/µL** (một số nguồn: ≤5 tế bào lympho/mono) | **< 10/µL** | Bạch cầu đa nhân trung tính (PMN) **không bao giờ** xuất hiện ở người bình thường (trừ hiện diện ngẫu nhiên khi dùng cytocentrifuge) |
-| Trẻ em (ngoài giai đoạn sơ sinh) | **< 20/µL** | Tương tự người lớn | |
-| Trẻ sơ sinh (neonate) | Có thể tới **32/µL**, với bạch cầu trung tính chiếm ưu thế đáng kể | | Ngưỡng bình thường cao hơn hẳn người lớn — dễ gây hiểu lầm nếu áp dụng ngưỡng người lớn |
-| Trẻ nhũ nhi 4–8 tuần tuổi | Có thể tới **22/µL** | | |
+| Vi khuẩn |  200–500 mmH₂O ở người lớn và trẻ từ 8 tuổi; trẻ dưới 8 tuổi có thể thấp hơn | Thường tăng, trung bình 300 mmH₂O | Tăng đến tăng nhiều |
+| Virus | Thường bình thường | Không nêu | Bình thường hoặc tăng |
+| Lao | Thay đổi theo giai đoạn | Thường tăng | Tăng đến tăng nhiều |
+| *Cryptococcus* | > 250 mmH₂O trong ca nặng | Thường tăng | Tăng nhiều (ở người nhiễm HIV) |
+| Nấm khác | Thay đổi | Không nêu | Không nêu |
+| Giang mai thần kinh | Thường tăng ở người miễn dịch bình thường, có thể không tăng ở người suy giảm miễn dịch | Thường tăng (giai đoạn cấp) | Không nêu |
+| Ký sinh trùng | Thay đổi, có thể tăng dai dẳng và cần dẫn lưu DNT | Không nêu | Không nêu |
 
-*(Sternbach, 1985; Shahan et al., 2021; Birnbaumer, 2025)*
+Ngoài ra, áp lực mở cũng thường tăng cao trong các bệnh cảnh nhiễm trùng cạnh màng não và bệnh viêm khác, ví dụ như (Kaplan & Kim, 2025):
 
-**2. Công thức bạch cầu bình thường**
+- Tụ mủ dưới màng cứng. 
+- Áp xe não. 
+- Viêm não xuất huyết cấp. 
+- Viêm tắc tĩnh mạch nội sọ. 
 
-- Chủ yếu **lympho bào** (~70%) và **bạch cầu đơn nhân** (~30%), hiếm gặp bạch cầu trung tính hoặc bạch cầu ái toan.
-- Ở trẻ sơ sinh, thành phần bạch cầu trung tính có thể chiếm tỷ lệ đáng kể một cách bình thường — khác biệt lớn so với người lớn (Shahan et al., 2021).
+Áp lực bình thường hoặc tăng nhẹ trong viêm nội tâm mạc có thuyên tắc, từ bình thường đến tăng nhiều trong sarcoidosis và thường giảm trong áp xe ngoài màng cứng tủy sống do tắc nghẽn khoang dưới nhện.
 
-**3. Ngưỡng có ý nghĩa bệnh lý**
 
-| Ngưỡng | Ý nghĩa |
-|---|---|
-| WBC > 10/mm³ | Được xem là dấu hiệu bệnh lý của TKTW/màng não (pathognomonic cho bệnh lý CNS/màng não) |
-| WBC > 5/µL (người lớn) | Ngưỡng bất thường kinh điển |
-| Bất kỳ bạch cầu trung tính nào ở người lớn bình thường | Nên nghi ngờ và cấy DNT — gợi ý nhiễm khuẩn, giai đoạn sớm nhiễm virus, lao, hoặc viêm màng não hóa học |
-| Bạch cầu ái toan (eosinophil) tăng | **Luôn là bất thường** — gợi ý ký sinh trùng TKTW; cũng có thể gặp sau chụp tủy đồ (myelography), sau chụp khí não thất, hoặc một số bệnh viêm khác |
+### Các nguyên nhân tăng áp lực khác
 
-*(Sternbach, 1985; Birnbaumer, 2025)*
+Tăng áp lực nội sọ có thể do não tăng thể tích (phù não, xuất huyết, u), tăng sản xuất DNT (u nhú đám rối mạch mạc), giảm hấp thu, hoặc tắc nghẽn lưu thông DNT qua hệ não thất. Phù não có thể đi kèm viêm màng não, tăng CO₂ máu, xuất huyết dưới nhện, thiếu oxy, suy tim sung huyết hoặc tắc tĩnh mạch chủ trên (Euerle, 2010). 
 
-**4. Mức độ tăng bạch cầu theo loại viêm màng não**
+??? info "Tăng áp lực nội sọ vô căn"
 
-| Loại nhiễm trùng | WBC điển hình | Công thức bạch cầu |
+    Tăng áp lực nội sọ vô căn (giả u não) là tình trạng tăng áp lực nội sọ không có não úng thủy hay tổn thương choán chỗ, trong khi thành phần DNT bình thường. Đây là chẩn đoán loại trừ, chỉ xác lập được bằng chọc dò thắt lưng sau khi đã chụp hình ảnh học thần kinh. Bệnh có liên quan đến thừa vitamin A, tetracycline, estrogen và một số bệnh như sarcoidosis, lao, ung thư lan tỏa màng não, nhưng phần lớn là vô căn. Bệnh hay gặp ở phụ nữ trong độ tuổi sinh đẻ bị béo phì, với tần suất 19,3 ca/100.000 phụ nữ béo phì 20–44 tuổi mỗi năm và có thể gây mất thị lực vĩnh viễn nếu không điều trị (Shahan et al., 2021).
+
+    Tiêu chí chẩn đoán bệnh (Shahan et al., 2021; Ward & Gushurst, 1992):
+
+    - Áp lực dưới nhện > 250 mmH₂O (Shahan et al., 2021) hoặc > 200 mmH₂O (Ward & Gushurst, 1992).
+    - Hình ảnh học không tìm thấy nguyên nhân.
+    - Thành phần DNT bình thường.
+    - Có triệu chứng và dấu hiệu tăng áp lực nội sọ.
+    - Không có bất thường thần kinh khác ngoài liệt dây thần kinh VI.
+    - Ý thức bình thường.
+
+
+<!-- Xử trí khi áp lực mở cao
+
+Các nguồn đưa ra ngưỡng và cách xử trí khác nhau:
+
+| Nguồn | Bối cảnh, ngưỡng | Khuyến cáo |
 |---|---|---|
-| Vi khuẩn (bacterial) | Thường **>1.000/µL**, có thể tới hàng chục nghìn (ca cao nhất ghi nhận 87.000/mm³) | 90–95% PMN chiếm ưu thế; tuy nhiên ~6% ca vi khuẩn xác định bằng cấy vẫn có WBC không tăng, và ~10% có lympho chiếm ưu thế |
-| Virus (viral) | Thường **<250/µL** | Lympho chiếm ưu thế, dù giai đoạn sớm có thể PMN chiếm ưu thế |
-| Lao (tuberculous) | Biến thiên | Giai đoạn sớm: PMN và lympho hỗn hợp; sau đó chuyển sang lympho chiếm ưu thế |
-| Nấm/ký sinh trùng | Biến thiên, có thể kèm eosinophil tăng | Eosinophil tăng dai dẳng đôi khi cần dẫn lưu DNT |
+| Euerle (2010) | Áp lực tăng nói chung | Vẫn lấy đủ dịch cho mọi xét nghiệm cần thiết, vì nguy cơ của thủ thuật nằm ở lỗ thủng màng cứng chứ không ở lượng dịch lấy ban đầu |
+| Kaplan & Kim (2025) | Áp lực rất cao | Chỉ lấy đủ dịch để xét nghiệm cẩn thận |
+| Sternbach (1985) | > 350 mmH₂O | Ngừng lấy thêm dịch, rút kim và dùng phần dịch trong manometer để xét nghiệm |
+| Gaieski et al. (2012) | Tăng rất cao, ví dụ > 400 mmH₂O | Để nguyên nòng kim tại chỗ, cân nhắc thuốc thẩm thấu như mannitol, đo lại sau vài phút để chắc áp lực đã giảm rồi mới rút kim |
+| Shahan et al. (2021) | Áp lực mở tăng (đặt trong phần tăng áp lực nội sọ vô căn) | Dùng manometer theo dõi liên tục suốt thủ thuật, ngừng lấy dịch khi áp lực đã giảm 50% |
 
-*(Shahan et al., 2021)*
+Riêng viêm màng não do Cryptococcus, tăng áp lực nội sọ gặp ở tới 80% người nhiễm HIV. Giảm áp lực DNT giúp cải thiện lâm sàng và tăng sống còn, bất kể áp lực mở ban đầu là bao nhiêu (WHO, 2026). Các nguyên tắc chính theo WHO (2026):
+- **Chọc dò ban đầu và chọc dò lặp lại sớm:** luôn đo áp lực mở, kể cả khi không có triệu chứng tăng áp lực nội sọ.
+- **Chọc dò điều trị:** rút đủ dịch để đưa áp lực về < 200 mmH₂O, hoặc giảm một nửa nếu áp lực ban đầu rất cao. Đo lại sau mỗi 10 mL; thường 20–30 mL là đủ. Chưa có dữ liệu về thể tích tối đa an toàn cho một lần chọc.
+- **Lặp lại:** chọc dò hằng ngày cho đến khi hết triệu chứng hoặc áp lực mở bình thường ít nhất hai ngày.
+- **Dẫn lưu và thuốc:** chỉ đặt dẫn lưu thắt lưng hoặc não thất khi đã điều trị kháng nấm phù hợp và chọc dò điều trị thất bại. Không khuyến cáo mannitol, acetazolamide, furosemide hay corticosteroid để hạ áp lực trong bệnh cảnh này.
 
-!!! note "Lưu ý về số lượng bạch cầu"
-    WBC >87.000/mm³ nên nghĩ đến khả năng vỡ áp xe não vào não thất. Mức độ tăng bạch cầu **không tương quan** với tiên lượng lâm sàng của viêm màng não vi khuẩn (Sternbach, 1985).
+Shahan et al. (2021) cũng nêu chỉ định chọc dò lặp lại hoặc đặt dẫn lưu não thất–ổ bụng khi áp lực dai dẳng > 250 mmH₂O. -->
 
-**6. Hiệu chỉnh WBC khi có chạm mạch**
 
-| Phương pháp | Công thức |
-|---|---|
-| Cách kinh điển | Trừ 1 bạch cầu cho mỗi 500–1.500 hồng cầu (tùy nguồn), phổ biến nhất là **1 WBC : 500–700 RBC** |
-| Công thức chính xác hơn | WBC (dự đoán) = RBC(DNT) × (WBC máu / RBC máu) — hiệu chỉnh theo công thức máu thực tế của bệnh nhân, đặc biệt cần khi có thiếu máu hoặc tăng bạch cầu máu ngoại vi |
+## Màu sắc dịch não tủy
 
-*(Sternbach, 1985; Shahan et al., 2021)* 
+### Nguyên tắc quan sát
 
-!!! note "Nên sử dụng phương pháp hiệu chỉnh nào"
-    Zhou, Sangam & Budhram (2024) — "Clinical Utility of CSF Correction Factors for Traumatic Lumbar Puncture in Adults"
+DNT là dịch siêu lọc từ huyết tương (khoảng 99% là nước), nên bình thường trong suốt và không màu (Bonadio, 2014; Pacatte, 2008; Sternbach, 1985). Nếu DNT không hoàn toàn trong, cần nghĩ đến bệnh lý thần kinh trung ương. Cách quan sát chuẩn là so sánh với một ống nước, nhìn dọc theo trục dài của ống hoặc đặt cả hai ống trên nền trắng; nên dùng ống thủy tinh vì ống nhựa thường không thật trong (Euerle, 2010). Độ đục do bạch cầu, vi khuẩn, protein hoặc hồng cầu gây ra, còn màu sắc thay đổi chủ yếu do máu, bilirubin và protein (Kaplan & Kim, 2025; Pacatte, 2008).
 
-    Nghiên cứu hồi cứu trên 195 người lớn có chọc dò dịch não tủy chạm mạch (traumatic LP), thu mẫu 4 ống, nhằm đánh giá độ chính xác của 3 hệ số hiệu chỉnh bạch cầu thường dùng trong lâm sàng: 1 WBC : 500 RBC, 1 WBC : 1000 RBC, và 1 WBC : 1500 RBC. Tiêu chuẩn tham chiếu là số lượng bạch cầu ở ống 4 (được xem là phản ánh giá trị thật sau khi máu ngoại vi đã lắng).
+Ngưỡng tế bào làm DNT đục khác nhau giữa các nguồn:
 
-    Kết quả: 54% bệnh nhân có tăng bạch cầu "giả" ở ống 1 (do máu lẫn, không phải bệnh lý thật). Nhóm này có đặc điểm là DNT nhiều máu hơn (RBC cao) và mức tăng bạch cầu nhẹ hơn so với nhóm tăng bạch cầu thật. Độ đặc hiệu của các hệ số hiệu chỉnh dao động 29,2–71,7%, độ nhạy 84,3–97,8%; hệ số 1:500 có độ đặc hiệu cao nhất, hệ số 1:1500 có độ nhạy cao nhất — thể hiện sự đánh đổi kinh điển giữa độ nhạy và độ đặc hiệu.
+- Khoảng 200 bạch cầu/µL: DNT đục thường phản ánh phản ứng tế bào ít nhất 200 bạch cầu/µL (Hoen et al., 2019).
+- 200–500 bạch cầu/µL: DNT trở nên trắng đục rõ (Bonadio, 2014).
+- Khoảng 400 tế bào/µL: DNT vẫn trong cho đến ngưỡng này (Sternbach, 1985).
+- Tới 400 hồng cầu/µL và 200 bạch cầu/µL: DNT vẫn có thể trông trong (Euerle, 2010).
 
-    Kết luận quan trọng nhất: dù dùng hệ số nào, các trường hợp dương tính giả và âm tính giả thường xảy ra ở mức tăng bạch cầu nhẹ (≤20/µL) — nên khi kết quả sau hiệu chỉnh chỉ cho thấy tăng nhẹ, bác sĩ cần diễn giải thận trọng, tránh chẩn đoán nhầm dựa đơn thuần vào con số đã hiệu chỉnh.
+### Các màu sắc dịch não tủy và ý nghĩa
 
-**7. Các tình huống đặc biệt liên quan đến tế bào**
+Màu sắc và độ trong chỉ có giá trị định hướng, cần kết hợp với các chỉ số khác.
 
-- **Co giật gần đây**: tới 30% bệnh nhân có thể có tăng bạch cầu DNT sau cơn co giật toàn thể hoặc cục bộ — cần tìm nguyên nhân nhiễm trùng và đánh giá khả năng co giật thứ phát sau tổn thương nội sọ nghiêm trọng (máu tụ dưới màng cứng, XHDN, đột quỵ).
-- **Herpes simplex viêm não**: có thể làm tăng hồng cầu DNT (khác với viêm màng não virus thông thường).
-- **Nhiễm bẩn từ tủy xương**: chọc dò có thể vô tình lẫn tế bào tủy xương từ thân đốt sống lân cận, gây nhiễu kết quả tế bào học.
+- **Trong, không màu:** là màu sắc DNT bình thường nhưng cũng gặp trong một số bệnh lý như viêm màng não virus, viêm màng não lao và viêm màng não do *Cryptococcus* ở người nhiễm HIV (Meyfroidt et al., 2020; WHO, 2026).
+- **Đục, xanh lục hoặc như mủ:** viêm màng não vi khuẩn (Meyfroidt et al., 2020; Shahan et al., 2021; Srivastava et al., 2008; WHO, 2026). DNT mủ rõ kèm glucose thấp là bằng chứng giả định của viêm màng não vi khuẩn (Sternbach, 1985).
+- **Đục hoặc vàng, có màng đông khi để lắng:** viêm màng não lao. DNT có thể tạo màng đông protein (pellicle) khi để yên và có thể tìm thấy trực khuẩn kháng acid trên phết màng này (Kaplan & Kim, 2025; Shahan et al., 2021; Srivastava et al., 2008).
+- **Đỏ hoặc hồng:** có máu trong DNT do chọc chạm mạch hoặc XHDN. 
+- **Vàng đến cam (xanthochromia):** chủ yếu do bilirubin, gợi ý XHDN nhưng cũng có thể do nhiều nguyên nhân khác (xem phần Xanthochromia).
+- **Nâu:** do methemoglobin, đặc trưng của máu tụ dưới màng cứng đã có vỏ bao và máu tụ trong não cũ (Euerle, 2010).
 
-*(Birnbaumer, 2025)*
 
+## Xanthochromia
 
-## Glucose trong dịch não tuỷ 
+### Định nghĩa và cơ chế
 
-**1. Nguồn gốc và cơ chế cân bằng**
+Xanthochromia là màu vàng–cam hoặc hồng của dịch nổi sau khi ly tâm DNT. Màu này sinh ra khi hồng cầu trong khoang dưới nhện bị ly giải và hemoglobin chuyển hóa thành các sắc tố oxyhemoglobin, bilirubin và methemoglobin (Bonadio, 2014; Euerle, 2010). 
 
-- Glucose đi vào DNT qua đám rối mạch mạc (choroid plexus) và qua vận chuyển xuyên mao mạch có chất mang (carrier-mediated transport) vào khoang ngoại bào của não/tủy, sau đó cân bằng tự do trong khoang dưới nhện.
-- Trong DNT, glucose trải qua đường phân (glycolysis), luôn kéo theo sự tăng lactate DNT tương ứng.
-- **Thời gian cân bằng với glucose máu: 90–120 phút** — đây là lý do glucose DNT phản ứng chậm với thay đổi glucose máu cấp tính (VD: sau tiêm/truyền glucose tĩnh mạch).
-- Khuyến cáo: khi glucose DNT có ý nghĩa chẩn đoán quan trọng, nên lấy mẫu DNT và máu **sau khi bệnh nhân nhịn ăn 4 giờ** để tránh nhiễu do dao động glucose máu cấp tính.
+??? info "Diễn tiến xuất hiện của các sắc tố"
 
-*(Birnbaumer, 2025)*
+    Euerle (2010) mô tả diễn tiến của từng sắc tố như sau:
 
-**2. Giá trị bình thường**
+    - Oxyhemoglobin (màu đỏ): xuất hiện trong vòng hai giờ sau chảy máu, có thể ngay lập tức nếu chảy máu nhiều; đạt đỉnh sau 24–48 giờ và biến mất sau 3–30 ngày.
+    - Bilirubin (màu vàng): được tạo từ oxyhemoglobin nhờ enzyme heme oxygenase ở đám rối mạch mạc, màng nhện và màng não. Enzyme bắt đầu hoạt động khoảng 12 giờ sau xuất huyết và bilirubin có thể tồn tại 2–4 tuần. Bilirubin chỉ hình thành khi máu nằm trong khoang dưới nhện nhiều giờ, không tự xuất hiện trong ống nghiệm. 
+    - Methemoglobin (màu nâu): sản phẩm oxy hóa của hemoglobin, đặc trưng cho máu tụ cũ đã có vỏ bao.
 
-| Thông số | Giá trị |
-|---|---|
-| Glucose DNT (người lớn) | 50–80 mg/dL |
-| Tỷ lệ glucose DNT/máu (người lớn, trẻ em) | 0,44–0,90 (Shahan et al., 2021); kinh điển ~60–80% (Sternbach, 1985) |
-| Tỷ lệ glucose DNT/máu (trẻ sơ sinh) | 0,42–1,10 — ngưỡng bất thường cao hơn người lớn, thường lấy mốc **<0,6** là bất thường ở trẻ nhũ nhi |
+### Thời gian xuất hiện xanthochromia và phương pháp đánh giá
 
-*(Sternbach, 1985; Shahan et al., 2021; Birnbaumer, 2025)*
+Xanthochromia cần vài giờ để hình thành, nên có thể chưa xuất hiện nếu chọc dò trong vài giờ đầu sau khởi phát đau đầu (Euerle, 2010; Gaieski et al., 2012). Tuy vậy, con số cụ thể khác nhau:
 
-**3. Ngưỡng bất thường và ý nghĩa chẩn đoán**
+**Bảng 3.** Thời điểm xuất hiện và thời gian tồn tại của xanthochromia
 
-| Ngưỡng | Ý nghĩa |
-|---|---|
-| Tỷ lệ DNT/máu < 0,5 **hoặc** glucose DNT < 40 mg/dL | Luôn được xem là bất thường ở người lớn |
-| Tỷ lệ DNT/máu < 0,4 | Độ nhạy 80%, độ đặc hiệu 98% cho viêm màng não vi khuẩn |
-| Tỷ lệ DNT/máu < 0,6 ở trẻ nhũ nhi | Ngưỡng bất thường (cao hơn người lớn) |
-| Tỷ lệ DNT/máu ~0,3 khi có tăng đường huyết nặng | Vẫn được xem là bất thường dù cao hơn ngưỡng 0,4 thông thường — cần hiệu chỉnh theo bối cảnh tăng đường huyết |
-| Glucose DNT < 34 mg/dL | Một trong bốn tiêu chuẩn giúp chẩn đoán viêm màng não vi khuẩn với độ chắc chắn >99% (kết hợp cùng protein, WBC, bạch cầu trung tính) |
+| Nguồn | Thời điểm xuất hiện | Thời gian tồn tại |
+| --- | --- | --- |
+| Sternbach (1985) | Máu đã có trong DNT ít nhất 2–4 giờ | Không nêu |
+| Bonadio (2014) | Ly giải hồng cầu bắt đầu sau khoảng 4 giờ | Biến mất sau khoảng 7 ngày |
+| Pacatte (2008) | Bắt đầu sau vài giờ, có thể cần tới 12 giờ | Không nêu |
+| Shahan et al. (2021) | Sau 6 giờ ở khoảng 20% ca XHDN; sau 12 giờ ở 90% ca | Tới 2 tuần |
 
-*(Shahan et al., 2021; Birnbaumer, 2025)*
+Shahan et al. (2021) còn ghi nhận ít nhất 50% bệnh nhân XHDN đã có một lần chảy máu báo trước không triệu chứng từ hai đến ba tuần trước, làm tăng khả năng thấy xanthochromia.
 
-!!! note "Luôn tính tỷ lệ glucose"
-    Tăng đường huyết có thể **che lấp** một tình trạng glucose DNT giảm thật sự — khi nghi ngờ, luôn tính tỷ lệ DNT/máu thay vì chỉ nhìn giá trị glucose DNT đơn thuần.
+Phần lớn bệnh viện đánh giá xanthochromia bằng mắt thường sau ly tâm. Đo quang phổ phát hiện được cả oxyhemoglobin lẫn bilirubin, trong khi mắt thường không phân biệt được hai sắc tố này. Hai nguồn đánh giá vai trò của đo quang phổ khác nhau:
 
-**5. Glucose DNT giảm — nguyên nhân theo nhóm bệnh**
+- Euerle (2010): nên dùng sự hiện diện của bilirubin trên quang phổ để định nghĩa xanthochromia. Oxyhemoglobin đơn độc thường là do chạm mạch. Không có cả hai sắc tố thì không ủng hộ XHDN. 
+- Srivastava et al. (2008): với bệnh nhân có phim chụp cắt lớp vi tính (CT) sọ âm tính, DNT có thể vẫn trong nên có thể bỏ sót XHDN nếu chỉ quan sát bằng mắt thường, do đó cần đo bằng máy quang phổ. Tác giả khuyến cáo chọc dò sau khởi phát triệu chứng ít nhất 12 giờ, gửi ống DNT cuối cùng để đo bilirubin, che mẫu khỏi ánh sáng và tránh dùng hệ thống vận chuyển mẫu bằng ống khí nén nếu có thể.
 
-| Nhóm nguyên nhân | Bệnh lý cụ thể |
-|---|---|
-| Nhiễm trùng TKTW lan tỏa | Viêm màng não vi khuẩn, viêm màng não do nấm, viêm màng não lao, viêm màng não ký sinh trùng |
-| Ung thư | Viêm màng não do ung thư (carcinomatous meningitis), u màng não |
-| Mạch máu | Xuất huyết dưới nhện |
-| Viêm không nhiễm trùng | Sarcoidosis thần kinh trung ương |
-| Chuyển hóa toàn thân | Hạ đường huyết (glucose máu thấp kéo theo glucose DNT thấp dù tỷ lệ DNT/máu vẫn có thể bình thường) |
+### Nguyên nhân xanthochromia không do xuất huyết dưới nhện
 
-*(Sternbach, 1985)*
+Xanthochromia gợi ý nhưng không đặc hiệu cho XHDN, các nguyên nhân khác gồm (Euerle, 2010):
 
-**6. Glucose DNT theo loại viêm màng não — phân biệt vi khuẩn vs virus vs các loại khác**
+- Bilirubin máu cao: xanthochromia chỉ xuất hiện khi bilirubin huyết thanh đạt 10–15 mg/dL (Euerle, 2010; Shahan et al., 2021). Ở trẻ sơ sinh, ngưỡng được ghi nhận là ≥ 15 mg/dL (Pacatte, 2008). 
+- Protein DNT > 150 mg/dL (Euerle, 2010; Pacatte, 2008; Shahan et al., 2021; Sternbach, 1985).
+- Tăng caroten máu (Sternbach, 1985).
+- Chọc chạm mạch với lượng máu lớn (Sternbach, 1985).
+- Trẻ sơ sinh: xanthochromia khá thường gặp và có thể xuất hiện sau sinh bình thường, vì chuyển dạ có liên quan đến xuất huyết nội sọ ẩn ở trẻ không triệu chứng (Pacatte, 2008).
 
-| Loại viêm màng não | Glucose DNT |
-|---|---|
-| Vi khuẩn (điển hình) | Giảm trong 50–60% trường hợp (thường <40 mg/dL); tỷ lệ DNT/máu <0,4 |
-| Virus (điển hình) | **Bình thường** trong đa số trường hợp |
-| Quai bị (mumps) | Giảm ở khoảng 25% trường hợp |
-| Herpes simplex/zoster | Đôi khi giảm nhẹ |
-| Nhiễm trùng cạnh màng não (áp xe não, áp xe dưới màng cứng) | Thường **KHÔNG giảm** — điểm phân biệt quan trọng với viêm màng não lan tỏa dù vẫn có tăng bạch cầu/protein |
+### Phân biệt xuất huyết dưới nhện với chọc chạm mạch 
 
-*(Sternbach, 1985; Shahan et al., 2021)*
+Khi DNT có máu, ba dấu hiệu truyền thống được dùng để phân biệt là số lượng hồng cầu, mức giảm hồng cầu từ ống đầu đến ống cuối và sự hiện diện của xanthochromia (Euerle, 2010).
 
+- **Diễn tiến màu qua các ống:** với chọc chạm mạch, dịch trong dần và hồng cầu giảm dần từ ống đầu đến ống cuối. Với XHDN, máu trộn đều trong DNT nên lượng máu tương đương giữa các ống (Bonadio, 2014; Shahan et al., 2021; Sternbach, 1985). Hồng cầu giảm > 30% giữa ống đầu và ống cuối là ngưỡng kinh điển gợi ý chạm mạch. Tuy vậy, hồng cầu cũng có thể giảm dần trong XHDN mới do tế bào lắng xuống khi bệnh nhân nằm (Euerle, 2010) và chạm mạch có thể xảy ra cùng lúc với XHDN, nên không thể mặc định DNT trong dần là do chạm mạch (Srivastava et al., 2008).
+- **Màu dịch nổi sau ly tâm:** chạm mạch cho dịch nổi trong vì máu mới vào và màng hồng cầu còn nguyên; XHDN cho dịch nổi đỏ hoặc vàng (Bonadio, 2014; Sternbach, 1985). 
+- **Số lượng hồng cầu:** trong ống 3 hoặc 4, hồng cầu ≤ 400–500/µL rất gợi ý chạm mạch (Euerle, 2010). Trong nghiên cứu thí điểm trên 299 bệnh nhân của Gorchynski et al. (2007), hồng cầu ≤ 500/µL ở ống 4 có giá trị tiên đoán âm 100% cho XHDN, trên 10.000/µL là gợi ý nhiều đến XHDN, còn trong khoảng 500–10.000/µL thì không thể loại trừ nếu không khảo sát thêm. Hồng cầu ống 4 < 500/µL kèm mức giảm ≥ 70% từ ống 1 đến ống 4 có thể loại trừ XHDN phát hiện được trên hình ảnh học; không ca XHDN nào có hồng cầu giảm quá 30%. 
+- **Dấu hiệu khác:** có cục đông trong một ống nghiêng mạnh về chạm mạch, vì trong XHDN máu đã bị khử fibrin tại nơi chảy máu. Chọc lại ngay ở khe liên đốt cao hơn mà thu được dịch trong cũng chứng tỏ lần trước chạm mạch. 
 
-## Protein dịch não tuỷ 
 
-**1. Nguồn gốc và cơ chế**
+## Đặc điểm tế bào trong dịch não tủy
 
-- Phần lớn protein trong DNT có nguồn gốc từ **huyết tương** (protein máu bình thường có thể lên tới 8.000 mg/dL) — nhưng do hàng rào máu–DNT tương đối không thấm đối với các phân tử lớn, protein vào DNT bị pha loãng hàng trăm lần so với máu.
-- Mức độ protein qua được hàng rào phụ thuộc vào **kích thước phân tử** và mức độ thấm của hàng rào máu–DNT tại từng vị trí.
-- Có **gradient nồng độ** theo vị trí lấy dịch: dịch não thất (5–15 mg/dL) < bể nền sọ (10–25 mg/dL) < DNT thắt lưng (15–45 mg/dL) — phản ánh sự khác biệt về tính thấm mao mạch dọc theo hệ thống DNT.
+### Kỹ thuật đếm và xử lý mẫu
 
-*(Birnbaumer, 2025)*
+Tổng số bạch cầu và hồng cầu được đếm trên buồng đếm từ DNT chưa ly tâm. Công thức bạch cầu được xác định trên phiến phết cặn ly tâm (cytocentrifuge) nhuộm Wright (Bonadio, 2014; Kaplan & Kim, 2025). Mẫu cần được xử lý ngay vì tế bào DNT bắt đầu ly giải trong vòng một giờ sau khi lấy; bảo quản lạnh có thể làm chậm quá trình này (Euerle, 2010). 
 
-**2. Giá trị bình thường theo nhóm tuổi**
+### Các ngưỡng giá trị
 
-| Đối tượng | Protein DNT bình thường |
-|---|---|
-| Người lớn (DNT thắt lưng) | 15–45 mg/dL (một số nguồn: 20–45 mg/dL) hoặc <50 mg/dL tùy phòng xét nghiệm |
-| Trẻ em | <150 mg/dL |
-| Trẻ sinh non và trẻ đủ tháng (neonate) | **Cao hơn người lớn rõ rệt**, trung bình ~90 mg/dL — do hàng rào máu–não chưa trưởng thành hoàn toàn |
-| Sau 8 tuần tuổi | Protein giảm dần về mức gần với người lớn khi hàng rào máu–não trưởng thành |
+**Về số lượng tế bào**
 
-*(Sternbach, 1985; Shahan et al., 2021; Birnbaumer, 2025)*
+Các nguồn thống nhất rằng trẻ ngoài giai đoạn sơ sinh và người lớn có dưới 5–6 bạch cầu/µL; còn trẻ sơ sinh có giá trị bình thường cao hơn, có thể do hàng rào máu–não chưa trưởng thành (Bonadio, 2014). 
 
-**3. Ý nghĩa của protein tăng**
+**Bảng 4.** Số lượng bạch cầu dịch não tủy bình thường theo nhóm tuổi
 
-Tăng protein DNT là dấu hiệu **không đặc hiệu**, gặp trong rất nhiều bệnh lý khác nhau — không dùng đơn độc để chẩn đoán mà cần kết hợp với các chỉ số khác (glucose, tế bào, vi sinh).
+| Nguồn | Nhóm tuổi | Bạch cầu bình thường |
+|---|---|---|
+| Hoen et al. (2019) | Trẻ ngoài sơ sinh và người lớn | < 5/µL |
+| WHO (2026) | Trẻ em và người lớn | < 5/µL |
+| Shahan et al. (2021) | Trẻ em và người lớn | < 5/µL |
+| Kaplan & Kim (2025) | Trẻ từ 3 tháng tuổi | < 6/µL |
+| Bonadio (2014) | Trẻ trên 2 tháng tuổi | 0–5/µL |
+| Euerle (2010) | Nhũ nhi 4–8 tuần | Tới 22/µL |
+| Euerle (2010) | Sơ sinh | Tới 32/µL, đa nhân trung tính chiếm tỷ lệ đáng kể |
+| Shahan et al. (2021) | Sơ sinh | < 20/µL |
 
-**4. Bảng các bệnh lý liên quan đến tăng protein DNT**
+**Về thành phần tế bào**
 
-| Nhóm | Bệnh lý cụ thể |
-|---|---|
-| Nhiễm trùng | Viêm màng não (mọi nguyên nhân) |
-| Nhiễm virus/khác | Bại liệt (poliomyelitis), giang mai thần kinh (neurosyphilis) |
-| Khối u | U não, u tủy sống |
-| Nhiễm trùng khu trú | Áp xe não |
-| Thần kinh ngoại biên | Viêm đa dây thần kinh (polyneuritis) |
-| Mạch máu | Xuất huyết não, nhồi máu não |
-| Hủy myelin | Xơ cứng rải rác (multiple sclerosis) |
-| Cột sống | Thoát vị đĩa đệm |
-| Khác | Động kinh vô căn, chấn thương sọ não, đái tháo đường, urê huyết cao (uremia), phù niêm (myxedema), nghiện rượu cấp |
+Ở DNT bình thường, tế bào chủ yếu là lympho bào và bạch cầu đơn nhân (monocyte), hiếm khi có đa nhân trung tính hoặc ái toan; riêng ở trẻ sơ sinh, sự hiện diện của đa nhân trung tính có thể vẫn bình thường (Shahan et al., 2021). Bonadio (2014) xác định số lượng đa nhân trung tính tuyệt đối (ANC) bình thường < 1/µL ở mọi lứa tuổi. Ở trẻ trên 3 tháng, 95% không có đa nhân trung tính trong DNT, nên chỉ cần một bạch cầu đa nhân trung tính cũng có thể xem là bất thường. Khi trẻ sốt có một bạch cầu đa nhân trung tính trong DNT, cần theo dõi lâm sàng chặt và cân nhắc điều trị cho đến khi có kết quả cấy (Kaplan & Kim, 2025). 
 
-*(Sternbach, 1985)*
+Tăng tế bào trong DNT có thể do viêm màng não, u, xuất huyết não, áp xe, nhồi máu, bệnh hủy myelin và nhiều quá trình khác. 
 
-**4. Các ngưỡng protein đặc biệt**
+- **Bạch cầu đa nhân trung tính:** thường gặp trong nhiễm khuẩn, nhưng cũng gặp ở giai đoạn sớm của nhiễm virus, lao, viêm màng não do lan truyền đường máu và viêm màng não hóa học do dị vật (Euerle, 2010).
+- **Bạch cầu ái toan:** luôn là bất thường, thường gặp nhất do ký sinh trùng thần kinh trung ương. Ái toan cũng có thể xuất hiện sau chụp tủy cản quang, chụp não thất bơm khí và ở mức độ nhẹ trong lao màng não, giang mai thần kinh (Euerle, 2010). Định nghĩa tăng ái toan DNT trong nhiễm ký sinh trùng là > 10 tế bào/µL hoặc > 10% tổng số tế bào (Shahan et al., 2021).
 
-| Ngưỡng | Ý nghĩa |
-|---|---|
-| >220 mg/dL | Một trong bốn tiêu chuẩn giúp chẩn đoán viêm màng não vi khuẩn với độ chắc chắn >99% (Shahan et al., 2021) |
-| >500 mg/dL | Không thường gặp — chủ yếu thấy trong viêm màng não, xuất huyết dưới nhện (tự phát hoặc do chấn thương), và u tủy sống (Sternbach, 1985) |
-| ~1.000 mg/dL trở lên | Có thể gây **đông đặc DNT (hội chứng Froin)** — do tăng tính thấm mao mạch tại chỗ, thường gặp với u tủy sống gây tắc nghẽn dòng chảy DNT (Birnbaumer, 2025) |
-| >150 mg/dL | Có thể gây **xanthochromia** dù không có xuất huyết dưới nhện thật sự — cần lưu ý khi diễn giải màu sắc DNT |
+### Đặc điểm bạch cầu theo nguyên nhân
 
-**5. Protein tăng do máu lẫn (traumatic tap)**
+#### Viêm màng não vi khuẩn
 
-- Nếu protein huyết thanh bình thường, về lý thuyết protein DNT tăng thêm khoảng **1 mg/dL cho mỗi 1.000 hồng cầu/µL** lẫn vào — tuy nhiên mối liên hệ này **biến thiên đáng kể** giữa các trường hợp, không nên áp dụng cứng nhắc.
-- Phản ứng viêm do hồng cầu bị ly giải (hemolyzed RBCs) cũng có thể góp phần làm tăng protein DNT một cách đáng kể, độc lập với số lượng hồng cầu ban đầu.
+Bạch cầu DNT thường tăng cao với ưu thế đa nhân trung tính, nhưng con số cụ thể khác nhau giữa các nguồn.
 
-*(Birnbaumer, 2025)*
+**Bảng 5.** Số lượng và công thức bạch cầu dịch não tủy trong viêm màng não vi khuẩn
 
-**6. Vai trò của điện di/định lượng immunoglobulin trong DNT**
+| Nguồn | Số lượng bạch cầu | Tỷ lệ đa nhân trung tính | Ghi chú |
+|---|---|---|---|
+| Shahan et al. (2021) | Thường 1.000–5.000/µL | Thường 80–90% | 99% trẻ em có > 100/µL |
+| Kaplan & Kim (2025) | Vài trăm đến > 10.000/µL, thường vài nghìn | Ưu thế | Đôi khi < 100/µL, nhất là do não mô cầu hoặc ở giai đoạn sớm |
+| Euerle (2010) | Gợi ý nhiễm khuẩn khi 500–20.000/µL | Ưu thế | Nhiễm virus hiếm khi > 1.000/µL |
 
-- Định lượng chọn lọc các phân đoạn immunoglobulin trong DNT có giá trị chẩn đoán, đặc biệt trong nghi ngờ **xơ cứng rải rác** (multiple sclerosis).
-- Tăng immunoglobulin DNT có thể phản ánh sự phá vỡ hàng rào máu–não hoặc đáp ứng miễn dịch tại chỗ ở TKTW, gặp trong: giang mai thần kinh, viêm não do virus, viêm não xơ cứng bán cấp, viêm não do rubella tiến triển, viêm màng não lao, sarcoidosis, ấu trùng sán lợn (cysticercosis), và hội chứng Guillain-Barré.
+Bạch cầu không phải lúc nào cũng tăng điển hình. Khoảng 6% ca viêm màng não vi khuẩn xác định bằng cấy không tăng bạch cầu (Shahan et al., 2021). Trong nghiên cứu 710 bệnh nhân của Lindquist et al. (1988), 39% ca viêm màng não vi khuẩn có bạch cầu < 1.000/µL, chồng lấp với nhóm viêm não – màng não virus. 
 
-*(Birnbaumer, 2025)*
+Về ý nghĩa tiên lượng, mức tăng bạch cầu không tương quan với kết cục lâm sàng (Sternbach, 1985). Ngược lại, bạch cầu thấp kèm nhuộm Gram dương tính là yếu tố nguy cơ của kết cục xấu (Kaplan & Kim, 2025). Bạch cầu tới 87.000/µL đã được ghi nhận; với con số cao như vậy, cần nghĩ đến áp xe não vỡ vào não thất (Sternbach, 1985). 
 
+!!! note ""
 
-## Lactate trong dịch não tuỷ 
+    Spanos et al. (1989) hồi cứu hồ sơ 422 bệnh nhân viêm màng não cấp (217 vi khuẩn, 205 virus) tại Trung tâm Y khoa Đại học Duke, Hoa Kỳ (1969–1980), gồm cả trẻ em và người lớn; loại trừ trẻ dưới một tháng tuổi, bệnh nhân sau phẫu thuật thần kinh và bệnh nhân suy giảm miễn dịch, nhưng không loại trừ bệnh nhân đã dùng kháng sinh ngoại trú. Theo nghiên cứu, có thể chẩn đoán viêm màng não vi khuẩn với độ chắc chắn ≥ 99% khi có một trong năm tiêu chí:
+    
+    - Glucose DNT < 34 mg/dL (1,9 mmol/L).
+    - Tỷ lệ glucose DNT/máu < 0,23,
+    - Protein DNT > 220 mg/dL. 
+    - Bạch cầu > 2.000/µL. 
+    - Đa nhân trung tính > 1.180/µL. 
+    
+    Các tiêu chí này giúp khẳng định nhưng không giúp loại trừ viêm màng não vi khuẩn.
 
-**1. Vai trò của lactate DNT**
+#### Các nguyên nhân khác
 
-Lactate DNT là xét nghiệm **bổ trợ**, giúp phân biệt viêm màng não vi khuẩn với viêm màng não vô khuẩn/virus khi các xét nghiệm sinh hóa kinh điển (glucose, protein, tế bào) chưa đủ rõ ràng, đặc biệt hữu ích trong các trường hợp đã dùng kháng sinh trước đó làm thay đổi đặc điểm DNT kinh điển.
+**Bảng 6.** Số lượng và công thức bạch cầu dịch não tủy theo các nguyên nhân khác
 
-**2. Cơ chế**
+| Bệnh cảnh | Số lượng bạch cầu | Công thức bạch cầu | Nguồn |
+|---|---|---|---|
+| Virus | Thường < 250/µL, dao động 100–1.000/µL, cao hơn với enterovirus (Shahan); 6–1.000/µL (Euerle) | Ưu thế lympho; giai đoạn sớm có thể ưu thế đa nhân trung tính | Shahan et al. (2021); Euerle (2010) |
+| Lao | 5–300/µL, 20% ca 500–1.000/µL (Shahan); 25–100/µL, hiếm khi > 500 (Kaplan) | Giai đoạn sớm đa nhân trung tính có thể tới 80%; sau chuyển ưu thế lympho | Shahan et al. (2021); Kaplan & Kim (2025) |
+| *Cryptococcus* | Thường tăng nhẹ, có thể bình thường nhất là ở người nhiễm HIV; trung bình 50/µL (0–800) | Ưu thế lympho | Shahan et al. (2021); Kaplan & Kim (2025) |
+| Nấm khác | Thường tăng, tới vài trăm/µL | Sớm ưu thế đa nhân trung tính rồi chuyển lympho, có thể có ái toan | Shahan et al. (2021) |
+| Giang mai thần kinh | Giai đoạn sớm 10–400/µL, giai đoạn muộn 5–100/µL, giảm dần qua nhiều thập kỷ; giai đoạn cấp trung bình 500/µL | Thay đổi; giai đoạn cấp thường lympho | Shahan et al. (2021); Kaplan & Kim (2025) |
+| Ký sinh trùng | 150–2.000/µL | Tăng ái toan | Shahan et al. (2021) |
+| Áp xe não | Thường 10–200/µL, hiếm khi không có tế bào | Ưu thế lympho | Kaplan & Kim (2025) |
+| Tụ mủ dưới màng cứng | < 100 đến vài nghìn/µL | Ưu thế đa nhân trung tính | Kaplan & Kim (2025) |
+| Áp xe não vỡ vào não thất | Vài nghìn đến 100.000/µL | Thường > 90% đa nhân trung tính | Kaplan & Kim (2025) |
 
-Lactate DNT tăng chủ yếu do **chuyển hóa yếm khí (glycolysis)** của bạch cầu và mô thần kinh trong điều kiện viêm/thiếu oxy tại chỗ — quá trình chuyển hóa glucose ở khoang dưới nhện luôn kéo theo sự gia tăng lactate tương ứng (Birnbaumer, 2025).
+### Các tình huống đặc biệt
 
-**3. Giá trị bình thường và theo nhóm bệnh**
+- **Viêm màng não với DNT không tăng tế bào:** hiếm gặp, nhưng có thể xảy ra. Tổng quan hệ thống của Troendle và Pettigrew (2019) ghi nhận 124 ca, phần lớn do vi khuẩn (99 ca); cấy máu dương tính ở 71% ca được cấy. Các tác giả khuyến cáo luôn cấy máu và dùng kháng sinh kinh nghiệm nếu lâm sàng nghi ngờ, bất kể số lượng bạch cầu. Coll et al. (1994) ghi nhận 8/82 ca viêm màng não do não mô cầu có DNT bình thường ở lần chọc đầu, trong đó bảy ca là trẻ em. Tất cả các ca này đều sốt và có ban xuất huyết, nhưng không có dấu hiệu màng não. 
+- **Sau co giật:** tới 30% bệnh nhân có tăng bạch cầu DNT sau cơn co giật toàn thể hoặc cục bộ. Cần tìm nhiễm trùng và đánh giá khả năng co giật thứ phát sau tổn thương nội sọ nặng như máu tụ dưới màng cứng, xuất huyết dưới nhện hoặc đột quỵ (Euerle, 2010).
+- **Viêm não do HSV:** có thể làm tăng hồng cầu trong DNT (Euerle, 2010; Shahan et al., 2021).
+- **Lẫn tế bào tủy xương:** kim có thể lấy phải tế bào tiền thân dòng tủy và hồng cầu từ thân đốt sống lân cận (Euerle, 2010).
+- **Đã dùng kháng sinh trước chọc dò:** số lượng tế bào thường không thay đổi đáng kể (Kaplan & Kim, 2025). Xem thêm mục Tác động của kháng sinh lên dịch não tủy.
 
-| Nhóm | Giá trị lactate DNT |
-|---|---|
-| Bình thường (người lớn) | 11,7–21,6 mg/dL (1,3–2,4 mmol/L) |
-| Viêm màng não do vi khuẩn (đặc trưng để chẩn đoán) | > 35,1 mg/dL (> 3,9 mmol/L) |
-| Nhóm chứng không viêm màng não (Berg et al., 1982) | Trung bình 1,61 mmol/L (khoảng 0,79–3,33) |
-| Viêm màng não vô khuẩn/aseptic (Berg et al., 1982) | Trung bình 2,06 mmol/L (khoảng 0,76–4,31) |
-| Viêm màng não vi khuẩn (Berg et al., 1982) | Trung bình **8,18 mmol/L** (khoảng 1,77–19,21) — cao vượt trội so với hai nhóm còn lại |
 
-*(Shahan et al., 2021; Berg et al., 1982)*
+## Chọc chạm mạch và hiệu chỉnh bạch cầu
 
-**4. Ngưỡng phân biệt vi khuẩn vs vô khuẩn (aseptic)**
+Chọc chạm mạch đưa bạch cầu máu ngoại vi vào DNT, làm khó đánh giá tình trạng tăng tế bào có sẵn trước khi chọc. Cách ước tính thường dùng là trừ một bạch cầu cho mỗi một lượng hồng cầu nhất định, nhưng tỷ lệ này khác nhau giữa các nguồn:
 
-| Nguồn | Ngưỡng đề xuất |
-|---|---|
-| Shahan et al. (2021) | > 35,1 mg/dL (> 3,9 mmol/L) gợi ý mạnh viêm màng não vi khuẩn |
-| Berg et al. (1982) | **3,0 mmol/L** được xác định là điểm cắt phù hợp để phân biệt viêm màng não vô khuẩn với vi khuẩn trong nghiên cứu trên 245 bệnh nhân |
+- 1 bạch cầu : 500–700 hồng cầu: áp dụng khi công thức máu bình thường; nếu thiếu máu hoặc tăng bạch cầu đáng kể thì phải tính theo công thức máu thực tế (Sternbach, 1985).
+- 1 bạch cầu : 1.000 hồng cầu: cách ước tính đơn giản, nhưng không áp dụng được khi mẫu có cục đông (Bonadio, 2014; Kaplan & Kim, 2025).
 
-> Sự khác biệt về ngưỡng giữa các nguồn phản ánh khác biệt về phương pháp xét nghiệm, quần thể nghiên cứu, và mục tiêu cân bằng độ nhạy/độ đặc hiệu — cần tham khảo giá trị tham chiếu của từng phòng xét nghiệm cụ thể khi áp dụng lâm sàng.
+Zhou et al. (2024) hồi cứu 195 người lớn chọc chạm mạch có tăng bạch cầu ở ống 1, lấy bạch cầu ống 4 làm chuẩn tham chiếu:
 
-**5. So sánh hiệu quả chẩn đoán với các xét nghiệm truyền thống**
+- Tăng tế bào giả: 54% số ca tăng bạch cầu ở ống 1 là giả, do máu lẫn.
+- Ba hệ số hiệu chỉnh 1:500, 1:1.000, 1:1.500: độ đặc hiệu dao động 29,2–71,7% và độ nhạy 84,3–97,8%; hệ số 1:500 đặc hiệu nhất, hệ số 1:1.500 nhạy nhất.
+- Sai lệch tập trung ở mức tăng nhẹ: kết quả dương tính giả và âm tính giả chủ yếu xảy ra khi bạch cầu tăng nhẹ (≤ 20/µL).
 
-Theo nghiên cứu của Berg et al. (1982) trên 245 bệnh nhân chọc dò nghi viêm màng não:
+Nhìn chung, chưa có phương pháp nào loại trừ chắc chắn viêm màng não vi khuẩn khi chọc chạm mạch kèm tăng tế bào. Nếu dữ liệu không đủ để loại trừ, cần nhập viện và dùng kháng sinh tĩnh mạch kinh nghiệm trong khi chờ kết quả cấy (Bonadio, 2014). 
 
-- **Lactate DNT** và **tỷ lệ glucose DNT/máu** có khả năng phân biệt viêm màng não vô khuẩn với vi khuẩn **tương đương nhau**.
-- **Protein DNT** có giá trị phân biệt **kém hơn** so với hai xét nghiệm trên.
-- Khi **kết hợp hai xét nghiệm** (lactate + tỷ lệ glucose, hoặc protein + tỷ lệ glucose), độ chính xác chẩn đoán tăng lên **100%** trong nhóm viêm màng não vô khuẩn — nhưng việc kết hợp **không cải thiện thêm** khả năng chẩn đoán trong nhóm viêm màng não vi khuẩn (đã có độ chính xác cao sẵn).
-- Kết hợp lactate + protein (không có tỷ lệ glucose) **không** cho thêm lợi ích.
-- Có 2 trường hợp viêm màng não vi khuẩn xác định bằng cấy (S. pneumoniae, N. meningitidis) mà **tất cả các xét nghiệm sinh hóa đều âm tính giả** — bệnh nhân có ít hoặc không có dấu hiệu viêm màng não sinh hóa lúc nhập viện — nhấn mạnh rằng **không xét nghiệm sinh hóa nào là hoàn hảo tuyệt đối**, kết quả âm tính không loại trừ hoàn toàn viêm màng não vi khuẩn nếu lâm sàng vẫn nghi ngờ mạnh.
 
+## Glucose dịch não tủy
 
-## Đặc điểm dịch não tuỷ trong các bệnh cảnh khác nhau
+### Nguồn gốc và cơ chế
 
-**1. Bảng tổng hợp toàn diện theo loại nhiễm trùng**
+Glucose đi vào DNT qua đám rối mạch mạc và qua cơ chế vận chuyển có chất mang xuyên mao mạch vào khoang ngoại bào của não và tủy, sau đó cân bằng tự do trong khoang dưới nhện. Trong DNT, glucose bị chuyển hóa qua đường phân (glycolysis), luôn kéo theo tăng lactate (Euerle, 2010).
 
-| Loại nhiễm trùng | Áp lực mở | Công thức bạch cầu | Số lượng bạch cầu | Glucose | Protein |
+Có các cơ chế sau khiến glucose DNT giảm trong viêm màng não vi khuẩn (Kaplan & Kim, 2025):
+
+- Giảm chủ yếu do giảm vận chuyển glucose qua hàng rào máu–não bị viêm. 
+- Tăng sử dụng glucose của mô não. 
+- Việc vi khuẩn và bạch cầu đa nhân trung tính sử dụng glucose chỉ đóng vai trò tương đối nhỏ.
+
+
+### Cách lấy mẫu và diễn giải
+
+Glucose DNT phải được so sánh với glucose máu lấy cùng lúc hoặc ngay trước chọc dò (Hoen et al., 2019; Kaplan & Kim, 2025), lý tưởng nhất là lấy cả mẫu DNT và mẫu máu sau bốn giờ nhịn ăn (Euerle, 2010). Nếu không có glucose máu, WHO (2026) đề nghị diễn giải glucose DNT dựa trên giả định glucose máu là 100 mg/dL (5,6 mmol/L).
+
+Glucose DNT tăng thường chỉ phản ánh tăng đường huyết và không có giá trị chẩn đoán (Euerle, 2010; Sternbach, 1985). Chọc chạm mạch thường không ảnh hưởng đến glucose DNT (Bonadio, 2014).
+
+**Giá trị bình thường**
+
+Các nguồn thống nhất rằng glucose DNT bằng khoảng 1/2–2/3 glucose máu, nhưng giới hạn cụ thể khác nhau:
+
+**Bảng 7.** Giá trị bình thường của glucose dịch não tủy và tỷ lệ glucose dịch não tủy/máu
+
+| Nguồn | Glucose DNT | Tỷ lệ glucose DNT/máu |
+|---|---|---|
+| Euerle (2010) | 50–80 mg/dL | 0,6–0,7 |
+| Kaplan & Kim (2025) | Không nêu | 0,4–0,6 |
+| WHO (2026) | 40–70 mg/dL (2,2–3,9 mmol/L) | 0,4–0,6 |
+
+**Ngưỡng bất thường**
+
+- **Tỷ lệ < 0,5 hoặc glucose < 40 mg/dL:** luôn là bất thường, cần nghĩ đến viêm màng não vi khuẩn, ngay cả khi nhuộm Gram âm tính và số lượng tế bào thấp (Euerle, 2010).
+- **Tỷ lệ < 0,6 ở trẻ nhũ nhi:** được xem là bất thường, vì tỷ lệ bình thường ở nhóm này cao hơn (Euerle, 2010).
+- **Tỷ lệ < 0,4:** độ nhạy 80% và độ đặc hiệu 98% cho viêm màng não vi khuẩn (Hoen et al., 2019; Shahan et al., 2021). Trong nghiên cứu 710 bệnh nhân của Lindquist et al. (1988), hạ ngưỡng tỷ lệ từ 0,5 xuống 0,4 làm tỷ lệ chẩn đoán dương tính giả giảm từ 75% xuống 47%.
+- **Glucose < 34 mg/dL hoặc tỷ lệ < 0,23:** là hai trong năm tiêu chí cho phép chẩn đoán viêm màng não vi khuẩn với độ chắc chắn ≥ 99% (Spanos et al., 1989).
+
+### Glucose theo nguyên nhân nhiễm trùng
+
+#### Viêm màng não vi khuẩn
+
+Glucose DNT < 40 mg/dL ở 50–60% ca (Shahan et al., 2021) và tỷ lệ glucose DNT/máu thường < 0,4 (Meyfroidt et al., 2020). Glucose đôi khi < 10 mg/dL, nhưng một tỷ lệ nhỏ bệnh nhân vẫn có glucose bình thường (Euerle, 2010). Glucose DNT thấp hoặc tỷ lệ glucose DNT/máu giảm khi nhập viện có liên quan chặt với mất thính lực sớm (Kaplan & Kim, 2025).
+
+#### Các nguyên nhân khác
+
+**Bảng 8.** Glucose dịch não tủy theo các nguyên nhân nhiễm trùng khác
+
+| Bệnh cảnh | Glucose DNT | Nguồn |
+|---|---|---|
+| Virus | Thường bình thường hoặc giảm nhẹ; trong viêm não – màng não do quai bị hoặc viêm não do HSV, glucose có thể giảm | Shahan et al. (2021); Euerle (2010) |
+| Lao | Trung vị 40 mg/dL và giảm nhiều hơn ở giai đoạn muộn (Shahan), tỷ lệ thường < 0,3–0,4 (Meyfroidt) nhưng cũng có thể bình thường ở 50% bệnh nhân (Macucci) | Shahan et al. (2021); Meyfroidt et al. (2020); Macucci & Sità (1992) |
+| *Cryptococcus* | Thường > 40 mg/dL (Shahan); giảm ở hơn một nửa số ca (Kaplan); giảm ở người miễn dịch bình thường (Euerle) | Shahan et al. (2021); Kaplan & Kim (2025); Euerle (2010) |
+| Nấm khác | Có thể giảm, thường bình thường | Shahan et al. (2021); Meyfroidt et al. (2020) |
+| Giang mai thần kinh | Có thể giảm, thường bình thường | Shahan et al. (2021); Euerle (2010) |
+| Ký sinh trùng | Có thể giảm, thường bình thường | Shahan et al. (2021) |
+| Áp xe não, tụ mủ dưới màng cứng | Bình thường | Kaplan & Kim (2025); Sternbach (1985) |
+| Áp xe não vỡ vào não thất | Thường < 40 mg/dL | Kaplan & Kim (2025) |
+
+### Giá trị trong chẩn đoán phân biệt
+
+Tỷ lệ glucose DNT/máu là một trong những chỉ số sinh hóa có giá trị nhất để phân biệt viêm màng não vi khuẩn với vô khuẩn. Berg et al. (1982) ghi nhận khả năng phân biệt của tỷ lệ glucose tương đương lactate DNT và tốt hơn protein. Trong nghiên cứu cắt ngang 372 người lớn của Dittrich et al. (2020), lactate tăng và tỷ lệ glucose giảm là những yếu tố dự báo độc lập duy nhất của nhiễm khuẩn, với diện tích dưới đường cong ROC (AUROC) 0,78–0,87. 
+
+Khi chọc chạm mạch, glucose DNT là chỉ số ít bị ảnh hưởng nhất. Trong nghiên cứu ở trẻ trên một tháng tuổi chọc chạm mạch, 22/30 trẻ viêm màng não vi khuẩn có glucose DNT thấp (Bonadio et al., 1990).
+
+### Diễn tiến khi dùng kháng sinh và khi điều trị
+
+Các nguồn chưa thống nhất về ảnh hưởng của kháng sinh dùng trước chọc dò:
+
+- **Glucose tăng:** trong nghiên cứu 245 trẻ của Nigrovic et al. (2008), kháng sinh trước chọc dò liên quan có ý nghĩa với glucose DNT cao hơn; trẻ dùng kháng sinh ≥ 12 giờ có glucose trung vị 48 mg/dL, so với 29 mg/dL ở trẻ không dùng hoặc dùng < 12 giờ.
+- **Không thay đổi đáng kể:** Euerle (2010) cho rằng kháng sinh trước đó không ảnh hưởng đáng kể đến tỷ lệ glucose DNT/máu. Trong bảng so sánh của Kaplan và Kim (2025), glucose trung bình ở nhóm chưa điều trị và đã điều trị trước lần lượt là 35 và 32 mg/dL, với tỷ lệ glucose DNT/máu đều là 0,29.
+
+Sau khi điều trị hiệu quả, glucose hồi phục nhanh hơn bạch cầu và protein. Ở trẻ viêm màng não do *Haemophilus influenzae* type b, 71% trẻ có glucose thấp ban đầu trở về bình thường sau 48 giờ điều trị (Bonadio & Smith, 1990). Tuy vậy, Euerle (2010) ghi nhận glucose có thể vẫn thấp trong một đến hai tuần sau điều trị hiệu quả. 
+
+
+## Protein dịch não tủy
+
+### Nguồn gốc và cơ chế
+
+Phần lớn protein DNT có nguồn gốc từ máu. Lượng protein đi vào DNT phụ thuộc kích thước phân tử và tính kém thấm tương đối của hàng rào máu–DNT, nên toàn bộ các loại protein huyết thanh đều có mặt trong DNT nhưng bị pha loãng vài trăm lần. Nồng độ protein tăng dần theo vị trí lấy dịch, phản ánh sự khác biệt về tính thấm của nội mô mao mạch: dịch não thất 5–15 mg/dL, bể nền 10–25 mg/dL và DNT thắt lưng 15–45 mg/dL (Euerle, 2010). 
+
+Trong viêm màng não vi khuẩn, protein DNT tăng theo hai cơ chế: tế bào bị ly giải giải phóng protein (Srivastava et al., 2008) và hàng rào máu–não tăng tính thấm cho protein huyết thanh đi vào DNT (Kaplan & Kim, 2025).
+
+### Giá trị bình thường
+
+Các nguồn đưa ra ngưỡng giới hạn trên gần nhau, khoảng 40–50 mg/dL:
+
+**Bảng 9.** Giá trị bình thường của protein dịch não tủy
+
+| Nguồn | Giá trị bình thường |
+| --- | --- |
+| Euerle (2010) | 15–45 mg/dL (DNT thắt lưng) |
+| Sternbach (1985) | 20–45 mg/dL |
+| Shahan et al. (2021) | < 50 mg/dL ở trẻ em và người lớn |
+| Srivastava et al. (2008) | 15–40 mg/dL |
+| WHO (2026) | 15–45 mg/dL |
+
+**Protein DNT ở trẻ sơ sinh và nhũ nhi**
+
+Protein DNT ở trẻ sinh non và trẻ đủ tháng cao hơn người lớn, trung bình khoảng 90 mg/dL và giảm dần đến 8 tuần tuổi nhờ hàng rào máu–não trưởng thành (Euerle, 2010). Bonadio (2014) trình bày giá trị theo nhóm tuổi [dạng trung bình (khoảng), đơn vị mg/dL]:
+
+- Trẻ sinh non: 115 (65–150).
+- Trẻ đủ tháng mới sinh: 90 (20–170).
+- 0–4 tuần: 84 (35–189).
+- 4–8 tuần: 59 (19–121).
+- Trên 8 tuần: 28 (20–45).
+
+Ngưỡng dùng cho trẻ sơ sinh cũng khác nhau giữa các nguồn: Shahan et al. (2021) xem > 150 mg/dL là bất thường, còn WHO (2026) xem > 100 mg/dL là phù hợp với viêm màng não vi khuẩn. Giá trị chi tiết ở trẻ sơ sinh: xem bài Dịch não tủy ở trẻ sơ sinh.
+
+### Ý nghĩa của protein tăng
+
+Tăng protein DNT là bất thường không đặc hiệu, gặp trong nhiều bệnh lý khác nhau (Euerle, 2010; Sternbach, 1985):
+
+- Nhiễm trùng và viêm: viêm màng não, bại liệt, giang mai thần kinh, áp xe não.
+- Khối u: u não, u tủy sống.
+- Mạch máu: xuất huyết não, nhồi máu não.
+- Thần kinh: viêm đa dây thần kinh, xơ cứng rải rác, động kinh vô căn, chấn thương sọ não.
+- Cột sống: thoát vị đĩa đệm.
+- Toàn thân: đái tháo đường, urê máu cao, phù niêm, ngộ độc rượu cấp.
+
+Protein tăng mà số lượng tế bào bình thường gợi ý các bệnh không do nhiễm trùng, như tắc nghẽn lưu thông DNT (hội chứng Froin) hoặc đái tháo đường, nhất là khi có biến chứng thần kinh hoặc mạch máu não. Hội chứng Guillain-Barré đặc trưng bởi protein DNT rất cao (Srivastava et al., 2008). 
+
+**Các ngưỡng đặc biệt**
+
+- \> 150 mg/dL: có thể gây xanthochromia dù không có xuất huyết dưới nhện (Euerle, 2010; Sternbach, 1985).
+- \> 500 mg/dL: ít gặp, chủ yếu trong viêm màng não, xuất huyết dưới nhện, u tủy sống, u não và viêm đa dây thần kinh (Euerle, 2010; Sternbach, 1985).
+- Khoảng 1.000 mg/dL: DNT có thể đông lại (hội chứng Froin), nhất là khi tắc nghẽn hoàn toàn khoang dưới nhện tủy sống (Euerle, 2010). Trong lao màng não, protein có thể cao hơn nhiều khi có tắc nghẽn lưu thông DNT (Kaplan & Kim, 2025).
+
+### Protein theo nguyên nhân nhiễm trùng
+
+#### Viêm màng não vi khuẩn
+
+Protein DNT hầu như luôn tăng trong viêm màng não vi khuẩn nhưng mức tăng khác nhau giữa các nguồn: 100–500 mg/dL, đôi khi > 1.000 mg/dL (Kaplan & Kim, 2025); 500–1.500 mg/dL (Euerle, 2010). Protein DNT > 220 mg/dL là một trong năm tiêu chí cho phép chẩn đoán viêm màng não vi khuẩn với độ chắc chắn ≥ 99% (Spanos et al., 1989).
+
+#### Các nguyên nhân khác
+
+**Bảng 10.** Protein dịch não tủy theo các nguyên nhân nhiễm trùng khác
+
+| Bệnh cảnh | Protein DNT | Nguồn |
+| --- | --- | --- |
+| Virus | Bình thường hoặc tăng nhẹ, thường < 150 mg/dL | Shahan et al. (2021); Euerle (2010) |
+| Lao | Hầu như luôn tăng, thường 100–200 mg/dL, cao hơn nhiều khi tắc nghẽn lưu thông DNT, có thể tăng ngang viêm màng não vi khuẩn | Shahan et al. (2021); Kaplan & Kim (2025); Srivastava et al. (2008) |
+| *Cryptococcus* | Trung bình 100 mg/dL (20–500) | Kaplan & Kim (2025) |
+| Nấm khác | 50–250 mg/dL (Shahan), nấm nói chung 50–500 mg/dL (Meyfroidt) | Shahan et al. (2021); Meyfroidt et al. (2020) |
+| Giang mai thần kinh | > 45 mg/dL, giai đoạn cấp trung bình 100 mg/dL, giai đoạn sớm cao hơn giai đoạn muộn | Shahan et al. (2021); Kaplan & Kim (2025); Euerle (2010) |
+| Ký sinh trùng | Thường tăng | Shahan et al. (2021) |
+| Nhiễm trùng cạnh màng não | Áp xe não thường 75–400 mg/dL, tụ mủ dưới màng cứng thường 100–500 mg/dL, áp xe ngoài màng cứng tủy sống thường vài trăm mg/dL | Kaplan & Kim (2025) |
+
+### Protein khi chọc chạm mạch
+
+Máu lẫn vào DNT do xuất huyết hoặc chọc chạm mạch làm tăng protein. Về lý thuyết, nếu protein huyết thanh bình thường, protein DNT tăng khoảng 1 mg/dL cho mỗi 1.000 hồng cầu/µL, nhưng mối liên hệ này thay đổi nhiều (Bonadio, 2014; Euerle, 2010). Trong thực nghiệm trộn DNT với máu, protein tăng tuyến tính theo lượng hồng cầu thêm vào, còn glucose không đổi (Ward & Gushurst, 1992).
+
+### Diễn tiến khi dùng kháng sinh
+
+Các nguồn chưa thống nhất về ảnh hưởng của kháng sinh đến nồng độ protein trong DNT:
+
+- **Có ảnh hưởng:** trong nghiên cứu 245 trẻ viêm màng não vi khuẩn của Nigrovic et al. (2008), dùng kháng sinh trước chọc dò liên quan có ý nghĩa với protein DNT thấp hơn. Ảnh hưởng này xuất hiện sau vài giờ; trẻ dùng kháng sinh ≥ 12 giờ có protein trung vị thấp hơn (121 so với 178 mg/dL).
+- **Không ảnh hưởng đáng kể:** Euerle (2010) cho rằng kháng sinh trước đó không làm thay đổi đáng kể protein DNT; Kaplan và Kim (2025) cũng ghi nhận điều trị trước thường không làm thay đổi rõ kết quả sinh hóa.
+
+Sau khi điều trị hiệu quả, protein hồi phục chậm. Ở trẻ viêm màng não do *Haemophilus influenzae* type b, 89% vẫn còn protein tăng sau 48 giờ điều trị (Bonadio & Smith, 1990). Euerle (2010) ghi nhận protein thường trở về bình thường vào cuối đợt điều trị. 
+
+
+## Lactate dịch não tủy
+
+### Cơ chế tăng lactate
+
+Trong viêm màng não vi khuẩn, lactate DNT tăng chủ yếu do chuyển hóa yếm khí. Thiếu oxy mô làm tăng phân giải glucose và giảm đưa pyruvate vào chu trình acid tricarboxylic, nên tế bào chuyển sang đường phân yếm khí. Nồng độ lactate có xu hướng song hành với mức độ phản ứng tế bào trong DNT (Kaplan & Kim, 2025).
+
+Lactate DNT không tương quan với lactate máu, có lẽ vì lactate được thải khỏi DNT chậm, chủ yếu bằng khuếch tán vào mô não (Berg et al., 1982). Vì không bị ảnh hưởng bởi lactate máu, lactate có lợi thế hơn glucose: không cần xét nghiệm máu đồng thời để diễn giải (Zimmermann & Curtis, 2021).
+
+### Giá trị bình thường
+
+Ngưỡng lactate DNT bình thường có sự khác biệt giữa các nguồn:
+
+- Người lớn và trẻ em: 1,3–2,4 mmol/L (Shahan et al., 2021); < 2,1–2,4 mmol/L (Süssmuth et al., 2013); < 2,1 mmol/L (Srivastava et al., 2008).
+- Trẻ sơ sinh: 0,9–2,5 mmol/L (Shahan et al., 2021). Tổng quan hệ thống về giá trị DNT bình thường ở trẻ sơ sinh của Zimmermann và Curtis (2021) không tìm được nghiên cứu nào đo lactate DNT ở nhóm này.
+
+### Lactate trong các bệnh cảnh
+
+Trong nghiên cứu 245 bệnh nhân của Berg et al. (1982), lactate DNT trung bình là 1,61 mmol/L ở nhóm chứng, 2,06 mmol/L (0,76–4,31) ở viêm màng não vô khuẩn và 8,18 mmol/L (1,77–19,21) ở viêm màng não vi khuẩn. Lactate cao nhất gặp trong viêm màng não do phế cầu. Viêm màng não do quai bị có lactate trung bình cao hơn các ca vô khuẩn khác (2,43 mmol/L; 1,17–3,88).
+
+**Bảng 11.** Lactate dịch não tủy trong các bệnh cảnh viêm màng não
+
+| Bệnh cảnh | Lactate DNT | Nguồn |
+|---|---|---|
+| Viêm màng não vi khuẩn | > 3,5 mmol/L | Srivastava et al. (2008); Süssmuth et al. (2013) |
+| Viêm màng não lao | > 3,5 mmol/L | Srivastava et al. (2008) |
+| Viêm màng não virus | < 2,1 mmol/L | Srivastava et al. (2008) |
+
+Lactate cũng có thể tăng trong một số bệnh không do nhiễm trùng:
+
+- Bệnh lý nội sọ khác: nhiều bệnh nội sọ làm tăng lactate DNT, thiếu oxy não là một ví dụ (Berg et al., 1982; Lindquist et al., 1988).
+- Rối loạn chuyển hóa bẩm sinh: các bệnh ảnh hưởng chuỗi hô hấp tế bào có thể làm lactate DNT tăng cao ngay cả khi lactate máu bình thường hoặc chỉ tăng nhẹ (Srivastava et al., 2008).
+- Co giật kéo dài: ở trẻ có cơn co giật do sốt đầu tiên, thời gian ngắn, lactate DNT không khác nhóm chứng, nhưng cơn co giật kéo dài > 30 phút có thể làm tăng lactate (Ward & Gushurst, 1992).
+
+### Ngưỡng phân biệt viêm màng não vi khuẩn với vô khuẩn
+
+Các nguồn đưa ra ngưỡng khác nhau, phản ánh khác biệt về quần thể nghiên cứu, phương pháp xét nghiệm và mục tiêu ưu tiên độ nhạy hay độ đặc hiệu:
+
+**Bảng 12.** Ngưỡng lactate dịch não tủy phân biệt viêm màng não vi khuẩn với vô khuẩn
+
+| Nguồn | Ngưỡng | Hiệu năng chẩn đoán |
+|---|---|---|
+| Berg et al. (1982) | 3,0 mmol/L | 112/121 ca vô khuẩn có lactate < 3,0 mmol/L; 18/20 ca vi khuẩn có lactate > 3,0 mmol/L |
+| Lindquist et al. (1988) | 3,5 mmol/L | Độ nhạy 89%, độ đặc hiệu 96%; ở trẻ < 15 tuổi độ nhạy 97%, độ đặc hiệu 99% |
+| Hoen et al. (2019) | 3,5 mmol/L (đồng thuận 2008); 3,7–4 mmol/L (hai phân tích gộp) | Không nêu |
+| Viallon et al. (2011) | 3,8 mmol/L | Độ nhạy 94%, độ đặc hiệu 92%, giá trị tiên đoán âm 99% |
+| Shahan et al. (2021) | > 3,9 mmol/L | Độ nhạy 93–95%, độ đặc hiệu 94–99% nếu lấy DNT trước kháng sinh |
+
+Trong nghiên cứu của Viallon et al. (2011), lactate thấp nhất ở ca vi khuẩn là 3,2 mmol/L và cao nhất ở ca virus là 3,7 mmol/L, cho thấy vùng chồng lấp hẹp nhưng vẫn có.
+
+### So sánh và phối hợp với các xét nghiệm khác
+
+- Với tỷ lệ glucose DNT/máu: Berg et al. (1982) thấy lactate và tỷ lệ glucose phân biệt viêm màng não vi khuẩn với vô khuẩn tốt như nhau, còn protein kém hơn. Lindquist et al. (1988) đánh giá lactate (≥ 3,5 mmol/L) vượt trội các xét nghiệm DNT thông thường khác. 
+- Với protein phản ứng C (CRP) trong DNT: khi đã có lactate, CRP DNT không cung cấp thêm thông tin chẩn đoán (Lindquist et al., 1988).
+
+### Hạn chế và vai trò trong thực hành
+
+Lactate không phải lúc nào cũng phân biệt được vi khuẩn với vô khuẩn. Một số ca viêm màng não vô khuẩn có lactate trong khoảng của nhiễm khuẩn. Ngược lại, một số trường hợp viêm màng não vi khuẩn có lâm sàng và lactate DNT không rõ ràng. Do đó, không thể dựa vào lactate một cách tin cậy để phân biệt virus với vi khuẩn ở từng bệnh nhân (Kaplan & Kim, 2025). Trong nghiên cứu của Berg et al. (1982), hai bệnh nhân viêm màng não vi khuẩn (phế cầu, não mô cầu) có lactate < 3,0 mmol/L, tỷ lệ glucose bình thường và gần như không tăng tế bào, nhưng đều có cấy máu dương tính.
+
+Kháng sinh dùng trước chọc dò làm giảm giá trị của lactate:
+
+- Khuyến cáo của WHO (2026): lactate chỉ nên dùng để phân biệt vi khuẩn với virus khi lấy mẫu trước kháng sinh; giá trị bị hạn chế khi đã dùng kháng sinh hoặc có bệnh lý thần kinh trung ương khác.
+- Ví dụ minh họa: trong nghiên cứu của Lindquist et al. (1988), một bệnh nhân viêm màng não vi khuẩn đã dùng penicillin sáu ngày trước nhập viện có lactate chỉ 2,1 mmol/L.
+
+
+## Đặc điểm dịch não tủy theo tác nhân
+
+### Tổng hợp theo tác nhân
+
+**Bảng 13.** Đặc điểm dịch não tủy theo tác nhân gây bệnh
+
+| Tác nhân | Áp lực mở | Công thức bạch cầu | Số lượng bạch cầu | Glucose | Protein |
 |---|---|---|---|---|---|
-| **Vi khuẩn** (điển hình)* | 200–500 mmH₂O (người lớn, trẻ ≥8 tuổi); trẻ <8 tuổi có thể thấp hơn | 80–90% PMN; >50% lympho vẫn có thể gặp | Thường 1.000–5.000/µL; 99% trẻ em có >100/µL | <40 mg/dL ở 50–60% ca; tỷ lệ DNT/máu <0,4 (nhạy 80%, đặc hiệu 98%) | Hầu như luôn tăng |
-| **Cryptococcus** | >250 mmH₂O trong ca nặng; có thể cần chọc dò lặp lại/dẫn lưu não thất-ổ bụng nếu áp lực dai dẳng >250 | Lympho chiếm ưu thế | Thường tăng nhẹ; có thể bình thường, đặc biệt ở bệnh nhân HIV | Thường >40 mg/dL | Thường <40 mg/dL |
-| **Nấm khác (không phải Cryptococcus)** | Biến thiên | Sớm: PMN chiếm ưu thế; sau đó chuyển lympho; có thể có eosinophil | Giảm đáng kể có thể xảy ra | Thường tăng, đôi khi tới hàng trăm/µL | 50–250 mg/dL |
-| **Giang mai thần kinh (neurosyphilis)** | Thường tăng ở người miễn dịch bình thường; có thể không tăng ở người suy giảm miễn dịch | Biến thiên | Giai đoạn sớm: 10–400/µL; giai đoạn muộn: 5–100/µL, giảm dần theo thời gian | Có thể giảm | >45 mg/dL |
-| **Ký sinh trùng** | Biến thiên, có thể dai dẳng cao cần dẫn lưu | **Tăng eosinophil** (>10/µL hoặc >10% tổng số tế bào) | Thường 150–2.000/µL | Thường bình thường hoặc thấp bình thường | Thường tăng |
-| **Lao (Tuberculosis)** | Biến thiên theo giai đoạn | Sớm: hỗn hợp lympho + PMN; sau đó lympho chiếm ưu thế | Thường 5–300/µL; 20% ca có 500–1.000/µL | Trung vị 40 mg/dL, thấp hơn ở giai đoạn muộn | Thường 100–200 mg/dL |
-| **Virus** | Thường bình thường | Lympho chiếm ưu thế; PMN có thể chiếm ưu thế giai đoạn sớm | Thường 100–1.000/µL; cao hơn nếu do enterovirus (RBC có thể tăng nếu do herpes) | Thường bình thường; giảm 25% ca do quai bị | Bình thường hoặc tăng nhẹ |
-
-*Vi khuẩn thường gặp nhất: Streptococcus pneumoniae, Haemophilus influenzae, Listeria monocytogenes, Neisseria meningitidis.
-
-*(Shahan et al., 2021)*
+| Vi khuẩn (điển hình)* | 200–500 mmH₂O ở người lớn và trẻ từ 8 tuổi, trẻ dưới 8 tuổi có thể thấp hơn | Thường 80–90% đa nhân trung tính, có thể > 50% lympho | Thường 1.000–5.000/µL, 99% trẻ em có > 100/µL | < 40 mg/dL ở 50–60% ca, tỷ lệ glucose DNT/máu < 0,4 có độ nhạy 80% và độ đặc hiệu 98% | Hầu như luôn tăng |
+| Virus | Thường bình thường | Ưu thế lympho, giai đoạn sớm có thể ưu thế đa nhân trung tính | Thường 100–1.000/µL, cao hơn với enterovirus, có thể tăng hồng cầu nếu do HSV | Thường bình thường, giảm ở 25% ca quai bị, có thể giảm nhẹ ở người nhiễm HIV | Bình thường hoặc tăng nhẹ |
+| *Cryptococcus* | > 250 mmH₂O trong ca nặng, cần chọc dò lặp lại hoặc dẫn lưu não thất–ổ bụng nếu áp lực dai dẳng > 250 mmH₂O | Ưu thế lympho | Thường tăng nhẹ, có thể bình thường, nhất là ở người nhiễm HIV | Thường > 40 mg/dL | Thường < 40 mg/dL |
+| Nấm khác | Thay đổi | Sớm có thể ưu thế đa nhân trung tính, sau chuyển ưu thế lympho, có thể có ái toan | Thường tăng, tới vài trăm/µL | Có thể giảm đáng kể | 50–250 mg/dL |
+| Giang mai thần kinh | Thường tăng ở người miễn dịch bình thường, có thể không tăng ở người suy giảm miễn dịch | Thay đổi | Giai đoạn sớm 10–400/µL, giai đoạn muộn 5–100/µL và giảm dần qua nhiều thập kỷ | Có thể giảm | > 45 mg/dL |
+| Ký sinh trùng | Thay đổi, có thể tăng dai dẳng và cần dẫn lưu DNT | Tăng ái toan (> 10/µL hoặc > 10% tổng số tế bào) | 150–2.000/µL | Thường bình thường hoặc ở giới hạn thấp của bình thường | Thường tăng |
+| Lao | Thay đổi theo giai đoạn | Sớm hỗn hợp lympho và đa nhân trung tính, sau chuyển ưu thế lympho | Thường 5–300/µL, 500–1.000/µL ở 20% ca | Trung vị 40 mg/dL, thấp hơn ở giai đoạn muộn | Thường 100–200 mg/dL |
 
 
-**2. Xét nghiệm bổ trợ khuyến nghị theo từng loại**
+\*Tác nhân thường gặp nhất: *Streptococcus pneumoniae*, *Haemophilus influenzae*, *Listeria monocytogenes* và *Neisseria meningitidis*.
 
-| Loại | Xét nghiệm đặc hiệu |
-|---|---|
-| Vi khuẩn | Nhuộm Gram, cấy DNT, lactate DNT (>35,1 mg/dL = nhạy 93–95%, đặc hiệu 94–99% nếu lấy trước kháng sinh), PCR, latex agglutination (nếu Gram âm tính và đã dùng kháng sinh trước LP) |
-| Cryptococcus | Cấy DNT, kháng nguyên cryptococcus DNT, nhuộm mực tàu (India ink), latex agglutination, xét nghiệm miễn dịch enzym, xét nghiệm dòng chảy bên, xét nghiệm HIV |
-| Nấm khác | CSF (1-3)-beta-D-glucan (nhạy 95–100%, đặc hiệu 83–99%), cấy nấm DNT, nhuộm Gram tìm sợi nấm; PCR chỉ nhạy 29% |
-| Giang mai thần kinh | Xét nghiệm HIV, VDRL trong DNT (nhạy 30–75%, đặc hiệu 100% — dương tính giả nếu DNT có máu), FTA-ABS trong DNT (nhạy 100%, đặc hiệu 50–70%) |
-| Ký sinh trùng | PCR, ELISA cho Angiostrongylus cantonensis, Gnathostoma spinigerum, Baylisascaris procyonis |
-| Lao | Nhuộm kháng cồn-toan nhiều lần, PCR (nhạy 56%, đặc hiệu 98%), adenosine deaminase DNT (>10 U/L), hình ảnh "màng/pellicle" đặc trưng khi để DNT đứng yên |
-| Virus | PCR (ưu tiên hàng đầu), lactate DNT (thấp), nhuộm Gram, IgM huyết thanh/DNT cho arbovirus, điện não đồ hoặc hình ảnh học nếu nghi viêm não |
+*Phỏng theo Shahan et al. (2021).*
 
-*(Shahan et al., 2021)*
+<!-- ### Vi khuẩn và virus
 
-**3. Lưu ý quan trọng khi diễn giải**
+Các nguồn thống nhất về hướng thay đổi, nhưng khác nhau về con số cụ thể:
 
-1. **Nhuộm Gram không loại trừ được nhiễm khuẩn**, đặc biệt ở bệnh nhân đã dùng kháng sinh trước đó.
-2. **Viêm màng não vi khuẩn vẫn có thể tồn tại dù kết quả DNT bình thường hoặc chỉ bất thường nhẹ** — nếu kết quả không rõ ràng, cần làm thêm xét nghiệm bổ trợ.
-3. Hiệp hội Bệnh truyền nhiễm Hoa Kỳ (IDSA) **không khuyến cáo đo lactate DNT thường quy**, nhưng các phân tích gộp gần đây cho thấy giá trị tiềm năng của xét nghiệm này, đặc biệt hữu ích ở bệnh nhân sau phẫu thuật thần kinh (vì viêm do phẫu thuật làm các dấu ấn kinh điển kém tin cậy).
-4. Latex agglutination **không được khuyến cáo** bởi Hiệp hội Vi sinh lâm sàng và Bệnh truyền nhiễm châu Âu (ESCMID) — không có giá trị hơn nhuộm Gram.
-5. Nếu bắt đầu kháng sinh trước khi lấy mẫu DNT, độ nhạy của cấy DNT giảm **10–20%**.
-
-**4. Đặc điểm ở nhóm bệnh nhân đặc biệt: suy giảm miễn dịch**
-
-- Người >60 tuổi và người suy giảm miễn dịch tế bào có nguy cơ cao hơn bị viêm màng não do **Listeria monocytogenes**.
-- Ở nhóm suy giảm miễn dịch: protein và bạch cầu DNT tăng **ít rõ hơn** so với người bình thường; nhuộm Gram âm tính trong 66% trường hợp — dễ gây bỏ sót chẩn đoán nếu chỉ dựa vào các dấu hiệu kinh điển.
-- Bệnh nhân nhiễm HIV cấp/hội chứng retrovirus cấp có thể biểu hiện **hồ sơ DNT dạng vô khuẩn (aseptic)**: tăng nhẹ lympho, protein bình thường đến tăng nhẹ, glucose bình thường đến giảm nhẹ.
-- Ở bệnh nhân HIV có CD4 thấp, cần nghĩ đến viêm màng não do Cryptococcus, toxoplasmosis, và giang mai thần kinh.
-
-*(Shahan et al., 2021)*
-
-
-## Tác động của điều trị kháng sinh
-
-**Vấn đề lâm sàng**
-
-Kháng sinh dùng trước khi chọc dò (antibiotic pretreatment) có thể làm thay đổi đặc điểm DNT theo hướng "che giấu" bản chất vi khuẩn của bệnh, khiến kết quả trông giống viêm màng não vô khuẩn (aseptic) — đây là mối lo ngại lớn trên lâm sàng vì có thể dẫn đến bỏ sót chẩn đoán, ngừng kháng sinh sớm không đúng, hoặc hiểu lầm là điều trị thất bại. Phần dưới đây tổng hợp bằng chứng từ 6 nghiên cứu, chia theo hai bối cảnh: **(A) kháng sinh dùng TRƯỚC chọc dò lần đầu** (ảnh hưởng đến chẩn đoán ban đầu) và **(B) diễn tiến DNT khi chọc dò LẶP LẠI sau một thời gian điều trị** (ảnh hưởng đến theo dõi đáp ứng điều trị).
-
-**PHẦN A — KHÁNG SINH TRƯỚC CHỌC DÒ LẦN ĐẦU: ẢNH HƯỞNG ĐẾN CHẨN ĐOÁN**
-
-1. Tác động lên từng chỉ số
-
-| Chỉ số | Tác động của kháng sinh trước chọc dò |
-|---|---|
-| **Cấy DNT** | Giảm độ nhạy rõ rệt, tăng tỷ lệ âm tính giả; nếu bắt đầu kháng sinh trước khi lấy mẫu, độ nhạy cấy giảm 10–20% (Shahan et al., 2021) |
-| **Glucose DNT** | **Tăng lên** theo thời gian điều trị — trẻ dùng kháng sinh ≥12 giờ trước LP có glucose trung vị cao hơn rõ rệt (48 mg/dL so với 29 mg/dL) (Nigrovic et al., 2008) |
-| **Protein DNT** | **Giảm** theo thời gian điều trị — nhóm pretreatment ≥12 giờ có protein trung vị thấp hơn (121 mg/dL so với 178 mg/dL) (Nigrovic et al., 2008) |
-| **Số lượng bạch cầu (WBC) và bạch cầu trung tính tuyệt đối (ANC)** | **Không thay đổi có ý nghĩa** dù thời gian dùng kháng sinh trước đó dài hay ngắn (Nigrovic et al., 2008) |
-| **Vi khuẩn học sau điều trị đủ liều tĩnh mạch 44–68 giờ** | Cấy DNT âm tính hầu hết trường hợp, nhưng sinh hóa/tế bào học **hầu như không đổi**, vẫn giữ "tính chất vi khuẩn" ở 65/68 trẻ (Blazer et al., 1983) |
-
-**2 Nghiên cứu chi tiết: Nigrovic et al. (2008) — 245 trẻ viêm màng não vi khuẩn**
-
-- 35% (85/245) trẻ đã dùng kháng sinh trước chọc dò (định nghĩa: bất kỳ kháng sinh nào trong 72 giờ trước LP).
-- Sau hiệu chỉnh theo tuổi, thời gian/mức độ nặng bệnh, và tác nhân gây bệnh: **thời gian dùng kháng sinh trước đó không liên quan đáng kể đến WBC hoặc ANC DNT**.
-- Tuy nhiên, kháng sinh trước LP liên quan **có ý nghĩa thống kê** với glucose DNT cao hơn và protein DNT thấp hơn.
-- **Kết luận cho thực hành:** không nên áp dụng các quy tắc dự đoán lâm sàng viêm màng não vi khuẩn (dựa trên glucose/protein DNT) ở bệnh nhân đã dùng kháng sinh trước đó — các chỉ số này đã bị "làm mờ" theo hướng giả tạo giống vô khuẩn.
-
-**3. Nghiên cứu chi tiết: Blazer et al. (1983) — 68 trẻ viêm màng não vi khuẩn đã xác định**
-
-- So sánh DNT lúc nhập viện với DNT lấy lại sau **44–68 giờ điều trị kháng sinh tĩnh mạch đầy đủ liều**.
-- Ở 65/68 trẻ: protein, glucose, WBC, và tỷ lệ PMN **không khác biệt có ý nghĩa thống kê** giữa hai lần lấy mẫu — DNT vẫn giữ tính chất vi khuẩn điển hình dù đã điều trị đủ liều gần 3 ngày.
-- Ngoại lệ: 3 trẻ viêm màng não do não mô cầu có glucose DNT tăng từ rất thấp (24,8–25,2 mg/dL) lên gần bình thường (54–66,24 mg/dL) — dễ bị hiểu lầm là hết dấu hiệu vi khuẩn.
-- **Kết luận của tác giả:** vì điều trị đầy đủ (44–68 giờ) còn ít làm thay đổi DNT, thì điều trị **một phần (partial treatment)** trước chọc dò càng ít có khả năng làm biến dạng tính chất "vi khuẩn" hơn nữa.
-
-**4. Cửa sổ thời gian vàng: cấy DNT sau khi đã bắt đầu kháng sinh**
-
-Nghiên cứu của Michael et al. (2010) trên 92 người lớn viêm màng não (Anh) cho thấy khả năng cấy DNT dương tính giảm rất nhanh theo thời gian kể từ khi bắt đầu kháng sinh:
-
-| Thời điểm chọc dò sau khi bắt đầu kháng sinh | Tỷ lệ cấy DNT dương tính |
-|---|---|
-| ≤4 giờ | 73% (8/11 bệnh nhân) |
-| >4–8 giờ | 11% (8/71 bệnh nhân) |
-| >8 giờ | 0% (0/34 lần chọc dò) |
-
-- Dù đã lỡ dùng kháng sinh, chọc dò trong **4 giờ đầu** vẫn có khả năng cao cho kết quả cấy dương tính — không nên bỏ qua chọc dò chỉ vì đã dùng kháng sinh trước đó, nhưng cần thực hiện càng sớm càng tốt.
-- 67% các trường hợp chậm trễ là do chờ CT sọ, dù chỉ 20/62 trường hợp trong số đó thực sự có chống chỉ định chọc dò ngay — cho thấy CT sọ đang bị **lạm dụng không cần thiết**, làm giảm cơ hội cấy dương tính.
-
-**5. Vô khuẩn hóa DNT chậm (delayed CSF sterilization)**
-
-- Ở trẻ sơ sinh/nhũ nhi có viêm màng não do vi khuẩn Gram âm, DNT **chậm trở nên vô khuẩn** (vi khuẩn vẫn còn sau >24 giờ điều trị) xảy ra thường xuyên hơn trẻ lớn.
-- Một số cephalosporin thế hệ 3 (ceftizoxime, ceftazidime) từng được ghi nhận liên quan đến hiện tượng này dù có hoạt tính diệt khuẩn in vitro rất mạnh và nồng độ DNT cao.
-- *Haemophilus influenzae* type b là yếu tố nguy cơ liên quan đến vô khuẩn hóa chậm trong nghiên cứu case-control tại LAC/USC (Hatch & Overturf, 1989).
-
-**PHẦN B — DIỄN TIẾN DNT KHI CHỌC DÒ LẶP LẠI SAU ĐIỀU TRỊ**
-
-**1. Diễn tiến sau 48–72 giờ điều trị hiệu quả — viêm màng não Hib (Bonadio & Smith, 1990)**
-
-Nghiên cứu trên 101 trẻ viêm màng não do *H. influenzae* type b, so sánh DNT lúc nhập viện và sau 48–72 giờ điều trị:
-
-| Thông số | Diễn tiến sau 48–72 giờ |
-|---|---|
-| Cấy DNT | 100/101 trở nên âm tính |
-| Nhuộm Gram (ban đầu dương tính) | 96/98 (98%) chuyển âm tính |
-| Tăng bạch cầu (pleocytosis) | **Vẫn tồn tại ở 100% trường hợp** |
-| Công thức bạch cầu | 14% chuyển từ PMN chiếm ưu thế sang lympho chiếm ưu thế |
-| Glucose thấp ban đầu | 71% (53/75) trở về bình thường |
-| Protein tăng ban đầu | Chỉ 11% (10/94) trở về bình thường — **đa số vẫn còn tăng** |
-
-**2. Tốc độ giảm bạch cầu khi chọc dò lặp lại — người lớn (Costerus et al., 2016)**
-
-Đoàn hệ tiến cứu Hà Lan (2006–2014), 1.490 ca viêm màng não vi khuẩn cộng đồng, 124 ca (8%) được chọc dò lặp lại (thường do lâm sàng xấu đi — 42%):
-
-| Thời điểm chọc dò lại | Mức giảm bạch cầu DNT trung vị |
-|---|---|
-| Trong vòng 2 ngày | Giảm 19% |
-| 3–7 ngày | Giảm 84% |
-| 8–14 ngày | Giảm 93% |
-| 15–21 ngày | Giảm 98% |
-
-- Bạch cầu DNT lúc nhập viện trung vị: 1.473 tế bào/mm³.
-- Chọc dò lại xác nhận chẩn đoán ở 8 bệnh nhân có DNT ban đầu bình thường (viêm màng não giai đoạn rất sớm).
-- Cấy lặp lại vẫn dương tính ở 9 bệnh nhân, giúp phát hiện ổ nhiễm trùng nguyên phát tiềm ẩn ở 2 trường hợp.
-- **Kết luận:** chọc dò lặp lại không nên làm thường quy, nhưng hữu ích trong các trường hợp chọn lọc — xác nhận chẩn đoán, loại trừ tái phát/nhiễm trùng dai dẳng, hoặc mục đích điều trị (giảm áp lực trong não úng thủy giao tiếp).
-
-**3. Tổng hợp tốc độ hồi phục các chỉ số sau điều trị hiệu quả**
-
-| Chỉ số | Tốc độ hồi phục về bình thường |
-|---|---|
-| Cấy DNT / vi khuẩn học | **Nhanh nhất** — thường âm tính trong 24–72 giờ (trừ vô khuẩn hóa chậm) |
-| Glucose DNT | Hồi phục **tương đối nhanh** — đa số bình thường trong 48–72 giờ |
-| Bạch cầu DNT (pleocytosis) | Hồi phục **chậm** — vẫn tồn tại gần 100% sau 48–72 giờ; cần nhiều ngày đến vài tuần mới giảm rõ |
-| Protein DNT | Hồi phục **chậm nhất** — đa số vẫn còn tăng sau 48–72 giờ điều trị hiệu quả |
-
-**C. TÓM TẮT ỨNG DỤNG**
-
-1. **Luôn cố gắng lấy mẫu DNT trước khi dùng kháng sinh** nếu điều kiện lâm sàng cho phép — cấy và nhuộm Gram nhạy nhất khi lấy trước điều trị.
-2. Nếu buộc phải trì hoãn chọc dò (chờ CT, ổn định huyết động…), **không trì hoãn kháng sinh kinh nghiệm** — nhưng ghi nhận rõ thời điểm dùng kháng sinh để hỗ trợ diễn giải kết quả sau này. Dù đã dùng kháng sinh, chọc dò trong **4 giờ đầu** vẫn có giá trị chẩn đoán cao.
-3. Không nên lạm dụng CT sọ trước chọc dò ở bệnh nhân không có chỉ định rõ ràng — mỗi giờ trì hoãn làm giảm đáng kể cơ hội cấy dương tính (xem thêm bài "Nhận biết tăng ICP trước chọc dò").
-4. Khi diễn giải DNT ở bệnh nhân đã dùng kháng sinh trước đó (đặc biệt ≥12 giờ): **thận trọng với glucose tăng và protein giảm giả tạo** — không nên áp dụng máy móc các bộ tiêu chuẩn chẩn đoán dựa trên glucose/protein.
-5. **Số lượng và loại bạch cầu tương đối ổn định**, ít bị ảnh hưởng bởi kháng sinh trước đó — có thể tin cậy hơn glucose/protein trong bối cảnh đã điều trị.
-6. Khi chọc dò lại để theo dõi đáp ứng điều trị: **đừng hoảng hốt** nếu bạch cầu và protein vẫn còn tăng sau 48–72 giờ dù lâm sàng cải thiện tốt — đây là diễn tiến sinh lý bình thường, không đồng nghĩa điều trị thất bại. Ngược lại, glucose bình thường hóa là dấu hiệu đáng tin cậy hơn của đáp ứng điều trị tốt.
-7. Chọc dò lặp lại **không cần làm thường quy** — chỉ định khi: không cải thiện lâm sàng sau 48 giờ, nghi vi khuẩn kháng thuốc (phế cầu kháng beta-lactam), đang dùng dexamethasone hỗ trợ, hoặc có biến chứng (não úng thủy giao tiếp, huyết khối não muộn).
-8. Nếu nghi ngờ lâm sàng vẫn mạnh nhưng cấy DNT âm tính ở bệnh nhân đã dùng kháng sinh, cân nhắc thêm PCR, latex agglutination, hoặc xét nghiệm kháng nguyên/kháng thể đặc hiệu khác.
-
-
-## Chỉ định lặp lại chọc dò dịch não tuỷ 
-
-**1. Nguyên tắc chung**
-
-Chọc dò dịch não tủy lặp lại **không nên làm thường quy** ở mọi bệnh nhân viêm màng não vi khuẩn — bằng chứng hiện tại cho thấy giá trị của nó phụ thuộc nhiều vào bối cảnh lâm sàng (đáp ứng điều trị, tuổi bệnh nhân, tác nhân gây bệnh). Ở trẻ >1 tháng tuổi đáp ứng điều trị tốt, DNT "xét nghiệm để xác nhận khỏi bệnh" (test of cure) sau khi hoàn tất kháng sinh được ghi nhận là **ít giá trị** (Greenberg et al., 2011).
-
-**2. Chỉ định chọc dò lặp lại ở người lớn**
-
-Trong nghiên cứu đoàn hệ Hà Lan trên 1.490 ca viêm màng não vi khuẩn cộng đồng, chỉ 8% được chọc dò lặp lại — lý do phổ biến nhất là **lâm sàng xấu đi (42%)**. Các chỉ định được khuyến nghị:
-
-| Chỉ định | Mục đích |
-|---|---|
-| Không đáp ứng lâm sàng sau 48 giờ điều trị kháng sinh phù hợp | Đánh giá lại chẩn đoán, tìm biến chứng hoặc thất bại điều trị |
-| Nhiễm phế cầu kháng beta-lactam (hoặc nghi ngờ vi khuẩn kháng thuốc) | Xác nhận hiệu quả điều trị, điều chỉnh kháng sinh |
-| Bệnh nhân đang dùng dexamethasone hỗ trợ | Dexamethasone có thể che lấp đáp ứng viêm, cần đánh giá khách quan hơn bằng DNT |
-| Nghi ngờ tái phát hoặc nhiễm trùng dai dẳng | Loại trừ vi khuẩn còn tồn tại trong khoang dưới nhện |
-| DNT ban đầu bình thường nhưng lâm sàng vẫn nghi ngờ mạnh | Viêm màng não giai đoạn rất sớm có thể chưa biểu hiện bất thường DNT — chọc dò lại xác nhận chẩn đoán (ghi nhận ở 8 bệnh nhân trong nghiên cứu) |
-| Mục đích điều trị: não úng thủy giao tiếp (communicating hydrocephalus) | Chọc dò lặp lại để giảm áp lực nội sọ |
-| Biến chứng thần kinh xuất hiện sau khi đã cải thiện ban đầu | VD: huyết khối não muộn (delayed cerebral thrombosis) — cần đánh giá lại DNT |
-
-*(Costerus et al., 2016)*
-
-**2. Chỉ định chọc dò lặp lại ở trẻ sơ sinh/nhũ nhi**
-
-**2.1 Sau cấy DNT ban đầu dương tính (Greenberg et al., 2011)**
-
-- Ở trẻ có cấy DNT ban đầu dương tính, nhiều bác sĩ lâm sàng thực hiện một hoặc nhiều lần chọc dò theo dõi để đánh giá **hiệu quả điều trị qua vô khuẩn hóa DNT**.
-- Nghiên cứu trên 118 trẻ sơ sinh tại 150 đơn vị hồi sức sơ sinh (1997–2004): 26 trẻ (22%) có **cấy lặp lại vẫn dương tính**.
-- Cấy lặp lại còn dương tính liên quan đến **tăng tỷ lệ tử vong** rõ rệt: 26% (6/23) so với 7% (6/81) ở nhóm cấy lặp lại âm tính (p=0,02).
-- **Ý nghĩa lâm sàng:** ở trẻ sơ sinh có cấy DNT ban đầu dương tính, chọc dò lặp lại để xác nhận vô khuẩn hóa có giá trị tiên lượng quan trọng — cấy vẫn dương tính là dấu hiệu cảnh báo nguy cơ tử vong cao, cần xem xét lại phác đồ điều trị.
-
-**2.2 Đánh giá các thông số DNT lặp lại trong 3–5 ngày sau điều trị (You et al., 2025)**
-
-Nghiên cứu hồi cứu trên 85 trẻ sơ sinh viêm màng não vi khuẩn, so sánh nhóm có và không có chọc dò lặp lại trong 3–5 ngày đầu điều trị:
-
-- Ở nhóm đáp ứng đầy đủ với điều trị ban đầu (sốt hết ≥48 giờ, hết dấu màng não, CRP ≤20 mg/L, bạch cầu trung tính ≤10.000/mm³): **không có sự khác biệt có ý nghĩa** về thời gian dùng kháng sinh, biến chứng trong viện, hay di chứng lúc xuất viện giữa nhóm có và không có chọc dò lặp lại.
-- Trong nhóm có chọc dò lặp lại: **chỉ có protein DNT tăng** là yếu tố nguy cơ độc lập tiên đoán biến chứng trong viện (OR=15,046; KTC 95%: 1,062–213,089; p=0,045).
-- Các thông số khác (tổng số bạch cầu, tỷ lệ bạch cầu trung tính, glucose DNT) khi đo lặp lại **không có giá trị tiên đoán** biến chứng.
-- **Ý nghĩa lâm sàng:** ở trẻ sơ sinh đã đáp ứng lâm sàng tốt, chọc dò lặp lại thường quy trong 3–5 ngày đầu **có thể không cần thiết** với đa số thông số, nhưng nếu có thực hiện, **protein DNT tăng dai dẳng** là chỉ số đáng chú ý nhất cần theo dõi vì có giá trị tiên lượng biến chứng.
-
-*(You et al., 2025)*
-
-**3. Tổng hợp chỉ định theo nhóm tuổi**
-
-| Nhóm | Chỉ định chính |
-|---|---|
-| **Người lớn** | Không đáp ứng lâm sàng sau 48 giờ; nghi vi khuẩn kháng thuốc; đang dùng dexamethasone; nghi tái phát; DNT ban đầu âm tính nhưng lâm sàng vẫn nghi ngờ; mục đích điều trị (não úng thủy); biến chứng thần kinh mới xuất hiện |
-| **Trẻ sơ sinh có cấy ban đầu dương tính** | Xác nhận vô khuẩn hóa — có giá trị tiên lượng tử vong quan trọng, nên cân nhắc thực hiện |
-| **Trẻ sơ sinh đáp ứng lâm sàng tốt** | Có thể không cần chọc dò lặp lại thường quy; nếu có, cần chú ý đặc biệt đến protein DNT |
-| **Trẻ >1 tháng tuổi, đã hoàn tất điều trị, lâm sàng ổn** | DNT "xét nghiệm xác nhận khỏi bệnh" thường **ít giá trị**, không khuyến khích làm thường quy |
-
-
-## Đặc điểm dịch não tuỷ trong lao thần kinh trung ương
-
-**1. Đặc điểm "bộ ba kinh điển" và mức độ tin cậy thực sự**
-
-| Thông số | Đặc điểm kinh điển | Mức độ thường gặp thực tế |
+| Nguồn | Viêm màng não vi khuẩn | Viêm màng não virus |
 |---|---|---|
-| Ngoại quan | Trong, hơi tăng áp lực nhẹ; có thể thấy màng/lưới protein (pellicle) khi để lắng | — |
-| Glucose | Giảm | **Chỉ bình thường ở 50% bệnh nhân** — giảm dần theo thời gian nếu không điều trị |
-| Protein | Tăng (100–500 mg/dL) | Có thể **bình thường**; một nghiên cứu ghi nhận **~1/3 bệnh nhân có protein <100 mg/dL** |
-| Tế bào | 50–500 tế bào/mm³, chủ yếu lympho | Ưu thế lympho chỉ **hằng định ở các mẫu lấy muộn**; 25–50% bệnh nhân có PMN chiếm ưu thế ở **mẫu đầu tiên** |
-| Chloride | Giảm | Ít được chú trọng hiện nay — giảm chloride DNT có thể chỉ phản ánh hạ natri máu đi kèm, không đặc hiệu cho lao |
+| Euerle (2010) | Áp lực thường tăng; bạch cầu 500–10.000/µL trở lên, ưu thế đa nhân trung tính; glucose 0–40 mg/dL; protein > 50 mg/dL | Áp lực thường bình thường; bạch cầu 6–1.000/µL, ưu thế lympho; glucose thường bình thường; protein bình thường hoặc tăng nhẹ |
+| Meyfroidt et al. (2020) | Đục; bạch cầu > 1.000/µL, ưu thế đa nhân trung tính; tỷ lệ glucose < 40%; protein > 1 g/L; áp lực 20–50 cmH₂O | "Trong như rượu gin"; bạch cầu 10–1.000/µL, ưu thế lympho; tỷ lệ glucose bình thường; protein 0,5–1 g/L; áp lực 6–30 cmH₂O |
+| Süssmuth et al. (2013) | Đục; > 1.000 tế bào/µL, ưu thế bạch cầu hạt; protein > 1.000 mg/L; lactate > 3,5 mmol/L; tỷ lệ glucose < 0,50; QAlb > 20 × 10⁻³ | Trong; < 1.000 tế bào/µL, ưu thế lympho; protein < 1.000 mg/L; lactate < 3,5 mmol/L; tỷ lệ glucose > 0,50; QAlb < 20 × 10⁻³ |
+| Srivastava et al. (2008) | Đục; vài nghìn tế bào/µL, chủ yếu đa nhân trung tính; protein tăng nhiều; glucose rất thấp; lactate > 3,5 mmol/L | Trong; vài trăm tế bào/µL, chủ yếu đơn nhân; protein bình thường hoặc tăng; glucose thường bình thường; lactate < 2,1 mmol/L |
+| WHO (2026) | Đục hoặc như mủ; bạch cầu tăng nhiều, ưu thế đa nhân trung tính; glucose và tỷ lệ glucose giảm nhiều; protein tăng nhiều; áp lực tăng đến tăng nhiều | Trong; bạch cầu tăng đến tăng nhiều, ưu thế lympho; glucose bình thường; protein bình thường hoặc tăng; áp lực bình thường hoặc tăng | -->
 
-> **Điểm mấu chốt:** bộ ba kinh điển (glucose thấp + protein cao + tăng lympho bào) chỉ có mặt **đầy đủ ở khoảng 40% trường hợp**. Không có một thông số sinh hóa/tế bào đơn lẻ nào **đặc hiệu** cho viêm màng não lao — cần đánh giá DNT như một **tổng thể**, kết hợp bệnh sử và hình ảnh học (Macucci & Sità, 1992).
+<!-- ### Lao, nấm và Cryptococcus
 
-**2. Diễn tiến theo thời gian lấy mẫu**
+| Nguồn | Lao | Nấm / Cryptococcus |
+|---|---|---|
+| Meyfroidt et al. (2020) | Đục hoặc vàng; bạch cầu 10–1.000/µL, ưu thế lympho; tỷ lệ glucose < 30–40%; protein 1–5 g/L; áp lực 20–40 cmH₂O | Nấm nói chung: trong hoặc đục; bạch cầu 0–1.000/µL, ưu thế lympho; tỷ lệ glucose bình thường đến thấp; protein 0,5–5 g/L; áp lực 20–100 cmH₂O |
+| Süssmuth et al. (2013) | Thường đục; < 1.000 tế bào/µL, hỗn hợp; protein > 1.000 mg/L; lactate > 3,5 mmol/L; tỷ lệ glucose < 0,30; QAlb > 20 × 10⁻³ | Không nêu |
+| Srivastava et al. (2008) | Có thể tạo màng đông khi để lắng; vài trăm tế bào/µL, hỗn hợp, chủ yếu đơn nhân; protein tăng nhiều; glucose thấp; lactate > 3,5 mmol/L | Nấm: trong hoặc đục; tăng nhẹ đơn nhân; protein tăng nhiều; glucose thấp |
+| Kaplan & Kim (2025) | Áp lực thường tăng; bạch cầu thường 25–100/µL, hiếm khi > 500, ưu thế lympho trừ giai đoạn sớm; protein hầu như luôn tăng, thường 100–200 mg/dL; glucose < 50 mg/dL ở 75% ca | Cryptococcus: áp lực thường tăng; bạch cầu trung bình 50/µL (0–800), ưu thế lympho; protein trung bình 100 mg/dL (20–500); glucose giảm ở hơn một nửa số ca |
+| WHO (2026) | Trong; bạch cầu tăng đến tăng nhiều, ưu thế lympho; glucose giảm nhiều; protein tăng đến tăng nhiều; áp lực tăng đến tăng nhiều | Cryptococcus ở người nhiễm HIV: trong; bạch cầu bình thường hoặc tăng, ưu thế lympho; glucose bình thường hoặc giảm; protein bình thường hoặc tăng; áp lực tăng nhiều |
 
-- Vì bệnh nhân nghi lao màng não thường được chọc dò **nhiều lần** ở các giai đoạn khác nhau, kết quả có thể thay đổi đáng kể giữa các lần.
-- Ưu thế bạch cầu đa nhân trung tính ở mẫu đầu **không loại trừ** lao màng não — đây là hiện tượng thường gặp ở giai đoạn sớm, sau đó chuyển dần sang ưu thế lympho ở các mẫu tiếp theo.
-- Protein và mức giảm glucose có xu hướng **nặng dần theo thời gian** nếu không điều trị — protein có thể lên tới 1.000 mg/dL nếu có tắc nghẽn tủy sống (spinal block) kèm viêm màng nhện, khi đó DNT có thể có màu vàng.
+Süssmuth et al. (2013) còn mô tả viêm màng não do Borrelia: DNT trong, < 1.000 tế bào/µL ưu thế lympho, protein > 1.000 mg/L, lactate < 3,5 mmol/L, tỷ lệ glucose > 0,50 và QAlb > 20 × 10⁻³. -->
 
-*(Macucci & Sità, 1992)*
+### Nhiễm trùng cạnh màng não và các bệnh viêm khác ở trẻ em
 
-**3. DNT màu vàng hoặc có máu trong lao màng não**
+Kaplan và Kim (2025) trình bày thêm đặc điểm DNT trong các nhiễm trùng cạnh màng não, là những chẩn đoán phân biệt quan trọng với viêm màng não vi khuẩn:
 
-- DNT màu vàng (không do tăng protein) hoặc thậm chí có máu (loại trừ nhiễm bẩn do chọc dò) đã được ghi nhận khá thường xuyên trong y văn.
-- Cơ chế khả dĩ: vỡ củ lao (tubercle) nằm sát hoặc trong thành mạch máu nhỏ; viêm mạch (vasculitis) luôn hiện diện trong lao màng não có thể dẫn đến vỡ mạch hoặc hình thành vi phình mạch (microaneurysm, đặc biệt ở ca mạn tính/đã điều trị); mô hạt (granulation tissue) bao phủ dịch tiết ở giai đoạn mạn có mạch máu phong phú với liên kết nội mô yếu, dễ chảy máu.
+**Bảng 14.** Đặc điểm dịch não tủy trong nhiễm trùng cạnh màng não và các bệnh viêm khác
 
-*(Macucci & Sità, 1992)*
-
-**4. Xét nghiệm vi sinh và giá trị chẩn đoán**
-
-| Xét nghiệm | Độ nhạy ước tính |
-|---|---|
-| Soi trực tiếp (bacterioscopy, nhuộm kháng cồn-toan) | Rất dao động: 5–91% tùy nghiên cứu; giai đoạn mẫu, số lượng mẫu, và kinh nghiệm phòng xét nghiệm ảnh hưởng lớn |
-| Cấy vi khuẩn | >70% dương tính nhưng cần **nhiều ngày đến vài tuần** — không giúp ích cho quyết định điều trị sớm |
-
-> Có những ca lao màng não xác định bằng giải phẫu bệnh (necropsy) mà **soi và cấy đều âm tính nhiều lần**; ngược lại có ca DNT hoàn toàn không có đặc điểm kinh điển của lao mà cấy vẫn dương tính với *M. tuberculosis* — nhấn mạnh sự **không đặc hiệu và không hằng định** của xét nghiệm DNT trong bệnh này (Macucci & Sità, 1992).
-
-**5. Các xét nghiệm hỗ trợ hiện đại**
-
-| Xét nghiệm | Độ nhạy | Độ đặc hiệu | Ghi chú |
+| Bệnh cảnh | Bạch cầu | Protein | Glucose |
 |---|---|---|---|
-| Adenosine deaminase (ADA) DNT | 76% | 100% | Dương tính giả 16% ở viêm màng não virus; cũng tăng trong neurobrucellosis và một số u lympho có xâm lấn TKTW |
-| Acid tuberculostearic (TSA) bằng sắc ký khí | Cao ở ca lao xác định (13/13, 8/9 nghi ngờ) | Cao (chỉ 1/87 ca không lao dương tính giả) | Kỹ thuật ít phổ biến |
-| ELISA kháng thể kháng mycobacteria | 72–81,35% | 92–95% | Có phản ứng chéo với mycobacteria không lao ở ~7% |
-| ELISA kháng nguyên (antigen 5) | 65% | 100% | Nồng độ kháng nguyên giảm dần theo điều trị — có thể theo dõi đáp ứng |
-| Latex particle agglutination (kháng nguyên) | Dương tính ở tất cả ca lao (nhóm nhi) | Rất cao (1/134 ca chứng dương tính giả) | |
-| PCR (khuếch đại gen *M. tuberculosis*) | 75% (ca lâm sàng rất nghi lao) | Cao — dương tính 11% lần đầu ở nhóm chứng nhưng luôn âm tính khi lặp lại | Nhạy hơn ELISA (55%) và cấy (20%) trong cùng nhóm bệnh nhân |
+| Tụ mủ dưới màng cứng | < 100 đến vài nghìn/µL, ưu thế đa nhân trung tính | Thường 100–500 mg/dL | Bình thường |
+| Áp xe não | Thường 10–200/µL, ưu thế lympho | Thường 75–400 mg/dL | Bình thường |
+| Áp xe não vỡ vào não thất | Vài nghìn đến 100.000/µL, thường > 90% đa nhân trung tính | Thường vài trăm mg/dL | Thường < 40 mg/dL |
+| Áp xe ngoài màng cứng nội sọ | Vài đến vài trăm/µL trở lên, ưu thế lympho | Thường 50–200 mg/dL | Bình thường |
+| Áp xe ngoài màng cứng tủy sống | Thường 10–100/µL, ưu thế lympho | Thường vài trăm mg/dL | Bình thường |
+| Viêm não xuất huyết cấp | Vài đến > 1.000/µL, ưu thế đa nhân trung tính | Tăng vừa | Bình thường |
+| Sarcoidosis | 0 đến < 100 tế bào đơn nhân/µL | Tăng nhẹ đến vừa | Bình thường |
 
-*Nguồn: adenosine deaminase >10 U/L cũng được nêu trong Shahan et al. (2021) như một xét nghiệm hỗ trợ chẩn đoán lao màng não, cùng với PCR (độ nhạy 56%, độ đặc hiệu 98% theo nguồn này) và hình ảnh "pellicle" đặc trưng.*
+*Trích từ Kaplan & Kim (2025).*
 
-*(Macucci & Sità, 1992; Shahan et al., 2021)*
+Điểm phân biệt quan trọng là glucose DNT thường không giảm trong các nhiễm trùng cạnh màng não, vì glucose giảm phản ánh quá trình viêm lan tỏa màng não (Sternbach, 1985).
 
-**6. Các bệnh lý dễ nhầm lẫn với lao màng não (TBM-mimickers)**
+### Xét nghiệm bổ trợ theo từng tác nhân
 
-Nghiên cứu của Cao et al. (2022) trên 24 bệnh nhân **không phải lao** nhưng có đặc điểm DNT sớm tương tự lao màng não (bạch cầu tăng, protein tăng, glucose và chloride giảm) — xác định bằng giải trình tự thế hệ mới (NGS) trên DNT — cho thấy các chẩn đoán thay thế gồm:
+**Bảng 15.** Xét nghiệm bổ trợ trên dịch não tủy theo tác nhân
 
-| Nhóm nguyên nhân | Số ca | Ví dụ cụ thể |
+| Tác nhân | Xét nghiệm đặc hiệu |
+|---|---|
+| Vi khuẩn | Nhuộm Gram, PCR, ngưng kết latex nếu nhuộm Gram âm tính và đã dùng kháng sinh trước chọc dò |
+| *Cryptococcus* | Cấy DNT, kháng nguyên *Cryptococcus* trong DNT, nhuộm mực tàu, ngưng kết latex, xét nghiệm miễn dịch gắn enzyme (EIA), xét nghiệm dòng chảy bên (lateral flow), xét nghiệm HIV |
+| Nấm khác | (1,3)-β-D-glucan trong DNT (độ nhạy 95–100%, độ đặc hiệu 83–99%), cấy nấm, nhuộm Gram tìm sợi nấm, PCR chỉ nhạy 29% |
+| Giang mai thần kinh | Xét nghiệm HIV, VDRL (Venereal Disease Research Laboratory) trong DNT (độ nhạy 30–75%, độ đặc hiệu 100%, có thể dương tính giả nếu DNT lẫn máu), FTA-ABS (fluorescent treponemal antibody absorption) trong DNT (độ nhạy 100%, độ đặc hiệu 50–70%) |
+| Ký sinh trùng | PCR, ELISA tìm *Angiostrongylus cantonensis*, *Gnathostoma spinigerum*, *Baylisascaris procyonis* |
+| Lao | Cấy nhiều lần kèm nhuộm kháng acid, PCR (độ nhạy 56%, độ đặc hiệu 98%), adenosine deaminase DNT > 10 U/L, hình ảnh "màng đông" (pellicle) giống mạng nhện hình thành khi để DNT đứng yên một thời gian ngắn |
+| Virus | PCR là lựa chọn ưu tiên, IgM huyết thanh hoặc DNT cho arbovirus, điện não đồ hoặc chẩn đoán hình ảnh thần kinh nếu nghi viêm não |
+
+*Trích từ Shahan et al. (2021).*
+
+### Lưu ý khi diễn giải
+
+- **Nhuộm Gram âm tính không loại trừ nhiễm khuẩn:** nhất là ở bệnh nhân đã được điều trị kháng sinh (Shahan et al., 2021).
+- **DNT bình thường không loại trừ viêm màng não vi khuẩn:** bệnh vẫn có thể có khi DNT bình thường hoặc chỉ bất thường nhẹ. Khi kết quả không rõ ràng, cần làm thêm xét nghiệm bổ trợ (Shahan et al., 2021).
+- **Kháng sinh dùng trước chọc dò:** làm giảm khả năng cấy dương tính 10–20% (Shahan et al., 2021) và làm giảm giá trị chẩn đoán của các xét nghiệm DNT nói chung (WHO, 2026).
+- **Kiểu hình "virus" không chắc chắn là virus:** phần lớn đặc điểm DNT của viêm màng não virus cũng có thể gặp trong viêm màng não vi khuẩn đã điều trị một phần và một số nhiễm khuẩn không sinh mủ như *Rickettsia*, *Leptospira*, bệnh Lyme và giang mai thần kinh (WHO, 2026).
+
+<!-- ### Bệnh nhân suy giảm miễn dịch và các nhóm đặc biệt
+
+Ở trẻ sơ sinh, người nhiễm HIV và người cao tuổi, các thay đổi DNT có thể mờ nhạt hơn và ít gợi ý căn nguyên cụ thể (WHO, 2026). Bệnh nhân suy giảm miễn dịch có thể bị viêm màng não do lao, giang mai thần kinh, nấm hoặc ký sinh trùng (Shahan et al., 2021).
+
+- **Listeria monocytogenes:** người trên 60 tuổi và người suy giảm miễn dịch qua trung gian tế bào có tần suất viêm màng não do Listeria cao hơn. Ở nhóm bệnh nhân này, protein và bạch cầu DNT ít khi tăng hơn đáng kể và nhuộm Gram âm tính ở 66% ca (Shahan et al., 2021).
+- **HIV cấp:** hội chứng retrovirus cấp có thể cho kiểu hình DNT vô khuẩn: tăng nhẹ lympho, protein bình thường hoặc tăng nhẹ, glucose bình thường hoặc giảm nhẹ. Ở người nhiễm HIV có CD4 thấp, cần nghĩ đến viêm màng não do Cryptococcus, toxoplasma và giang mai thần kinh (Shahan et al., 2021).
+- **Cryptococcus:** người miễn dịch bình thường có tăng lympho với bạch cầu < 500/µL, glucose giảm và protein tăng; nhuộm mực tàu dương tính ở 50% ca. Ở người nhiễm HIV, số lượng tế bào và sinh hóa DNT ít khi bất thường, nhưng cấy và kháng nguyên vỏ Cryptococcus hầu như luôn dương tính (Euerle, 2010).
+- **Suy giảm miễn dịch nặng:** đôi khi DNT không có tế bào dù bệnh nhân có biểu hiện lâm sàng phù hợp (Euerle, 2010). -->
+
+
+## Dịch não tủy trong lao thần kinh trung ương
+
+Lao thần kinh trung ương chiếm khoảng 5% tổng số ca lao. Biểu hiện lâm sàng gồm viêm màng não nền sọ, viêm rễ–tủy và dấu hiệu thần kinh khu trú do u lao hoặc áp xe; biến chứng có thể gặp là não úng thủy và viêm mạch (Süssmuth et al., 2013). 
+
+Biểu hiện lâm sàng thường không đặc hiệu, không đầy đủ; bệnh nhân có thể không có tiền sử lao bản thân hay gia đình. Vì vậy xét nghiệm DNT có vai trò hàng đầu và mọi chậm trễ chẩn đoán đều ảnh hưởng nặng đến tiên lượng (Macucci & Sità, 1992).
+
+### Kiểu hình dịch não tủy kinh điển và mức độ tin cậy
+
+DNT trong lao màng não thường được mô tả là trong, áp lực tăng nhẹ, có thể thấy màng đông (pellicle) sau khi để lắng. Glucose giảm, protein tăng (100–500 mg/dL), tế bào thường 50–500/µL, chủ yếu lympho bào. Tuy các đặc điểm này rất thường gặp, chúng hiếm khi có mặt cùng lúc và đôi khi không có đặc điểm nào. Kiểu hình kinh điển chỉ có đầy đủ ở khoảng 40% ca, tỷ lệ cao hơn nếu chỉ xét các mẫu lấy sớm (Macucci & Sità, 1992).
+
+Các nguồn khác đưa ra khoảng giá trị khác nhau, nhất là về số lượng tế bào:
+
+**Bảng 16.** Tế bào, protein và glucose dịch não tủy trong lao màng não theo các nguồn
+
+| Nguồn | Tế bào và công thức bạch cầu | Protein | Glucose |
+|---|---|---|---|
+| Shahan et al. (2021) | 5–300/µL, 500–1.000/µL ở 20% ca, giai đoạn sớm tăng hỗn hợp, giai đoạn sau ưu thế lympho | 100–200 mg/dL | Trung vị 40 mg/dL, thấp hơn ở giai đoạn muộn |
+| Kaplan & Kim (2025) | Thường 25–100/µL, hiếm khi > 500, ưu thế lympho, trừ giai đoạn sớm khi đa nhân trung tính có thể chiếm tới 80% | Hầu như luôn tăng, thường 100–200 mg/dL, cao hơn nhiều nếu tắc nghẽn lưu thông DNT | < 50 mg/dL ở 75% ca |
+| Euerle (2010) | 100–400/µL, ưu thế lympho, 30% có ưu thế đa nhân trung tính ở giai đoạn sớm | 100–500 mg/dL | Có thể giảm |
+
+Các chỉ số khác cũng thay đổi trong lao màng não:
+
+- Lactate > 3,5 mmol/L (Srivastava et al., 2008; Süssmuth et al., 2013).
+<!-- - **Chức năng hàng rào:** tổn thương nặng, với thương số albumin > 20 × 10⁻³ (Süssmuth et al., 2013). -->
+<!-- - Đáp ứng miễn dịch dịch thể trong DNT:** tổng hợp kháng thể tại chỗ với ưu thế IgA (IgA > IgG > IgM), kèm dải oligoclonal (Süssmuth et al., 2013). Tổng hợp IgG tại chỗ gặp cả ở bệnh nhân có protein DNT tăng lẫn bình thường (Macucci & Sità, 1992). -->
+- So với các nhóm khác, protein có thể tăng ngang viêm màng não vi khuẩn và glucose thường thấp hơn so với viêm màng não virus (Srivastava et al., 2008).
+- Bạch cầu ái toan có thể tăng nhẹ (Euerle, 2010).
+
+### Diễn tiến theo thời gian lấy mẫu
+
+Bệnh nhân nghi lao màng não thường được chọc dò nhiều lần ở các giai đoạn khác nhau và kết quả có thể thay đổi đáng kể giữa các lần (Macucci & Sità, 1992). Ưu thế đa nhân trung tính ở mẫu đầu không loại trừ lao; công thức thường chuyển dần sang ưu thế lympho ở các mẫu sau (Kaplan & Kim, 2025; Macucci & Sità, 1992; Shahan et al., 2021; Süssmuth et al., 2013). Nếu không điều trị, glucose giảm dần còn protein tăng dần. Protein có thể lên tới 1.000 mg/dL khi có tắc nghẽn khoang dưới nhện tủy sống do viêm màng nhện đi kèm; khi đó DNT có thể có màu vàng (Macucci & Sità, 1992).
+
+### Dịch não tủy màu vàng hoặc có máu
+
+DNT màu vàng không do protein tăng hoặc thậm chí có máu không do chọc chạm mạch đã được ghi nhận khá thường xuyên trong lao màng não. Macucci và Sità (1992) nêu ba cơ chế khả dĩ:
+
+- Vỡ củ lao: phần lớn củ lao ở não nằm rất gần, thậm chí nằm trong thành các mạch máu nhỏ.
+- Viêm mạch: viêm mạch luôn hiện diện trong lao màng não, có thể làm vỡ các mạch bị tổn thương ở thể cấp có hoại tử. Ở thể mạn và đã điều trị, viêm mạch có thể tạo vi phình mạch, về sau có thể vỡ.
+- Mô hạt: ở thể mạn, dịch tiết dần được phủ bởi mô hạt giàu mao mạch, mô liên kết lỏng lẻo và liên kết nội mô yếu, nên dễ chảy máu. Ở bệnh nhân diễn tiến tốt, u hạt lao cũng được phủ bởi mao mạch tân tạo.
+
+### Soi trực tiếp và cấy
+
+Độ tin cậy của soi và cấy phụ thuộc giai đoạn lấy mẫu, số mẫu được xét nghiệm và kinh nghiệm của phòng xét nghiệm (Macucci & Sità, 1992). Tỷ lệ soi trực tiếp dương tính dao động rất rộng giữa các nghiên cứu, từ 5% đến 91% và < 40% ở mẫu đầu (Macucci & Sità, 1992). Süssmuth et al. (2013) ghi độ nhạy của nhuộm Ziehl-Neelsen trong DNT chỉ 5–30%. Meyfroidt et al. (2020) nhận định soi trực tiếp hiếm khi dương tính.
+
+Cấy thường dương tính ở > 70% ca nhưng cần nhiều ngày đến nhiều tuần mới có kết quả, nên điều trị đặc hiệu phải bắt đầu trước đó khi nghi lao (Macucci & Sità, 1992). Môi trường Löwenstein-Jensen phải theo dõi đủ tám tuần mới được kết luận âm tính. Cấy nhạy hơn soi (Euerle, 2010). 
+
+Một số khuyến cáo về lấy mẫu:
+
+- Thể tích DNT: khi nghi lao, cần khoảng 10 mL DNT để cấy (Euerle, 2010). Meyfroidt et al. (2020) ghi soi tìm trực khuẩn kháng acid cần > 2 mL DNT.
+- Số lần xét nghiệm: khi có nghi ngờ hợp lý, các xét nghiệm DNT đặc hiệu nên được thực hiện ba lần (Süssmuth et al., 2013). Shahan et al. (2021) cũng khuyến cáo cấy nhiều lần kèm nhuộm kháng acid.
+
+Kết quả vi sinh có thể mâu thuẫn với kiểu hình DNT. Có ca lao màng não xác định bằng tử thiết mà soi và cấy đều âm tính nhiều lần trong suốt quá trình bệnh. Ngược lại, có ca viêm màng não có DNT trong, không có đặc điểm tế bào và sinh hóa kinh điển, nhưng cấy vẫn mọc *Mycobacterium tuberculosis* (Macucci & Sità, 1992).
+
+### Xét nghiệm khuếch đại acid nucleic và PCR
+
+WHO (2026) khuyến cáo dùng xét nghiệm khuếch đại acid nucleic tự động, độ phức tạp thấp (LC-aNAAT), như Xpert MTB/RIF Ultra, cho người nghi lao màng não thay cho soi hoặc cấy. Nếu có thể, nên cấy thêm để tăng cơ hội chẩn đoán và phát hiện lao kháng thuốc.
+
+Độ nhạy của PCR khác nhau giữa các nguồn:
+
+**Bảng 17.** Hiệu năng của PCR dịch não tủy trong chẩn đoán lao màng não
+
+| Nguồn | Hiệu năng của PCR | 
+|---|---|
+| Shahan et al. (2021) | Độ nhạy 56%, độ đặc hiệu 98% | 
+| Meyfroidt et al. (2020) | Giá trị tiên đoán âm 84% (PCR thời gian thực), *PCR âm tính không loại trừ lao màng não* |
+| Macucci & Sità (1992) | Dương tính ở 75% ca rất có khả năng lao trên lâm sàng, so với 55% của ELISA và 20% của cấy trong cùng nhóm | 
+
+??? info "Các bệnh dễ nhầm với lao màng não"
+
+    Kiểu hình kinh điển của lao màng não (glucose thấp, protein cao, tăng lympho, chloride giảm) cũng gặp trong các bệnh không do lao. Đặc biệt, viêm màng não vi khuẩn được điều trị kháng sinh sớm có thể bị che lấp cả biểu hiện lâm sàng lẫn kiểu hình DNT. Ngoài ra cần nghĩ đến nhiễm trùng hỗn hợp (nấm, vi khuẩn, virus) và các chẩn đoán phân biệt có kiểu hình tương tự: bệnh do *Brucella* thần kinh, *Listeria*, *Candida albicans*, *Cryptococcus neoformans*, *Coccidioides immitis*, sarcoidosis thần kinh và ung thư lan tỏa màng não (Macucci & Sità, 1992).
+
+    Cao et al. (2022) phân tích hồi cứu 24 bệnh nhân có biến đổi DNT sớm giống lao màng não nhưng chẩn đoán cuối cùng không phải lao. Tiêu chí chọn bệnh là protein > 45 mg/dL, glucose < 2,50 mmol/L và chloride < 120 mmol/L. Tất cả được giải trình tự gen thế hệ mới (NGS) trên DNT. Chẩn đoán cuối cùng như sau:
+
+    **Bảng 18.** Chẩn đoán cuối cùng ở 24 bệnh nhân có dịch não tủy giống lao màng não (Cao et al., 2022)
+
+    | Nhóm nguyên nhân | Số ca | Chẩn đoán cụ thể |
+    |---|---|---|
+    | Vi khuẩn khác | 4 | *Listeria* (2), *Brucella* thần kinh trung ương (2) |
+    | Virus | 6 | Viêm não do virus varicella zoster (4), HSV-1 (2) |
+    | Nấm | 6 | *Cryptococcus* (5), *Rhizopus oryzae* xâm lấn (1) |
+    | Tự miễn hoặc viêm không nhiễm trùng | 6 | Viêm não kháng thụ thể NMDA (2), bệnh não do lupus (2), sarcoidosis thần kinh trung ương (2) |
+    | Ung thư | 2 | Ung thư lan tỏa màng não |
+
+    Tất cả bệnh nhân khởi phát cấp tính. Bạch cầu DNT trung vị 124/µL (89–490,5), protein trung vị 130 mg/dL (100,95–231,45), glucose trung vị 1,345 mmol/L (1,045–2,478) và chloride trung bình 111,7 ± 5,2 mmol/L. Sau sáu tháng, chín bệnh nhân tử vong (năm ca *Cryptococcus*, hai ca ung thư lan tỏa màng não, một ca *Rhizopus*, một ca viêm não do virus varicella zoster nặng); 15 bệnh nhân hồi phục tốt, không có di chứng rõ. 
+
+
+## Dịch não tủy trong viêm não do HSV
+
+Khác với viêm màng não, viêm não thường gây rối loạn chức năng vỏ não như mất ngôn ngữ, co giật, liệt nửa người. Viêm não do HSV thường diễn tiến trong nhiều ngày, nên cần nghĩ đến bệnh này khi một nhiễm trùng thần kinh trung ương phát triển qua nhiều ngày thay vì nhiều giờ (Gaieski et al., 2012).
+
+### Đặc điểm DNT
+
+#### Kiểu hình điển hình
+
+Gaieski et al. (2012) mô tả kiểu hình gợi ý viêm não do HSV như sau:
+
+**Bảng 19.** Kiểu hình dịch não tủy gợi ý viêm não do HSV
+
+| Chỉ số | Đặc điểm |
+|---|---|
+| Hồng cầu | Tăng, khoảng 10–100/µL hoặc cao hơn |
+| Bạch cầu | Hàng trăm/µL, thường ưu thế lympho |
+| Tỷ lệ glucose DNT/máu | > 0,67 |
+| Protein | < 50 mg/dL hoặc tăng |
+| Nhuộm Gram | Không thấy vi khuẩn |
+
+*Trích từ Gaieski et al. (2012).*
+
+Tăng hồng cầu trong DNT là điểm phân biệt viêm não do HSV với viêm màng não virus và viêm não do virus khác, vốn có số lượng hồng cầu bình thường (Gaieski et al., 2012). Các nguồn khác cũng ghi nhận viêm não do HSV có thể làm tăng hồng cầu DNT (Euerle, 2010; Shahan et al., 2021).
+
+#### Glucose
+
+Gaieski et al. (2012) mô tả tỷ lệ glucose DNT/máu > 0,67 trong viêm não do HSV. Tuy vậy, Euerle (2010) xếp viêm não do HSV vào nhóm ngoại lệ của viêm não – màng não do virus (có thể có glucose DNT giảm) và liệt kê bệnh này trong các nguyên nhân gây glucose DNT thấp.
+
+#### Diễn tiến theo thời gian
+
+Số lượng tế bào và lactate DNT thường tăng sau 3–4 ngày, sau khoảng thời gian này PCR hầu như không còn phát hiện được DNA HSV (Süssmuth et al., 2013). Viêm não do HSV với DNT hoàn toàn bình thường cũng đã được báo cáo (Troendle & Pettigrew, 2019).
+
+### PCR HSV trong dịch não tủy 
+
+PCR cho HSV, varicella zoster virus (VZV) và enterovirus trong DNT là bắt buộc khi nghi viêm não do virus (Meyfroidt et al., 2020). Hiệu năng của PCR khác nhau tùy nhóm bệnh nhân:
+
+- So với sinh thiết não, PCR HSV có độ nhạy 98%, độ đặc hiệu 94%, giá trị tiên đoán dương 95% và giá trị tiên đoán âm 98%. Cấy virus chỉ dương tính ở < 5% ca (Lakeman & Whitley, 1995, trích trong Bonadio, 2014).
+- Ở trẻ sơ sinh và nhũ nhi, độ nhạy được báo cáo 75–100% và độ đặc hiệu 71–100%. Ở trẻ dưới một tuổi, PCR dương tính giúp xác định chẩn đoán, nhưng PCR âm tính không loại trừ được bệnh. Cấy virus khá chính xác với HSV nhưng cần 5–7 ngày mới dương tính (Pacatte, 2008).
+
+*Süssmuth et al. (2013) lưu ý PCR có thể âm tính giả trong 72 giờ đầu của bệnh.* Khi nghi ngờ có cơ sở, không được ngừng điều trị kháng virus chỉ vì PCR âm tính, đặc biệt khi mẫu DNT được lấy trong ba ngày đầu hoặc DNT có máu hay xanthochromia.
+
+Ngoài ra còn có PCR đa mồi giúp phát hiện đồng thời vi khuẩn (*H. influenzae*, *N. meningitidis*, *L. monocytogenes*, *S. agalactiae*, *S. pneumoniae*), virus (HSV-1, HSV-2, cytomegalovirus (CMV), VZV, HPeV (human parechovirus), herpesvirus người type 6 (HHV-6), enterovirus) và nấm men (*Cryptococcus*), có độ nhạy và độ đặc hiệu cao (Meyfroidt et al., 2020).
+
+
+
+<!-- ## Chọc chạm mạch và hiệu chỉnh bạch cầu dịch não tủy
+
+### Tần suất và cơ chế
+
+Chọc chạm mạch chiếm 10–30% số lần chọc dò tủy sống và hiện chưa có định nghĩa thống nhất (Euerle, 2010). Ở trẻ em, tần suất khoảng 20% và tới một phần ba ở trẻ sơ sinh. Tần suất tỷ lệ nghịch với tuổi của trẻ và kinh nghiệm của người thực hiện. Gây tê tại chỗ giúp tăng gấp đôi tỷ lệ thành công; trong một nghiên cứu trên 1.459 trẻ, không gây tê làm tăng tỷ lệ chọc chạm mạch hoặc thất bại (Bonadio, 2014).
+
+Cơ chế thường gặp là kim đi quá sâu, xuyên qua khoang dưới nhện vào đám rối tĩnh mạch ngoài màng cứng mặt trước ống sống. Đặt tư thế đúng và hướng kim chính xác giúp hạn chế biến chứng này (Bonadio, 2014; Euerle, 2010). Nếu dịch không trong dần, nên chọc lại ở khe gian đốt sống cao hơn bằng kim mới (Euerle, 2010).
+
+Trong 100 lần chọc chạm mạch ở trẻ em, số hồng cầu DNT < 10.000/µL ở 65%, < 50.000/µL ở 80% và > 100.000/µL ở 12% trường hợp (Bonadio, 2014).
+
+### Nhận biết và phân biệt với xuất huyết dưới nhện
+
+Câu hỏi lâm sàng chính là máu trong DNT do chọc chạm mạch hay do xuất huyết dưới nhện có sẵn. Các dấu hiệu gợi ý chọc chạm mạch gồm:
+
+- **Dịch trong dần qua các ống:** số hồng cầu giảm từ ống 1 đến ống cuối. Euerle (2010) xem mức giảm > 30% là gợi ý chọc chạm mạch. Theo Gorchynski (trích trong Euerle, 2010), hồng cầu giảm ở 82% ca chọc chạm mạch so với 9% ca xuất huyết dưới nhện; mức giảm ≥ 70% kèm hồng cầu ống cuối < 500/µL giúp loại trừ xuất huyết dưới nhện. Tuy nhiên, hồng cầu có thể lắng đọng trong ống nếu để lâu (Euerle, 2010) và chọc chạm mạch có thể xảy ra trên nền xuất huyết dưới nhện thật (Srivastava et al., 2008).
+- **Dịch nổi sau ly tâm:** trong ở chọc chạm mạch vàng (xanthochromia) ở xuất huyết dưới nhện (Bonadio, 2014; Sternbach, 1985).
+- **Cục đông trong ống:** gợi ý chọc chạm mạch (Euerle, 2010).
+- **Chọc lại ngay ở khe cao hơn:** thu được dịch trong gợi ý chọc chạm mạch (Euerle, 2010).
+- **Ngưỡng hồng cầu:** Shahan et al. (2021) cho rằng hồng cầu < 2.000/µL không kèm xanthochromia giúp loại trừ xuất huyết dưới nhện.
+
+Bản thân chọc chạm mạch nặng cũng có thể gây xanthochromia, nhưng các nguồn khác nhau về ngưỡng: hồng cầu 20.000–30.000/µL theo Euerle (2010) và > 100.000/µL theo Shahan et al. (2021). Euerle (2010) cũng đề cập xét nghiệm D-dimer DNT, nhưng xét nghiệm này có thể dương tính giả. Chi tiết về xanthochromia được trình bày trong chủ đề màu sắc DNT.
+
+### Hiệu chỉnh bạch cầu
+
+Cách ước tính thường dùng là trừ một bạch cầu cho mỗi một lượng hồng cầu nhất định, nhưng tỷ lệ này khác nhau giữa các nguồn:
+
+| Tỷ lệ bạch cầu : hồng cầu | Ghi chú | Nguồn |
 |---|---|---|
-| Nhiễm trùng do vi khuẩn khác | 4 | Listeria (2 ca), Brucella thần kinh trung ương (2 ca) |
-| Nhiễm virus | 6 | Viêm não do Varicella zoster (4 ca), Herpes simplex type 1 (2 ca) |
-| Nhiễm nấm | 5 | Viêm màng não do Cryptococcus |
-| Nhiễm nấm mốc xâm lấn | 1 | *Rhizopus oryzae* |
-| Bệnh tự miễn/viêm không nhiễm trùng | 6 | Viêm não do kháng thể kháng NMDAR (2), viêm não lupus (2), sarcoidosis TKTW (2) |
-| Ung thư | 2 | Viêm màng não do ung thư di căn (carcinomatous meningitis) |
+| 1 : 500–700 | Áp dụng khi công thức máu bình thường; nếu thiếu máu hoặc tăng bạch cầu đáng kể thì tính theo công thức máu thực tế | Sternbach (1985) |
+| 1 : 700 | Tỷ lệ dao động nhiều; viêm màng não ít có khả năng khi tỷ lệ < 1/700; không thể dựa vào tế bào học khi chọc chạm mạch | Euerle (2010); Hoen et al. (2019) |
+| 1 : 1.000 | Không áp dụng được khi mẫu có cục đông | Bonadio (2014); Kaplan & Kim (2025) |
+| 1 : 500–1.500 | Cách kinh điển; công thức theo công thức máu chính xác hơn | Shahan et al. (2021) |
 
-- Đặc điểm chung của nhóm 24 bệnh nhân: khởi phát cấp tính; bạch cầu DNT trung vị 124 × 10⁶/L; protein trung vị 1.300 mg/L; glucose trung vị 1,345 mmol/L; chloride trung bình 111,7±5,2 mmol/L — **giống hệt kiểu hình sinh hóa của lao màng não**.
-- Kết cục: 9/24 tử vong; 15/24 hồi phục tốt không di chứng.
-- **Khuyến nghị của tác giả:** khi gặp DNT có đặc điểm giống lao màng não nhưng chưa xác định được vi khuẩn lao, nên **chủ động tìm kiếm các chẩn đoán thay thế** (đặc biệt các bệnh tự miễn có thể điều trị được như viêm não kháng NMDAR) bằng các xét nghiệm mở rộng như NGS, thay vì mặc định điều trị lao kéo dài.
+### Công thức theo công thức máu
 
-*(Cao et al., 2022)*
+Bạch cầu dự đoán (do máu lẫn vào) được tính theo công thức máu ngoại vi lấy cùng lúc (Bonadio, 2014; Shahan et al., 2021):
 
-**7. Ứng dụng thực hành tổng hợp**
+> Bạch cầu DNT dự đoán = hồng cầu DNT × (bạch cầu máu / hồng cầu máu)
 
-1. **Không loại trừ lao màng não chỉ vì thiếu một trong ba đặc điểm kinh điển** — độ nhạy của bộ ba này chỉ khoảng 40%.
-2. Nếu mẫu đầu có PMN chiếm ưu thế, **không vội loại trừ lao** — cần đánh giá lại nếu có mẫu lấy muộn hơn hoặc bệnh cảnh lâm sàng vẫn nghi ngờ.
-3. Cân nhắc bổ sung ADA DNT hoặc PCR nếu có sẵn — đây là các xét nghiệm có độ đặc hiệu cao, hỗ trợ chẩn đoán nhanh hơn cấy (vốn mất nhiều tuần).
-4. **Không chờ kết quả cấy** để bắt đầu điều trị lao nếu nghi ngờ lâm sàng đủ mạnh — chậm trễ điều trị ảnh hưởng nghiêm trọng đến tiên lượng.
-5. Khi DNT có kiểu hình "giống lao" nhưng đáp ứng điều trị kém hoặc không xác định được vi khuẩn lao, cần **mở rộng chẩn đoán phân biệt** sang các nguyên nhân khác (vi khuẩn không điển hình, virus, nấm, tự miễn, ung thư) — đặc biệt quan trọng vì một số nguyên nhân thay thế (như viêm não tự miễn) có điều trị đặc hiệu hiệu quả nếu phát hiện kịp thời.
+Ward và Gushurst (1992) trình bày công thức tính bạch cầu DNT "thật", tức số bạch cầu nếu không có máu lẫn:
+
+> Bạch cầu hiệu chỉnh = bạch cầu DNT quan sát − (bạch cầu máu × hồng cầu DNT / hồng cầu máu)
+
+Trên mô hình thực nghiệm trộn hồng cầu tự thân vào DNT, Mehl (trích trong Ward & Gushurst, 1992) đề xuất xem là bất thường khi tỷ số bạch cầu quan sát/dự đoán > 2,1 hoặc tỷ số protein > 1,4.
+
+### Hạn chế của hiệu chỉnh
+
+Công thức hiệu chỉnh thường hiệu chỉnh quá mức nên có thể bỏ sót tăng tế bào thật (Bonadio, 2014). Nhiều nghiên cứu trên trẻ em (cả sơ sinh và ngoài sơ sinh) không viêm màng não ghi nhận bạch cầu quan sát thấp hơn dự đoán, dù mẫu được phân tích không chậm trễ; nguyên nhân chưa rõ. Một số trẻ viêm màng não cấy dương tính cũng có bạch cầu quan sát thấp hơn dự đoán. Do đó, nếu chỉ dựa vào công thức hiệu chỉnh, tăng tế bào thật có thể bị che lấp (Ward & Gushurst, 1992).
+
+Kaplan và Kim (2025) mô tả thêm cách ly giải hồng cầu bằng acid acetic rồi đếm lại tế bào trên buồng đếm. Nên phân tích mẫu sớm vì bạch cầu bắt đầu ly giải sau khoảng 4 giờ (Bonadio, 2014).
+
+### Tỷ số bạch cầu quan sát/dự đoán (O:P)
+
+Thay vì trừ bạch cầu, có thể so sánh bạch cầu quan sát với bạch cầu dự đoán theo công thức trên.
+
+- **Dữ liệu chủ yếu ở người lớn:** gần 90% ca viêm màng não vi khuẩn có tỷ số O:P > 10, nhưng 7% ca vi khuẩn có tỷ số < 1 và 62% ca cấy âm tính có tỷ số > 1 (Bonadio, 2014). Ward và Gushurst (1992) trích dẫn một nghiên cứu hồi cứu ở trẻ em và người lớn, trong đó tỷ số > 10 có độ nhạy 88% và độ đặc hiệu 90% để dự đoán viêm màng não vi khuẩn.
+- **Dữ liệu ở trẻ trên 1 tháng tuổi:** Bonadio et al. (1990) nghiên cứu 92 trẻ chọc chạm mạch (hồng cầu > 1.000/µL). Cả 30 trẻ viêm màng não vi khuẩn đều có tỷ số O:P ≥ 1, trong đó 93% > 10 và 80% > 100. Ở nhóm cấy âm tính, 63% có tỷ số < 1, 34% từ 1–10 và chỉ 3% > 10; không trẻ nào vượt quá 25 (Bonadio, 2014). Nhóm vi khuẩn còn khác biệt rõ ở tỷ lệ ưu thế đa nhân trung tính và nhuộm Gram dương tính (80% so với 0%). Ward và Gushurst (1992) tóm tắt nghiên cứu này với độ nhạy 93% và độ đặc hiệu 95% cho ngưỡng > 10.
+
+Bonadio (2014) kết luận nên xem như có nguy cơ viêm màng não vi khuẩn khi chọc chạm mạch kèm tăng tế bào và tỷ số O:P > 1.
+
+### Dữ liệu ở người lớn
+
+Zhou et al. (2024) hồi cứu 195 trường hợp chọc chạm mạch ở người lớn có thu bốn ống, lấy bạch cầu ống 4 làm chuẩn tham chiếu:
+
+- **Tăng tế bào giả:** 54% số ca tăng bạch cầu ở ống 1 là giả, do máu lẫn.
+- **Ba hệ số hiệu chỉnh 1:500, 1:1.000 và 1:1.500:** độ đặc hiệu dao động 29,2–71,7% và độ nhạy 84,3–97,8%; hệ số 1:500 đặc hiệu nhất, hệ số 1:1.500 nhạy nhất.
+- **Sai lệch tập trung ở mức tăng nhẹ:** kết quả dương tính giả và âm tính giả chủ yếu xảy ra khi bạch cầu tăng nhẹ (≤ 20/µL).
+
+### Ảnh hưởng lên các chỉ số khác
+
+- **Protein:** tăng khoảng 1 mg/dL cho mỗi 1.000 hồng cầu, nhưng mức tăng thay đổi. Ngoài ra, hồng cầu ly giải có thể gây phản ứng viêm làm protein tăng thêm (Bonadio, 2014; Euerle, 2010).
+- **Glucose:** không bị ảnh hưởng bởi máu lẫn (Bonadio, 2014; Ward & Gushurst, 1992).
+- **IgG:** tăng tuyến tính theo lượng hồng cầu thêm vào trên mô hình thực nghiệm, tương tự bạch cầu và protein (Ward & Gushurst, 1992).
+- **Hồng cầu và bạch cầu:** WHO (2026) lưu ý chọc chạm mạch có thể làm tăng cả hai chỉ số này khi diễn giải kết quả.
+
+### Xử trí thực hành
+
+Hiện không có phương pháp nào đủ tin cậy để loại trừ viêm màng não vi khuẩn khi chọc chạm mạch kèm tăng tế bào. Nếu dữ liệu không đủ để loại trừ, cần nhập viện và dùng kháng sinh tĩnh mạch kinh nghiệm trong khi chờ kết quả cấy (Bonadio, 2014). Mọi mẫu DNT lẫn máu đều cần được cấy, đặc biệt ở nhũ nhi (Euerle, 2010). Glucose thấp và nhuộm Gram dương tính vẫn là những chỉ điểm đáng tin cậy của viêm màng não vi khuẩn vì không bị máu lẫn làm sai lệch (Bonadio, 2014; Ward & Gushurst, 1992). -->
 
 
-## Dịch não tuỷ trong viêm não do HSV
+## Tác động của kháng sinh lên dịch não tủy
 
-**1. Bối cảnh dịch tễ**
+### Cấy và nhuộm Gram
 
-- HSV chiếm khoảng **22%** nguyên nhân viêm não ở người lớn có miễn dịch bình thường, và **50–75%** trong số các trường hợp viêm não xác định được nguyên nhân — là nguyên nhân virus **thường gặp nhất**.
-- Gặp ở mọi lứa tuổi, không có ưu thế theo mùa hay vùng địa lý.
-- Ở bệnh nhân suy giảm miễn dịch, HSV có thể biểu hiện **không điển hình** và tiên lượng xấu hơn.
+Các nghiên cứu thống nhất rằng cấy DNT giảm hiệu quả nếu kháng sinh được dùng trước chọc dò:
 
-*(Meyfroidt et al., 2020)*
+**Bảng 20.** Tỷ lệ cấy dịch não tủy dương tính khi đã dùng kháng sinh trước chọc dò
 
-**2. Đặc điểm DNT điển hình gợi ý viêm não do HSV**
+| Nguồn | Đối tượng | Cấy DNT dương tính: chưa điều trị so với đã điều trị |
+|---|---|---|
+| Nigrovic et al. (2008) | 231 trẻ viêm màng não vi khuẩn xác định | 88% so với 70% |
+| Shahan et al. (2021) | Tổng quan | Giảm 10–20% |
 
-| Thông số | Đặc điểm điển hình trong viêm não HSV |
-|---|---|
-| Hồng cầu (RBC) | **Tăng** — khoảng 10–100/µL hoặc cao hơn (khác biệt quan trọng so với viêm màng não virus thông thường, vốn không có RBC tăng) |
-| Bạch cầu (WBC) | Tăng tới hàng trăm/µL, **lympho bào chiếm ưu thế** |
-| Tỷ lệ glucose DNT/máu | **>0,67** (bình thường đến cao — khác với viêm màng não vi khuẩn) |
-| Protein | Có thể **<50 mg/dL hoặc tăng** — biến thiên, không đặc hiệu |
-| Nhuộm Gram | Âm tính (không thấy vi khuẩn) |
+Ảnh hưởng lên nhuộm Gram không thống nhất. Nigrovic et al. (2008) không ghi nhận sự khác biệt về tỷ lệ nhuộm Gram dương tính (63% so với 62%), trong khi Hoen et al. (2019) cho rằng độ nhạy của nhuộm Gram giảm từ 60–97% xuống 40–60%. Cấy máu cũng bị ảnh hưởng: 66% so với 48% ở trẻ chưa và đã dùng kháng sinh trước khi cấy máu (Nigrovic et al., 2008).
 
-*(Gaieski et al., 2012)*
+### Thời gian vô khuẩn hóa dịch não tủy
 
-> **Điểm phân biệt quan trọng nhất với viêm màng não/não do virus khác:** sự hiện diện của **hồng cầu tăng** trong DNT (không do chọc chạm mạch) là dấu hiệu gợi ý đặc trưng của viêm não HSV — do bản chất **viêm não xuất huyết hoại tử** đặc trưng của HSV, khác với viêm màng não virus thông thường (chỉ tăng bạch cầu, không tăng hồng cầu).
+DNT trở nên vô khuẩn rất nhanh sau kháng sinh đường tĩnh mạch và tốc độ phụ thuộc vào tác nhân:
 
-**3. Bảng phân biệt nhanh theo nhóm bất thường DNT (Gaieski et al., 2012)**
+- **Ở trẻ em:** não mô cầu bị vô khuẩn hoàn toàn trong vòng hai giờ sau cephalosporin thế hệ thứ ba. Phế cầu bắt đầu bị vô khuẩn sau bốn giờ (Kaplan & Kim, 2025). Euerle (2010) cho rằng có "cửa sổ" 2–3 giờ sau kháng sinh mà cấy DNT chưa bị ảnh hưởng và tới 38% bệnh nhân vẫn còn cấy dương tính sau 24 giờ.
+- **Ở người lớn:** Michael et al. (2010) hồi cứu 92 người lớn viêm màng não, không ai được chọc dò trước kháng sinh. Cấy DNT dương tính ở 8/11 bệnh nhân (73%) chọc dò trong vòng bốn giờ sau kháng sinh, so với 8/71 bệnh nhân (11%) chọc dò muộn hơn. Không lần nào trong 34 lần chọc dò sau tám giờ cho cấy dương tính. Não mô cầu vẫn còn cấy được tới 6–8 giờ sau kháng sinh.
 
-| Kiểu hình DNT | Gợi ý chẩn đoán |
-|---|---|
-| Không RBC; WBC <5; tỷ lệ glucose bình thường | LP bình thường |
-| WBC tăng nhẹ (10 đến vài trăm); không RBC; glucose bình thường; protein <50 mg/dL | Viêm màng não virus hoặc viêm não do virus **không phải HSV** |
-| **RBC tăng (10–100 trở lên); WBC hàng trăm, lympho ưu thế; tỷ lệ glucose >0,67; protein <50 hoặc tăng** | **Viêm não do HSV** |
-| RBC tăng nhiều (100–1.000+); WBC <5 hoặc <1 WBC/500 RBC; tỷ lệ glucose >0,67; protein <50; có xanthochromia | Xuất huyết dưới nhện chưa phát hiện trên CT |
+Trong nghiên cứu này, chụp CT sọ là nguyên nhân trì hoãn chọc dò ở 62/92 bệnh nhân (67%), nhưng chỉ 20 bệnh nhân trong số đó thực sự có chống chỉ định chọc dò ngay (Michael et al., 2010). 
 
-> Lưu ý: bảng này mang tính định hướng lâm sàng nhanh, không thay thế xét nghiệm xác định (PCR).
+### Xét nghiệm không phụ thuộc nuôi cấy
 
-**4. Xét nghiệm xác định chẩn đoán**
+- **Kháng nguyên hòa tan:** xét nghiệm sắc ký miễn dịch tìm kháng nguyên phế cầu không bị ảnh hưởng bởi kháng sinh trước đó (Hoen et al., 2019). Kháng nguyên vi khuẩn có thể tồn tại trong DNT nhiều ngày sau điều trị, nhưng mất 25–33% số xét nghiệm dương tính mỗi ngày dưới kháng sinh phù hợp và kết quả âm tính không loại trừ viêm màng não vi khuẩn (Euerle, 2010). 
+- **PCR:** PCR đơn hoặc đa mồi giúp xác định tác nhân ở bệnh nhân đã dùng kháng sinh; bảng PCR đa tác nhân có lẽ hữu ích nhất khi cấy máu và cấy DNT âm tính, đặc biệt ở bệnh nhân đã điều trị trước (Kaplan & Kim, 2025). 
+- **Sinh thiết tổn thương da:** ở bệnh nhân có ban xuất huyết, cấy sinh thiết da phân lập được tác nhân ở 60–80% trường hợp. Não mô cầu tồn tại trong tổn thương da ít nhất 24 giờ sau kháng sinh, nên xét nghiệm này càng có giá trị khi đã dùng kháng sinh (Hoen et al., 2019).
 
-- **PCR HSV trong DNT là xét nghiệm bắt buộc** khi nghi viêm não do HSV — nên gửi cùng lúc PCR cho VZV và enterovirus để chẩn đoán phân biệt.
-- Cân nhắc thêm phương pháp **PCR đa mồi (multiplex PCR)** phát hiện đồng thời nhiều tác nhân vi khuẩn (H. influenzae, N. meningitidis, L. monocytogenes, S. agalactiae, S. pneumoniae), virus (HSV-1, HSV-2, CMV, VZV, HPV, HHV6, enterovirus), và nấm men (Cryptococcus) — có độ nhạy và độ đặc hiệu cao.
-- Xét nghiệm máu **không giúp định hướng nguyên nhân** viêm não nhưng vẫn cần làm để hỗ trợ chẩn đoán phân biệt toàn diện.
+### Ảnh hưởng lên tế bào và sinh hóa
 
-*(Meyfroidt et al., 2020; Gaieski et al., 2012)*
+**Nghiên cứu của Nigrovic et al. (2008)**
 
-**5. Vai trò của hình ảnh học kèm theo**
+Đây là đoàn hệ hồi cứu đa trung tâm trên 245 trẻ từ 1 tháng đến 18 tuổi viêm màng não vi khuẩn, tại 20 khoa cấp cứu nhi ở Hoa Kỳ (2001–2004), trong thời kỳ đã tiêm chủng rộng rãi vắc xin *Haemophilus influenzae* type b (Hib) và phế cầu liên hợp. Kháng sinh trước chọc dò được định nghĩa là bất kỳ kháng sinh nào trong 72 giờ trước chọc dò. Thời gian điều trị trung vị là 24 giờ với kháng sinh uống và 4 giờ với kháng sinh tiêm.
 
-- MRI não là công cụ hỗ trợ quan trọng: hình ảnh **tổn thương thùy thái dương hai bên** là dấu hiệu kinh điển, giúp phân biệt HSV với các nguyên nhân viêm não khác ("mimics").
-- CT sọ hiếm khi phát hiện được tổn thương này (độ nhạy thấp hơn nhiều so với MRI).
-- Co giật kèm hình ảnh giảm đậm độ một hoặc hai bên thùy thái dương trên MRI (hiếm khi trên CT) phù hợp với chẩn đoán HSV.
+**Bảng 21.** Chỉ số dịch não tủy theo thời gian dùng kháng sinh trước chọc dò (Nigrovic et al., 2008)
 
-*(Gaieski et al., 2012; Meyfroidt et al., 2020)*
+| Chỉ số DNT (trung vị) | Không điều trị trước (n = 159) | Điều trị < 4 giờ (n = 25) | Điều trị ≥ 4 giờ (n = 47) | Điều trị ≥ 12 giờ (n = 33) | Điều trị ≥ 24 giờ (n = 29) |
+|---|---|---|---|---|---|
+| Bạch cầu (/µL) | 1.020 | 547 | 1.275 | 1.081 | 1.012 |
+| Bạch cầu đa nhân trung tính tuyệt đối (/µL) | 787 | 458 | 968 | 770 | 627 |
+| Glucose (mg/dL) | 29 | 31 | 45 | 49 | 50 |
+| Protein (mg/dL) | 174 | 175 | 145 | 121 | 115 |
+| Cấy DNT dương tính | 84% | 72% | 55% | 58% | 59% |
 
-**6. Nguyên tắc điều trị liên quan đến kết quả DNT**
+*Phỏng theo Nigrovic et al. (2008). Giá trị trong bảng là số trung vị.*
 
-- **Không chờ kết quả PCR** để bắt đầu điều trị — nếu DNT có kiểu hình gợi ý (WBC/RBC tăng, lympho ưu thế) hoặc lâm sàng nghi ngờ, bắt đầu ngay **acyclovir tĩnh mạch 10 mg/kg mỗi 8 giờ**, kèm bù đủ dịch để tránh suy thận liên quan đến acyclovir.
-- Với các viêm não tiến triển trong nhiều ngày (bán cấp) tương tự HSV nhưng do Arbovirus, không có điều trị đặc hiệu — vẫn nên dùng acyclovir kinh nghiệm cho đến khi có kết quả DNT loại trừ HSV.
-- Nếu kết quả cuối cùng xác định là viêm màng não vi khuẩn, cần **ngừng acyclovir**, tiếp tục kháng sinh và dexamethasone.
+- **Bạch cầu:** sau khi hiệu chỉnh theo tuổi, thời gian sốt, tụt huyết áp cần thuốc vận mạch và suy hô hấp cần đặt nội khí quản, thời gian điều trị kháng sinh trước chọc dò không liên quan đến số lượng bạch cầu hoặc bạch cầu đa nhân trung tính tuyệt đối ở bất kỳ mốc thời gian nào.
+- **Glucose và protein:** thời gian điều trị kháng sinh trước chọc dò *liên quan có ý nghĩa* với glucose cao hơn và protein thấp hơn. Glucose đã cao hơn từ mốc ≥ 4 giờ nhưng cả hai chỉ số chỉ khác biệt có ý nghĩa từ mốc ≥ 12 giờ.
+- **Kết luận của tác giả:** cần thận trọng khi diễn giải DNT ở trẻ đã dùng kháng sinh. Không nên áp dụng các quy tắc dự đoán viêm màng não vi khuẩn, như thang điểm Bacterial Meningitis Score, cho trẻ đã dùng kháng sinh trước chọc dò.
+- **Hạn chế:** nghiên cứu hồi cứu, không đủ cỡ mẫu để tách riêng ảnh hưởng của kháng sinh uống và tiêm. Nghiên cứu cũng loại trẻ đã điều trị có cấy và nhuộm Gram âm tính, vì không thể phân loại chắc chắn là vi khuẩn hay vô khuẩn.
 
-*(Gaieski et al., 2012)*
+**Các nghiên cứu khác**
 
-**7. Ứng dụng thực hành**
+Các nguồn còn lại cho rằng kháng sinh trước chọc dò thường không làm thay đổi nhiều số lượng tế bào và sinh hóa:
 
-1. Bất kỳ trường hợp nào có **DNT tăng hồng cầu không do chọc chạm mạch** kèm tăng lympho bào và glucose bình thường/cao, cần nghĩ ngay đến viêm não HSV.
-2. Luôn gửi PCR HSV DNT khi nghi ngờ — đây là tiêu chuẩn vàng chẩn đoán hiện nay.
-3. Kết hợp MRI não (tìm tổn thương thùy thái dương hai bên) để tăng độ tin cậy chẩn đoán trước khi có kết quả PCR.
-4. Bắt đầu acyclovir kinh nghiệm ngay khi nghi ngờ, không chờ xác định bằng PCR — vì điều trị sớm cải thiện đáng kể tiên lượng thần kinh.
-5. Ở bệnh nhân suy giảm miễn dịch, biểu hiện DNT có thể không điển hình — cần ngưỡng nghi ngờ cao hơn và làm xét nghiệm mở rộng (CMV, HHV6/7, JC virus) nếu HSV âm tính.
+- **Kaplan và Kim (2025):** điều trị kháng sinh trước chọc dò lần đầu thường không làm thay đổi rõ số lượng tế bào hoặc kết quả sinh hóa. Khi so sánh nhóm chưa điều trị với nhóm đã điều trị, bạch cầu trung bình là 4.900 so với 4.100/µL, đa nhân trung tính 84% so với 81%, glucose 35 so với 32 mg/dL, tỷ lệ glucose DNT/máu 29% ở cả hai nhóm và protein 226 so với 174 mg/dL. Ở trẻ cấy âm tính do đã dùng kháng sinh, tăng tế bào và tăng protein thường đủ để chẩn đoán viêm màng não vi khuẩn.
+- **Bonadio (2014):** nhiều nghiên cứu cho thấy kháng sinh uống trước chọc dò thường không che lấp các bất thường DNT. Do đó, có thể phân tích DNT đã điều trị một phần như DNT chưa điều trị. Ngoại lệ là kết quả cấy: kháng sinh uống có thể làm DNT vô khuẩn.
+- **Euerle (2010):** đôi khi bệnh nhân xuất hiện tăng tế bào ưu thế lympho do kháng sinh, nhưng trong đa số trường hợp số lượng tế bào, công thức bạch cầu, glucose và protein không thay đổi trong 2–3 ngày đầu điều trị.  
+
+
+### Diễn tiến dịch não tủy sau 2–3 ngày điều trị hiệu quả
+
+Hai nghiên cứu nhi khoa so sánh DNT lúc nhập viện với DNT lấy lại sau 2–3 ngày kháng sinh tĩnh mạch, nhưng cho kết luận khác nhau:
+
+**Bảng 22.** Diễn tiến dịch não tủy sau 2–3 ngày điều trị kháng sinh hiệu quả
+
+| Đặc điểm | Blazer et al. (1983) | Bonadio và Smith (1990) |
+|---|---|---|
+| Đối tượng | 68 trẻ (3 tuần–14 tuổi), viêm màng não vi khuẩn xác định | 101 trẻ viêm màng não do Hib |
+| Thời điểm chọc dò lại | 44–68 giờ | 48–72 giờ |
+| Cấy DNT lần 2 | Âm tính, trừ một ca Hib và một ca phế cầu | 100/101 âm tính |
+| Nhuộm Gram | — | 96/98 (98%) chuyển âm tính |
+| Bạch cầu | Không khác biệt có ý nghĩa | Tăng tế bào còn tồn tại ở 100% |
+| Công thức bạch cầu | Tỷ lệ đa nhân trung tính không khác biệt | 14% chuyển từ ưu thế đa nhân trung tính sang ưu thế lympho |
+| Glucose | Không khác biệt, trừ 3/16 ca não mô cầu tăng từ 19,8–25,2 lên 54–66,24 mg/dL | 53/75 (71%) hết giảm glucose |
+| Protein | Không khác biệt | Chỉ 10/94 (11%) trở về bình thường |
+| Kết luận của tác giả | DNT vẫn giữ đặc điểm "vi khuẩn" ở 65/68 trẻ; điều trị một phần càng ít khả năng làm biến đổi DNT | Mọi chỉ số DNT có thể thay đổi đáng kể sau 48 giờ điều trị hiệu quả (*p* < 0,0001) |
+
 
 
 ## Tài liệu tham khảo 
 
-## Tài liệu tham khảo (APA 7th) — đã gộp, loại trùng lặp, sắp xếp theo bảng chữ cái
+Avery, R. A., Shah, S. S., Licht, D. J., Seiden, J. A., Huh, J. W., Boswinkel, J., Ruppe, M. D., Chew, A., Mistry, R. D., & Liu, G. T. (2010). Reference range for cerebrospinal fluid opening pressure in children. *New England Journal of Medicine, 363*(9), 891–893. https://doi.org/10.1056/NEJMc1004957
 
-Berg, B., Gärdsell, P., & Skånsberg, P. (1982). Cerebrospinal fluid lactate in the diagnosis of meningitis: Diagnostic value compared to standard biochemical methods. *Scandinavian Journal of Infectious Diseases*, *14*(2), 111–115. https://doi.org/10.3109/inf.1982.14.issue-2.07
+Berg, B., Gärdsell, P., & Skånsberg, P. (1982). Cerebrospinal fluid lactate in the diagnosis of meningitis: Diagnostic value compared to standard biochemical methods. *Scandinavian Journal of Infectious Diseases, 14*(2), 111–115. https://doi.org/10.3109/inf.1982.14.issue-2.07
 
-Blazer, S., Berant, M., & Alon, U. (1983). Bacterial meningitis: Effect of antibiotic treatment on cerebrospinal fluid. *American Journal of Clinical Pathology*, *80*(3), 386–387. https://doi.org/10.1093/ajcp/80.3.386
+Blazer, S., Berant, M., & Alon, U. (1983). Bacterial meningitis: Effect of antibiotic treatment on cerebrospinal fluid. *American Journal of Clinical Pathology, 80*(3), 386–387. https://doi.org/10.1093/ajcp/80.3.386
 
-Bonadio, W. (2013). Pediatric lumbar puncture and cerebrospinal fluid analysis. *The Journal of Emergency Medicine*. Advance online publication.
+Bonadio, W. (2014). Pediatric lumbar puncture and cerebrospinal fluid analysis. *The Journal of Emergency Medicine, 46*(1), 141–150. https://doi.org/10.1016/j.jemermed.2013.08.056
 
-Bonadio, W. A., & Smith, D. (1990). Cerebrospinal fluid changes after 48 hours of effective therapy for Hemophilus influenzae type B meningitis. *American Journal of Clinical Pathology*, *94*(4), 426–429.
+Bonadio, W. A., & Smith, D. (1990). Cerebrospinal fluid changes after 48 hours of effective therapy for *Hemophilus influenzae* type B meningitis. *American Journal of Clinical Pathology, 94*(4), 426–428.
 
-Cao, D., Wang, T., Wang, Y., & Han, J. (2022). Analysis of cases with cerebrospinal fluid characteristics similar to tuberculous meningitis. *BioMed Research International*, *2022*, Article 9692804. https://doi.org/10.1155/2022/9692804
+Bonadio, W. A., Smith, D. S., Goddard, S., Burroughs, J., & Khaja, G. (1990). Distinguishing cerebrospinal fluid abnormalities in children with bacterial meningitis and traumatic lumbar puncture. *The Journal of Infectious Diseases, 162*(1), 251–254. https://doi.org/10.1093/infdis/162.1.251
 
-Costerus, J. M., Brouwer, M. C., van der Ende, A., & van de Beek, D. (2016). Repeat lumbar puncture in adults with bacterial meningitis. *Clinical Microbiology and Infection*, *22*(5), 428–433. https://doi.org/10.1016/j.cmi.2015.12.026
+Cao, D., Wang, T., Wang, Y., & Han, J. (2022). Analysis of cases with cerebrospinal fluid characteristics similar to tuberculous meningitis. *BioMed Research International, 2022*, Article 9692804. https://doi.org/10.1155/2022/9692804
 
-Euerle, B. D. (2025). Spinal puncture and cerebrospinal fluid examination. In D. M. Birnbaumer (Ed.), *Roberts and Hedges' clinical procedures in emergency medicine and acute care* (8th ed., Chapter 61). Elsevier.
+Coll, M. T., Uriz, M. S., Pineda, V., Fontanals, D., Bella, F., Nava, J. M., Deulofeu, F., Morera, M. A., Martí, C., Lite, J., Garau, J., & Font, B. (1994). Meningococcal meningitis with "normal" cerebrospinal fluid. *Journal of Infection, 29*(3), 289–294. https://doi.org/10.1016/s0163-4453(94)91197-5
 
-Fischer, G. W., Brenz, R. W., Alden, E. R., & Beckwith, J. B. (1975). Lumbar punctures and meningitis. *American Journal of Diseases of Children*, *129*(5), 590–592.
+Dittrich, T., Marsch, S., Egli, A., Rüegg, S., De Marchis, G. M., Tschudin-Sutter, S., & Sutter, R. (2020). Predictors of infectious meningitis or encephalitis: The yield of cerebrospinal fluid in a cross-sectional study. *BMC Infectious Diseases, 20*(1), Article 304. https://doi.org/10.1186/s12879-020-05022-6
 
-Gaieski, D. F., Nathan, B. R., Weingart, S. D., & Smith, W. S. (2012). Emergency neurologic life support: Meningitis and encephalitis. *Neurocritical Care*, *17*(Suppl 1), S66–S72. https://doi.org/10.1007/s12028-012-9751-8
+Euerle, B. D. (2010). Spinal puncture and cerebrospinal fluid examination. In J. R. Roberts & J. R. Hedges (Eds.), *Clinical procedures in emergency medicine* (5th ed., pp. 1107–1127). Saunders/Elsevier.
 
-Greenberg, R. G., Benjamin, D. K., Jr., Cohen-Wolkowiez, M., Clark, R. H., Cotten, C. M., Laughon, M., & Smith, P. B. (2011). Repeat lumbar punctures in infants with meningitis in the neonatal intensive care unit. *Journal of Perinatology*, *31*(6), 425–429. https://doi.org/10.1038/jp.2010.142
+Gaieski, D. F., Nathan, B. R., Weingart, S. D., & Smith, W. S. (2012). Emergency neurologic life support: Meningitis and encephalitis. *Neurocritical Care, 17*(Suppl. 1), S66–S72. https://doi.org/10.1007/s12028-012-9751-8
 
-Hatch, D. L., & Overturf, G. D. (1989). Delayed cerebrospinal fluid sterilization in infants with Hemophilus influenzae type b meningitis. *The Journal of Infectious Diseases*, *160*(4), 711–715. https://doi.org/10.1093/infdis/160.4.711
+Gorchynski, J., Oman, J., & Newton, T. (2007). Interpretation of traumatic lumbar punctures in the setting of possible subarachnoid hemorrhage: Who can be safely discharged? *California Journal of Emergency Medicine, 8*(1), 3–7.
 
-Macucci, M., & Sità, D. (1992). The cerebrospinal fluid in the diagnosis of tuberculous meningoencephalitis: Review of the literature. *Italian Journal of Neurological Sciences*, *13*(6), 487–491.
+Hoen, B., Varon, E., de Debroucker, T., Fantin, B., Grimprel, E., Wolff, M., & Duval, X. (2019). Management of acute community-acquired bacterial meningitis (excluding newborns). Long version with arguments. *Médecine et Maladies Infectieuses, 49*(6), 405–441. https://doi.org/10.1016/j.medmal.2019.03.009
 
-Meyfroidt, G., Kurtz, P., & Sonneville, R. (2020). Critical care management of infectious meningitis and encephalitis. *Intensive Care Medicine*, *46*(2), 192–201. https://doi.org/10.1007/s00134-019-05901-w
+Kaplan, S. L., & Kim, K. S. (2025). Bacterial meningitis beyond the neonatal period. In J. D. Cherry, S. L. Kaplan, G. J. Demmler-Harrison, W. J. Steinbach, P. J. Hotez, & J. V. Williams (Eds.), *Feigin and Cherry's textbook of pediatric infectious diseases* (9th ed., Vol. 1, pp. 314–338.e7). Elsevier. https://doi.org/10.1016/B978-0-323-82763-8.00031-5
 
-Michael, B., Menezes, B. F., Cunniffe, J., Miller, A., Kneen, R., Francis, G., Beeching, N. J., & Solomon, T. (2010). Effect of delayed lumbar punctures on the diagnosis of acute bacterial meningitis in adults. *Emergency Medicine Journal*, *27*(6), 433–438. https://doi.org/10.1136/emj.2009.075598
+Lindquist, L., Linné, T., Hansson, L. O., Kalin, M., & Axelsson, G. (1988). Value of cerebrospinal fluid analysis in the differential diagnosis of meningitis: A study in 710 patients with suspected central nervous system infection. *European Journal of Clinical Microbiology & Infectious Diseases, 7*(3), 374–380. https://doi.org/10.1007/BF01962340
 
-Nigrovic, L. E., Malley, R., Macias, C. G., Kanegaye, J. T., Moro-Sutherland, D. M., Schremmer, R. D., Schwab, S. H., et al. (2008). Effect of antibiotic pretreatment on cerebrospinal fluid profiles of children with bacterial meningitis. *Pediatrics*, *122*(4), 726–730. https://doi.org/10.1542/peds.2007-3275
+Macucci, M., & Sità, D. (1992). The cerebrospinal fluid in the diagnosis of tuberculous meningoencephalitis: Review of the literature. *Italian Journal of Neurological Sciences, 13*(6), 487–491. https://doi.org/10.1007/BF02230869
 
-Shahan, B., Choi, E. Y., & Nieves, G. (2021). Cerebrospinal fluid analysis. *American Family Physician*, *103*(7), 422–428.
+Meyfroidt, G., Kurtz, P., & Sonneville, R. (2020). Critical care management of infectious meningitis and encephalitis. *Intensive Care Medicine, 46*(2), 192–201. https://doi.org/10.1007/s00134-019-05901-w
 
-Sternbach, G. (1985). Lumbar puncture. *The Journal of Emergency Medicine*, *2*(3), 199–203. https://doi.org/10.1016/0736-4679(85)90118-6
+Michael, B., Menezes, B. F., Cunniffe, J., Miller, A., Kneen, R., Francis, G., Beeching, N. J., & Solomon, T. (2010). Effect of delayed lumbar punctures on the diagnosis of acute bacterial meningitis in adults. *Emergency Medicine Journal, 27*(6), 433–438. https://doi.org/10.1136/emj.2009.075598
 
-Ward, E., & Gushurst, C. A. (1992). Uses and technique of pediatric lumbar puncture. *American Journal of Diseases of Children*, *146*(10), 1160–1165.
+Nigrovic, L. E., Malley, R., Macias, C. G., Kanegaye, J. T., Moro-Sutherland, D. M., Schremmer, R. D., Schwab, S. H., Agrawal, D., Mansour, K. M., Bennett, J. E., Katsogridakis, Y. L., Mohseni, M. M., Bulloch, B., Steele, D. W., Kaplan, R. L., Herman, M. I., Bandyopadhyay, S., Dayan, P., Truong, U. T., . . . American Academy of Pediatrics, Pediatric Emergency Medicine Collaborative Research Committee. (2008). Effect of antibiotic pretreatment on cerebrospinal fluid profiles of children with bacterial meningitis. *Pediatrics, 122*(4), 726–730. https://doi.org/10.1542/peds.2007-3275
 
-You, D., Wang, X., Lu, P., & Li, F. (2025). Early prognostic value of repeat CSF parameter measurements in neonatal bacterial meningitis following initial antimicrobial therapy. *Italian Journal of Pediatrics*, *51*, 166. https://doi.org/10.1186/s13052-025-02000-z
+Pacatte, K. (2008). Analysis of cerebrospinal fluid in the neonate. *Neonatal Network, 27*(6), 419–422. https://doi.org/10.1891/0730-0832.27.6.419
 
-Zhou, R. W., Sangam, K., & Budhram, A. (2024). Clinical utility of CSF correction factors for traumatic lumbar puncture in adults. *Neurology: Clinical Practice*, *14*(1), e200350. https://doi.org/10.1212/CPJ.0000000000200350
+Shahan, B., Choi, E. Y., & Nieves, G. (2021). Cerebrospinal fluid analysis. *American Family Physician, 103*(7), 422–428.
 
-Lưu ý: em đã thay các entry "Birnbaumer, D. M. (Ed.). (2025). Roberts and Hedges'..." (trích dẫn cả sách) bằng entry "Euerle, B. D. (2025)..." (trích dẫn đúng chương/tác giả chương đã dùng trong các bài) — đây là cách trích dẫn chính xác hơn theo chuẩn APA cho một chương trong sách có chủ biên.
+Spanos, A., Harrell, F. E., Jr., & Durack, D. T. (1989). Differential diagnosis of acute meningitis: An analysis of the predictive value of initial observations. *JAMA, 262*(19), 2700–2707.
 
-Anh có muốn em tạo file `.md` riêng làm danh mục tài liệu tham khảo tổng hợp dùng chung cho toàn bộ series bài đã soạn không?
+Srivastava, R., Murphy, M. J., & Jeffery, J. (2008). Cerebrospinal fluid: The role of biochemical analysis. *British Journal of Hospital Medicine, 69*(4), 218–221. https://doi.org/10.12968/hmed.2008.69.4.28977
+
+Sternbach, G. (1985). Lumbar puncture. *The Journal of Emergency Medicine, 2*(3), 199–203. https://doi.org/10.1016/0736-4679(85)90397-x
+
+Süssmuth, S. D., Brettschneider, J., Spreer, A., Wick, M., Jesse, S., Lewerenz, J., Otto, M., & Tumani, H. (2013). Aktuelle Liquordiagnostik bei erregerbedingten Krankheiten [Current cerebrospinal fluid diagnostics for pathogen-related diseases]. *Der Nervenarzt, 84*(2), 229–244. https://doi.org/10.1007/s00115-012-3701-8
+
+Troendle, M., & Pettigrew, A. (2019). A systematic review of cases of meningitis in the absence of cerebrospinal fluid pleocytosis on lumbar puncture. *BMC Infectious Diseases, 19*(1), Article 692. https://doi.org/10.1186/s12879-019-4204-z
+
+Viallon, A., Desseigne, N., Marjollet, O., Birynczyk, A., Belin, M., Guyomarch, S., Borg, J., Pozetto, B., Bertrand, J. C., & Zeni, F. (2011). Meningitis in adult patients with a negative direct cerebrospinal fluid examination: Value of cytochemical markers for differential diagnosis. *Critical Care, 15*(3), Article R136. https://doi.org/10.1186/cc10254
+
+Ward, E., & Gushurst, C. A. (1992). Uses and technique of pediatric lumbar puncture. *American Journal of Diseases of Children, 146*(10), 1160–1165. https://doi.org/10.1001/archpedi.1992.02160220046019
+
+World Health Organization. (2026). *WHO practical manual on meningitis diagnosis, treatment and care*. https://www.who.int/publications/i/item/9789240121027
+
+Zhou, R. W., Sangam, K., & Budhram, A. (2024). Clinical utility of CSF correction factors for traumatic lumbar puncture in adults. *Neurology: Clinical Practice, 14*(6), Article e200350. https://doi.org/10.1212/CPJ.0000000000200350
+
+Zimmermann, P., & Curtis, N. (2021). Normal values for cerebrospinal fluid in neonates: A systematic review. *Neonatology, 118*(6), 629–638. https://doi.org/10.1159/000517630

@@ -364,7 +364,7 @@ Kim nhỏ tạo lỗ thủng màng cứng nhỏ hơn và giảm rò rỉ DNT (Wa
 ![kim và thông nòng](../assets/images/_inbox/dich-nao-tuy-ki-thuat-image-1.png)
 
 <figcaption markdown="span">**Hình 1.** Tên hình. **(A)** Các loại kim được sử dụng trong CDT. **(B)** Kim chọc dò và thông nòng.<br>
-<span class="fig-source">Trích từ "Spinal Puncture and Cerebrospinal Fluid Examination," bởi B. D. Euerle, trong J. R. Roberts & J. R. Hedges (Chủ biên), *Clinical Procedures in Emergency Medicine* (5th ed., tr. 1110, 1113), 2010, Saunders/Elsevier. Bản quyền năm 2010 thuộc Saunders/Elsevier.</span></figcaption>
+<span class="fig-source">Trích từ "Spinal Puncture and Cerebrospinal Fluid Examination" bởi B. D. Euerle, trong J. R. Roberts & J. R. Hedges (Chủ biên), *Clinical Procedures in Emergency Medicine* (5th ed., tr. 1110, 1113), 2010, Saunders/Elsevier. Bản quyền năm 2010 thuộc Saunders/Elsevier.</span></figcaption>
 </figure>
 
 
@@ -384,7 +384,7 @@ Nếu lần chọc đầu chạm mạch, nên chọc lại ở khe phía trên (
 <figure markdown="span">
   ![Giải phẫu vị trí CDTL](../assets/images/_inbox/dich-nao-tuy-ki-thuat-image-3.png)
   <figcaption markdown="span">**Hình 2.** Giải phẫu vị trí CDTL.<br>
-  <span class="fig-source">Trích từ "Spinal Puncture and Cerebrospinal Fluid Examination," bởi B. D. Euerle, trong J. R. Roberts & J. R. Hedges (Chủ biên), *Clinical Procedures in Emergency Medicine* (5th ed., tr. 1112), 2010, Saunders/Elsevier. Bản quyền năm 2010 thuộc Saunders/Elsevier.</span>
+  <span class="fig-source">Trích từ "Spinal Puncture and Cerebrospinal Fluid Examination" bởi B. D. Euerle, trong J. R. Roberts & J. R. Hedges (Chủ biên), *Clinical Procedures in Emergency Medicine* (5th ed., tr. 1112), 2010, Saunders/Elsevier. Bản quyền năm 2010 thuộc Saunders/Elsevier.</span>
   </figcaption>
 </figure>
 
@@ -400,7 +400,7 @@ Khi đúng vị trí, kim lần lượt đi qua da, mô dưới da, dây chằng
   ![alt text](../assets/images/_inbox/dich-nao-tuy-ki-thuat-image-4.png)
   <figcaption markdown="span">**Hình 3.** Các cấu trúc trong ống sống liên quan đến CDTL<br>
   <span class="fig-note">*Ghi chú.* Cấu trúc trong ống sống ngang mức L4–L5 và vị trí kim chọc dò thắt lưng so với các mạch máu lớn. Tĩnh mạch rễ – tủy lớn đi kèm rễ thần kinh L5 nằm xa về phía ngoài so với kim đặt đúng đường giữa túi màng cứng. Khoang dưới màng cứng không có mạch máu.</span><br>
-  <span class="fig-source">Trích từ "Spinal Puncture and Cerebrospinal Fluid Examination," bởi B. D. Euerle, trong J. R. Roberts & J. R. Hedges (Chủ biên), *Clinical Procedures in Emergency Medicine* (5th ed., tr. 1114, Hình 61–10), 2010, Saunders/Elsevier. Hình gốc từ "Spinal Subdural Hematomas Complicating Lumbar Puncture," bởi R. N. Edelson, N. L. Chernik và J. B. Posner, 1974, *Archives of Neurology, 31*(2), tr. 134; minh họa: Lynn McDowell. Bản quyền năm 1974 thuộc American Medical Association.</span></figcaption>
+  <span class="fig-source">Trích từ "Spinal Puncture and Cerebrospinal Fluid Examination" bởi B. D. Euerle, trong J. R. Roberts & J. R. Hedges (Chủ biên), *Clinical Procedures in Emergency Medicine* (5th ed., tr. 1114, Hình 61–10), 2010, Saunders/Elsevier. Hình gốc từ "Spinal Subdural Hematomas Complicating Lumbar Puncture," bởi R. N. Edelson, N. L. Chernik và J. B. Posner, 1974, *Archives of Neurology, 31*(2), tr. 134; minh họa: Lynn McDowell. Bản quyền năm 1974 thuộc American Medical Association.</span></figcaption>
 </figure>
 
 
