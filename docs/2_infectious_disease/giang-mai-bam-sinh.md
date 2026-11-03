@@ -4,7 +4,7 @@
 
 **1. Cách người mẹ mắc bệnh**
 
-- Xâm nhập qua niêm mạc: Đây là con đường phổ biến nhất. Niêm mạc **âm đạo, cổ tử cung hoặc miệng** là các lớp màng mỏng, ẩm ướt và có nhiều mạch máu. Xoắn khuẩn có thể xuyên qua các lớp này ngay cả khi chúng trông có vẻ "nguyên vẹn".
+- Xâm nhập qua niêm mạc: Đây là con đường phổ biến nhất. Niêm mạc âm đạo, cổ tử cung hoặc miệng là các lớp màng mỏng, ẩm ướt và có nhiều mạch máu. Xoắn khuẩn có thể xuyên qua các lớp này ngay cả khi chúng trông có vẻ "nguyên vẹn".
 - Vết trầy xước siêu nhỏ (Micro-trauma): Trong quá trình quan hệ tình dục, ma sát tạo ra các vết rách cực nhỏ trên da và niêm mạc. 
 - Tiếp xúc trực tiếp với Săng (Chancre): Giai đoạn lây lan mạnh nhất là khi người mẹ tiếp xúc trực tiếp với vết loét của bạn tình. Các dịch tiết từ vết loét này chứa nồng độ xoắn khuẩn rất cao.
 
@@ -26,18 +26,18 @@
 
 - Mặc dù tỉ lệ chung trong cộng đồng thấp, nhưng tại nhóm nguy cơ cao (như MSM hay phụ nữ bán dâm), tỉ lệ giang mai đang tăng mạnh (khoảng 10-12% tại một số thành phố lớn). Điều này gián tiếp làm tăng nguy cơ giang mai bẩm sinh.
 - Một nghiên cứu tại Bệnh viện Nhi Trung ương (giai đoạn 2018–2021) ghi nhận số ca nhập viện do CS có xu hướng tăng. **Đáng lưu ý, 51,9% bà mẹ có con bị giang mai bẩm sinh không hề biết tình trạng bệnh của mình trước đó.**
-- Đặc điểm lâm sàng tại VN: Tỷ lệ tử vong ở trẻ sơ sinh mắc giang mai bẩm sinh tại các tuyến trung ương được ghi nhận khoảng **13,7%**
+- Đặc điểm lâm sàng tại VN: Tỷ lệ tử vong ở trẻ sơ sinh mắc giang mai bẩm sinh tại các tuyến trung ương được ghi nhận khoảng 13,7%
 
-**Trên thế giới**: Hoa Kỳ (Dữ liệu CDC 2024-2025): Tỉ lệ mới mắc đạt mức cao kỷ lục: 106 ca trên 100.000 trẻ đẻ sống (năm 2023), **tăng hơn 700%** so với một thập kỷ trước.
+**Trên thế giới**: Hoa Kỳ (Dữ liệu CDC 2024-2025): Tỉ lệ mới mắc đạt mức cao kỷ lục: 106 ca trên 100.000 trẻ đẻ sống (năm 2023), *tăng hơn 700%* so với một thập kỷ trước.
 
 
 ## Triệu chứng lâm sàng  điển hình
 
 **1. Thông tin chung**
 
-- Định nghĩa: Giang mai bẩm sinh sớm là các biểu hiện xuất hiện trước **2 tuổi.**
-- Thời điểm khởi phát: Thường xuất hiện trước **3 tháng tuổi** (phổ biến nhất là vào khoảng tuần thứ 5).
-- Đặc điểm: **60 - 90% trẻ sơ sinh không có triệu chứng tại thời điểm sinh.** Các dấu hiệu phụ thuộc vào thời điểm thai nhi bị nhiễm khuẩn và việc điều trị của mẹ.
+- Định nghĩa: Giang mai bẩm sinh sớm là các biểu hiện xuất hiện trước 2 tuổi.
+- Thời điểm khởi phát: Thường xuất hiện trước 3 tháng tuổi (phổ biến nhất là vào khoảng tuần thứ 5).
+- Đặc điểm: 60 - 90% trẻ sơ sinh không có triệu chứng tại thời điểm sinh. Các dấu hiệu phụ thuộc vào thời điểm thai nhi bị nhiễm khuẩn và việc điều trị của mẹ.
 
 **2. Bất thường nhau thai**
 
@@ -71,13 +71,13 @@
 **6. Hạch bạch huyết**
 
 - Sưng hạch toàn thân, không đau.
-- **Hạch trên ròng rọc**(Epitrochlear lymphadenopathy): Nếu sờ thấy ở trẻ sơ sinh thì đây là dấu hiệu đặc trưng gợi ý rất cao đến giang mai bẩm sinh.
+-  Hạch rên ròng rọc (Epitrochlear lymphadenopathy): Nếu sờ thấy ở trẻ sơ sinh thì đây là dấu hiệu đặc trưng gợi ý rất cao đến giang mai bẩm sinh.
 
 
 ## Triệu chứng thần kinh 
 
 - Chia làm 2 nhóm chính:
-- **Thể không triệu chứng (40%):** Không có biểu hiện lâm sàng nhưng **xét nghiệm dịch mã não (CSF) có bất thường.**
+- Thể không triệu chứng (40%): Không có biểu hiện lâm sàng nhưng xét nghiệm dịch mã não (CSF) có bất thường.
 - Thể có triệu chứng (Hiếm gặp nếu được dùng Penicillin sớm):
     + Viêm màng não cấp tính (3-6 tháng tuổi): Nôn, thóp phồng, giãn khớp sọ (giống viêm màng não vi khuẩn), nhưng dịch não tủy lại giống viêm màng não vô khuẩn (tăng tế bào lympho, protein tăng nhẹ, đường bình thường).
     + Giang mai màng não mạch mạn tính (cuối năm đầu đời): Gây não úng thủy tiến triển, liệt dây thần kinh sọ, thoái triển phát triển tâm thần vận động và co giật.
@@ -94,22 +94,22 @@
 
 ## Các bất thường trên XQ xương
 
-- Dấu hiệu phổ biến nhất của giang mai bẩm sinh: **60 -80% số ca**
+- Dấu hiệu phổ biến nhất của giang mai bẩm sinh: 60 -80% số ca
 - Có thể là biểu hiện duy nhất ở các trường hợp có mẹ không được điều trị giang mai 
 - Đặc điểm: 
     + Gãy xương bệnh lý
     + Đau xương gây hạn chế vận động, giả liệt 
 - Xquang: 
-    + Tổn thương đối xứng hai bên và **đa xương** (ảnh hưởng nhiều xương cùng lúc)
-    + Thường gặp nhất là: **xương đùi, xương cánh tay và xương chày.**
+    + Tổn thương đối xứng hai bên và đa xương (ảnh hưởng nhiều xương cùng lúc)
+    + Thường gặp nhất là: xương đùi, xương cánh tay và xương chày.
 
 - **Các dấu hiệu X-quang xương cụ thể:**
 
-    + Dải thấu quang vùng hành xương (Metaphyseal lucent bands): **Các dải sáng bất thường ở đầu xương**
-    + Dấu hiệu Wimberger: Tình trạng khử khoáng khu trú đối xứng và **phá hủy xương ở phần trong của hành xương chày** gần (phía đầu gối). Dấu hiệu này cũng có thể gặp trong cường tuyến cận giáp sơ sinh hoặc viêm xương tủy.
-    + Hình **răng cưa hành xương** ("Sawtooth metaphysis"): Đường viền hành xương không đều, trông giống như răng cưa.
+    + Dải thấu quang vùng hành xương (Metaphyseal lucent bands): Các dải sáng bất thường ở đầu xương
+    + Dấu hiệu Wimberger: Tình trạng khử khoáng khu trú đối xứng và phá hủy xương ở phần trong của hành xương chày gần (phía đầu gối). Dấu hiệu này cũng có thể gặp trong cường tuyến cận giáp sơ sinh hoặc viêm xương tủy.
+    + Hình răng cưa hành xương ("Sawtooth metaphysis"): Đường viền hành xương không đều, trông giống như răng cưa.
     + Viêm màng xương thân xương (Diaphyseal periostitis): Đi kèm với sự hình thành xương mới 
-    + Hình ảnh **"xương bị mọt gặm"**(Moth-eaten appearance): Xuất hiện các vùng tăng đậm độ và thấu quang xen kẽ không đều.
+    + Hình ảnh "xương bị mọt gặm" (Moth-eaten appearance): Xuất hiện các vùng tăng đậm độ và thấu quang xen kẽ không đều.
 
 - Các dấu hiệu Xquang phổi: Phổi trắng (Pneumonia alba): Hình ảnh mờ hoàn toàn cả hai phế trường. Đây là hình ảnh X-quang kinh điển của viêm phổi do giang mai bẩm sinh.
 
@@ -123,7 +123,7 @@
     + Tăng men gan, tắc mật 
     + Rối loạn đông máu 
 - Dịch não tuỷ 
-    + VDRL dịch não tủy - **Độ đặc hiệu cao (90%) nhưng độ nhạy thấp (54%)**. Có thể dương tính giả do kháng thể của mẹ truyền qua nhau thai 
+    + VDRL dịch não tủy - Độ đặc hiệu cao (90%) nhưng độ nhạy thấp (54%). Có thể dương tính giả do kháng thể của mẹ truyền qua nhau thai 
     + Tế bào DNT 
         - < 29 ngày tuổi: ≥20 tế bào/μL
         - 29 - 60 ngày: >10 tế bào/μL
@@ -186,11 +186,11 @@ Cần tiến hành đánh giá Giang mai bẩm sinh nếu trẻ thuộc một tr
 - Thường dùng cho giai đoạn sớm (Giang mai thời kỳ I) hoặc bệnh phẩm đặc biệt.
 - Soi kính hiển vi nền đen: Lấy dịch từ săng (vết loét) để tìm xoắn khuẩn di động. Chẩn đoán xác định nhanh nhưng đòi hỏi thiết bị và kỹ năng soi tốt.
 - PCR: Tìm DNA của T. pallidum. Độ nhạy cao, rất giá trị trong chẩn đoán giang mai thần kinh (dịch não tủy) hoặc giang mai bẩm sinh (dịch tỵ hầu, nhau thai).
-- ***Trên thực hành lâm sàng, ta làm PCR giang mai như thế nào?***
+- *Trên thực hành lâm sàng, ta làm PCR giang mai như thế nào?*
 
 **2. Nhóm xét nghiệm gián tiếp (Tìm kháng thể)**
 
-- Xét nghiệm không đặc hiệu (Nontreponemal - RPR, VDRL): Trả kết quả dưới dạng hiệu giá (titer). Dùng để **sàng lọc** và **theo dõi hiệu quả điều trị** (hiệu giá giảm sau khi điều trị). Có thể dương tính giả trong thai kỳ hoặc bệnh tự miễn.
+- Xét nghiệm không đặc hiệu (Nontreponemal - RPR, VDRL): Trả kết quả dưới dạng hiệu giá (titer). Dùng để sàng lọc và theo dõi hiệu quả điều trị (hiệu giá giảm sau khi điều trị). Có thể dương tính giả trong thai kỳ hoặc bệnh tự miễn.
 
 - Xét nghiệm đặc hiệu (Treponemal - TP-PA, FTA-ABS, EIA, CIA): Tìm kháng thể trực tiếp chống lại vi khuẩn. Độ đặc hiệu rất cao, dùng để xác nhận chẩn đoán. Thường dương tính suốt đời nên không dùng để theo dõi tái nhiễm hay điều trị.
 
@@ -201,8 +201,8 @@ Cần tiến hành đánh giá Giang mai bẩm sinh nếu trẻ thuộc một tr
 
 **4. Lưu ý quan trọng trong chẩn đoán Giang mai bẩm sinh**
 
-- Kháng thể IgG đặc hiệu của mẹ (EIA, TP-PA) có thể xuyên qua nhau thai và tồn tại ở con đến **18 tháng**, nên không dùng để chẩn đoán xác định cho trẻ sơ sinh.
-- Tiêu chuẩn vàng lâm sàng: So sánh hiệu giá RPR/VDRL của con và mẹ tại cùng một thời điểm, bằng cùng một loại xét nghiệm. Chẩn đoán xác định khi hiệu giá của con cao gấp **≥ 4 lần mẹ** (ví dụ: con 1:32, mẹ 1:8).
+- Kháng thể IgG đặc hiệu của mẹ (EIA, TP-PA) có thể xuyên qua nhau thai và tồn tại ở con đến 18 tháng, nên không dùng để chẩn đoán xác định cho trẻ sơ sinh.
+- Tiêu chuẩn vàng lâm sàng: So sánh hiệu giá RPR/VDRL của con và mẹ tại cùng một thời điểm, bằng cùng một loại xét nghiệm. Chẩn đoán xác định khi hiệu giá của con cao gấp ≥ 4 lần mẹ (ví dụ: con 1:32, mẹ 1:8).
 - Giang mai thần kinh: VDRL dịch não tủy có độ đặc hiệu rất cao (nếu dương tính là chắc chắn bị), nhưng độ nhạy chỉ khoảng 50% (nếu âm tính vẫn chưa thể loại trừ).
 
 
@@ -210,19 +210,19 @@ Cần tiến hành đánh giá Giang mai bẩm sinh nếu trẻ thuộc một tr
 
 ### 1. Nhóm xét nghiệm Không đặc hiệu (Nontreponemal)
 *   **Tên gọi:** RPR, VDRL.
-*   **Bản chất:** Tìm kháng thể **Reagin** (chống lại Cardiolipin - sản phẩm từ tế bào tổn thương).
+*   **Bản chất:** Tìm kháng thể Reagin (chống lại Cardiolipin - sản phẩm từ tế bào tổn thương).
 *   **Đặc điểm:**
-    *   Trả kết quả dạng **hiệu giá (titer)** (VD: 1:8, 1:32).
+    *   Trả kết quả dạng hiệu giá (titer) (VD: 1:8, 1:32).
     *   Tỉ lệ thuận với mức độ hoạt động của xoắn khuẩn.
-    *   **Dương tính giả cao:** Thai kỳ, bệnh tự miễn, sốt siêu vi.
-*   **Ứng dụng:** Sàng lọc ban đầu và **theo dõi hiệu quả điều trị** (hiệu giá giảm sau điều trị).
+    *   Dương tính giả cao: Thai kỳ, bệnh tự miễn, sốt siêu vi.
+*   **Ứng dụng:** Sàng lọc ban đầu và theo dõi hiệu quả điều trị (hiệu giá giảm sau điều trị).
 
 ### 2. Nhóm xét nghiệm Đặc hiệu (Treponemal)
 *   **Tên gọi:** TP-PA, FTA-ABS, EIA/CIA, Test nhanh (que thử).
-*   **Bản chất:** Tìm kháng thể chống lại trực tiếp **thành phần xoắn khuẩn** (*T. pallidum*).
+*   **Bản chất:** Tìm kháng thể chống lại trực tiếp thành phần xoắn khuẩn (*T. pallidum*).
 *   **Đặc điểm:**
-    *   Độ đặc hiệu cực cao, dùng để **khẳng định chẩn đoán**.
-    *   **Dương tính suốt đời:** Do hệ miễn dịch lưu giữ tế bào nhớ (Sẹo miễn dịch).
+    *   Độ đặc hiệu cực cao, dùng để khẳng định chẩn đoán.
+    *   Dương tính suốt đời: Do hệ miễn dịch lưu giữ tế bào nhớ (Sẹo miễn dịch).
     *   Không dùng để theo dõi tái nhiễm hay điều trị.
 *   **Phân biệt kỹ thuật:**
     *   *EIA/CIA:* Làm bằng máy, độ nhạy cao nhưng dễ có sai số kỹ thuật.
@@ -234,42 +234,42 @@ Cần tiến hành đánh giá Giang mai bẩm sinh nếu trẻ thuộc một tr
 
 **1. Xét nghiệm chẩn đoán xác định (Cặp test bắt buộc)**
 
-* **Test không đặc hiệu (RPR/VDRL định lượng):** Bắt buộc phải có **hiệu giá kháng thể (titer)** để đánh giá mức độ hoạt động của bệnh và làm căn cứ so sánh với hiệu giá của con sau sinh.
+* **Test không đặc hiệu (RPR/VDRL định lượng):** Bắt buộc phải có hiệu giá kháng thể (titer) để đánh giá mức độ hoạt động của bệnh và làm căn cứ so sánh với hiệu giá của con sau sinh.
 * **Test đặc hiệu (TP-PA, FTA-ABS hoặc EIA/CIA):** Dùng để khẳng định tình trạng nhiễm xoắn khuẩn, loại trừ các trường hợp dương tính giả của RPR/VDRL.
 
 **2. Xét nghiệm tầm soát đồng nhiễm (Bắt buộc)**
 
-* **HIV:** Đồng nhiễm HIV làm tăng nguy cơ lây truyền dọc và biến chứng thần kinh.
-* **Viêm gan B (HBsAg) & Viêm gan C (HCV).**
-* **Lậu & Chlamydia.**
+* HIV: Đồng nhiễm HIV làm tăng nguy cơ lây truyền dọc và biến chứng thần kinh.
+* Viêm gan B (HBsAg) & Viêm gan C (HCV).
+* Lậu & Chlamydia.
 
 **3. Theo dõi và Đánh giá biến chứng**
 
-* **Siêu âm thai (Chi tiết):** Tìm dấu hiệu giang mai bẩm sinh sớm trên thai nhi (gan to, phù thai, dày nhau thai).
-* **Chọc dò dịch não tủy (CSF):** Chỉ định khi mẹ có triệu chứng thần kinh/mắt hoặc hiệu giá kháng thể không giảm (serofast) sau điều trị đúng phác đồ.
-* **Theo dõi điều trị:** Làm lại RPR/VDRL định lượng hàng tháng để đảm bảo hiệu giá giảm ít nhất 4 lần sau điều trị.
+* Siêu âm thai (Chi tiết): Tìm dấu hiệu giang mai bẩm sinh sớm trên thai nhi (gan to, phù thai, dày nhau thai).
+* Chọc dò dịch não tủy (CSF): Chỉ định khi mẹ có triệu chứng thần kinh/mắt hoặc hiệu giá kháng thể không giảm (serofast) sau điều trị đúng phác đồ.
+* Theo dõi điều trị: Làm lại RPR/VDRL định lượng hàng tháng để đảm bảo hiệu giá giảm ít nhất 4 lần sau điều trị.
 
 **4. Lưu ý quan trọng**
 
-* **Lúc sinh:** Phải làm lại RPR/VDRL cho mẹ ngay lúc chuyển dạ để có số liệu đối chiếu chính xác nhất với máu tĩnh mạch của con.
-* **Xử trí mâu thuẫn:** Nếu mẹ có EIA/CIA (+) nhưng RPR (-), cần làm thêm TP-PA để phân biệt giữa tiền sử đã điều trị khỏi và dương tính giả.
+* Lúc sinh: Phải làm lại RPR/VDRL cho mẹ ngay lúc chuyển dạ để có số liệu đối chiếu chính xác nhất với máu tĩnh mạch của con.
+* Xử trí mâu thuẫn: Nếu mẹ có EIA/CIA (+) nhưng RPR (-), cần làm thêm TP-PA để phân biệt giữa tiền sử đã điều trị khỏi và dương tính giả.
 
 
 ## Sự khác biệt giữa trẻ sơ sinh và trẻ nhũ nhi 
 
 **1. Trẻ sơ sinh (< 1 tháng): Mục tiêu là Sàng lọc và Loại trừ**
 
-* **Động lực học kháng thể:** IgG của mẹ truyền qua nhau thai gây dương tính giả cho các test đặc hiệu (TP-PA, EIA...). Chẩn đoán dựa vào **so sánh hiệu giá RPR/VDRL** với mẹ và khám lâm sàng.
-* **Biểu hiện sớm:** Đa số (60-90%) không triệu chứng lúc sinh, các tổn thương cơ quan có thể chưa rõ ràng trên hình ảnh học.
-* **Xét nghiệm ưu tiên:** RPR/VDRL máu tĩnh mạch, kiểm tra bánh nhau/dây rốn, khám lâm sàng tìm dấu hiệu đặc trưng.
+* Động lực học kháng thể: IgG của mẹ truyền qua nhau thai gây dương tính giả cho các test đặc hiệu (TP-PA, EIA...). Chẩn đoán dựa vào so sánh hiệu giá RPR/VDRL với mẹ và khám lâm sàng.
+* Biểu hiện sớm: Đa số (60-90%) không triệu chứng lúc sinh, các tổn thương cơ quan có thể chưa rõ ràng trên hình ảnh học.
+* Xét nghiệm ưu tiên: RPR/VDRL máu tĩnh mạch, kiểm tra bánh nhau/dây rốn, khám lâm sàng tìm dấu hiệu đặc trưng.
 
 **2. Trẻ nhũ nhi & Trẻ lớn (> 1 tháng): Mục tiêu là Đánh giá toàn diện và Biến chứng**
 
-* **Đánh giá tổn thương hệ thống:** Vi khuẩn đã có thời gian nhân lên và tàn phá tổ chức. Bộ xét nghiệm mở rộng bắt buộc gồm: **Dịch não tủy** (loại trừ giang mai thần kinh), **X-quang xương dài** (tìm viêm màng xương), chức năng gan, khám mắt và thính lực.
-* **Xác chẩn bằng test đặc hiệu:** ***Sau 18 tháng, nếu TP-PA/FTA-ABS vẫn dương tính thì khẳng định trẻ tự sản sinh kháng thể (nhiễm thật sự).***
-* **Phân biệt nguồn lây:** Cần bộ xét nghiệm đầy đủ để phân biệt giang mai bẩm sinh (có tổn thương xương dài) với giang mai mắc phải (nghi ngờ lạm dụng tình dục).
+* Đánh giá tổn thương hệ thống: Vi khuẩn đã có thời gian nhân lên và tàn phá tổ chức. Bộ xét nghiệm mở rộng bắt buộc gồm: Dịch não tủy (loại trừ giang mai thần kinh), X-quang xương dài (tìm viêm màng xương), chức năng gan, khám mắt và thính lực.
+* Xác chẩn bằng test đặc hiệu: *Sau 18 tháng, nếu TP-PA/FTA-ABS vẫn dương tính thì khẳng định trẻ tự sản sinh kháng thể (nhiễm thật sự).*
+* Phân biệt nguồn lây: Cần bộ xét nghiệm đầy đủ để phân biệt giang mai bẩm sinh (có tổn thương xương dài) với giang mai mắc phải (nghi ngờ lạm dụng tình dục).
 
-**Ghi nhớ lâm sàng:** Trẻ sơ sinh có thể âm tính giả (hiệu ứng Prozone) hoặc chưa kịp tăng hiệu giá nếu mẹ nhiễm muộn. Trẻ trên 1 tháng nếu nghi ngờ mắc bệnh **phải đánh giá hệ thống (hệ thần kinh, xương, gan, mắt)** ngay lập tức vì nguy cơ biến chứng cao hơn.
+**Ghi nhớ lâm sàng:** Trẻ sơ sinh có thể âm tính giả (hiệu ứng Prozone) hoặc chưa kịp tăng hiệu giá nếu mẹ nhiễm muộn. Trẻ trên 1 tháng nếu nghi ngờ mắc bệnh *phải đánh giá hệ thống (hệ thần kinh, xương, gan, mắt)* ngay lập tức vì nguy cơ biến chứng cao hơn.
 
 
 ### BẢNG TIẾP CẬN LÂM SÀNG GIANG MAI BẨM SINH
@@ -288,61 +288,64 @@ Cần tiến hành đánh giá Giang mai bẩm sinh nếu trẻ thuộc một tr
 
 ## Các lưu ý quan trọng khi lưu trữ
 
-* **Nguyên tắc mẫu máu:** Luôn sử dụng máu tĩnh mạch của trẻ, **không sử dụng máu cuống rốn** để làm xét nghiệm RPR/VDRL.
+* **Nguyên tắc mẫu máu:** Luôn sử dụng máu tĩnh mạch của trẻ, không sử dụng máu cuống rốn để làm xét nghiệm RPR/VDRL.
 * **So sánh hiệu giá:** Hiệu giá kháng thể của con phải được làm cùng loại xét nghiệm (cùng RPR hoặc cùng VDRL) và thực hiện cùng thời điểm với mẫu của mẹ để có giá trị đối chiếu.
 * **Chẩn đoán xác định:** Trẻ được chẩn đoán chắc chắn mắc giang mai bẩm sinh nếu hiệu giá của con cao gấp ít nhất 4 lần so với mẹ (ví dụ: con 1:64, mẹ 1:16).
 * **Điều trị:** Đừng trì hoãn điều trị nếu mẹ không có hồ sơ điều trị rõ ràng hoặc trẻ có triệu chứng lâm sàng điển hình, ngay cả khi xét nghiệm máu chưa có kết quả.
 
 ## Tầm soát tổn thương đa cơ quan 
 
-Đối với trẻ thuộc nhóm **"Chắc chắn hoặc khả năng cao (Kịch bản 1)"** và nhóm **"Có thể mắc (Kịch bản 2)"** nhưng có nguy cơ nhiễm trùng cao, cần thực hiện đầy đủ các đánh giá sau:
+Đối với trẻ thuộc nhóm "Chắc chắn hoặc khả năng cao (Kịch bản 1)" và nhóm "Có thể mắc (Kịch bản 2)" nhưng có nguy cơ nhiễm trùng cao, cần thực hiện đầy đủ các đánh giá sau:
 
 **1. Chọc dò thắt lưng (Lumbar Puncture - LP)**
 
-* **Mục đích:** Phân tích dịch não tủy (CSF) để loại trừ giang mai thần kinh.
-* **Các chỉ số cần làm:** * Đếm tế bào và công thức bạch cầu.
+* Mục đích: Phân tích dịch não tủy (CSF) để loại trừ giang mai thần kinh.
+* Các chỉ số cần làm: Đếm tế bào và công thức bạch cầu.
     * Định lượng Protein và Glucose.
-    * **VDRL dịch não tủy.**
-* **Lưu ý:** Chọc dò thắt lưng nên tránh làm sang chấn (trauma) vì máu lẫn vào sẽ làm sai lệch kết quả.
+    * VDRL dịch não tủy.
+* Lưu ý: Chọc dò thắt lưng nên tránh làm sang chấn (trauma) vì máu lẫn vào sẽ làm sai lệch kết quả.
 
 **2. Xét nghiệm máu (Blood tests)**
 
-* **Công thức máu (CBC):** Đánh giá tình trạng thiếu máu, giảm tiểu cầu hoặc rối loạn bạch cầu.
-* **Sinh hóa máu toàn diện (CMP):** Bao gồm men gan, bilirubin, albumin, điện giải và chức năng thận. 
-* **Xét nghiệm đông máu:** Thực hiện nếu chức năng gan bị tổn thương nặng.
+* Công thức máu (CBC): Đánh giá tình trạng thiếu máu, giảm tiểu cầu hoặc rối loạn bạch cầu.
+* Sinh hóa máu toàn diện (CMP): Bao gồm men gan, bilirubin, albumin, điện giải và chức năng thận. 
+* Xét nghiệm đông máu: Thực hiện nếu chức năng gan bị tổn thương nặng.
 
 **3. Khảo sát hệ xương (Skeletal survey)**
 
-* **Phạm vi:** CDC/AAP khuyến cáo chụp các xương dài (đùi, chày, mác, cánh tay, quay, trụ). Tuy nhiên, khuyến nghị thực tế là nên chụp **toàn bộ hệ xương** vì tổn thương có thể xuất hiện ở xương sườn, xương đòn, bàn tay/chân.
-* **Giá trị:** Các bất thường về xương giúp khẳng định nguồn gốc là giang mai "bẩm sinh" thay vì "mắc phải".
+* Phạm vi: CDC/AAP khuyến cáo chụp các xương dài (đùi, chày, mác, cánh tay, quay, trụ). Tuy nhiên, khuyến nghị thực tế là nên chụp toàn bộ hệ xương vì tổn thương có thể xuất hiện ở xương sườn, xương đòn, bàn tay/chân.
+* Giá trị: Các bất thường về xương giúp khẳng định nguồn gốc là giang mai "bẩm sinh" thay vì "mắc phải".
 
 
 **4. Đánh giá Thính lực và Thị giác**
 
-* **Thính lực:** Thực hiện đánh giá chính thức bằng **ABR (Auditory Brainstem Response)**. Không nên chỉ dựa vào sàng lọc OAE thông thường vì OAE có tỷ lệ âm tính giả cao trong trường hợp này.
-* **Thị giác:** Khám mắt giãn đồng tử bởi chuyên gia nhãn khoa nhi để tìm các tổn thương như viêm võng mạc hoặc đục thủy tinh thể.
+* Thính lực: Thực hiện đánh giá chính thức bằng ABR (Auditory Brainstem Response). Không nên chỉ dựa vào sàng lọc OAE thông thường vì OAE có tỷ lệ âm tính giả cao trong trường hợp này.
+* Thị giác: Khám mắt giãn đồng tử bởi chuyên gia nhãn khoa nhi để tìm các tổn thương như viêm võng mạc hoặc đục thủy tinh thể.
 
 **5. Các thăm dò khác (Tùy lâm sàng)**
-* **Chẩn đoán hình ảnh thần kinh:** Nếu có dấu hiệu thần kinh bất thường.
-* **X-quang ngực:** Nếu có biểu hiện tại phổi (viêm phổi).
-* **Siêu âm bụng:** Nếu có tình trạng gan lách to đáng kể.
+
+* Chẩn đoán hình ảnh thần kinh: Nếu có dấu hiệu thần kinh bất thường.
+* X-quang ngực: Nếu có biểu hiện tại phổi (viêm phổi).
+* Siêu âm bụng: Nếu có tình trạng gan lách to đáng kể.
 
 
 ## Logic chẩn đoán và Theo dõi (Mẹ & Bé)
 
 ### Đối với người lớn (Mẹ)
+
 | Cặp kết quả | Ý nghĩa lâm sàng |
 | :--- | :--- |
 | **RPR (+), TP-PA (+)** | Đang nhiễm giang mai hoạt động. |
-| **RPR (-), TP-PA (+)** | Tiền sử đã điều trị khỏi **HOẶC** nhiễm giai đoạn cực sớm. |
-| **RPR (-), EIA/CIA (+)** | Cần làm thêm **TP-PA** để loại trừ dương tính giả do máy. |
+| **RPR (-), TP-PA (+)** | Tiền sử đã điều trị khỏi HOẶC nhiễm giai đoạn cực sớm. |
+| **RPR (-), EIA/CIA (+)** | Cần làm thêm TP-PA để loại trừ dương tính giả do máy. |
 
 ### Đối với trẻ sơ sinh
-*   **Kháng thể truyền qua nhau thai:** Chỉ có **IgG** (cả đặc hiệu và không đặc hiệu) đi từ mẹ sang con.
-*   **Hiện tượng âm tính hóa:** 
-    *   Nếu trẻ **không bị nhiễm** (chỉ nhận kháng thể thụ động từ mẹ): TP-PA sẽ âm tính sau **12-18 tháng**.
-    *   Nếu trẻ **bị nhiễm thật sự**: Trẻ tự sản xuất kháng thể, TP-PA sẽ dương tính suốt đời.
-*   **Quy tắc theo dõi:** Nếu sau 18 tháng TP-PA vẫn (+), chẩn đoán xác định Giang mai bẩm sinh.
+
+*   Kháng thể truyền qua nhau thai: Chỉ có IgG (cả đặc hiệu và không đặc hiệu) đi từ mẹ sang con.
+*   Hiện tượng âm tính hóa:
+    *   Nếu trẻ không bị nhiễm (chỉ nhận kháng thể thụ động từ mẹ): TP-PA sẽ âm tính sau 12-18 tháng.
+    *   Nếu trẻ bị nhiễm thật sự: Trẻ tự sản xuất kháng thể, TP-PA sẽ dương tính suốt đời.
+*   Quy tắc theo dõi: Nếu sau 18 tháng TP-PA vẫn (+), chẩn đoán xác định Giang mai bẩm sinh.
 
 ### Ghi chú nhanh (Quick Takeaway)
 *   **Theo dõi điều trị:** Chỉ nhìn **RPR/VDRL**.
@@ -369,12 +372,13 @@ Cần tiến hành đánh giá Giang mai bẩm sinh nếu trẻ thuộc một tr
 
 **A. Khả năng Dương tính giả (False Positive)**
 
-Dương tính giả chủ yếu xảy ra ở nhóm **Không đặc hiệu (RPR/VDRL)** do bản chất tìm kháng thể kháng Cardiolipin.
+Dương tính giả chủ yếu xảy ra ở nhóm Không đặc hiệu (RPR/VDRL) do bản chất tìm kháng thể kháng Cardiolipin.
 
 *   **Dương tính giả cấp tính (< 6 tháng):**
     *   Sau tiêm chủng (Cúm, COVID-19...).
     *   Sốt siêu vi, nhiễm trùng cấp tính.
     *   Sốt rét, viêm phổi không điển hình.
+
 *   **Dương tính giả mạn tính (> 6 tháng):**
     *   Thai kỳ: Do thay đổi nội tiết và miễn dịch (thường gặp nhất trong sản khoa).
     *   Bệnh tự miễn: Lupus ban đỏ hệ thống (SLE), viêm khớp dạng thấp.
@@ -387,52 +391,53 @@ Dương tính giả chủ yếu xảy ra ở nhóm **Không đặc hiệu (RPR/V
 
 Độ nhạy thay đổi tùy theo giai đoạn bệnh:
 
-*   **Giai đoạn 1 (Săng):** RPR/VDRL có độ nhạy thấp (chỉ khoảng 70-80%) vì kháng thể chưa kịp hình thành.
-*   **Giai đoạn 2:** Tất cả các xét nghiệm đều có độ nhạy gần như 100%.
-*   **Hiện tượng Prozone:** Xảy ra với RPR/VDRL khi nồng độ kháng thể quá cao (thường ở GĐ 2), làm ức chế phản ứng ngưng kết gây ra **âm tính giả**. Cần pha loãng huyết thanh để kiểm tra lại.
+*   Giai đoạn 1 (Săng): RPR/VDRL có độ nhạy thấp (chỉ khoảng 70-80%) vì kháng thể chưa kịp hình thành.
+*   Giai đoạn 2: Tất cả các xét nghiệm đều có độ nhạy gần như 100%.
+*   Hiện tượng Prozone: Xảy ra với RPR/VDRL khi nồng độ kháng thể quá cao (thường ở GĐ 2), làm ức chế phản ứng ngưng kết gây ra âm tính giả. Cần pha loãng huyết thanh để kiểm tra lại.
 
 **C. Thời gian Dương tính (Window Period)**
 
-1.  **Thứ tự xuất hiện:** Kháng thể đặc hiệu (FTA-ABS, EIA) xuất hiện đầu tiên, rồi đến TP-PA, RPR/VDRL xuất hiện muộn nhất.
-2.  **Động học sau điều trị:**
+1.  Thứ tự xuất hiện: Kháng thể đặc hiệu (FTA-ABS, EIA) xuất hiện đầu tiên, rồi đến TP-PA, RPR/VDRL xuất hiện muộn nhất.
+2.  Động học sau điều trị:
 
-    *   **RPR/VDRL:** Sẽ giảm hiệu giá (titer). Nếu điều trị ở giai đoạn sớm, có thể về âm tính hoàn toàn. Nếu điều trị muộn, có thể duy trì ở mức thấp (Serofast).
-    *   **TP-PA/EIA/CIA:** Tạo thành "sẹo miễn dịch". Một khi đã (+) thì sẽ luôn (+) bất chấp việc điều trị thành công.
+    *   RPR/VDRL: Sẽ giảm hiệu giá (titer). Nếu điều trị ở giai đoạn sớm, có thể về âm tính hoàn toàn. Nếu điều trị muộn, có thể duy trì ở mức thấp (Serofast).
+    *   TP-PA/EIA/CIA: Tạo thành "sẹo miễn dịch". Một khi đã (+) thì sẽ luôn (+) bất chấp việc điều trị thành công.
 
 ### 3. Tổng kết quy tắc lâm sàng
-1.  **Muốn sàng lọc nhanh, nhạy:** Dùng EIA/CIA (máy) hoặc RPR.
-2.  **Muốn khẳng định chắc chắn:** Dùng TP-PA.
-3.  **Muốn biết có dương tính giả không:** So sánh cặp RPR và TP-PA.
-4.  **Chẩn đoán sớm nhất:** Ưu tiên các xét nghiệm đặc hiệu (Treponemal).
+
+1.  Muốn sàng lọc nhanh, nhạy: Dùng EIA/CIA (máy) hoặc RPR.
+2.  Muốn khẳng định chắc chắn: Dùng TP-PA.
+3.  Muốn biết có dương tính giả không: So sánh cặp RPR và TP-PA.
+4.  Chẩn đoán sớm nhất: Ưu tiên các xét nghiệm đặc hiệu (Treponemal).
 
 
 ## Tiêu chuẩn điều trị dự phòng đầy đủ
 
-Một thai phụ được coi là đã điều trị đầy đủ khi thỏa mãn **TẤT CẢ** các điều kiện sau đây:
+Một thai phụ được coi là đã điều trị đầy đủ khi thỏa mãn TẤT CẢ các điều kiện sau đây:
 
 **1. Loại thuốc và Phác đồ (Bắt buộc là Penicillin)**
 
-*   **Thuốc duy nhất được chấp nhận:** **Benzathine Penicillin G**.
-*   **Tại sao:** Đây là loại thuốc duy nhất có khả năng xuyên qua nhau thai với nồng độ đủ để điều trị cho cả thai nhi. Các loại kháng sinh khác (như Erythromycin, Azithromycin hay Ceftriaxone) không được coi là điều trị dự phòng đầy đủ cho con.
-*   **Phác đồ theo giai đoạn:**
+*   Thuốc duy nhất được chấp nhận: Benzathine Penicillin G.
+*   Tại sao: Đây là loại thuốc duy nhất có khả năng xuyên qua nhau thai với nồng độ đủ để điều trị cho cả thai nhi. Các loại kháng sinh khác (như Erythromycin, Azithromycin hay Ceftriaxone) không được coi là điều trị dự phòng đầy đủ cho con.
+*   Phác đồ theo giai đoạn:
     *   *Giang mai sớm (GĐ 1, GĐ 2, kín sớm):* 1 liều duy nhất 2.4 triệu đơn vị (tiêm bắp).
-    *   *Giang mai kín muộn hoặc không rõ thời gian:* 3 liều (mỗi liều 2.4 triệu đơn vị), cách nhau **mỗi 1 tuần**.
+    *   *Giang mai kín muộn hoặc không rõ thời gian:* 3 liều (mỗi liều 2.4 triệu đơn vị), cách nhau mỗi 1 tuần.
 
 **2. Thời điểm kết thúc điều trị**
 
-*   **Quy tắc 30 ngày:** Việc điều trị phải được hoàn tất **ít nhất 30 ngày trước khi sinh**.
-*   **Lý do:** Thai nhi cần thời gian để thuốc ngấm qua nhau thai và tiêu diệt xoắn khuẩn trong cơ thể trẻ trước khi chào đời. Nếu mẹ điều trị trong vòng < 30 ngày trước sinh, trẻ vẫn bị coi là "điều trị chưa đầy đủ" và cần xử trí như một ca giang mai bẩm sinh.
+*   Quy tắc 30 ngày: Việc điều trị phải được hoàn tất ít nhất 30 ngày trước khi sinh.
+*   Lý do: Thai nhi cần thời gian để thuốc ngấm qua nhau thai và tiêu diệt xoắn khuẩn trong cơ thể trẻ trước khi chào đời. Nếu mẹ điều trị trong vòng < 30 ngày trước sinh, trẻ vẫn bị coi là "điều trị chưa đầy đủ" và cần xử trí như một ca giang mai bẩm sinh.
 
 **3. Sự tuân thủ và Đáp ứng miễn dịch**
 
-*   **Không được gián đoạn:** Đối với phác đồ 3 liều, nếu mẹ quên tiêm quá 1-2 ngày so với lịch hẹn (tùy hướng dẫn quốc gia), phác đồ phải được **tính lại từ đầu**.
-*   **Theo dõi hiệu giá (Titer):** Hiệu giá RPR/VDRL của mẹ phải giảm theo đúng kỳ vọng (giảm ít nhất 4 lần sau điều trị). Nếu hiệu giá không giảm hoặc tăng lên, bị coi là điều trị thất bại.
-*   **Điều trị bạn tình:** Bạn tình của mẹ cũng phải được điều trị để tránh tình trạng lây nhiễm ngược lại (re-infection).
+*   Không được gián đoạn: Đối với phác đồ 3 liều, nếu mẹ quên tiêm quá 1-2 ngày so với lịch hẹn (tùy hướng dẫn quốc gia), phác đồ phải được tính lại từ đầu.
+*   Theo dõi hiệu giá (Titer): Hiệu giá RPR/VDRL của mẹ phải giảm theo đúng kỳ vọng (giảm ít nhất 4 lần sau điều trị). Nếu hiệu giá không giảm hoặc tăng lên, bị coi là điều trị thất bại.
+*   Điều trị bạn tình: Bạn tình của mẹ cũng phải được điều trị để tránh tình trạng lây nhiễm ngược lại (re-infection).
 
 **4. Trường hợp dị ứng Penicillin**
 
-*   Mẹ dị ứng Penicillin **bắt buộc** phải tiến hành **giải mẫn cảm (desensitization)** và tiêm Penicillin.
-*   Mọi kháng sinh thay thế khác trong thai kỳ đều **không** được công nhận là điều trị dự phòng đầy đủ cho thai nhi.
+*   Mẹ dị ứng Penicillin bắt buộc phải tiến hành giải mẫn cảm (desensitization) và tiêm Penicillin.
+*   Mọi kháng sinh thay thế khác trong thai kỳ đều không được công nhận là điều trị dự phòng đầy đủ cho thai nhi.
 
 
 ## Trẻ có nguy cơ dù mẹ đã điều trị dự phòng 
