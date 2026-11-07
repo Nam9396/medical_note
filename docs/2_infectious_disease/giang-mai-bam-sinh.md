@@ -447,3 +447,194 @@ Trẻ sẽ bị coi là có nguy cơ cao (phải nhập viện điều trị) n�
 2. Mẹ điều trị Penicillin nhưng kết thúc muộn ( < 30 ngày trước sinh).
 3. Mẹ điều trị không đúng phác đồ (sai liều, sai khoảng cách).
 4. Hiệu giá RPR của mẹ lúc sinh tăng gấp 4 lần so với trước điều trị.
+
+## Điều trị giang mai bẩm sinh
+
+**Nguyên tắc chung**
+
+- Penicillin G đường tiêm là thuốc duy nhất có hiệu quả đã được chứng minh. Chưa có thuốc thay thế nào được công nhận tương đương.
+- Quyết định điều trị dựa trên 4 yếu tố:
+    + Khám lâm sàng của trẻ (bình thường hay bất thường).
+    + Hiệu giá RPR/VDRL của con so với mẹ (cùng loại test, cùng thời điểm).
+    + Mẹ có được điều trị đầy đủ không (đúng thuốc, đúng phác đồ, kết thúc ≥ 30 ngày trước sinh).
+    + Có bằng chứng tái nhiễm hoặc tái phát ở mẹ không (hiệu giá mẹ tăng ≥ 4 lần).
+- Từ đó xếp trẻ < 1 tháng tuổi vào 1 trong 4 kịch bản (CDC 2021).
+
+**Hai dạng penicillin dùng cho trẻ sơ sinh: không được nhầm lẫn**
+
+| Thuốc | Đường dùng | Đặc điểm |
+| :--- | :--- | :--- |
+| **Penicillin G tinh thể (aqueous crystalline)** | Tĩnh mạch | Đạt nồng độ diệt khuẩn trong dịch não tủy, là lựa chọn ưu tiên khi nghi tổn thương thần kinh |
+| **Procaine penicillin G** | Tiêm bắp | Thay thế cho dạng tĩnh mạch. Nồng độ trong DNT thấp hơn, có nguy cơ áp-xe vô khuẩn tại chỗ tiêm |
+| **Benzathine penicillin G** | **Chỉ tiêm bắp** | Tác dụng kéo dài, chỉ dùng 1 liều cho kịch bản nhẹ. **Tiêm tĩnh mạch có thể gây ngừng tim, tử vong** |
+
+
+### Kịch bản 1: Giang mai bẩm sinh chắc chắn hoặc khả năng cao
+
+**Tiêu chuẩn** (chỉ cần 1 trong các điều kiện):
+
+- Khám lâm sàng bất thường, phù hợp với giang mai bẩm sinh.
+- Hiệu giá RPR/VDRL của con cao gấp ≥ 4 lần của mẹ.
+- Soi nền đen hoặc PCR (+) từ tổn thương, dịch cơ thể, bánh nhau, dây rốn.
+
+**Đánh giá:** Dịch não tủy (tế bào, protein, VDRL), công thức máu, và các thăm dò khác tùy lâm sàng (X-quang xương dài, X-quang ngực, chức năng gan, siêu âm sọ não, khám mắt, ABR).
+
+**Điều trị: Bắt buộc 10 ngày**
+
+- Penicillin G tinh thể: 50.000 đơn vị/kg/liều, tiêm tĩnh mạch
+    + ≤ 7 ngày tuổi: mỗi 12 giờ (100.000 đv/kg/ngày).
+    + \> 7 ngày tuổi: mỗi 8 giờ (150.000 đv/kg/ngày).
+    + Tổng thời gian 10 ngày.
+- HOẶC Procaine penicillin G: 50.000 đv/kg, tiêm bắp, 1 lần/ngày × 10 ngày.
+
+
+### Kịch bản 2: Có thể mắc giang mai bẩm sinh
+
+**Tiêu chuẩn:** Khám lâm sàng bình thường **VÀ** hiệu giá con ≤ 4 lần mẹ **VÀ** có 1 trong các điều kiện sau:
+
+- Mẹ không được điều trị, điều trị không đầy đủ, hoặc không có hồ sơ điều trị.
+- Mẹ được điều trị bằng thuốc khác Penicillin (Erythromycin, Azithromycin, Ceftriaxone…).
+- Mẹ điều trị kết thúc < 30 ngày trước sinh.
+
+**Đánh giá:** Dịch não tủy, công thức máu có công thức bạch cầu và tiểu cầu, X-quang xương dài.
+
+**Điều trị:**
+
+- Phác đồ 10 ngày như kịch bản 1 (Penicillin G tinh thể TM hoặc Procaine TB). **Đây là lựa chọn an toàn nhất.**
+- HOẶC Benzathine penicillin G: 50.000 đv/kg, tiêm bắp, **1 liều duy nhất**, chỉ khi thỏa **TẤT CẢ**:
+    + Toàn bộ đánh giá đã làm đầy đủ và bình thường (DNT, công thức máu, X-quang xương).
+    + Chắc chắn theo dõi được sau xuất viện.
+- Nếu bất kỳ phần nào của đánh giá bất thường, không làm được, không đọc được (ví dụ chọc dò dính máu) hoặc không chắc theo dõi được → bắt buộc điều trị 10 ngày.
+
+
+### Kịch bản 3: Ít khả năng mắc giang mai bẩm sinh
+
+**Tiêu chuẩn:** Khám lâm sàng bình thường **VÀ** hiệu giá con ≤ 4 lần mẹ **VÀ** thỏa tất cả:
+
+- Mẹ được điều trị trong thai kỳ, đúng phác đồ theo giai đoạn bệnh.
+- Kết thúc điều trị ≥ 30 ngày trước sinh.
+- Không có bằng chứng tái nhiễm hay tái phát ở mẹ.
+
+**Đánh giá:** Không bắt buộc làm DNT, X-quang hay công thức máu.
+
+**Điều trị:**
+
+- Benzathine penicillin G: 50.000 đv/kg, tiêm bắp, 1 liều duy nhất.
+- Lựa chọn khác (một số chuyên gia): Không điều trị, theo dõi huyết thanh mỗi 2–3 tháng trong 6 tháng, chỉ khi chắc chắn theo dõi được và hiệu giá mẹ đã giảm ≥ 4 lần sau điều trị giang mai sớm, hoặc ổn định ở mức thấp (VDRL ≤ 1:2, RPR ≤ 1:4).
+
+
+### Kịch bản 4: Không có khả năng mắc giang mai bẩm sinh
+
+**Tiêu chuẩn:** Khám lâm sàng bình thường **VÀ** hiệu giá con ≤ 4 lần mẹ **VÀ** thỏa tất cả:
+
+- Mẹ được điều trị đầy đủ **trước khi mang thai**.
+- Hiệu giá mẹ thấp và ổn định trước, trong thai kỳ và lúc sinh (VDRL ≤ 1:2, RPR ≤ 1:4).
+
+**Đánh giá:** Không cần.
+
+**Điều trị:**
+
+- Không cần điều trị.
+- Có thể cân nhắc Benzathine penicillin G 50.000 đv/kg TB 1 liều nếu RPR/VDRL của con (+) và không chắc theo dõi được.
+- Trẻ có RPR/VDRL (+) vẫn phải theo dõi huyết thanh cho đến khi âm tính.
+
+
+### BẢNG TÓM TẮT 4 KỊCH BẢN (Trẻ < 1 tháng tuổi)
+
+| Kịch bản | Lâm sàng / Hiệu giá con | Điều trị của mẹ | Đánh giá | Điều trị cho con |
+| :--- | :--- | :--- | :--- | :--- |
+| **1. Chắc chắn / Khả năng cao** | Lâm sàng bất thường HOẶC con ≥ 4 lần mẹ HOẶC PCR/soi nền đen (+) | Bất kỳ | DNT, CTM, ± X-quang, mắt, ABR… | Penicillin G TM hoặc Procaine TB × **10 ngày** |
+| **2. Có thể mắc** | Bình thường, ≤ 4 lần mẹ | Không / không đủ / không rõ / không phải Penicillin / < 30 ngày trước sinh | DNT, CTM, X-quang xương dài | 10 ngày, HOẶC Benzathine 1 liều nếu đánh giá bình thường và chắc chắn theo dõi |
+| **3. Ít khả năng** | Bình thường, ≤ 4 lần mẹ | Đầy đủ trong thai kỳ, ≥ 30 ngày trước sinh, không tái nhiễm | Không cần | Benzathine 1 liều (hoặc chỉ theo dõi) |
+| **4. Không có khả năng** | Bình thường, ≤ 4 lần mẹ | Đầy đủ trước khi mang thai, hiệu giá thấp ổn định | Không cần | Không điều trị (± Benzathine nếu khó theo dõi) |
+
+
+### Trẻ > 1 tháng tuổi và trẻ lớn
+
+- Áp dụng khi phát hiện giang mai bẩm sinh muộn sau giai đoạn sơ sinh (hoặc trẻ có RPR/VDRL (+) cần đánh giá).
+- **Đánh giá trước điều trị:** DNT (tế bào, protein, VDRL), công thức máu, và tùy lâm sàng: X-quang xương dài, X-quang ngực, chức năng gan, chẩn đoán hình ảnh thần kinh, khám mắt, ABR.
+- Xem lại hồ sơ sinh và điều trị của mẹ để phân biệt giang mai **bẩm sinh** với **mắc phải** (nghi lạm dụng tình dục).
+- **Điều trị:**
+    + Penicillin G tinh thể: 200.000–300.000 đv/kg/ngày TM, chia 50.000 đv/kg/liều mỗi 4–6 giờ × 10 ngày.
+    + Có thể cân nhắc thêm 1 liều Benzathine penicillin G 50.000 đv/kg TB sau khi kết thúc 10 ngày.
+    + Nếu trẻ không có triệu chứng, DNT bình thường, VDRL DNT (−): một số chuyên gia dùng Benzathine 50.000 đv/kg TB mỗi tuần × tối đa 3 liều.
+- Liều cho trẻ lớn không vượt quá liều người lớn cùng giai đoạn bệnh.
+
+
+### Những lưu ý quan trọng khi thực hiện điều trị
+
+**1. Bỏ liều**
+
+- Nếu bỏ lỡ > 1 ngày điều trị trong phác đồ 10 ngày → **phải bắt đầu lại toàn bộ liệu trình từ đầu**.
+
+**2. Phản ứng Jarisch-Herxheimer**
+
+- Sốt, ban, quấy khóc, nhịp tim nhanh, có thể tụt huyết áp, thường xuất hiện trong 24 giờ đầu sau liều Penicillin đầu tiên (do xoắn khuẩn bị ly giải hàng loạt).
+- Hay gặp hơn ở trẻ có lâm sàng rõ, tải lượng xoắn khuẩn cao.
+- Xử trí: Hỗ trợ (hạ sốt, theo dõi sinh hiệu, bù dịch nếu cần). **Không ngừng Penicillin**, không nhầm với dị ứng thuốc.
+
+**3. Dị ứng Penicillin**
+
+- Rất hiếm ở trẻ sơ sinh.
+- Trẻ cần điều trị mà có dị ứng Penicillin (thường ở trẻ lớn) → giải mẫn cảm rồi điều trị bằng Penicillin.
+- Ceftriaxone chưa đủ dữ liệu, chỉ dùng khi không có lựa chọn khác (thiếu thuốc), phải hội chẩn chuyên gia Nhiễm và theo dõi huyết thanh, DNT chặt chẽ.
+    + Ở trẻ sơ sinh: tránh dùng khi vàng da tăng bilirubin, và **không dùng chung đường truyền hoặc cùng lúc với dịch truyền chứa Canxi** (nguy cơ kết tủa).
+
+**4. Thiếu thuốc Penicillin**
+
+- Tình trạng thiếu Benzathine và Procaine penicillin xảy ra ở nhiều nước, trong đó có Việt Nam.
+- Ưu tiên dành Benzathine cho phụ nữ mang thai và trẻ sơ sinh.
+- Khi thiếu Procaine: dùng Penicillin G tinh thể TM 10 ngày (ưu tiên).
+- Khi thiếu Benzathine cho kịch bản 2–3: có thể thay bằng phác đồ 10 ngày Penicillin G tinh thể hoặc Procaine.
+
+**5. Thực hành tiêm và an toàn thuốc**
+
+- Benzathine và Procaine: tiêm bắp mặt trước ngoài đùi, **tuyệt đối không tiêm tĩnh mạch**.
+- Ví dụ quy đổi: trẻ 3 kg → 50.000 đv/kg = 150.000 đv/liều. Kiểm tra kỹ nồng độ lọ thuốc khi pha để tránh sai số 10 lần.
+- Kiểm tra kép (double-check) tên thuốc và đường dùng trước khi tiêm.
+
+**6. Kiểm soát nhiễm khuẩn**
+
+- Áp dụng phòng ngừa tiếp xúc (găng tay) với trẻ có tổn thương da niêm, viêm mũi, bọng nước cho đến khi điều trị đủ 24 giờ (dịch tiết chứa rất nhiều xoắn khuẩn).
+
+**7. Điều trị mẹ và bạn tình**
+
+- Đánh giá và điều trị mẹ theo giai đoạn bệnh nếu chưa được điều trị đầy đủ.
+- Truy vết và điều trị bạn tình để phòng tái nhiễm.
+- Xét nghiệm HIV cho mẹ (và cho con nếu mẹ nhiễm HIV hoặc chưa rõ). Trẻ phơi nhiễm HIV được xử trí giang mai bẩm sinh theo cùng các kịch bản trên.
+
+
+## Theo dõi sau điều trị
+
+**1. Huyết thanh học**
+
+- Tất cả trẻ có RPR/VDRL (+) lúc sinh: khám lâm sàng và làm RPR/VDRL định lượng **mỗi 2–3 tháng** cho đến khi âm tính.
+- Diễn tiến mong đợi (trẻ không nhiễm hoặc đã điều trị đủ):
+    + Hiệu giá giảm rõ trước 3 tháng tuổi.
+    + Âm tính trước 6 tháng tuổi.
+- Đánh giá lại toàn diện (gồm DNT) và điều trị lại phác đồ 10 ngày nếu:
+    + Hiệu giá ổn định không giảm sau 6–12 tháng, HOẶC
+    + Hiệu giá tăng.
+- Test đặc hiệu (TP-PA, FTA-ABS): **không làm trước 18 tháng tuổi**. Nếu sau 18 tháng còn (+) → khẳng định trẻ nhiễm thật sự, nhưng không cần điều trị thêm nếu RPR/VDRL đã âm tính.
+
+**2. Dịch não tủy**
+
+- Trẻ có DNT bất thường ban đầu: **không cần chọc dò lại thường quy** (thay đổi so với hướng dẫn cũ).
+- Chỉ chọc dò lại khi hiệu giá RPR/VDRL huyết thanh còn (+) dai dẳng ở 6–12 tháng tuổi.
+- Nếu DNT vẫn bất thường khi chọc dò lại → điều trị lại phác đồ 10 ngày.
+
+**3. Theo dõi tổn thương cơ quan**
+
+- Thính lực: ABR, theo dõi định kỳ (điếc thần kinh có thể xuất hiện muộn ở tuổi đi học).
+- Mắt: khám chuyên khoa nhãn nhi (viêm võng mạc hắc mạc, viêm giác mạc kẽ về sau).
+- Phát triển tâm thần vận động: đánh giá định kỳ, đặc biệt ở trẻ có giang mai thần kinh.
+
+**4. Báo cáo dịch tễ**
+
+- Giang mai bẩm sinh là bệnh phải báo cáo, thực hiện theo quy định của cơ sở và cơ quan y tế dự phòng địa phương.
+
+
+**Nguồn tham khảo phần điều trị**
+
+- Workowski KA, et al. Sexually Transmitted Infections Treatment Guidelines, 2021. MMWR Recomm Rep. 2021;70(4):1–187. (Mục Congenital Syphilis)
+- American Academy of Pediatrics. Syphilis. In: Red Book: 2024–2027 Report of the Committee on Infectious Diseases. 33rd ed.
