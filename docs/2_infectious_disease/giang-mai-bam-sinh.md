@@ -209,6 +209,7 @@ Cần tiến hành đánh giá Giang mai bẩm sinh nếu trẻ thuộc một tr
 ## Bản chất các xét nghiệm giang mai 
 
 ### 1. Nhóm xét nghiệm Không đặc hiệu (Nontreponemal)
+
 *   **Tên gọi:** RPR, VDRL.
 *   **Bản chất:** Tìm kháng thể Reagin (chống lại Cardiolipin - sản phẩm từ tế bào tổn thương).
 *   **Đặc điểm:**
@@ -218,6 +219,7 @@ Cần tiến hành đánh giá Giang mai bẩm sinh nếu trẻ thuộc một tr
 *   **Ứng dụng:** Sàng lọc ban đầu và theo dõi hiệu quả điều trị (hiệu giá giảm sau điều trị).
 
 ### 2. Nhóm xét nghiệm Đặc hiệu (Treponemal)
+
 *   **Tên gọi:** TP-PA, FTA-ABS, EIA/CIA, Test nhanh (que thử).
 *   **Bản chất:** Tìm kháng thể chống lại trực tiếp thành phần xoắn khuẩn (*T. pallidum*).
 *   **Đặc điểm:**
@@ -329,28 +331,29 @@ Cần tiến hành đánh giá Giang mai bẩm sinh nếu trẻ thuộc một tr
 * Siêu âm bụng: Nếu có tình trạng gan lách to đáng kể.
 
 
-## Logic chẩn đoán và Theo dõi (Mẹ & Bé)
+## Phiên giải kết quả xét nghiệm
 
 ### Đối với người lớn (Mẹ)
 
 | Cặp kết quả | Ý nghĩa lâm sàng |
-| :--- | :--- |
+| --- | --- |
 | **RPR (+), TP-PA (+)** | Đang nhiễm giang mai hoạt động. |
-| **RPR (-), TP-PA (+)** | Tiền sử đã điều trị khỏi HOẶC nhiễm giai đoạn cực sớm. |
+| **RPR iaig(-), TP-PA (+)** | Tiền sử đã điều trị khỏi HOẶC nhiễm giai đoạn cực sớm. |
 | **RPR (-), EIA/CIA (+)** | Cần làm thêm TP-PA để loại trừ dương tính giả do máy. |
 
 ### Đối với trẻ sơ sinh
 
-*   Kháng thể truyền qua nhau thai: Chỉ có IgG (cả đặc hiệu và không đặc hiệu) đi từ mẹ sang con.
+*   Kháng thể truyền qua nhau thai: Chỉ có IgG (cả đặc hiệu như TPPA/EIA và không đặc hiệu RPR/VDRL) đi từ mẹ sang con.
 *   Hiện tượng âm tính hóa:
-    *   Nếu trẻ không bị nhiễm (chỉ nhận kháng thể thụ động từ mẹ): TP-PA sẽ âm tính sau 12-18 tháng.
-    *   Nếu trẻ bị nhiễm thật sự: Trẻ tự sản xuất kháng thể, TP-PA sẽ dương tính suốt đời.
+    *   Nếu trẻ không bị nhiễm (chỉ nhận kháng thể thụ động từ mẹ): TP-PA sẽ âm tính sau 12-18 tháng, RPR/VDRL âm tính sau 6 tháng
+    *   Nếu trẻ bị nhiễm thật sự: Trẻ tự sản xuất kháng thể, TP-PA sẽ dương tính suốt đời, RPR/VDRL tồn tại tuỳ vào mức độ tổn thường cơ quan và đáp ứng điều trị 
 *   Quy tắc theo dõi: Nếu sau 18 tháng TP-PA vẫn (+), chẩn đoán xác định Giang mai bẩm sinh.
 
-### Ghi chú nhanh (Quick Takeaway)
-*   **Theo dõi điều trị:** Chỉ nhìn **RPR/VDRL**.
-*   **Xác nhận có nhiễm hay không:** Nhìn **TP-PA/EIA/CIA**.
-*   **Mâu thuẫn máy móc:** Dùng **TP-PA** làm tiêu chuẩn vàng để chốt kết quả.
+### Ghi chú nhanh 
+
+*   **Theo dõi điều trị:** Chỉ nhìn RPR/VDRL.
+*   **Xác nhận có nhiễm hay không:** Nhìn TP-PA/EIA/CIA.
+*   **Mâu thuẫn máy móc:** Dùng TP-PA làm tiêu chuẩn vàng để chốt kết quả.
 
 
 
@@ -425,14 +428,14 @@ Một thai phụ được coi là đã điều trị đầy đủ khi thỏa mã
 
 **2. Thời điểm kết thúc điều trị**
 
-*   Quy tắc 30 ngày: Việc điều trị phải được hoàn tất ít nhất 30 ngày trước khi sinh.
+*   Việc điều trị phải được hoàn tất **ít nhất 30 ngày trước khi sinh.**
 *   Lý do: Thai nhi cần thời gian để thuốc ngấm qua nhau thai và tiêu diệt xoắn khuẩn trong cơ thể trẻ trước khi chào đời. Nếu mẹ điều trị trong vòng < 30 ngày trước sinh, trẻ vẫn bị coi là "điều trị chưa đầy đủ" và cần xử trí như một ca giang mai bẩm sinh.
 
-**3. Sự tuân thủ và Đáp ứng miễn dịch**
+**3. Sự tuân thủ và đáp ứng miễn dịch**
 
 *   Không được gián đoạn: Đối với phác đồ 3 liều, nếu mẹ quên tiêm quá 1-2 ngày so với lịch hẹn (tùy hướng dẫn quốc gia), phác đồ phải được tính lại từ đầu.
-*   Theo dõi hiệu giá (Titer): Hiệu giá RPR/VDRL của mẹ phải giảm theo đúng kỳ vọng (giảm ít nhất 4 lần sau điều trị). Nếu hiệu giá không giảm hoặc tăng lên, bị coi là điều trị thất bại.
-*   Điều trị bạn tình: Bạn tình của mẹ cũng phải được điều trị để tránh tình trạng lây nhiễm ngược lại (re-infection).
+*   Theo dõi hiệu giá: Hiệu giá RPR/VDRL của mẹ phải giảm theo đúng kỳ vọng (giảm ít nhất 4 lần sau điều trị). Nếu hiệu giá không giảm hoặc tăng lên, bị coi là điều trị thất bại.
+*   Điều trị bạn tình: Bạn tình của mẹ cũng phải được điều trị để tránh tình trạng lây nhiễm ngược lại.
 
 **4. Trường hợp dị ứng Penicillin**
 
@@ -443,6 +446,7 @@ Một thai phụ được coi là đã điều trị đầy đủ khi thỏa mã
 ## Trẻ có nguy cơ dù mẹ đã điều trị dự phòng 
 
 Trẻ sẽ bị coi là có nguy cơ cao (phải nhập viện điều trị) nếu mẹ rơi vào các trường hợp sau:
+
 1. Mẹ không được điều trị hoặc điều trị không bằng Penicillin.
 2. Mẹ điều trị Penicillin nhưng kết thúc muộn ( < 30 ngày trước sinh).
 3. Mẹ điều trị không đúng phác đồ (sai liều, sai khoảng cách).
@@ -454,10 +458,12 @@ Trẻ sẽ bị coi là có nguy cơ cao (phải nhập viện điều trị) n�
 
 - Penicillin G đường tiêm là thuốc duy nhất có hiệu quả đã được chứng minh. Chưa có thuốc thay thế nào được công nhận tương đương.
 - Quyết định điều trị dựa trên 4 yếu tố:
+
     + Khám lâm sàng của trẻ (bình thường hay bất thường).
     + Hiệu giá RPR/VDRL của con so với mẹ (cùng loại test, cùng thời điểm).
     + Mẹ có được điều trị đầy đủ không (đúng thuốc, đúng phác đồ, kết thúc ≥ 30 ngày trước sinh).
     + Có bằng chứng tái nhiễm hoặc tái phát ở mẹ không (hiệu giá mẹ tăng ≥ 4 lần).
+
 - Từ đó xếp trẻ < 1 tháng tuổi vào 1 trong 4 kịch bản (CDC 2021).
 
 **Hai dạng penicillin dùng cho trẻ sơ sinh: không được nhầm lẫn**
@@ -465,7 +471,7 @@ Trẻ sẽ bị coi là có nguy cơ cao (phải nhập viện điều trị) n�
 | Thuốc | Đường dùng | Đặc điểm |
 | :--- | :--- | :--- |
 | **Penicillin G tinh thể (aqueous crystalline)** | Tĩnh mạch | Đạt nồng độ diệt khuẩn trong dịch não tủy, là lựa chọn ưu tiên khi nghi tổn thương thần kinh |
-| **Procaine penicillin G** | Tiêm bắp | Thay thế cho dạng tĩnh mạch. Nồng độ trong DNT thấp hơn, có nguy cơ áp-xe vô khuẩn tại chỗ tiêm |
+| **Procaine penicillin G** | Tiêm bắp | Thay thế cho dạng tĩnh mạch, nồng độ trong DNT thấp hơn, có nguy cơ áp-xe vô khuẩn tại chỗ tiêm |
 | **Benzathine penicillin G** | **Chỉ tiêm bắp** | Tác dụng kéo dài, chỉ dùng 1 liều cho kịch bản nhẹ. **Tiêm tĩnh mạch có thể gây ngừng tim, tử vong** |
 
 
@@ -634,7 +640,7 @@ Trẻ sẽ bị coi là có nguy cơ cao (phải nhập viện điều trị) n�
 - Giang mai bẩm sinh là bệnh phải báo cáo, thực hiện theo quy định của cơ sở và cơ quan y tế dự phòng địa phương.
 
 
-**Nguồn tham khảo phần điều trị**
+## Tài liệu tham khảo
 
 - Workowski KA, et al. Sexually Transmitted Infections Treatment Guidelines, 2021. MMWR Recomm Rep. 2021;70(4):1–187. (Mục Congenital Syphilis)
 - American Academy of Pediatrics. Syphilis. In: Red Book: 2024–2027 Report of the Committee on Infectious Diseases. 33rd ed.
