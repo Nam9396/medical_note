@@ -1,6 +1,11 @@
 
 # Dịch não tuỷ ở trẻ sơ sinh 
 
+<div class="article-meta" markdown>
+<span class="article-meta__author">**ThS. BS. Nguyễn Thành Nam**</span>
+<span class="article-meta__affil">Bộ môn Nhi, Trường Đại học Khoa học Sức khỏe, ĐHQG-HCM</span>
+</div>
+
 ## TL;DR
 
 !!! note "Tóm lược thực hành"

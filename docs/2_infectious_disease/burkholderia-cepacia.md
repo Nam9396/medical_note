@@ -3,32 +3,32 @@
 
 ## Căn nguyên
 
-- Chi *Burkholderia*: >125 loài; **trực khuẩn Gram âm**, oxidase (+), catalase (+), **không lên men lactose**
-- **B. cepacia complex (Bcc)**: ≥22 loài
+- Chi *Burkholderia*: >125 loài, trực khuẩn Gram âm, oxidase (+), catalase (+), không lên men lactose
+- B. cepacia complex (Bcc): ≥22 loài
 - Các loài quan trọng khác: *B. pseudomallei*, *B. mallei* (bệnh glanders), *B. gladioli*, *B. thailandensis*, *B. oklahomensis*
 
 ## Phức hợp Burkholderia cepacia
 
-- Chủ yếu gây nhiễm trùng ở người bị **xơ nang (CF)** hoặc **bệnh u hạt mạn tính (CGD)**
+- Chủ yếu gây nhiễm trùng ở người bị xơ nang (CF) hoặc bệnh u hạt mạn tính (CGD)
 - Các đối tượng khác: sinh non, bệnh lý huyết sắc tố, bệnh ác tính
-- Nhiễm khuẩn liên quan chăm sóc y tế: nhiễm trùng vết thương, NTT, viêm phổi, nhiễm khuẩn huyết
-- **CF**: thường nhiễm **muộn**, sau khi đã tổn thương biểu mô hô hấp và giãn phế quản. Diễn tiến:
-  - Nhiễm mạn, chức năng phổi suy giảm ít thay đổi, hoặc
-  - Suy giảm chức năng phổi nhanh hơn, hoặc
-  - Xấu đi rất nhanh dẫn đến tử vong
-- **CGD**: biểu hiện thường gặp nhất là viêm phổi; viêm hạch
-  - Khởi phát âm thầm, sốt nhẹ giai đoạn đầu; biểu hiện toàn thân sau **3–4 tuần**
-  - Tràn dịch màng phổi thường gặp; có thể áp xe phổi
+- Nhiễm khuẩn liên quan chăm sóc y tế: nhiễm trùng vết thương, nhiễm trùng tiểu, viêm phổi, nhiễm khuẩn huyết
+- CF: thường nhiễm **muộn**, sau khi đã tổn thương biểu mô hô hấp và giãn phế quản. Diễn tiến:
+  + Nhiễm mạn, chức năng phổi suy giảm ít thay đổi, hoặc
+  + Suy giảm chức năng phổi nhanh hơn, hoặc
+  + Xấu đi rất nhanh dẫn đến tử vong
+- CGD: biểu hiện thường gặp nhất là viêm phổi; viêm hạch
+  + Khởi phát âm thầm, sốt nhẹ giai đoạn đầu; biểu hiện toàn thân sau 3–4 tuần
+  + Tràn dịch màng phổi thường gặp; có thể áp xe phổi
 - Hiếm khi gặp ở người khoẻ mạnh
 
 ## Burkholderia pseudomallei (gây bệnh Melioidosis / Whitmore)
 
 - Phổ bệnh: không triệu chứng, nhiễm trùng khu trú, hoặc nhiễm khuẩn huyết tối cấp ± viêm phổi
-- Người lớn: viêm phổi thường gặp nhất; ~50% có nhiễm khuẩn huyết lúc nhập viện
-- Ở trẻ em: Thường biểu hiện là bệnh da khu trú (ở trẻ có miễn dịch bình thường) hoặc viêm tuyến mang tai mưng mủ cấp tính (đặc biệt phổ biến ở Thái Lan và Campuchia). Nhiễm khuẩn huyết ít gặp hơn ở trẻ em so với người lớn.
-- Có thể gặp ở trẻ ≤1 tuổi (viêm phổi, viêm tuyến mang tai ở trẻ 8 tháng)
+- Người lớn: viêm phổi thường gặp nhất; *~50% có nhiễm khuẩn huyết lúc nhập viện*
+- Ở trẻ em: Thường biểu hiện là bệnh da khu trú (ở trẻ có miễn dịch bình thường) hoặc viêm tuyến mang tai mưng mủ cấp tính (đặc biệt phổ biến ở Thái Lan và Campuchia). *Nhiễm khuẩn huyết ít gặp hơn ở trẻ em so với người lớn.*
+- Có thể gặp ở trẻ ≤ 1 tuổi (viêm phổi, viêm tuyến mang tai ở trẻ 8 tháng)
 - Các biểu hiện khác: nhiễm trùng niệu–sinh dục (áp xe tuyến tiền liệt), viêm khớp nhiễm khuẩn, viêm xương tủy, TKTW (áp xe não), viêm cân mạc hoại tử, áp xe gan/lách/da (trong thể lan tỏa).
-- Đặc điểm: Thể mạn tính (>2 tháng) dễ nhầm với lao phổi (gặp <10% số ca). Bệnh rất dễ tái phát nếu không điều trị kéo dài. Tỷ lệ tử vong dao động từ 6% đến 50%.
+- Đặc điểm: *Thể mạn tính (> 2 tháng) dễ nhầm với lao phổi* (gặp <10% số ca). Bệnh rất dễ tái phát nếu không điều trị kéo dài. Tỷ lệ tử vong dao động từ 6% đến 50%.
 
 ## Dịch tễ học và đường lây truyền
 
@@ -57,7 +57,7 @@
   - Xác nhận định danh loài bằng MALDI-TOF hoặc NAAT
 - B. pseudomallei:
   - Chẩn đoán xác định: phân lập vi khuẩn từ máu hoặc bệnh phẩm khác; cấy thêm đàm, phết họng, phết trực tràng, sang thương da/loét để tăng khả năng phân lập
-  - Huyết thanh học **không đủ để chẩn đoán ở vùng lưu hành** (tỷ lệ dương tính nền cao); IHA (+) ở khách du lịch từ vùng lưu hành về chỉ hỗ trợ chẩn đoán, vẫn cần phân lập vi khuẩn
+  - *Huyết thanh học không đủ để chẩn đoán ở vùng lưu hành* (tỷ lệ dương tính nền cao); IHA (+) ở khách du lịch từ vùng lưu hành về chỉ hỗ trợ chẩn đoán, vẫn cần phân lập vi khuẩn
   - Báo trước cho phòng xét nghiệm khi nghi ngờ để có biện pháp an toàn
 
 ## Điều trị
@@ -82,17 +82,16 @@
 
 **Giai đoạn tấn công ban đầu (Initial/Acute Therapy) - Nhiễm trùng xâm lấn nghiêm trọng**
 
-*   **Thuốc lựa chọn:** **Meropenem** hoặc **Ceftazidime** (tỷ lệ kháng thuốc hiếm gặp).
-*   **Thời gian điều trị:** 
+*   Thuốc lựa chọn: **Meropenem** hoặc **Ceftazidime** (tỷ lệ kháng thuốc hiếm gặp).
+*   Thời gian điều trị: 
     *   Tối thiểu **14 ngày**.
-    *   Kéo dài **ít nhất 4 đến 8 tuần** đối với các nhiễm trùng sâu (*deep-seated*) và có biến chứng phức tạp.
+    *   Kéo dài **ít nhất 4 đến 8 tuần** đối với các nhiễm trùng sâu (deep-seated) và có biến chứng phức tạp.
 
 **Giai đoạn duy trì/Diệt căn (Oral Eradication Therapy) - Sau khi hoàn thành điều trị cấp tính**
 
-*   **Mục đích:** Giảm nguy cơ tái phát bệnh (*reduce recurrence*).
-*   **Thuốc lựa chọn hàng đầu (Drug of choice):** **Trimethoprim-sulfamethoxazole (TMP-SMX)** dùng đường uống.
-    *   *Thời gian:* **3 đến 6 tháng**.
-*   **Thuốc hàng hai (Second-line):** **Amoxicillin-clavulanate** (nhưng có liên quan đến tỷ lệ tái phát cao hơn).
+*   Mục đích: Giảm nguy cơ tái phát bệnh (reduce recurrence).
+*   Thuốc lựa chọn hàng đầu (Drug of choice): **Trimethoprim-sulfamethoxazole (TMP-SMX)** dùng đường uống. Thời gian: 3 đến 6 tháng.
+*   Thuốc hàng hai (Second-line): Amoxicillin-clavulanate (nhưng có liên quan đến tỷ lệ tái phát cao hơn).
 
 ## Liều TMP - SMX
 
@@ -130,4 +129,3 @@
 | Mức độ nặng/tử vong | Cao ở bệnh nhân xơ nang có Cepacia syndrome (>60%) | Cao nếu không điều trị đúng, đặc biệt nhiễm khuẩn huyết (40-50% ở vùng thiếu nguồn lực); chung 6–50% |
 | Đề kháng kháng sinh | Đa kháng thuốc tự nhiên (polymyxin, aminoglycoside); một số chuyên gia khuyến cáo phối hợp kháng sinh (TMP-SMX, meropenem, ceftazidime tùy loài) | Đề kháng tự nhiên (polymyxin, aminoglycoside); phác đồ đặc trưng 2 giai đoạn |
 | Điều trị | Kháng sinh phối hợp, kéo dài tùy tình trạng bệnh nhân | Giai đoạn tấn công TM (Ceftazidime/Meropenem, tối thiểu 14 ngày; 4–8 tuần nếu nhiễm sâu/biến chứng) → diệt căn uống (TMP-SMX 3-6 tháng; hàng hai: amoxicillin-clavulanate) |
-| Nguy cơ vũ khí sinh học | Không thuộc nhóm này | CDC xếp Tier 1 select agent |

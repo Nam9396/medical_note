@@ -1,6 +1,11 @@
 
 # Kỹ thuật chọc dò thắt lưng 
 
+<div class="article-meta" markdown>
+<span class="article-meta__author">**ThS. BS. Nguyễn Thành Nam**</span>
+<span class="article-meta__affil">Bộ môn Nhi, Trường Đại học Khoa học Sức khỏe, ĐHQG-HCM</span>
+</div>
+
 Trong chọc dò thắt lưng (CDTL), hay còn gọi là chọc dò dịch não tủy (dịch não tủy – DNT), cần quan tâm những vấn đề dưới đây:
 
 **Trước khi chọc dò**

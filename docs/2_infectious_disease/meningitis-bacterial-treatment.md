@@ -1,6 +1,11 @@
 
 # Điều trị viêm màng não do vi khuẩn 
 
+<div class="article-meta" markdown>
+<span class="article-meta__author">**ThS. BS. Nguyễn Thành Nam**</span>
+<span class="article-meta__affil">Bộ môn Nhi, Trường Đại học Khoa học Sức khỏe, ĐHQG-HCM</span>
+</div>
+
 ## Giới thiệu 
 
 Viêm màng não do vi khuẩn là một cấp cứu nội khoa với tỷ lệ tử vong và di chứng thần kinh đáng kể nếu không được chẩn đoán và điều trị kịp thời. Tác nhân gây bệnh thay đổi theo nhóm tuổi, đòi hỏi lựa chọn kháng sinh kinh nghiệm phù hợp trước khi có kết quả vi sinh, trong khi việc chậm khởi động kháng sinh làm tăng nguy cơ tử vong và di chứng (World Health Organization [WHO], 2026; Tunkel et al., 2004). Bài giảng này trình bày cách tiếp cận toàn diện trong điều trị viêm màng não do vi khuẩn ở trẻ em, bao gồm: 

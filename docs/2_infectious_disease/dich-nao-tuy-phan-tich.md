@@ -1,6 +1,11 @@
 
 # Phân tích dịch não tủy 
 
+<div class="article-meta" markdown>
+<span class="article-meta__author">**ThS. BS. Nguyễn Thành Nam**</span>
+<span class="article-meta__affil">Bộ môn Nhi, Trường Đại học Khoa học Sức khỏe, ĐHQG-HCM</span>
+</div>
+
 Phân tích dịch não tủy (DNT) là công cụ chẩn đoán nền tảng cho các bệnh lý ảnh hưởng đến hệ thần kinh trung ương. Phân tích một cách khoa học, có hệ thống và dựa trên bằng chứng giúp bác sĩ lâm sàng nhanh chóng xác định được nguyên nhân gây bệnh và đề xuất điều trị phù hợp. Về cơ bản, trong phân tích DNT có những khía cạnh sau cần quan tâm:
 
 - Các tính chất của DNT (áp lực mở, màu sắc, đặc điểm tế bào học và sinh hóa).
