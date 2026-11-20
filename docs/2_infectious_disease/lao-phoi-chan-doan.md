@@ -36,14 +36,6 @@ Phổ bệnh gồm ổ Ghon, bệnh hạch rốn phổi và cạnh khí quản, 
 Phần lớn trẻ em và vị thành niên nhiễm lao không có triệu chứng (American Academy of Pediatrics, 2024). Thể bệnh và thời điểm khởi phát thay đổi theo tuổi. Ở trẻ tiến triển thành bệnh, hơn 90% khởi phát *trong 12 tháng đầu* sau nhiễm (Marais, 2014; Marais & Schaaf, 2014). Trẻ nhỏ có nguy cơ lao màng não và lao kê cao nhất trong *vài tháng đầu*, rồi đến biến chứng đường thở do hạch ở trẻ dưới 5 tuổi, trong khi vị thành niên hay mắc lao giống người lớn *vài năm sau nhiễm* (Marais & Schaaf, 2014). Vì vậy tuổi giúp định hướng thể bệnh cần tìm và mức khẩn cấp của chẩn đoán. 
 
 
-
-<figure markdown="span">
-  ![Diễn tiến tự nhiên và các phổ bệnh lao](../assets/images/_inbox/lao-phoi-chan-doan-image-3.png){ .img-lg }
-  <figcaption markdown="span">**Hình 2.** Diễn tiến tự nhiên và các phổ bệnh lao<br>
-  <span class="fig-source">Trích từ Kumar et al. (2015), Hình 8-25, tr. 374. Bản quyền © 2015 Elsevier.</span></figcaption>
-</figure>
-
-
 ## Tiếp cận chẩn đoán
 
 ### Tầm quan trọng của điều tra nguồn lây
@@ -482,14 +474,14 @@ Hình ảnh gợi ý lao trên phim:
 
 <figure markdown="span">
   ![Nhận diện bệnh hạch trên X quang ngực thẳng](../assets/images/_inbox/lao-phoi-chan-doan-image.png){ .img-lg }
-  <figcaption markdown="span">**Hình 3.** Nhận diện bệnh hạch trên X quang ngực thẳng ở trẻ em<br>
+  <figcaption markdown="span">**Hình 2.** Nhận diện bệnh hạch trên X quang ngực thẳng ở trẻ em<br>
   <span class="fig-note">*Ghi chú.* (a) Phim X quang ngực của một bé gái 1 tuổi cho thấy hạch rốn phổi phải to (mũi tên), có bờ lồi và mất hình lõm bình thường của rốn phổi. (b) Một trẻ 7 tháng tuổi đến khám vì sốt và gan lách to. Phim X quang ngực cho thấy hạch cạnh khí quản phải có bờ đa cung (mũi tên), vượt ra ngoài bờ tuyến ức. Ngoài ra còn thấy khí quản bị chèn ép (dấu sao).</span><br>
   <span class="fig-source">Trích từ Naranje et al. (2019).</span></figcaption>
 </figure>
 
 <figure markdown="span">
     ![Hình ảnh X quang ngực thẳng gợi ý nhiều đến lao phổi](../assets/images/_inbox/lao-phoi-chan-doan-image-1.png){ .img-lg }
-  <figcaption markdown="span">**Hình 4.** Hình ảnh X quang ngực thẳng gợi ý nhiều đến lao phổi<br>
+  <figcaption markdown="span">**Hình 3.** Hình ảnh X quang ngực thẳng gợi ý nhiều đến lao phổi<br>
   <span class="fig-note">*Ghi chú.* (a) Phim cho thấy đông đặc ở vùng giữa và vùng dưới phổi phải (mũi tên), có các vùng tạo hang. (b) Một trẻ khác có tiền sử sốt và sụt cân, phim cho thấy nhiều nốt kê (mũi tên trắng) ở cả hai phế trường, đông đặc ở vùng giữa phổi phải (mũi tên đen) và hạch to ở vùng cạnh khí quản phải (dấu sao).</span><br>
   <span class="fig-source">Trích từ Naranje et al. (2019).</span></figcaption>
 </figure>
