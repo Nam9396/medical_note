@@ -44,8 +44,6 @@ Tuổi là yếu tố chi phối cả tỉ suất mắc lẫn thể bệnh lao �
 
 ## Đặc điểm vi sinh
 
-### Đặc điểm vi khuẩn học
-
 <!-- LĐ-11 -->
 Bệnh lao do các vi khuẩn thuộc phức hợp *M. tuberculosis* gây ra. Đây là nhóm trực khuẩn kháng acid có quan hệ di truyền rất gần, gồm *M. tuberculosis*, *M. bovis*, *M. africanum* và một số loài ít khi gây bệnh ở người như *M. canetti*, *M. microti*, *M. caprae*, *M. pinnipedii* (American Academy of Pediatrics [AAP], 2024; Cruz & Starke, 2025). Trên thực hành, phòng xét nghiệm lâm sàng thường không định danh riêng từng loài (AAP, 2024).
 
